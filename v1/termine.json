@@ -210,7 +210,7 @@
    "bereich": "schluesselqualifikation",
    "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
    "quelle_text": "",
-   "info": "",
+   "info": "Zweiter Belegungszeitraum für Kurse des Transdisciplinary Course Program, anrechenbar für Schlüsselqualifikationen. Kurs in Alma belegen und die Studienleistung dort zusätzlich anmelden.",
    "geprueft": ""
   },
   {
@@ -375,7 +375,7 @@
    "code": "",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101750&periodId=237",
    "quelle_text": "",
-   "info": "",
+   "info": "Kolloquium „Neu am Fachbereich“ mit vier wöchentlichen Terminen und höchstens 20 Plätzen. Belegung in Alma.",
    "geprueft": ""
   },
   {
@@ -390,7 +390,7 @@
    "code": "",
    "quelle_url": "https://www.ffwtuebingen.de/blank-3",
    "quelle_text": "",
-   "info": "",
+   "info": "Alkoholfreier Brettspielabend der Fachschaft. Voranmeldung über den Link, den die Fachschaft in ihren WhatsApp-Gruppen teilt.",
    "geprueft": ""
   },
   {
@@ -405,7 +405,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Rundmail Zentrum für Medienkompetenz vom 14.10.2026",
-   "info": "",
+   "info": "Praxiskurse des Zentrums für Medienkompetenz (Redaktionen, Radio, CampusTV, Blockkurse), anrechenbar für TRACS-Zertifikate. Anmeldung in Alma.",
    "geprueft": ""
   },
   {
@@ -420,7 +420,7 @@
    "code": "S110",
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
    "quelle_text": "",
-   "info": "",
+   "info": "Anmeldung zu den Tutorien in S110 Explorative Datenanalyse, sieben Gruppen mit je 45 Plätzen. Im ILIAS-Kurs S110 unter „02 - Tutorien“ in eine Gruppe eintragen.",
    "geprueft": ""
   },
   {
@@ -435,7 +435,7 @@
    "code": "S100",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "quelle_text": "",
-   "info": "",
+   "info": "Beginn der S100-Tutorien mit Übungsblatt 1 zum Stoff des Vorkurses. Teilnahme nur in der eigenen, über ILIAS gewählten Gruppe; Aufgaben vorher selbst lösen.",
    "geprueft": ""
   },
   {
@@ -450,7 +450,7 @@
    "code": "S110",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "quelle_text": "",
-   "info": "",
+   "info": "Beginn des Übungsbetriebs in S110; Übungsblatt 1 wird bearbeitet und im ersten Präsenztutorium der Folgewoche besprochen. Tutoriumsgruppe über ILIAS wählen.",
    "geprueft": ""
   },
   {
@@ -465,7 +465,7 @@
    "code": "E101",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "quelle_text": "",
-   "info": "",
+   "info": "Beginn der wöchentlichen E101-Übungen in sieben Parallelgruppen mit gleichem Stoff. Nur die eigene, über ILIAS gewählte Gruppe besuchen; Übungsblatt 1 vorbereiten.",
    "geprueft": ""
   },
   {
@@ -480,7 +480,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Rundmail der Tübinger Stipendiat:innen der Stiftungen vom 10.10.2026 („Einladung zum Stipendieninformationsabend 2026“)",
-   "info": "",
+   "info": "Stipendiat:innen der Begabtenförderungswerke erklären Stipendien und Bewerbung und stellen die Stiftungen vor, danach Fragerunden. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
@@ -510,7 +510,7 @@
    "code": "",
    "quelle_url": "https://www.ffwtuebingen.de/blank-3",
    "quelle_text": "",
-   "info": "",
+   "info": "Party der Fachschaft. Teilnahme nur mit Ticket.",
    "geprueft": ""
   },
   {
@@ -525,7 +525,7 @@
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
    "quelle_text": "",
-   "info": "",
+   "info": "Anmeldestart für die neuen Tenniskurse des Hochschulsports. Buchung online über die Buchungsseite des Hochschulsports.",
    "geprueft": ""
   },
   {
@@ -540,7 +540,7 @@
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
-   "info": "",
+   "info": "Online-Einführung der Universitätsbibliothek in das Literaturverwaltungsprogramm Zotero, zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
@@ -555,7 +555,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
-   "info": "",
+   "info": "Golfschnupperkurs des WiWi-Netzwerks für Studierende und Alumni, auch für Einsteiger, mit anschließendem Get-together. Anmeldung über das Online-Formular, Beitrag 9 €.",
    "geprueft": ""
   },
   {
@@ -570,7 +570,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
-   "info": "",
+   "info": "Anmeldeschluss für die Unternehmensbesichtigung bei TRIQBRIQ. Anmeldung über das Online-Formular auf der Veranstaltungsseite des Fachbereichs.",
    "geprueft": ""
   },
   {
@@ -585,7 +585,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Rundmail des International Office (Austauschprogramme) vom 01.10.2026",
-   "info": "",
+   "info": "Infoveranstaltung des International Office zu Austauschplätzen an Partneruniversitäten in Asien und Afrika. Anmeldung über das Formular auf der Seite „Wege ins Ausland“.",
    "geprueft": ""
   },
   {
@@ -600,7 +600,7 @@
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
-   "info": "",
+   "info": "Vortrag über das Universitätsarchiv und seine Bestände mit Führung durch die Archivräume; kein *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
@@ -615,7 +615,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Rundmail Career Service vom 14.10.2026",
-   "info": "",
+   "info": "Online-Talk des Career Service aus der Reihe „Unternehmen stellen sich vor“ mit Einblick in Einstiegsmöglichkeiten bei Deloitte. Kostenlose Anmeldung per Online-Formular.",
    "geprueft": ""
   },
   {
@@ -645,7 +645,7 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "wiwinews Band 95 und 96 (25.09. und 02.10.2026)",
-   "info": "",
+   "info": "Stipendium der Dr. Rolf-Wagner-Stiftung über 1.200 € für das laufende Studienjahr. Bewerbung online.",
    "geprueft": ""
   },
   {
