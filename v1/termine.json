@@ -229,6 +229,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-16-pruefungstermine-ws-2026-27-pruefen",
+   "titel": "Prüfungstermine WS 2026/27 prüfen",
+   "datum": "2026-10-12",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Seite des Prüfungsamts",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/pruefungstermine-pflicht-und-profilbildungsmodule/",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-14-dies-universitatis",
    "titel": "Dies Universitatis – Semestereröffnung der Uni",
    "datum": "2026-10-14",
@@ -570,6 +585,21 @@
    "code": "",
    "quelle_url": "",
    "quelle_text": "Rundmail Career Service vom 14.10.2026",
+   "info": "",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-02-tutorien-starten-b110-bwl",
+   "titel": "Tutorien starten: B110 BWL",
+   "datum": "2026-11-03",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Gruppe laut ILIAS-Anmeldung",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "B110",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
+   "quelle_text": "",
    "info": "",
    "geprueft": ""
   },
@@ -1432,6 +1462,21 @@
    "geprueft": ""
   },
   {
+   "id": "2027-05-17-pruefungstermine-ss-2027-pruefen",
+   "titel": "Prüfungstermine SS 2027 prüfen",
+   "datum": "2027-05-17",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Seite des Prüfungsamts",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/pruefungstermine-pflicht-und-profilbildungsmodule/",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": ""
+  },
+  {
    "id": "2027-05-27-fronleichnam",
    "titel": "Fronleichnam",
    "datum": "2027-05-27",
@@ -1577,6 +1622,21 @@
    "status": "offiziell",
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/rueckmeldung-zum-naechsten-semester/",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": ""
+  },
+  {
+   "id": "2028-09-30-orientierungspruefung-frist",
+   "titel": "Orientierungsprüfung: Frist",
+   "datum": "2028-09-30",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "4 der 6 OP-Module bestanden",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/studium/service-beratung/studienfachberatung/faqs-bachelor/",
    "quelle_text": "",
    "info": "",
    "geprueft": ""
