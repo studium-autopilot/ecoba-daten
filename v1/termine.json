@@ -364,6 +364,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-16-civis-kurzprogramme-bip-bewerben-freiwillig",
+   "titel": "CIVIS-Kurzprogramme (BIP): bewerben (freiwillig) – Online-Kurs mit einer Woche an einer Partneruni",
+   "datum": "2026-10-16",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Bewerbung je Kurs über den CIVIS-Kurskatalog",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Blended Intensive Programmes der Hochschulallianz CIVIS: Online-Kurs plus fünf Tage an einer Partneruni, 3–6 ECTS, Förderung durch Erasmus+. Bewerbung über den CIVIS-Kurskatalog.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-18-belegfrist-kolloquium-neu-am-fachbereich",
    "titel": "Belegfrist Kolloquium „Neu am Fachbereich“",
    "datum": "2026-10-18",
@@ -406,6 +421,22 @@
    "quelle_url": "",
    "quelle_text": "Rundmail Zentrum für Medienkompetenz vom 14.10.2026",
    "info": "Praxiskurse des Zentrums für Medienkompetenz (Redaktionen, Radio, CampusTV, Blockkurse), anrechenbar für TRACS-Zertifikate. Anmeldung in Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-10-19-sprachkurse-fremdsprachenzentrum-restplatz-anmelden-freiwillig",
+   "titel": "Sprachkurse Fremdsprachenzentrum: Restplatz per Mail anmelden (freiwillig)",
+   "datum": "2026-10-19",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "vor Kursbeginn · Mail an das Fremdsprachenzentrum, freie Kurse in Alma",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "",
+   "quelle_text": "Rundmail Fremdsprachenzentrum vom 16.10.2026",
+   "info": "Restplätze in einzelnen Sprachkursen des Fremdsprachenzentrums, die freien Kurse stehen in Alma. Anmeldung per Mail an das Fremdsprachenzentrum.",
    "geprueft": ""
   },
   {
@@ -466,6 +497,21 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "quelle_text": "",
    "info": "Beginn der wöchentlichen E101-Übungen in sieben Parallelgruppen mit gleichem Stoff. Nur die eigene, über ILIAS gewählte Gruppe besuchen; Übungsblatt 1 vorbereiten.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-10-21-anmeldeschluss-verhandlungstraining-freiwillig",
+   "titel": "Anmeldeschluss Seminar Verhandlungstraining (freiwillig)",
+   "datum": "2026-10-21",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 21.10. · Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 3 (16.10.2026)",
+   "info": "Blockseminar Verhandlungstraining mit einem Verhandlungsprofi, laut Studienfachberatung noch Plätze frei. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
@@ -664,6 +710,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-04-infoveranstaltung-aussereuropaeischer-austausch",
+   "titel": "Infoveranstaltung Außereuropäischer Austausch – Auslandssemester außerhalb Europas",
+   "datum": "2026-11-04",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:00–19:00 · Mohlstraße 36, Seminarraum E03 · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Infoveranstaltung des Fachbereichs mit dem International Office zu Austauschplätzen außerhalb Europas, Bewerbung und Finanzierung. Anmeldung über das Online-Formular (eveeno).",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-05-speed-dating-talent-meets-industry",
    "titel": "Speed Dating „Talent Meets Industry“",
    "datum": "2026-11-05",
@@ -709,6 +770,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-06-vortrag-so-viel-zu-tun-so-wenig-zeit",
+   "titel": "Vortrag „So viel zu tun – so wenig Zeit!“ (Reihe Studieren mit Plan der Studienberatung)",
+   "datum": "2026-11-06",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 09:00 · Ort und Anmeldung auf der Seite der Zentralen Studienberatung",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 3 (16.10.2026)",
+   "info": "Vortrag aus der Reihe „Studieren mit Plan“ der Zentralen Studienberatung. Ort und Anmeldung auf der Veranstaltungsseite.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-09-tcp-kurse-3-belegungszeitraum",
    "titel": "TCP-Kurse – 3. Belegungszeitraum",
    "datum": "2026-11-09",
@@ -722,6 +798,21 @@
    "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
    "quelle_text": "",
    "info": "Dritter Belegungszeitraum für später beginnende Kurse des Transdisciplinary Course Program, anrechenbar für Schlüsselqualifikationen. Kurs in Alma belegen.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-10-vortrag-promovieren-als-first-generation-academic",
+   "titel": "Vortrag „Promovieren als First-Generation-Academic“ – Promotion ohne akademisches Elternhaus",
+   "datum": "2026-11-10",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "12:00–13:30 · online (Zoom) · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Rundmail Graduiertenakademie vom 16.10.2026",
+   "info": "Interaktiver Vortrag der Graduiertenakademie (Reihe Lunch & Learn) über das Promovieren ohne akademisches Elternhaus. Anmeldung online, Zoom-Link per Bestätigungsmail.",
    "geprueft": ""
   },
   {
@@ -785,6 +876,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-13-workshop-ki-im-wissenschaftlichen-schreibprozess",
+   "titel": "Workshop „KI im wissenschaftlichen Schreibprozess“ (Schreibzentrum)",
+   "datum": "2026-11-13",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "13. und 20.11. · Diversitätsorientiertes Schreibzentrum, Zeit und Anmeldung auf der Workshopseite",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 3 (16.10.2026)",
+   "info": "Workshop des Diversitätsorientierten Schreibzentrums zum Einsatz von KI beim wissenschaftlichen Schreiben. Details und Anmeldung auf der Workshopseite des Schreibzentrums.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-13-zwischentest-1-s100-mathe",
    "titel": "Zwischentest 1 S100 Mathe",
    "datum": "2026-11-13",
@@ -812,6 +918,21 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Anmeldeschluss für die Karrieremesse „Meet the Big Players“ mit acht Unternehmen. Anmeldung per Online-Formular mit Lebenslauf und Transcript, die an die Unternehmen gehen.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-17-erasmus-infocafe-spanien-und-portugal",
+   "titel": "Erasmus-Infocafé Spanien und Portugal – Online-Info zum Auslandsstudium 2027/28",
+   "datum": "2026-11-17",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00–18:00 · online (Zoom) · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Digitales Erasmus-Infocafé des Fachbereichs zu Austauschplätzen in Spanien und Portugal für 2027/28. Anmeldung über das Online-Formular (eveeno).",
    "geprueft": ""
   },
   {
@@ -932,6 +1053,21 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Karrieremesse in Kleingruppen mit acht Unternehmen, an jeder Station eine kleine Aufgabe, dazu kostenloser CV-Check. Anmeldung per Online-Formular mit Lebenslauf und Transcript.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-01-erasmus-infocafe-nordeuropa-benelux-uk-und-irland",
+   "titel": "Erasmus-Infocafé Nordeuropa, Benelux, UK und Irland – Online-Info zum Auslandsstudium 2027/28",
+   "datum": "2026-12-01",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00–18:00 · online (Zoom) · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Digitales Erasmus-Infocafé des Fachbereichs zu Austauschplätzen in Nordeuropa, Benelux, UK und Irland für 2027/28. Anmeldung über das Online-Formular (eveeno).",
    "geprueft": ""
   },
   {
@@ -1085,6 +1221,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-12-15-erasmus-infocafe-frankreich-schweiz-und-oesterreich",
+   "titel": "Erasmus-Infocafé Frankreich, Schweiz und Österreich – Online-Info zum Auslandsstudium 2027/28",
+   "datum": "2026-12-15",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00–18:00 · online (Zoom) · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Digitales Erasmus-Infocafé des Fachbereichs zu Austauschplätzen in Frankreich, der Schweiz und Österreich für 2027/28. Anmeldung über das Online-Formular (eveeno).",
+   "geprueft": ""
+  },
+  {
    "id": "2026-12-23-weihnachtspause",
    "titel": "Weihnachtspause",
    "datum": "2026-12-23",
@@ -1188,6 +1339,21 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
    "quelle_text": "",
    "info": "Freiwilliger Online-Zwischentest in S100 (30 Min., unbenotet, bis zu 2 Bonuspunkte für die Klausur); Zugang über den ILIAS-Kurs S100 Zwischentests, Aufnahme auf Antrag.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-01-19-erasmus-infocafe-italien-griechenland-und-tuerkei",
+   "titel": "Erasmus-Infocafé Italien, Griechenland und Türkei – Online-Info zum Auslandsstudium 2027/28",
+   "datum": "2027-01-19",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00–18:00 · online (Zoom) · Anmeldung über eveeno",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
+   "info": "Digitales Erasmus-Infocafé des Fachbereichs zu Austauschplätzen in Italien, Griechenland und der Türkei für 2027/28. Anmeldung über das Online-Formular (eveeno).",
    "geprueft": ""
   },
   {
