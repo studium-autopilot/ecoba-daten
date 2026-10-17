@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-16T16:44:57Z",
+ "erstellt": "2026-10-17T07:34:26Z",
  "dateien": {
   "termine.json": {
    "sha256": "0c26bbe35735f851875e7741f123666baaa210490c1a175fa0f11a2c8aec56e4",
@@ -9,15 +9,19 @@
   "semester.json": {
    "sha256": "f0a0a39740783883ecdac1358b0c2fff807996a77aa882fd1b3fb276ef7afb5f",
    "groesse": 9641
+  },
+  "gruppen.json": {
+   "sha256": "e311051689df6e22ba455ded472ab0cc09b3878d65eb676bc3f90a9bd7407486",
+   "groesse": 22697
   }
  },
- "plugin_aktuell": "0.3.1",
+ "plugin_aktuell": "0.4.0",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.3.1",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.3.1/",
-  "sha256": "916917e671df9f43d3acdc6dae8883fb12517b2f22c728bcc8b8313344adadd0",
-  "notiz": "Neue Versionen erscheinen jetzt oben auf dem Dashboard, mit Aktualisieren und Später."
+  "version": "0.4.0",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.0/",
+  "sha256": "c25a6ced1d923270206388cd1283bef297a0c20a1975eb80b359ce560768bd5f",
+  "notiz": "Neu: Kursdateien aus ILIAS landen von selbst in Unterlagen. Dazu Übungsgruppen deiner Module und ein Stundenplan nach Kalenderwoche."
  }
 }
