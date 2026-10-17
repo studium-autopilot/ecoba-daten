@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-17T07:34:26Z",
+ "erstellt": "2026-10-17T09:26:51Z",
  "dateien": {
   "termine.json": {
    "sha256": "0c26bbe35735f851875e7741f123666baaa210490c1a175fa0f11a2c8aec56e4",
@@ -15,13 +15,13 @@
    "groesse": 22697
   }
  },
- "plugin_aktuell": "0.4.0",
+ "plugin_aktuell": "0.4.1",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.4.0",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.0/",
-  "sha256": "c25a6ced1d923270206388cd1283bef297a0c20a1975eb80b359ce560768bd5f",
-  "notiz": "Neu: Kursdateien aus ILIAS landen von selbst in Unterlagen. Dazu Übungsgruppen deiner Module und ein Stundenplan nach Kalenderwoche."
+  "version": "0.4.1",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.1/",
+  "sha256": "dbbf935087b51347d65ecc4a1d3afac77a59f2d84cd9da50caf3aa65a4b8e180",
+  "notiz": "Deine Kursdateien aus ILIAS laden weiter, auch wenn du das Fenster schließt. Und die App sagt dir beim Öffnen, wenn es eine neue Version gibt."
  }
 }
