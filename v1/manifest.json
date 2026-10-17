@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-17T21:41:47Z",
+ "erstellt": "2026-10-17T22:10:04Z",
  "dateien": {
   "termine.json": {
-   "sha256": "1c7ebc217bddf2be860ddeb331b3663cb1e0f63e3b12bee513cb9aab921edc41",
-   "groesse": 79826
+   "sha256": "fe97e648ac1df89f8126d54d12995b889adbba44b06ff15288da4879045492ba",
+   "groesse": 79811
   },
   "semester.json": {
    "sha256": "77e5a4f7f3efd0fb047f2fc452a147aaf42973e45757db4e2137da39bf6c5522",
@@ -15,8 +15,8 @@
    "groesse": 22697
   },
   "angebote.json": {
-   "sha256": "407f964d22b7cdf08c0c9aaca7e94714b1094a60af1dcb4cd0ca654aea6cac5f",
-   "groesse": 28152
+   "sha256": "6cb12ed62a4e07fb9494163aca0484e9d8ea0785fd535d3df9949b18885872ea",
+   "groesse": 27808
   }
  },
  "plugin_aktuell": "0.4.3",

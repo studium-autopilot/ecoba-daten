@@ -3,14 +3,6 @@
  "stand": "2026-10-17",
  "angebote": [
   {
-   "id": "welcome-abd026d1fd",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Berühmte Tübinger und sehenswerte Denkmäler",
-   "datum": "2026-10-17",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
-  },
-  {
    "id": "vortrag-136218",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
