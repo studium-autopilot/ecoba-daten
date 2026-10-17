@@ -1,0 +1,654 @@
+{
+ "schema": 1,
+ "stand": "2026-10-17",
+ "angebote": [
+  {
+   "id": "welcome-abd026d1fd",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Berühmte Tübinger und sehenswerte Denkmäler",
+   "datum": "2026-10-17",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136218",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Einführung in die Vorlesungsreihe & Vortrag: Provenienz, Restitution und (Un-)Recht im Kontext von kolonialem Kulturgüt…",
+   "datum": "2026-10-19",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/einfuehrung-in-die-vorlesungsreihe-vortrag-provenienz-restitution-und-un-recht-im-kontext-von-kolonialem-kulturgueterraub/"
+  },
+  {
+   "id": "vortrag-136266",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Die Werte unterschiedlichen Wissens in der und für die Nachhaltige Entwicklung",
+   "datum": "2026-10-20",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-werte-unterschiedlichen-wissens-in-der-und-fuer-die-nachhaltige-entwicklung/"
+  },
+  {
+   "id": "vortrag-136302",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Religiöse Rechte in Deutschland",
+   "datum": "2026-10-20",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/religioese-rechte-in-deutschland/"
+  },
+  {
+   "id": "vortrag-136368",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Warschau – Kyjiv - Jerevan",
+   "datum": "2026-10-21",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/warschau-kyjiv-jerevan/"
+  },
+  {
+   "id": "welcome-f325eb5c38",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Stadtführung Tübingen",
+   "datum": "2026-10-22",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136410",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Cyber-Mountain – KI im Wechselspiel von lokaler Wirkung und grenzüberscheitender Regulierung",
+   "datum": "2026-10-22",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/cyber-mountain-ki-im-wechselspiel-von-lokaler-wirkung-und-grenzueberscheitender-regulierung/"
+  },
+  {
+   "id": "ub-92d2bc1f46",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "Zotero",
+   "datum": "2026-10-23",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136221",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Nehmen und Geben: Varianten von Restitution in Europa",
+   "datum": "2026-10-26",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nehmen-und-geben-varianten-von-restitution-in-europa/"
+  },
+  {
+   "id": "vortrag-136269",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Epistemische Gerechtigkeit: Warum Nichtwissenschaftler*innen in der Nachhaltigkeitsforschung beteiligen?",
+   "datum": "2026-10-27",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/epistemische-gerechtigkeit-warum-nichtwissenschaftlerinnen-in-der-nachhaltigkeitsforschung-beteiligen/"
+  },
+  {
+   "id": "ub-d460c9a87f",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Einführung in das Universitätsarchiv",
+   "datum": "2026-10-28",
+   "von": "10:00",
+   "bis": "11:30",
+   "ort": "Schulungsraum B004, Bonatzbau UB",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136371",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Temeswar",
+   "datum": "2026-10-28",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/temeswar/"
+  },
+  {
+   "id": "welcome-eacb892706",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Stammtisch",
+   "datum": "2026-10-29",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136413",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Thesencheck zu Klimawandel und Maßnahmen – Probleme der Erforschung und Weiterentwicklung von Klimamodellen",
+   "datum": "2026-10-29",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/thesencheck-zu-klimawandel-und-massnahmen-probleme-der-erforschung-und-weiterentwicklung-von-klimamodellen/"
+  },
+  {
+   "id": "sport-69451541c8",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Anmeldung für Tenniskurse im Wintersemester ab 23.10. möglich!",
+   "datum": "2026-11-02",
+   "url": "https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/_Tennis_Kurs.html",
+   "anmeldung": {
+    "ab": "2026-10-23T17:00"
+   }
+  },
+  {
+   "id": "vortrag-136224",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "„Wem gehört der Schatz von Troia?“ – Archäologie zwischen Raub, Ruhm und Restitution",
+   "datum": "2026-11-02",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wem-gehoert-der-schatz-von-troia-archaeologie-zwischen-raub-ruhm-und-restitution/"
+  },
+  {
+   "id": "ub-ae329f559c",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Recherche-Schulung",
+   "datum": "2026-11-03",
+   "von": "10:00",
+   "bis": "11:30",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136272",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Mit ‚anderen‘ Wissen schaffen: Vom Mitmachen und Mut machen im Reallabor",
+   "datum": "2026-11-03",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/mit-anderen-wissen-schaffen-vom-mitmachen-und-mut-machen-im-reallabor/"
+  },
+  {
+   "id": "vortrag-136305",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Autoritärer Populismus und die radikale und evangelikale Rechte in den USA",
+   "datum": "2026-11-03",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/autoritaerer-populismus-und-die-radikale-und-evangelikale-rechte-in-den-usa/"
+  },
+  {
+   "id": "vortrag-136374",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Cluj",
+   "datum": "2026-11-04",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/cluj/"
+  },
+  {
+   "id": "vortrag-136416",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Rechte der Natur – Eine Option für Deutschland und Tübingen?",
+   "datum": "2026-11-05",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/rechte-der-natur-eine-option-fuer-deutschland-und-tuebingen/"
+  },
+  {
+   "id": "ub-685f3c7f7c",
+   "kategorie": "ub",
+   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
+   "titel": "Notizen ohne Lock-in mit Markdown",
+   "datum": "2026-11-06",
+   "von": "10:00",
+   "bis": "11:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "welcome-dec662b1d4",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Hikinig Tour",
+   "datum": "2026-11-08",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136227",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Alles öffentlich? Koloniale Sammlungsdaten zwischen Transparenz, Schutz und Teilhabe",
+   "datum": "2026-11-09",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/alles-oeffentlich-koloniale-sammlungsdaten-zwischen-transparenz-schutz-und-teilhabe/"
+  },
+  {
+   "id": "vortrag-136275",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Die Natur im Recht neu denken: Ethik und Recht im Spannungsfeld der Dekolonialisierung",
+   "datum": "2026-11-10",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-natur-im-recht-neu-denken-ethik-und-recht-im-spannungsfeld-der-dekolonialisierung/"
+  },
+  {
+   "id": "vortrag-136308",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Die Rolle der Religion im türkischen Rechtsextremismus: Das Beispiel der Grauen Wölfe",
+   "datum": "2026-11-10",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-rolle-der-religion-im-tuerkischen-rechtsextremismus-das-beispiel-der-grauen-woelfe/"
+  },
+  {
+   "id": "ub-113e59e2ad",
+   "kategorie": "ub",
+   "reihe": "Publizieren",
+   "titel": "Richtig zitieren - eine Einführung",
+   "datum": "2026-11-11",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136377",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Novi Sad",
+   "datum": "2026-11-11",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/novi-sad/"
+  },
+  {
+   "id": "welcome-180522760c",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Museum Alte Kulturen",
+   "datum": "2026-11-12",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136422",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Nachhaltige Nutzung begrenzter Ressourcen in Zeiten des globalen Wandels: Ungenutzte Potentiale im Stadt-Land-Kontext",
+   "datum": "2026-11-12",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nachhaltige-nutzung-begrenzter-ressourcen-in-zeiten-des-globalen-wandels-ungenutzte-potentiale-im-stadt-land-kontext/"
+  },
+  {
+   "id": "ub-4fd707c195",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "Zotero",
+   "datum": "2026-11-13",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "ub-1663e1a447",
+   "kategorie": "ub",
+   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
+   "titel": "Datenanalyse leicht(er) gemacht: Datenaufbereitung mit OpenRefine",
+   "datum": "2026-11-13",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136230",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Wenn methodisches Ideal und administrative Realität aufeinandertreffen",
+   "datum": "2026-11-16",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/wenn-methodisches-ideal-und-administrative-realitaet-aufeinandertreffen/"
+  },
+  {
+   "id": "ub-1ed1629d91",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Literaturrecherche für Medizin",
+   "datum": "2026-11-17",
+   "von": "14:00",
+   "bis": "15:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136278",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Imagining the Inner Lives of Animals: How Science and the Arts Can Collaborate to Cultivate Empathy Across Species (Vor…",
+   "datum": "2026-11-17",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/imagining-the-inner-lives-of-animals-how-science-and-the-arts-can-collaborate-to-cultivate-empathy-across-species-vortrag-auf-englisch/"
+  },
+  {
+   "id": "vortrag-136311",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "‚Japanische Spiritualität‘ und Ethnonationalismus",
+   "datum": "2026-11-17",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/japanische-spiritualitaet-und-ethnonationalismus/"
+  },
+  {
+   "id": "ub-9a2bb40fe2",
+   "kategorie": "ub",
+   "reihe": "Lern- und Arbeitstechniken",
+   "titel": "Lese- , Lern- und Mnemotechniken",
+   "datum": "2026-11-18",
+   "von": "10:00",
+   "bis": "11:30",
+   "ort": "Schulungsraum im Ammerbau (hinter der Brücke links)",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136380",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Krementschuk",
+   "datum": "2026-11-18",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/krementschuk/"
+  },
+  {
+   "id": "ub-b476039b51",
+   "kategorie": "ub",
+   "reihe": "Lern- und Arbeitstechniken",
+   "titel": "Kreatives Denken",
+   "datum": "2026-11-19",
+   "von": "10:00",
+   "bis": "12:00",
+   "ort": "Schulungsraum im Ammerbau",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136425",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Klimagerechtigkeit unter den Bedingungen ökologischer Unregierbarkeit",
+   "datum": "2026-11-19",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/klimagerechtigkeit-unter-den-bedingungen-oekologischer-unregierbarkeit/"
+  },
+  {
+   "id": "ub-a28a80635e",
+   "kategorie": "ub",
+   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
+   "titel": "LaTeX",
+   "datum": "2026-11-20",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "ub-59e85b273d",
+   "kategorie": "ub",
+   "reihe": "Publizieren",
+   "titel": "Publizieren in Verlagszeitschriften",
+   "datum": "2026-11-23",
+   "von": "12:30",
+   "bis": "14:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136233",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Provenienzforschung und Aufarbeitung von Geschichte(n) – mit Partner:innen aus Papua-Neuguinea am Beispiel der Hamburge…",
+   "datum": "2026-11-23",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-und-aufarbeitung-von-geschichten-mit-partnerinnen-aus-papua-neuguinea-am-beispiel-der-hamburger-suedsee-expedition/"
+  },
+  {
+   "id": "welcome-6301a10610",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Do's and Don'ts - Intercultural Workshop",
+   "datum": "2026-11-24",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "ub-9b8b5ecb6c",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Literaturrecherche für Naturwissenschaften",
+   "datum": "2026-11-24",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136314",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Rechtsextremismus und Antisemitismus im Kontext Schule",
+   "datum": "2026-11-24",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/rechtsextremismus-und-antisemitismus-im-kontext-schule/"
+  },
+  {
+   "id": "ub-61ab8d4962",
+   "kategorie": "ub",
+   "reihe": "Publizieren",
+   "titel": "Publizieren in Verlagszeitschriften",
+   "datum": "2026-11-25",
+   "von": "12:30",
+   "bis": "14:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "ub-1a5e0b2b39",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Literatursuche für Studierende der Psychologie",
+   "datum": "2026-11-25",
+   "von": "14:00",
+   "bis": "15:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136383",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Nikosia",
+   "datum": "2026-11-25",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nikosia/"
+  },
+  {
+   "id": "welcome-d356a6ca5a",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Stammtisch",
+   "datum": "2026-11-26",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136428",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "„What do we want? Climate justice!“ Transformative Bildung an Schule und Hochschule",
+   "datum": "2026-11-26",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/what-do-we-want-climate-justice-transformative-bildung-an-schule-und-hochschule/"
+  },
+  {
+   "id": "vortrag-136248",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Provenienzforschung als \"Selbstzweck\" für westliche Museen? Zur Notwendigkeit eines gegenseitigen Nutzens",
+   "datum": "2026-11-30",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-als-selbstzweck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nutzens/"
+  },
+  {
+   "id": "vortrag-136284",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Natur wertschätzen – Von und mit tansanischen Kleinbäuerinnen und -bauern lernen",
+   "datum": "2026-12-01",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/"
+  },
+  {
+   "id": "vortrag-136317",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Abgrenzungen: Nationalismus – Faschismus – aktueller Rechtsextremismus",
+   "datum": "2026-12-01",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/abgrenzungen-nationalismus-faschismus-aktueller-rechtsextremismus/"
+  },
+  {
+   "id": "vortrag-136386",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Narva",
+   "datum": "2026-12-02",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/narva/"
+  },
+  {
+   "id": "ub-8aac5ed915",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "Zotero",
+   "datum": "2026-12-03",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136431",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Warum lässt es so viele kalt, wenn es immer wärmer wird? Erich Fromms Erkenntnisse über kontraproduktive Strebungen",
+   "datum": "2026-12-03",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/warum-laesst-es-so-viele-kalt-wenn-es-immer-waermer-wird-erich-fromms-erkenntnisse-ueber-kontraproduktive-strebungen/"
+  },
+  {
+   "id": "welcome-7ecf73b9bd",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "International Christmas Coffee",
+   "datum": "2026-12-04",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "welcome-a02bc61d35",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Hiking Tour",
+   "datum": "2026-12-06",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-136251",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Kolonialvergangenheit, Restitution und politische Implikationen",
+   "datum": "2026-12-07",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/kolonialvergangenheit-restitution-und-politische-implikationen/"
+  },
+  {
+   "id": "vortrag-136281",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Der Wert der Wissenschaften im Zeitalter von KI",
+   "datum": "2026-12-08",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/der-wert-der-wissenschaften-im-zeitalter-von-ki/"
+  },
+  {
+   "id": "vortrag-136323",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Katholiken und Katholikinnen im Nationalsozialismus. Mit Seitenblicken auf Faschismus und Kirche(n) im 20. Jahrhundert",
+   "datum": "2026-12-08",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/katholiken-und-katholikinnen-im-nationalsozialismus-mit-seitenblicken-auf-faschismus-und-kirchen-im-20-jahrhundert/"
+  },
+  {
+   "id": "vortrag-136389",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Bukarest",
+   "datum": "2026-12-09",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/bukarest/"
+  },
+  {
+   "id": "ub-f2056b07e9",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "KI Prompting im Schreibprozess",
+   "datum": "2026-12-10",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  },
+  {
+   "id": "vortrag-136434",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Klimaanpassung und Hitzeschutz für Stadt und Universität Tübingen",
+   "datum": "2026-12-10",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/klimaanpassung-und-hitzeschutz-fuer-stadt-und-universitaet-tuebingen/"
+  },
+  {
+   "id": "ub-efb33b6f91",
+   "kategorie": "ub",
+   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
+   "titel": "Bessere Notizen für Kurse, Projekte und schriftliche Arbeiten mit Obsidian",
+   "datum": "2026-12-11",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
+  }
+ ]
+}

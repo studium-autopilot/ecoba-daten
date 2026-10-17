@@ -244,6 +244,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-13-tutorien-anmeldung-b180-jahresabschluss-ilias",
+   "titel": "Tutorien-Anmeldung B180 Jahresabschluss (ILIAS)",
+   "datum": "2026-10-13",
+   "bis": "2026-10-25",
+   "uhrzeit": "",
+   "ort": "ab 16:00 · bis 25.10. 23:59 · ILIAS-Kurs B180, Zuteilung zu den Tutorien, first come, first served",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "B180",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701677",
+   "quelle_text": "",
+   "info": "Anmeldung zu den Tutorien in B180 Jahresabschluss, Plätze nach Reihenfolge der Anmeldung. Im ILIAS-Kurs B180 in genau ein Tutorium eintragen; Mehrfacheintragungen werden gelöscht.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-14-dies-universitatis",
    "titel": "Dies Universitatis – Semestereröffnung der Uni",
    "datum": "2026-10-14",
@@ -440,6 +455,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-19-tutorien-anmeldung-b110-bwl-ilias",
+   "titel": "Tutorien-Anmeldung B110 BWL (ILIAS)",
+   "datum": "2026-10-19",
+   "bis": "2026-10-25",
+   "uhrzeit": "",
+   "ort": "bis 25.10. · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "B110",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Anmeldung zu den sieben inhaltlich gleichen Tutorien in B110 mit Gruppenarbeit und Bonuspunkten für die Klausur. Im ILIAS-Kurs B110 verbindlich in genau ein Tutorium eintragen.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-19-tutorien-anmeldung-s110-datenanalyse-ilias",
    "titel": "Tutorien-Anmeldung S110 Datenanalyse (ILIAS)",
    "datum": "2026-10-19",
@@ -527,21 +557,6 @@
    "quelle_url": "",
    "quelle_text": "Rundmail der Tübinger Stipendiat:innen der Stiftungen vom 10.10.2026 („Einladung zum Stipendieninformationsabend 2026“)",
    "info": "Stipendiat:innen der Begabtenförderungswerke erklären Stipendien und Bewerbung und stellen die Stiftungen vor, danach Fragerunden. Teilnahme ohne Anmeldung.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-21-vortrag-confronting-science-denial-lead",
-   "titel": "Vortrag „Confronting Science Denial“ – Wissenschaftsleugnung begegnen (englisch)",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "14:00 · Seminarraum 204, Hector-Institut (Europastraße 6)",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "",
-   "quelle_text": "Rundmail LEAD Graduate School & Research Network (Hector-Institut für Empirische Bildungsforschung) vom 15.10.2026",
-   "info": "Englischsprachiger Vortrag von Prof. Gale Sinatra (LEAD, Hector-Institut) darüber, warum Wissenschaftsskepsis entsteht und wie man ihr begegnet; die Einladung nennt keine Anmeldung.",
    "geprueft": ""
   },
   {
@@ -677,21 +692,6 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-11-03-bewerbungsfrist-stipendium-der-dr-rolf-wagner-stiftung",
-   "titel": "Bewerbungsfrist Stipendium der Dr. Rolf-Wagner-Stiftung",
-   "datum": "2026-11-03",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "online · 1.200 € für 2026/27",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "",
-   "quelle_text": "wiwinews Band 95 und 96 (25.09. und 02.10.2026)",
-   "info": "Stipendium der Dr. Rolf-Wagner-Stiftung über 1.200 € für das laufende Studienjahr. Bewerbung online.",
    "geprueft": ""
   },
   {

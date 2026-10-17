@@ -128,6 +128,26 @@
  ],
  "freie_tage": [
   {
+   "name": "Allerheiligen",
+   "datum": "2026-11-01",
+   "status": "offiziell"
+  },
+  {
+   "name": "Karfreitag",
+   "datum": "2027-03-26",
+   "status": "offiziell"
+  },
+  {
+   "name": "Ostermontag",
+   "datum": "2027-03-29",
+   "status": "offiziell"
+  },
+  {
+   "name": "Tag der Arbeit",
+   "datum": "2027-05-01",
+   "status": "offiziell"
+  },
+  {
    "name": "Christi Himmelfahrt",
    "datum": "2027-05-06",
    "status": "offiziell"
