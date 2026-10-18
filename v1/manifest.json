@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-18T21:31:41Z",
+ "erstellt": "2026-10-18T21:32:50Z",
  "dateien": {
   "termine.json": {
    "sha256": "174d768d1212a9bc2064249b0031d498e63103aa24089bb12efda19761e3e6b5",
@@ -25,5 +25,11 @@
  },
  "plugin_aktuell": "0.4.6",
  "hinweis": "",
- "pause": false
+ "pause": false,
+ "release": {
+  "version": "0.4.6",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.6/",
+  "sha256": "1d34d458c7d2094a4b1f035f8a017f64ed661fc686234eb8531116416a1d6905",
+  "notiz": "Abgabetermine aus ILIAS bei deinen Fristen, Vorlesungen von selbst im Stundenplan, ein Fenster für alles Neue und Rückgängig statt Rückfragen."
+ }
 }
