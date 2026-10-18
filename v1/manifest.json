@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-18T04:41:23Z",
+ "erstellt": "2026-10-18T07:20:22Z",
  "dateien": {
   "termine.json": {
    "sha256": "6bcf9f29ae8d1fc7f97c375e01ae5cc85862f9e89919e735dac9983065c4242a",
@@ -19,13 +19,13 @@
    "groesse": 27808
   }
  },
- "plugin_aktuell": "0.4.3",
+ "plugin_aktuell": "0.4.4",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.4.3",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.3/",
-  "sha256": "a1ba406766fb1aec833409743456cf870ff4adbf585f6b2cdf834d5da84e4fe8",
-  "notiz": "Karteikarten, Angebote der Uni und ein dunkles Design; dazu ist die Seite Studienverlauf wieder vollständig."
+  "version": "0.4.4",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.4/",
+  "sha256": "e40499305ba3aacd06076fb99b6fb16e105cee49786243a80f1eeefdec4319ad",
+  "notiz": "Neue Modulseiten mit deinem Stand, zwei weitere Designs und schnellere Kursdateien aus ILIAS; dazu ein aufgeräumtes Dashboard."
  }
 }
