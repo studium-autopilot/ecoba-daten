@@ -1,0 +1,3070 @@
+{
+ "schema": 1,
+ "stand": "2026-10-18",
+ "veranstaltungen": [
+  {
+   "id": "ws-2026-27-b110-tutorium-1-di-1000",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-03",
+    "bis": "2027-02-02"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-2-di-1200",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "2",
+   "tag": "Di",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-03",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-3-di-1600",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "3",
+   "tag": "Di",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-03",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-4-mi-1200",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "4",
+   "tag": "Mi",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-04",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-5-mi-1400",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "5",
+   "tag": "Mi",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-04",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-6-mi-1600",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "6",
+   "tag": "Mi",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-04",
+    "bis": "2027-02-03"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-tutorium-7-do-0800",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Übung zu Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "7",
+   "tag": "Do",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-05",
+    "bis": "2027-02-04"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-vorlesung-1-mo-1000",
+   "code": "B110",
+   "art": "Vorlesung",
+   "titel": "Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44040&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b110-vorlesung-1-mo-1400",
+   "code": "B110",
+   "art": "Vorlesung",
+   "titel": "Einführung in die Betriebswirtschaftslehre",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44040&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-1-di-0800",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-27",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 0.02 (VG Wilhelmstraße - SSC (Student Service Center))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-2-di-1600",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "2",
+   "tag": "Di",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-27",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-3-mi-1400",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-28",
+    "bis": "2027-02-03"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-4-do-1200",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "4",
+   "tag": "Do",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-29",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-5-do-1600",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "5",
+   "tag": "Do",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-29",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal Mineralogie/LMB H102 (Lothar-Meyer-Bau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-tutorium-6-fr-0800",
+   "code": "B180",
+   "art": "Tutorium",
+   "titel": "Übung zu Jahresabschluss",
+   "gruppe": "6",
+   "tag": "Fr",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-30",
+    "bis": "2027-02-05"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-25",
+    "2027-01-01"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b180-vorlesung-1-di-1400",
+   "code": "B180",
+   "art": "Vorlesung",
+   "titel": "Jahresabschluss",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-13",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78897&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b220-vorlesung-1-di-1000",
+   "code": "B220",
+   "art": "Vorlesung",
+   "titel": "Marketing",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-13",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44049&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b220-uebung-1-mo-0800",
+   "code": "B220",
+   "art": "Übung",
+   "titel": "Übung zu Marketing",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-02",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 24 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44051&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b220-uebung-2-mo-1400",
+   "code": "B220",
+   "art": "Übung",
+   "titel": "Übung zu Marketing",
+   "gruppe": "2",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-02",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal Mineralogie/LMB H102 (Lothar-Meyer-Bau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44051&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b220-uebung-3-di-0800",
+   "code": "B220",
+   "art": "Übung",
+   "titel": "Übung zu Marketing",
+   "gruppe": "3",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-03",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44051&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b220-uebung-4-di-1400",
+   "code": "B220",
+   "art": "Übung",
+   "titel": "Übung zu Marketing",
+   "gruppe": "4",
+   "tag": "Di",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-11-03",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal Mineralogie/LMB H102 (Lothar-Meyer-Bau)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44051&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b250-vorlesung-1-do-0830",
+   "code": "B250",
+   "art": "Vorlesung",
+   "titel": "Rechnungswesen und Steuern",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "08:30",
+   "bis": "10:00",
+   "ct": false,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-15",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85388&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b250-uebung-1-di-0800",
+   "code": "B250",
+   "art": "Übung",
+   "titel": "Übung zu Rechnungswesen und Steuern",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "S227 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85389&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b250-uebung-2-mi-0800",
+   "code": "B250",
+   "art": "Übung",
+   "titel": "Übung zu Rechnungswesen und Steuern",
+   "gruppe": "2",
+   "tag": "Mi",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "S227 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85389&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b250-uebung-3-mi-1000",
+   "code": "B250",
+   "art": "Übung",
+   "titel": "Übung zu Rechnungswesen und Steuern",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=85389&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20261228-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-28",
+    "bis": "2026-12-28"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20270104-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-04",
+    "bis": "2027-01-04"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20261229-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-29",
+    "bis": "2026-12-29"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20270105-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-05",
+    "bis": "2027-01-05"
+   },
+   "raum": "Fakultätssitzungsraum (WiWi Naukler) und 6 weitere Räume",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20261230-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-30",
+    "bis": "2026-12-30"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b260-seminar-1-20270109-0900",
+   "code": "B260",
+   "art": "Seminar",
+   "titel": "Unternehmenssimulation General Management",
+   "gruppe": "1",
+   "tag": "Sa",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-09",
+    "bis": "2027-01-09"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-vorlesung-1-do-1000",
+   "code": "B290",
+   "art": "Vorlesung",
+   "titel": "Global Strategy",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-15",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 24 (Kupferbau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44052&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-uebung-1-do-1200",
+   "code": "B290",
+   "art": "Übung",
+   "titel": "Tutorial on Global Strategy",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 05 (Neue Aula)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44054&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-uebung-2-do-1400",
+   "code": "B290",
+   "art": "Übung",
+   "titel": "Tutorial on Global Strategy",
+   "gruppe": "2",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44054&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-uebung-3-do-1600",
+   "code": "B290",
+   "art": "Übung",
+   "titel": "Tutorial on Global Strategy",
+   "gruppe": "3",
+   "tag": "Do",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44054&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-uebung-4-di-1400",
+   "code": "B290",
+   "art": "Übung",
+   "titel": "Tutorial on Global Strategy",
+   "gruppe": "4",
+   "tag": "Di",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44054&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261109-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "18:00",
+   "bis": "22:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-09",
+    "bis": "2026-11-09"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261110-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "18:00",
+   "bis": "22:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-10",
+    "bis": "2026-11-10"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261117-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "18:00",
+   "bis": "22:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-17",
+    "bis": "2026-11-17"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261111-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "18:00",
+   "bis": "22:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-11",
+    "bis": "2026-11-11"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261118-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "18:00",
+   "bis": "20:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-18",
+    "bis": "2026-11-18"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-1-20261112-1800",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "Brand Management",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "18:00",
+   "bis": "22:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-12",
+    "bis": "2026-11-12"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20270114-1000",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-14",
+    "bis": "2027-01-14"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20261030-1000",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "13:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-30",
+    "bis": "2026-10-30"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20261113-1000",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-13",
+    "bis": "2026-11-13"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20261211-0900",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-11",
+    "bis": "2026-12-11"
+   },
+   "raum": "Hörsaal 036 (Neuphilologicum)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20270129-1000",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-29",
+    "bis": "2027-01-29"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b321-vorlesung-75199-1-20261212-0900",
+   "code": "B321",
+   "art": "Vorlesung",
+   "titel": "International Marketing",
+   "gruppe": "1",
+   "tag": "Sa",
+   "von": "09:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-12",
+    "bis": "2026-12-12"
+   },
+   "raum": "Hörsaal 036 (Neuphilologicum)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b322-seminar-1-20261016-0900",
+   "code": "B322",
+   "art": "Seminar",
+   "titel": "Bachelor Thesis Seminar on Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "09:00",
+   "bis": "13:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-16",
+    "bis": "2026-10-16"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261029-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-29",
+    "bis": "2026-10-29"
+   },
+   "raum": "Fakultätssitzungsraum (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261105-1400",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "17:30",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-05",
+    "bis": "2026-11-05"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261112-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-12",
+    "bis": "2026-11-12"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261119-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-19",
+    "bis": "2026-11-19"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261126-1400",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "17:30",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-26",
+    "bis": "2026-11-26"
+   },
+   "raum": "Fakultätssitzungsraum (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261203-1400",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "17:30",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-03",
+    "bis": "2026-12-03"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261210-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-10",
+    "bis": "2026-12-10"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261217-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-17",
+    "bis": "2026-12-17"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20270107-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-07",
+    "bis": "2027-01-07"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20270114-1400",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "17:30",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-14",
+    "bis": "2027-01-14"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20270121-1400",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "17:30",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-21",
+    "bis": "2027-01-21"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20270128-1530",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "15:30",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-28",
+    "bis": "2027-01-28"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b350-vorlesung-1-20261030-0830",
+   "code": "B350",
+   "art": "Vorlesung",
+   "titel": "Grundlagen der Besteuerung",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "08:30",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-30",
+    "bis": "2026-10-30"
+   },
+   "raum": "Fakultätssitzungsraum (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44149&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20270107-0830",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "08:30",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-07",
+    "bis": "2027-01-07"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261113-0830",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "08:30",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-13",
+    "bis": "2026-11-13"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261113-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-13",
+    "bis": "2026-11-13"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261120-0830",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "08:30",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-20",
+    "bis": "2026-11-20"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261120-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-20",
+    "bis": "2026-11-20"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261127-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-27",
+    "bis": "2026-11-27"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261204-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-04",
+    "bis": "2026-12-04"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261211-0830",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "08:30",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-11",
+    "bis": "2026-12-11"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261211-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-11",
+    "bis": "2026-12-11"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20261218-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-18",
+    "bis": "2026-12-18"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20270115-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-15",
+    "bis": "2027-01-15"
+   },
+   "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20270122-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-22",
+    "bis": "2027-01-22"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b351-vorlesung-1-20270129-1415",
+   "code": "B351",
+   "art": "Vorlesung",
+   "titel": "Steuerliches Rechnungswesen",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "17:45",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-29",
+    "bis": "2027-01-29"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44150&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b383-vorlesung-1-mi-1000",
+   "code": "B383",
+   "art": "Vorlesung",
+   "titel": "Current Topics in Financial Accounting and Financial Analysis",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2027-02-03"
+   },
+   "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90460&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-vorlesung-1-mi-1000",
+   "code": "E101",
+   "art": "Vorlesung",
+   "titel": "Einführung in die Volkswirtschaftslehre",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 21 (Kupferbau)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78899&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-1-di-0800",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 06 (Neue Aula)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-2-mi-0800",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "2",
+   "tag": "Mi",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-3-di-1200",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "3",
+   "tag": "Di",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 06 (Neue Aula)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-4-di-1600",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "4",
+   "tag": "Di",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-5-mi-1200",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "5",
+   "tag": "Mi",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-6-mi-1400",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "6",
+   "tag": "Mi",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e101-uebung-7-do-1200",
+   "code": "E101",
+   "art": "Übung",
+   "titel": "Übung zu Einführung in die Volkswirtschaftslehre",
+   "gruppe": "7",
+   "tag": "Do",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e210-vorlesung-1-mo-1000",
+   "code": "E210",
+   "art": "Vorlesung",
+   "titel": "Microeconomics II",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "10:00",
+   "bis": "13:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 24 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78901&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e210-uebung-1-mo-1400",
+   "code": "E210",
+   "art": "Übung",
+   "titel": "Microeconomics II - Tutorial",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-19",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e210-uebung-2-di-1400",
+   "code": "E210",
+   "art": "Übung",
+   "titel": "Microeconomics II - Tutorial",
+   "gruppe": "2",
+   "tag": "Di",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e210-uebung-3-mi-1000",
+   "code": "E210",
+   "art": "Übung",
+   "titel": "Microeconomics II - Tutorial",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "0.04 Seminarraum 1 (Nauklerstr. 35)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e210-uebung-4-do-1400",
+   "code": "E210",
+   "art": "Übung",
+   "titel": "Microeconomics II - Tutorial",
+   "gruppe": "4",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e230-vorlesung-1-di-1200",
+   "code": "E230",
+   "art": "Vorlesung",
+   "titel": "Macroeconomics II",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-13",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 24 (Kupferbau)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45468&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e230-vorlesung-1-mi-1200",
+   "code": "E230",
+   "art": "Vorlesung",
+   "titel": "Macroeconomics II",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 24 (Kupferbau)",
+   "ausfall": [
+    "2026-11-18",
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=45468&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e324-kolloquium-1-20261121-0800",
+   "code": "E324",
+   "art": "Kolloquium",
+   "titel": "Internationale Wirtschaftsorganisationen",
+   "gruppe": "1",
+   "tag": "Sa",
+   "von": "08:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-21",
+    "bis": "2026-11-21"
+   },
+   "raum": "Seminarraum E 04 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36689&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e324-kolloquium-1-20261128-0800",
+   "code": "E324",
+   "art": "Kolloquium",
+   "titel": "Internationale Wirtschaftsorganisationen",
+   "gruppe": "1",
+   "tag": "Sa",
+   "von": "08:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-28",
+    "bis": "2026-11-28"
+   },
+   "raum": "Seminarraum E 04 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36689&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e330-vorlesung-1-mi-1000",
+   "code": "E330",
+   "art": "Vorlesung",
+   "titel": "International Money and Finance",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36691&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e330-vorlesung-1-do-1000",
+   "code": "E330",
+   "art": "Vorlesung",
+   "titel": "International Money and Finance",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-15",
+    "bis": "2027-02-04"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36691&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e333-vorlesung-1-mo-1600",
+   "code": "E333",
+   "art": "Vorlesung",
+   "titel": "Blockchain and Cryptocurrencies - A Hands-On Lecture",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "16:00",
+   "bis": "19:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-19",
+    "bis": "2027-02-01"
+   },
+   "raum": "",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=66794&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e360-vorlesung-1-mo-1400",
+   "code": "E360",
+   "art": "Vorlesung",
+   "titel": "Stata Course: Regression Analysis with Historical Data",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "18:00",
+   "ct": false,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2026-11-16"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e360-vorlesung-1-20261130-1400",
+   "code": "E360",
+   "art": "Vorlesung",
+   "titel": "Stata Course: Regression Analysis with Historical Data",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "15:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-30",
+    "bis": "2026-11-30"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e360-vorlesung-1-20270118-1400",
+   "code": "E360",
+   "art": "Vorlesung",
+   "titel": "Stata Course: Regression Analysis with Historical Data",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "14:00",
+   "bis": "15:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-18",
+    "bis": "2027-01-18"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e361-vorlesung-1-do-1200",
+   "code": "E361",
+   "art": "Vorlesung",
+   "titel": "Wirtschaftsgeschichte der Welt: neue Forschungsansätze",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal Mineralogie/LMB H102 (Lothar-Meyer-Bau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46051&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e365-seminar-1-20261021-1800",
+   "code": "E365",
+   "art": "Seminar",
+   "titel": "Topics in International Economic History",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "18:00",
+   "bis": "19:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2026-10-21"
+   },
+   "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e365-seminar-1-20270121-1000",
+   "code": "E365",
+   "art": "Seminar",
+   "titel": "Topics in International Economic History",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-21",
+    "bis": "2027-01-21"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e365-seminar-1-20270122-1000",
+   "code": "E365",
+   "art": "Seminar",
+   "titel": "Topics in International Economic History",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-22",
+    "bis": "2027-01-22"
+   },
+   "raum": "",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e376-sonstige-1-20261130-1000",
+   "code": "E376",
+   "art": "Sonstige",
+   "titel": "A toolkit for writing your Bachelor's thesis in Microeconomics",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "10:00",
+   "bis": "13:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-30",
+    "bis": "2026-11-30"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e376-sonstige-1-20261202-1000",
+   "code": "E376",
+   "art": "Sonstige",
+   "titel": "A toolkit for writing your Bachelor's thesis in Microeconomics",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-02",
+    "bis": "2026-12-02"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e376-sonstige-1-20261203-1000",
+   "code": "E376",
+   "art": "Sonstige",
+   "titel": "A toolkit for writing your Bachelor's thesis in Microeconomics",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-03",
+    "bis": "2026-12-03"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e376-sonstige-1-20261204-1000",
+   "code": "E376",
+   "art": "Sonstige",
+   "titel": "A toolkit for writing your Bachelor's thesis in Microeconomics",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-12-04",
+    "bis": "2026-12-04"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e380-seminar-1-20261109-1200",
+   "code": "E380",
+   "art": "Seminar",
+   "titel": "Be ready for your thesis in Empirical Economics",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "12:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-09",
+    "bis": "2026-11-09"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e380-seminar-1-20261014-1000",
+   "code": "E380",
+   "art": "Seminar",
+   "titel": "Be ready for your thesis in Empirical Economics",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2026-10-14"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e380-seminar-1-20261111-1000",
+   "code": "E380",
+   "art": "Seminar",
+   "titel": "Be ready for your thesis in Empirical Economics",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-11",
+    "bis": "2026-11-11"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e380-seminar-1-20261112-1000",
+   "code": "E380",
+   "art": "Seminar",
+   "titel": "Be ready for your thesis in Empirical Economics",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-12",
+    "bis": "2026-11-12"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-e380-seminar-1-20270122-1000",
+   "code": "E380",
+   "art": "Seminar",
+   "titel": "Be ready for your thesis in Empirical Economics",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-22",
+    "bis": "2027-01-22"
+   },
+   "raum": "Seminarraum E 04 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-j200-vorlesung-1-fr-0900",
+   "code": "J200",
+   "art": "Vorlesung",
+   "titel": "Privatrecht",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "09:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-16",
+    "bis": "2027-02-05"
+   },
+   "raum": "Hörsaal 23 (Kupferbau)",
+   "ausfall": [
+    "2026-12-25",
+    "2027-01-01"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46204&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-1-mo-1600",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-19",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 036 (Neuphilologicum)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-10-mi-0800",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "10",
+   "tag": "Mi",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 0.02 (VG Wilhelmstraße - SSC (Student Service Center))",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-2-mi-1400",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "2",
+   "tag": "Mi",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "aenderungen": [
+    {
+     "datum": "2026-12-09",
+     "raum": "Hörsaal 22 (Kupferbau)"
+    }
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-3-mi-1600",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 037 (Neuphilologicum)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-4-di-0800",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "4",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-5-di-1000",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "5",
+   "tag": "Di",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-6-di-1600",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "6",
+   "tag": "Di",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-7-mi-1400",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "7",
+   "tag": "Mi",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "aenderungen": [
+    {
+     "datum": "2026-12-09",
+     "raum": "Seminarraum U006 (WiWi Naukler)"
+    }
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-8-mi-1600",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "8",
+   "tag": "Mi",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-tutorium-9-di-1200",
+   "code": "S100",
+   "art": "Tutorium",
+   "titel": "Übung zu Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "9",
+   "tag": "Di",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-vorlesung-1-do-1000",
+   "code": "S100",
+   "art": "Vorlesung",
+   "titel": "Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-15",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46205&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s100-vorlesung-1-do-1400",
+   "code": "S100",
+   "art": "Vorlesung",
+   "titel": "Mathematische Methoden der Wirtschaftswissenschaft",
+   "gruppe": "1",
+   "tag": "Do",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-15",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46205&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-1-mo-1600",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-19",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-2-di-1200",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "2",
+   "tag": "Di",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-20",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-3-mi-1200",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-4-mi-1600",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "4",
+   "tag": "Mi",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-21",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-5-do-0800",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "5",
+   "tag": "Do",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 23 (Kupferbau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-6-do-1600",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "6",
+   "tag": "Do",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-22",
+    "bis": "2027-02-04"
+   },
+   "raum": "Hörsaal 23 (Kupferbau)",
+   "ausfall": [
+    "2026-12-24",
+    "2026-12-31"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-tutorium-7-fr-1000",
+   "code": "S110",
+   "art": "Tutorium",
+   "titel": "Übung zu Explorative Datenanalyse",
+   "gruppe": "7",
+   "tag": "Fr",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-23",
+    "bis": "2027-02-05"
+   },
+   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
+   "ausfall": [
+    "2026-12-25",
+    "2027-01-01"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-vorlesung-1-mo-0800",
+   "code": "S110",
+   "art": "Vorlesung",
+   "titel": "Explorative Datenanalyse",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 25 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46221&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s220-vorlesung-1-mo-1600",
+   "code": "S220",
+   "art": "Vorlesung",
+   "titel": "Quantitative Methods in Economics and Business Administration",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-12",
+    "bis": "2027-02-01"
+   },
+   "raum": "Hörsaal 21 (Kupferbau)",
+   "ausfall": [
+    "2026-12-28",
+    "2027-01-04"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46281&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s220-uebung-1-di-0800",
+   "code": "S220",
+   "art": "Übung",
+   "titel": "Tutorial on Quantitative Methods in Economics and Business Administration",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-27",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 11 (Universitätskasse u.a.)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46282&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s220-uebung-2-di-1400",
+   "code": "S220",
+   "art": "Übung",
+   "titel": "Tutorial on Quantitative Methods in Economics and Business Administration",
+   "gruppe": "2",
+   "tag": "Di",
+   "von": "14:00",
+   "bis": "16:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-27",
+    "bis": "2027-02-02"
+   },
+   "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46282&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s220-uebung-3-mi-0800",
+   "code": "S220",
+   "art": "Übung",
+   "titel": "Tutorial on Quantitative Methods in Economics and Business Administration",
+   "gruppe": "3",
+   "tag": "Mi",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-28",
+    "bis": "2027-02-03"
+   },
+   "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46282&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s316-vorlesung-1-mi-0800",
+   "code": "S316",
+   "art": "Vorlesung",
+   "titel": "Policy Analysis and Evaluation",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2027-02-03"
+   },
+   "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
+   "ausfall": [
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46286&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s316-vorlesung-1-mi-1600",
+   "code": "S316",
+   "art": "Vorlesung",
+   "titel": "Policy Analysis and Evaluation",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "16:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "14-täglich",
+   "zeitraum": {
+    "von": "2026-11-04",
+    "bis": "2027-01-13"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "ausfall": [
+    "2026-12-30"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46286&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s324-vorlesung-1-di-1000",
+   "code": "S324",
+   "art": "Vorlesung",
+   "titel": "Computational Econometrics Using Stata",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "10:00",
+   "bis": "13:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-13",
+    "bis": "2027-02-02"
+   },
+   "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
+   "ausfall": [
+    "2026-12-29",
+    "2027-01-05"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46283&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-sq888-kurs-1-20261005-0915",
+   "code": "SQ888",
+   "art": "Kurs",
+   "titel": "Mathematisches Propädeutikum für Wirtschaftswissenschaftler",
+   "gruppe": "1",
+   "tag": "Mo",
+   "von": "09:15",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-05",
+    "bis": "2026-10-05"
+   },
+   "raum": "AUDIMAX (Neue Aula)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46219&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-sq888-kurs-1-20261006-0915",
+   "code": "SQ888",
+   "art": "Kurs",
+   "titel": "Mathematisches Propädeutikum für Wirtschaftswissenschaftler",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "09:15",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-06",
+    "bis": "2026-10-06"
+   },
+   "raum": "AUDIMAX (Neue Aula)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46219&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-sq888-kurs-1-20261007-0915",
+   "code": "SQ888",
+   "art": "Kurs",
+   "titel": "Mathematisches Propädeutikum für Wirtschaftswissenschaftler",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "09:15",
+   "bis": "12:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-10-07",
+    "bis": "2026-10-07"
+   },
+   "raum": "AUDIMAX (Neue Aula)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46219&periodId=237"
+  }
+ ]
+}
