@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-18T07:20:22Z",
+ "erstellt": "2026-10-18T11:34:11Z",
  "dateien": {
   "termine.json": {
    "sha256": "6bcf9f29ae8d1fc7f97c375e01ae5cc85862f9e89919e735dac9983065c4242a",
@@ -11,8 +11,8 @@
    "groesse": 9989
   },
   "gruppen.json": {
-   "sha256": "e311051689df6e22ba455ded472ab0cc09b3878d65eb676bc3f90a9bd7407486",
-   "groesse": 22697
+   "sha256": "e58c8eec3044f9e0001a373d6ac53b0a254cd2f06f8d8d930fd758ab6d028a97",
+   "groesse": 23938
   },
   "angebote.json": {
    "sha256": "6cb12ed62a4e07fb9494163aca0484e9d8ea0785fd535d3df9949b18885872ea",

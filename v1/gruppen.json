@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-17",
+ "stand": "2026-10-18",
  "gruppen": [
   {
    "id": "ws-2026-27-b110-tutorium-1",
@@ -259,7 +259,7 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal 06 (Neue Aula)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -278,7 +278,7 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -297,7 +297,7 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 06 (Neue Aula)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -316,7 +316,7 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -335,7 +335,7 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -354,7 +354,7 @@
    "bis": "16:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -373,7 +373,7 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -392,7 +392,7 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal 036 (Neuphilologicum)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -411,7 +411,7 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal 0.02 (VG Wilhelmstraße - SSC (Student Service Center))",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -430,7 +430,7 @@
    "bis": "16:00",
    "ct": true,
    "raum": "Seminarraum E 02 (WiWi Sem Mohl) / Hörsaal 22 (Kupferbau)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -449,7 +449,7 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal 037 (Neuphilologicum)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -468,7 +468,7 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -487,7 +487,7 @@
    "bis": "12:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -506,7 +506,7 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -525,7 +525,7 @@
    "bis": "16:00",
    "ct": true,
    "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.) / Seminarraum U006 (WiWi Naukler)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -544,7 +544,7 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
@@ -563,7 +563,7 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
-   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S100 unter „Tutoriengruppen“, ab Do 15.10., 18:00; nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46218&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
