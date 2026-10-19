@@ -760,7 +760,7 @@
    "datum": "2026-11-05",
    "bis": "",
    "uhrzeit": "",
-   "ort": "14:00–16:30 · Neckawa · Anmeldung bis 12.10.",
+   "ort": "14:00–16:30 · Neckawa · Anmeldung über den Career Service",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
@@ -933,6 +933,22 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
    "quelle_text": "",
    "info": "Freiwilliger Online-Zwischentest in S100 (30 Min., unbenotet, bis zu 2 Bonuspunkte für die Klausur); Zugang über den ILIAS-Kurs S100 Zwischentests, Aufnahme auf Antrag.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-14-buddy-programm-t-ies-anmeldung-freiwillig",
+   "titel": "Buddy-Programm des Doshisha T-IES Program: Anmeldung (freiwillig)",
+   "datum": "2026-11-14",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis Sa 14.11. · Anmeldung laut Rundmail des T-IES Program",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des Doshisha T-IES Program vom 13.10.2026",
+   "info": "Buddy-Programm für Studierende des Doshisha T-IES Program mit Winter School und interkulturellem Training, anrechenbar über das TCP. Anmeldung beim T-IES Program.",
    "geprueft": ""
   },
   {
