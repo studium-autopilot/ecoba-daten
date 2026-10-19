@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-19T12:23:43Z",
+ "erstellt": "2026-10-19T12:24:10Z",
  "dateien": {
   "termine.json": {
-   "sha256": "ad45ebbfed2cf15114165c5cc138e1ad359c541555762aa4c8aab8a53cffc011",
-   "groesse": 81236
+   "sha256": "996ec46eae185bb3d367ba2f17cfd51efb14f1ba10d54b694dfc4fda1933ae06",
+   "groesse": 81891
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
