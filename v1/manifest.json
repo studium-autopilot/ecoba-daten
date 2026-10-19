@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-19T12:37:50Z",
+ "erstellt": "2026-10-19T13:37:19Z",
  "dateien": {
   "termine.json": {
    "sha256": "e38836e442c05e0753b898dc3da4cb128ed76fc263a7ba3908bf4eb7b5eb5b1d",
@@ -27,13 +27,13 @@
    "groesse": 24296
   }
  },
- "plugin_aktuell": "0.4.8",
+ "plugin_aktuell": "0.4.9",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.4.8",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.8/",
-  "sha256": "e2eb917204044f614f32a21c03d4bf3a508e95cef96f880c84ccd7e67740a180",
-  "notiz": "Ein Uni-Login verbindet ILIAS, den ILIAS-Kalender und deinen Stundenplan aus Alma ohne kopierte Links, und „Nach Updates suchen“ zeigt neue Versionen sofort."
+  "version": "0.4.9",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.9/",
+  "sha256": "a0171023a5f5d70cedb7370050e756dcf347bf7a5a54dc3f7a3528402b7b2b0e",
+  "notiz": "Auf dem iPhone zeigt die Woche einen Tag auf einmal, mit vollem Namen, Zeit und Raum, und doppelte Tutorien im Stundenplan sind behoben."
  }
 }
