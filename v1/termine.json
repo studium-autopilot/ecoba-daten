@@ -439,6 +439,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-19-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-10-19",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-19-sprachkurse-fremdsprachenzentrum-restplatz-anmelden-freiwillig",
    "titel": "Sprachkurse Fremdsprachenzentrum: Restplatz per Mail anmelden (freiwillig)",
    "datum": "2026-10-19",
@@ -650,6 +665,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-26-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-10-26",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-27-infoveranstaltung-auslandsstudium-asien-und-afrika",
    "titel": "Infoveranstaltung Auslandsstudium: Asien und Afrika",
    "datum": "2026-10-27",
@@ -692,6 +722,21 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
    "info": "Vortrag über das Universitätsarchiv und seine Bestände mit Führung durch die Archivräume; kein *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-02-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-11-02",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
