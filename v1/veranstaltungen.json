@@ -273,7 +273,7 @@
     "von": "2026-10-28",
     "bis": "2027-02-03"
    },
-   "raum": "",
+   "raum": "Hörsaal 23 (Kupferbau)",
    "ausfall": [
     "2026-12-23",
     "2026-12-30",
@@ -1593,6 +1593,8 @@
     "bis": "2027-02-03"
    },
    "raum": "Hörsaal 21 (Kupferbau)",
+   "raum_seit": "2026-10-21",
+   "raum_vorher": "Hörsaal 25 (Kupferbau)",
    "ausfall": [
     "2026-12-23",
     "2026-12-30",

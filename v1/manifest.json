@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-20T18:36:08Z",
+ "erstellt": "2026-10-20T20:39:50Z",
  "dateien": {
   "termine.json": {
    "sha256": "957d6bafaf6dafa75d01576b28e62ee949d0731c7fc1b50e116a487cc47d6ab6",
@@ -19,22 +19,22 @@
    "groesse": 28820
   },
   "veranstaltungen.json": {
-   "sha256": "5375ae34ebd5142b0280a7737ef7663d72af3f39b6b5df3a9e592782b04b425d",
-   "groesse": 83289
+   "sha256": "0eaab5852870e20e58fed9b39cb9403d4701eafe74d0f01a6bb48fe4235d7774",
+   "groesse": 83387
   },
   "kapitel.json": {
-   "sha256": "637226703829811ae8606eb182dc43f89318a07d0168a77a4aa51209b98ba7a6",
-   "groesse": 24296
+   "sha256": "f7c95b1c0f7d93b2d430111e47d3a84f62a11493d3fc66f30f0ef89d839769ed",
+   "groesse": 4059
   }
  },
- "plugin_aktuell": "0.5.3",
+ "plugin_aktuell": "0.5.4",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.5.3",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.3/",
-  "sha256": "17b8533e27aabd51f2307afe9d40eec499d8525201bc2d49964e74c296ef8846",
-  "notiz": "Die Modulseite sagt, wenn Termine aus Folien nicht zentral kommen; 14-tägliche Vorlesungen stehen nur in ihren Wochen."
+  "version": "0.5.4",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.4/",
+  "sha256": "7bf39d0e0c2988e86c62aff8dd80c475e70f2a89b71ef18e19f69ff7739438fb",
+  "notiz": "Der eigene Server ist nach dem Einrichten wieder erreichbar; ein Update läuft in einem Fenster ohne Hinweise daneben."
  },
  "abdeckung": {
   "stand": "2026-10-20",
