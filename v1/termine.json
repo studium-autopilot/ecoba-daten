@@ -439,6 +439,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-19-data-science-lab-s110-startet",
+   "titel": "Data Science Lab S110 startet – Datenanalyse mit R per Zoom",
+   "datum": "2026-10-19",
+   "bis": "2026-10-23",
+   "uhrzeit": "",
+   "ort": "online per Zoom · ILIAS-Kurs S110, Ordner 03 - Data Science Lab",
+   "kategorie": "Lehre",
+   "status": "geschätzt",
+   "code": "S110",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
+   "quelle_text": "",
+   "info": "Erste Sitzung des Data Science Lab in S110, eines wöchentlichen Online-Formats zur Datenanalyse mit R. Teilnahme per Zoom oder später über die Aufzeichnung im ILIAS-Kurs.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-19-fachschaftssitzung",
    "titel": "Fachschaftssitzung",
    "datum": "2026-10-19",
@@ -1384,6 +1399,21 @@
    "quelle_url": "",
    "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
    "info": "Digitales Erasmus-Infocafé des Fachbereichs zu Austauschplätzen in Frankreich, der Schweiz und Österreich für 2027/28. Anmeldung über das Online-Formular (eveeno).",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-21-ausfall-s110-datenanalyse-keine-tutorien-vor-der-weihnachtspause",
+   "titel": "Ausfall S110 Datenanalyse: keine Tutorien vor der Weihnachtspause",
+   "datum": "2026-12-21",
+   "bis": "2026-12-22",
+   "uhrzeit": "",
+   "ort": "16:15–17:45 (Mo) und 12:15–13:45 (Di) · Tutorien S110",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "S110",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
+   "quelle_text": "",
+   "info": "Die S110-Tutorien pausieren laut Übungsplan des Lehrstuhls schon in der ganzen Woche vor Weihnachten, also auch montags und dienstags vor Beginn der Weihnachtspause.",
    "geprueft": ""
   },
   {
