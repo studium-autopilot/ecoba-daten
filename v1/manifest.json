@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-20T12:45:26Z",
+ "erstellt": "2026-10-20T13:17:13Z",
  "dateien": {
   "termine.json": {
-   "sha256": "fb0d940073c609b83a0f0a2b6cd62e9ae10ea6046d5a8373878105460cbb24b7",
-   "groesse": 86759
+   "sha256": "5b2f2086df640e0aa92f7a791a5ed475b33404efbeb2a67ebcd910d1d7a07ff1",
+   "groesse": 86776
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -27,13 +27,13 @@
    "groesse": 24296
   }
  },
- "plugin_aktuell": "0.4.10",
+ "plugin_aktuell": "0.5.0",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.4.10",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.10/",
-  "sha256": "6dd362cc4b4eeb2fa2558f37cc14fad4407358cc6c95cc87e5c7b28c563f8536",
-  "notiz": "Ausfälle und Raumwechsel fallen im Stundenplan sofort auf, die Seite Stundenplan zeigt auf dem iPhone wieder die ganze Woche, Tutorium hat einen eigenen Bereich."
+  "version": "0.5.0",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.0/",
+  "sha256": "d2edc220ea9238bf56c29dfec52adbd491da25e6956fd4e5761169c33761c654",
+  "notiz": "Eigener Server mit Claude: Termine, Mails und Zusammenfassungen ohne fremden Dienst, dazu ganze Breite im geteilten iPad-Fenster."
  }
 }
