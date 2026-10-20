@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-20T12:42:58Z",
+ "erstellt": "2026-10-20T12:45:26Z",
  "dateien": {
   "termine.json": {
    "sha256": "fb0d940073c609b83a0f0a2b6cd62e9ae10ea6046d5a8373878105460cbb24b7",
@@ -27,13 +27,13 @@
    "groesse": 24296
   }
  },
- "plugin_aktuell": "0.4.9",
+ "plugin_aktuell": "0.4.10",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.4.9",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.9/",
-  "sha256": "a0171023a5f5d70cedb7370050e756dcf347bf7a5a54dc3f7a3528402b7b2b0e",
-  "notiz": "Auf dem iPhone zeigt die Woche einen Tag auf einmal, mit vollem Namen, Zeit und Raum, und doppelte Tutorien im Stundenplan sind behoben."
+  "version": "0.4.10",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.4.10/",
+  "sha256": "6dd362cc4b4eeb2fa2558f37cc14fad4407358cc6c95cc87e5c7b28c563f8536",
+  "notiz": "Ausfälle und Raumwechsel fallen im Stundenplan sofort auf, die Seite Stundenplan zeigt auf dem iPhone wieder die ganze Woche, Tutorium hat einen eigenen Bereich."
  }
 }
