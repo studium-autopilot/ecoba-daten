@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-19",
+ "stand": "2026-10-20",
  "gruppen": [
   {
    "id": "ws-2026-27-b110-tutorium-1",
@@ -12,14 +12,14 @@
    "bis": "12:00",
    "ct": true,
    "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-03",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-2",
@@ -31,14 +31,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-03",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-3",
@@ -50,14 +50,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-03",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-4",
@@ -69,14 +69,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-04",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-5",
@@ -88,14 +88,14 @@
    "bis": "16:00",
    "ct": true,
    "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-04",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-6",
@@ -107,14 +107,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-04",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b110-tutorium-7",
@@ -126,14 +126,14 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
-   "anmeldung": "Über ILIAS (Kurs B110), 19.10. bis 25.10., verbindlich, nur eine Gruppe.",
+   "anmeldung": "Über ILIAS (Kurs B110), Mo 19.10., 08:00 bis Mo 26.10., 08:05, verbindlich, nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44041&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-11-05",
     "bis": "2027-02-04"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b180-tutorium-1",
@@ -182,15 +182,15 @@
    "von": "14:00",
    "bis": "16:00",
    "ct": true,
-   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
-   "anmeldung": "Im ILIAS-Kurs B180 unter „Tutorien“, Di 13.10. 16:00 bis So 25.10. 23:59, first come, first served, nur eine Gruppe. Raum laut ILIAS seit 19.10.: Hörsaal 23, Kupferbau; maßgeblich ist ILIAS.",
+   "raum": "",
+   "anmeldung": "Im ILIAS-Kurs B180 unter „Tutorien“, Di 13.10. 16:00 bis So 25.10. 23:59, first come, first served, nur eine Gruppe. Raum laut ILIAS seit 19.10.: Hörsaal 23, Kupferbau (Alma: kein Raum).",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-28",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-19"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-b180-tutorium-4",
@@ -259,14 +259,14 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal 06 (Neue Aula)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-20",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-2",
@@ -278,14 +278,14 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-21",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-3",
@@ -297,14 +297,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 06 (Neue Aula)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-20",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-4",
@@ -316,14 +316,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-20",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-5",
@@ -335,14 +335,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-21",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-6",
@@ -354,14 +354,14 @@
    "bis": "16:00",
    "ct": true,
    "raum": "Hörsaal 11 (Universitätskasse u.a.)",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-21",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-e101-uebung-7",
@@ -373,14 +373,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal 7 (Alte Archäologie - ESSC (Exchange Student Service Center))",
-   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, ab Mi 14.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
+   "anmeldung": "Über ILIAS (Kurs E101), nicht über Alma, Mi 14.10., 15:00 bis Fr 30.10., 15:00; first come, first served, nur eine Gruppe. Gruppennummern in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-22",
     "bis": "2027-02-04"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s100-tutorium-1",
@@ -582,14 +582,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-19",
     "bis": "2027-02-01"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-2",
@@ -601,14 +601,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-20",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-3",
@@ -620,14 +620,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal Keplerstr. 001 (OSA-Keplerstr.)",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-21",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-4",
@@ -639,14 +639,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal S320 (Hölderlinstraße/Sigwartstraße)",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-21",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-5",
@@ -658,14 +658,14 @@
    "bis": "10:00",
    "ct": true,
    "raum": "Hörsaal 23 (Kupferbau)",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-22",
     "bis": "2027-02-04"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-6",
@@ -677,14 +677,14 @@
    "bis": "18:00",
    "ct": true,
    "raum": "Hörsaal 23 (Kupferbau)",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-22",
     "bis": "2027-02-04"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   },
   {
    "id": "ws-2026-27-s110-tutorium-7",
@@ -696,14 +696,14 @@
    "bis": "12:00",
    "ct": true,
    "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, ab Mo 19.10., 17:00; nur eine Gruppe.",
+   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-23",
     "bis": "2027-02-05"
    },
-   "geprueft": "2026-10-17"
+   "geprueft": "2026-10-20"
   }
  ]
 }

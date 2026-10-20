@@ -1,17 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-19",
+ "stand": "2026-10-20",
  "angebote": [
-  {
-   "id": "vortrag-136218",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Einführung in die Vorlesungsreihe & Vortrag: Provenienz, Restitution und (Un-)Recht im Kontext von kolonialem Kulturgüt…",
-   "datum": "2026-10-19",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/einfuehrung-in-die-vorlesungsreihe-vortrag-provenienz-restitution-und-un-recht-im-kontext-von-kolonialem-kulturgueterraub/"
-  },
   {
    "id": "vortrag-136266",
    "kategorie": "vortrag",
@@ -643,16 +633,6 @@
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
   },
   {
-   "id": "vortrag-136254",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Forgotten Histories: Tracing the lives and postmortem treatment of infants in anatomical collections, a case study",
-   "datum": "2026-12-14",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/forgotten-histories-tracing-the-lives-and-postmortem-treatment-of-infants-in-anatomical-collections-a-case-study/"
-  },
-  {
    "id": "vortrag-137487",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -661,6 +641,26 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/forgotten-histories-tracing-the-lives-and-postmortem-treatment-of-infants-in-anatomical-collections-a-case-study-1/"
+  },
+  {
+   "id": "vortrag-136287",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Sicher, resilient und nachhaltig? Wie Wissenschaft „Zukunft“ herstellt",
+   "datum": "2026-12-15",
+   "von": "18:15",
+   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/sicher-resilient-und-nachhaltig-wie-wissenschaft-zukunft-herstellt/"
+  },
+  {
+   "id": "vortrag-136353",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Initiative Faith in Democracy. Mobilizing faith to defend democracy – Eine Perspektive aus der Praxis",
+   "datum": "2026-12-15",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/initiative-faith-in-democracy-mobilizing-faith-to-defend-democracy-eine-perspektive-aus-der-praxis/"
   }
  ]
 }

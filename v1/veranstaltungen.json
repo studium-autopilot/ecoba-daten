@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-18",
+ "stand": "2026-10-20",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -273,7 +273,7 @@
     "von": "2026-10-28",
     "bis": "2027-02-03"
    },
-   "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
+   "raum": "",
    "ausfall": [
     "2026-12-23",
     "2026-12-30",
