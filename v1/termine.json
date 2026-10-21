@@ -439,21 +439,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-19-data-science-lab-s110-startet",
-   "titel": "Data Science Lab S110 startet – Datenanalyse mit R per Zoom",
-   "datum": "2026-10-19",
-   "bis": "2026-10-23",
-   "uhrzeit": "",
-   "ort": "online per Zoom · ILIAS-Kurs S110, Ordner 03 - Data Science Lab",
-   "kategorie": "Lehre",
-   "status": "geschätzt",
-   "code": "S110",
-   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
-   "quelle_text": "",
-   "info": "Erste Sitzung des Data Science Lab in S110, eines wöchentlichen Online-Formats zur Datenanalyse mit R. Teilnahme per Zoom oder später über die Aufzeichnung im ILIAS-Kurs.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-19-fachschaftssitzung",
    "titel": "Fachschaftssitzung",
    "datum": "2026-10-19",
@@ -632,6 +617,21 @@
    "quelle_url": "https://www.ffwtuebingen.de/blank-3",
    "quelle_text": "",
    "info": "Party der Fachschaft. Teilnahme nur mit Ticket.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-10-19-data-science-lab-s110-startet",
+   "titel": "Data Science Lab S110 startet – Datenanalyse mit R per Zoom",
+   "datum": "2026-10-23",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 14:15 · online per Zoom · ILIAS-Kurs S110, Ordner 03 - Data Science Lab",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "S110",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
+   "quelle_text": "",
+   "info": "Erste Sitzung des Data Science Lab in S110, eines wöchentlichen Online-Formats zur Datenanalyse mit R. Teilnahme per Zoom oder später über die Aufzeichnung im ILIAS-Kurs.",
    "geprueft": ""
   },
   {
