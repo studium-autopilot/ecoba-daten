@@ -1,18 +1,18 @@
 {
  "schema": 1,
- "erstellt": "2026-10-21T04:46:03Z",
+ "erstellt": "2026-10-21T07:42:57Z",
  "dateien": {
   "termine.json": {
-   "sha256": "d30a06494766a762f9a0226dbe7deda16e9e53468d7f7935e29f6fd62fc812b4",
-   "groesse": 88183
+   "sha256": "92da186a3ebd9b580503cd05b8e47cd6c239a70cd697bcc6e8439133c66c1bfa",
+   "groesse": 88182
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
    "groesse": 9988
   },
   "gruppen.json": {
-   "sha256": "cdbe7502605202ba264cbf427767aaed99637cc0076dab0c82713b38707cafb7",
-   "groesse": 24321
+   "sha256": "73c4465b40facc56c2c4cba00b7964285b575db5927d8d43aa805003db67c4d8",
+   "groesse": 24354
   },
   "angebote.json": {
    "sha256": "c83231ceb2cea75296b63bf4a3ce27d0db8ca3506549689045334de324a1a651",

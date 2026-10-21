@@ -601,14 +601,14 @@
    "bis": "14:00",
    "ct": true,
    "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "anmeldung": "Im ILIAS-Kurs S110 unter „02 - Tutorien“, Fr 23.10., 17:00 bis Do 29.10., 23:59; nur eine Gruppe.",
+   "anmeldung": "Beim Lesen am 21.10.2026 im ILIAS-Kurs S110 nicht mehr unter den Tutorien (dort sechs Gruppen, neu nummeriert); maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46222&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-20",
     "bis": "2027-02-02"
    },
-   "geprueft": "2026-10-20"
+   "geprueft": "2026-10-21"
   },
   {
    "id": "ws-2026-27-s110-tutorium-3",
