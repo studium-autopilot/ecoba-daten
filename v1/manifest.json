@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-21T08:39:21Z",
+ "erstellt": "2026-10-21T18:22:03Z",
  "dateien": {
   "termine.json": {
    "sha256": "f8f8cda19f2adcbb9f2b614d86cf31524a3989949f6beadde0b3c7e4a49e4819",
@@ -27,14 +27,14 @@
    "groesse": 24332
   }
  },
- "plugin_aktuell": "0.5.6",
+ "plugin_aktuell": "0.5.7",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.5.6",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.6/",
-  "sha256": "77a23cf707d9f0f6ee4f98b05c93aec67d43509dc529a574462816308f034efb",
-  "notiz": "Zusammenfassen schreibt kürzere Notizen: 3 bis 5 Punkte mit Stichwort und Seiten, keine doppelten To-dos."
+  "version": "0.5.7",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.7/",
+  "sha256": "1b2456f04b8bf87e90e589503e65be480244d16e7b6de484c5ad4ecc939b94ce",
+  "notiz": "Mit eigenem Server gleicht dein Tresor zwischen Windows, iPhone und iPad ab. Zusammenfassen liest die PDF selbst. Neu laden klappt wieder auf allen Geräten."
  },
  "abdeckung": {
   "stand": "2026-10-21",
