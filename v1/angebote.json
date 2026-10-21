@@ -1,27 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-20",
+ "stand": "2026-10-21",
  "angebote": [
-  {
-   "id": "vortrag-136266",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Die Werte unterschiedlichen Wissens in der und für die Nachhaltige Entwicklung",
-   "datum": "2026-10-20",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/die-werte-unterschiedlichen-wissens-in-der-und-fuer-die-nachhaltige-entwicklung/"
-  },
-  {
-   "id": "vortrag-136302",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Religiöse Rechte in Deutschland",
-   "datum": "2026-10-20",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/religioese-rechte-in-deutschland/"
-  },
   {
    "id": "vortrag-136368",
    "kategorie": "vortrag",
@@ -661,6 +641,16 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/initiative-faith-in-democracy-mobilizing-faith-to-defend-democracy-eine-perspektive-aus-der-praxis/"
+  },
+  {
+   "id": "vortrag-136392",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Novgorod",
+   "datum": "2026-12-16",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/novgorod/"
   }
  ]
 }

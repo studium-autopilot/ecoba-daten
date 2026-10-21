@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-18",
+ "stand": "2026-10-20",
  "module": [
   {
    "code": "B110",
@@ -96,6 +96,769 @@
      "nr": "VI",
      "titel": "Jahresabschlussanalyse",
      "folien": 6
+    }
+   ]
+  },
+  {
+   "code": "E101",
+   "semester": "WS 2026/27",
+   "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), Folien 02 S. 1 und 8 (Einheit 2); Einheiten 3–15 vorläufig",
+   "stand": "2026-10-20",
+   "vorlaeufig": true,
+   "kapitel": [
+    {
+     "nr": "1",
+     "titel": "Die kapitalistische Revolution",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/01.html",
+     "teile": [
+      {
+       "nr": "1.1",
+       "titel": "Einkommensungleichheit"
+      },
+      {
+       "nr": "1.2",
+       "titel": "Messung von Einkommen und Lebensstandard"
+      },
+      {
+       "nr": "1.3",
+       "titel": "Der Hockeyschläger der Geschichte: Wachstum des Einkommens"
+      },
+      {
+       "nr": "1.4",
+       "titel": "Die permanente technologische Revolution"
+      },
+      {
+       "nr": "1.5",
+       "titel": "Die Wirtschaft und die Umwelt"
+      },
+      {
+       "nr": "1.6",
+       "titel": "Kapitalismus definiert: Privateigentum, Märkte und Unternehmen"
+      },
+      {
+       "nr": "1.7",
+       "titel": "Der Kapitalismus als Wirtschaftssystem"
+      },
+      {
+       "nr": "1.8",
+       "titel": "Die Vorteile der Spezialisierung"
+      },
+      {
+       "nr": "1.9",
+       "titel": "Kapitalismus, Kausalität und der Hockeyschläger der Geschichte"
+      }
+     ]
+    },
+    {
+     "nr": "2",
+     "titel": "Technologie, Bevölkerung und Wachstum",
+     "folien": 2,
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/02.html",
+     "teile": [
+      {
+       "nr": "2.1",
+       "titel": "Wirtschafts- und Geschichtswissenschaften und die Industrielle Revolution"
+      },
+      {
+       "nr": "2.2",
+       "titel": "Ökonomische Modelle: Wie man mehr sieht, wenn man weniger betrachtet"
+      },
+      {
+       "nr": "2.3",
+       "titel": "Grundlegende Konzepte: Preise, Kosten und Innovationsrenten"
+      },
+      {
+       "nr": "2.4",
+       "titel": "Modellierung einer dynamischen Wirtschaft: Technologie und Kosten"
+      },
+      {
+       "nr": "2.5",
+       "titel": "Modellierung einer dynamischen Wirtschaft: Innovation und Gewinn"
+      },
+      {
+       "nr": "2.6",
+       "titel": "Die Britische Industrielle Revolution und Anreize für neue Technologien"
+      },
+      {
+       "nr": "2.7",
+       "titel": "Malthus’sche Ökonomie: Abnehmendes Durchschnittsprodukt der Arbeit"
+      },
+      {
+       "nr": "2.8",
+       "titel": "Malthus’sche Ökonomie: Die Bevölkerung wächst, wenn der Lebensstandard steigt"
+      },
+      {
+       "nr": "2.9",
+       "titel": "Die Malthus’sche Falle und langfristige wirtschaftliche Stagnation"
+      },
+      {
+       "nr": "2.10",
+       "titel": "Ausweg aus der Malthus’schen Stagnation"
+      }
+     ]
+    },
+    {
+     "nr": "3",
+     "titel": "Knappheit, Arbeit und Entscheidungen",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/03.html",
+     "teile": [
+      {
+       "nr": "3.1",
+       "titel": "Arbeit und Produktion"
+      },
+      {
+       "nr": "3.2",
+       "titel": "Präferenzen"
+      },
+      {
+       "nr": "3.3",
+       "titel": "Opportunitätskosten"
+      },
+      {
+       "nr": "3.4",
+       "titel": "Die realisierbare Menge"
+      },
+      {
+       "nr": "3.5",
+       "titel": "Entscheidungsfindung und Knappheit"
+      },
+      {
+       "nr": "3.6",
+       "titel": "Arbeitszeiten und Wirtschaftswachstum"
+      },
+      {
+       "nr": "3.7",
+       "titel": "Einkommens- und Substitutionseffekte auf Arbeitszeiten und Freizeit"
+      },
+      {
+       "nr": "3.8",
+       "titel": "Ist das ein gutes Modell?"
+      },
+      {
+       "nr": "3.9",
+       "titel": "Erklärung unserer Arbeitszeiten: Veränderungen im Laufe der Zeit"
+      },
+      {
+       "nr": "3.10",
+       "titel": "Erklärung unserer Arbeitszeiten: Unterschiede zwischen den Ländern"
+      }
+     ]
+    },
+    {
+     "nr": "4",
+     "titel": "Soziale Interaktionen",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/04.html",
+     "teile": [
+      {
+       "nr": "4.1",
+       "titel": "Soziale Interaktionen: Spieltheorie"
+      },
+      {
+       "nr": "4.2",
+       "titel": "Gleichgewicht im Spiel der unsichtbaren Hand"
+      },
+      {
+       "nr": "4.3",
+       "titel": "Das Gefangenendilemma"
+      },
+      {
+       "nr": "4.4",
+       "titel": "Soziale Präferenzen: Altruismus"
+      },
+      {
+       "nr": "4.5",
+       "titel": "Altruistische Präferenzen im Gefangenendilemma"
+      },
+      {
+       "nr": "4.6",
+       "titel": "Öffentliche Güter, Free-riding und wiederholte Interaktion"
+      },
+      {
+       "nr": "4.7",
+       "titel": "Beiträge zum öffentlichen Gut und Bestrafung durch Gleichgestellte"
+      },
+      {
+       "nr": "4.8",
+       "titel": "Verhaltensexperimente im Labor und im Feld"
+      },
+      {
+       "nr": "4.9",
+       "titel": "Kooperation, Verhandlung, Interessenkonflikte und soziale Normen"
+      },
+      {
+       "nr": "4.10",
+       "titel": "Einen Kuchen teilen (oder nichts davon zu bekommen)"
+      },
+      {
+       "nr": "4.11",
+       "titel": "Faire Landwirtinnen und Landwirte, eigennützige Studierende?"
+      },
+      {
+       "nr": "4.12",
+       "titel": "Wettbewerb im Ultimatum-Spiel"
+      },
+      {
+       "nr": "4.13",
+       "titel": "Soziale Interaktionen: Konflikte bei der Wahl zwischen Nash-Gleichgewichten"
+      }
+     ]
+    },
+    {
+     "nr": "5",
+     "titel": "Eigentum und Macht: Gegenseitige Vorteile und Konflikte",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/05.html",
+     "teile": [
+      {
+       "nr": "5.1",
+       "titel": "Institutionen und Macht"
+      },
+      {
+       "nr": "5.2",
+       "titel": "Bewertung von Institutionen und Ergebnissen: Das Pareto-Kriterium"
+      },
+      {
+       "nr": "5.3",
+       "titel": "Bewertung von Institutionen und Ergebnissen: Fairness"
+      },
+      {
+       "nr": "5.4",
+       "titel": "Ein Modell der Wahl und des Konflikts"
+      },
+      {
+       "nr": "5.5",
+       "titel": "Technisch mögliche Allokationen"
+      },
+      {
+       "nr": "5.6",
+       "titel": "Gewaltsam auferlegte Allokationen"
+      },
+      {
+       "nr": "5.7",
+       "titel": "Wirtschaftlich mögliche Allokationen und Wohlfahrt"
+      },
+      {
+       "nr": "5.8",
+       "titel": "Die Pareto-Effizienz-Kurve und die Verteilung der Wohlfahrt"
+      },
+      {
+       "nr": "5.9",
+       "titel": "Politik: Teilen der Wohlfahrt"
+      },
+      {
+       "nr": "5.10",
+       "titel": "Verhandlung über eine Pareto-effiziente Aufteilung der Wohlfahrt"
+      },
+      {
+       "nr": "5.11",
+       "titel": "Angela und Bruno: Die Moral von der Geschicht"
+      },
+      {
+       "nr": "5.12",
+       "titel": "Wirtschaftliche Ungleichheit messen"
+      },
+      {
+       "nr": "5.13",
+       "titel": "Eine Politik zur Umverteilung der Wohlfahrt und zur Steigerung der Effizienz"
+      }
+     ]
+    },
+    {
+     "nr": "6",
+     "titel": "Das Unternehmen: Eigentümer:innen, das Management und Beschäftigte",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/06.html",
+     "teile": [
+      {
+       "nr": "6.1",
+       "titel": "Unternehmen, Märkte und Arbeitsteilung"
+      },
+      {
+       "nr": "6.2",
+       "titel": "Das Geld anderer Personen: Die Trennung von Eigentum und Kontrolle"
+      },
+      {
+       "nr": "6.3",
+       "titel": "Die Arbeitskraft anderer Personen"
+      },
+      {
+       "nr": "6.4",
+       "titel": "Beschäftigungsrenten"
+      },
+      {
+       "nr": "6.5",
+       "titel": "Determinanten der Beschäftigungsrente"
+      },
+      {
+       "nr": "6.6",
+       "titel": "Arbeit und Lohn: Das Arbeitsanreizmodell"
+      },
+      {
+       "nr": "6.7",
+       "titel": "Löhne, Anstrengung und Einkommen im Arbeitsanreizmodell"
+      },
+      {
+       "nr": "6.8",
+       "titel": "Das Modell in die Praxis umsetzen: Eigentümer:innen, Beschäftigte und die Wirtschaft"
+      },
+      {
+       "nr": "6.9",
+       "titel": "Eine andere Art der Unternehmensorganisation"
+      },
+      {
+       "nr": "6.10",
+       "titel": "Prinzipale und Agenten: Interaktionen bei unvollständigen Verträgen"
+      }
+     ]
+    },
+    {
+     "nr": "7",
+     "titel": "Das Unternehmen und seine Kundschaft",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/07.html",
+     "teile": [
+      {
+       "nr": "7.1",
+       "titel": "Der richtige Preis für Frühstücksflocken"
+      },
+      {
+       "nr": "7.2",
+       "titel": "Skaleneffekte und Kostenvorteile der Massenproduktion"
+      },
+      {
+       "nr": "7.3",
+       "titel": "Produktion: Die Kostenfunktion für Beautiful Cars"
+      },
+      {
+       "nr": "7.4",
+       "titel": "Nachfrage- und Isogewinnkurven: Beautiful Cars"
+      },
+      {
+       "nr": "7.5",
+       "titel": "Festlegen von Preis und Menge zur Gewinnmaximierung"
+      },
+      {
+       "nr": "7.6",
+       "titel": "Betrachtung der Gewinnmaximierung als Grenzerlös und Grenzkosten"
+      },
+      {
+       "nr": "7.7",
+       "titel": "Der Nutzen aus Handel"
+      },
+      {
+       "nr": "7.8",
+       "titel": "Die Elastizität der Nachfrage"
+      },
+      {
+       "nr": "7.9",
+       "titel": "Verwendung von Nachfrageelastizitäten in der Politik"
+      },
+      {
+       "nr": "7.10",
+       "titel": "Preisbildung, Wettbewerb und Marktmacht"
+      },
+      {
+       "nr": "7.11",
+       "titel": "Produktauswahl, -innovation und -werbung"
+      },
+      {
+       "nr": "7.12",
+       "titel": "Preise, Kosten und Marktversagen"
+      }
+     ]
+    },
+    {
+     "nr": "8",
+     "titel": "Angebot und Nachfrage: Preisbildung und Wettbewerb auf Märkten",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/08.html",
+     "teile": [
+      {
+       "nr": "8.1",
+       "titel": "Einkaufen und Verkaufen: Angebot und Nachfrage"
+      },
+      {
+       "nr": "8.2",
+       "titel": "Der Markt und der Gleichgewichtspreis"
+      },
+      {
+       "nr": "8.3",
+       "titel": "Preisnehmende Unternehmen"
+      },
+      {
+       "nr": "8.4",
+       "titel": "Angebot und Gleichgewicht auf dem Markt"
+      },
+      {
+       "nr": "8.5",
+       "titel": "Marktgleichgewicht: Gewinne aus Handel, Allokation und Verteilung"
+      },
+      {
+       "nr": "8.6",
+       "titel": "Veränderungen von Angebot und Nachfrage"
+      },
+      {
+       "nr": "8.7",
+       "titel": "Die Auswirkungen von Steuern"
+      },
+      {
+       "nr": "8.8",
+       "titel": "Das Modell des vollkommenen Wettbewerbs"
+      },
+      {
+       "nr": "8.9",
+       "titel": "Suche nach Marktgleichgewichten"
+      },
+      {
+       "nr": "8.10",
+       "titel": "Preissetzende und preisnehmende Unternehmen"
+      }
+     ]
+    },
+    {
+     "nr": "9",
+     "titel": "Der Arbeitsmarkt: Löhne, Gewinne und Arbeitslosigkeit",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/09.html",
+     "teile": [
+      {
+       "nr": "9.1",
+       "titel": "Die Lohnsetzungskurve, die Preissetzungskurve und der Arbeitsmarkt"
+      },
+      {
+       "nr": "9.2",
+       "titel": "Die Messung der Wirtschaft: Beschäftigung und Arbeitslosigkeit"
+      },
+      {
+       "nr": "9.3",
+       "titel": "Die Lohnsetzungskurve: Beschäftigung und Reallöhne"
+      },
+      {
+       "nr": "9.4",
+       "titel": "Die Einstellungsentscheidung des Unternehmens"
+      },
+      {
+       "nr": "9.5",
+       "titel": "Die Preissetzungskurve: Löhne und Gewinne in der gesamten Wirtschaft"
+      },
+      {
+       "nr": "9.6",
+       "titel": "Löhne, Gewinne und Arbeitslosigkeit in der gesamten Wirtschaft"
+      },
+      {
+       "nr": "9.7",
+       "titel": "Wie Veränderungen in der Nachfrage nach Waren und Dienstleistungen die Arbeitslosigkeit beeinflussen"
+      },
+      {
+       "nr": "9.8",
+       "titel": "Arbeitsmarktgleichgewicht und die Verteilung des Einkommens"
+      },
+      {
+       "nr": "9.9",
+       "titel": "Arbeitsangebot, Arbeitsnachfrage und Verhandlungsmacht"
+      },
+      {
+       "nr": "9.10",
+       "titel": "Gewerkschaften: Verhandelte Löhne und der Effekt der Gewerkschaftsstimme"
+      },
+      {
+       "nr": "9.11",
+       "titel": "Arbeitsmarktpolitik zur Bekämpfung von Arbeitslosigkeit und Ungleichheit"
+      },
+      {
+       "nr": "9.12",
+       "titel": "Rückblick: Baristas und Brotmärkte"
+      }
+     ]
+    },
+    {
+     "nr": "10",
+     "titel": "Banken, Geld und der Kreditmarkt",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/10.html",
+     "teile": [
+      {
+       "nr": "10.1",
+       "titel": "Geld und Vermögen"
+      },
+      {
+       "nr": "10.2",
+       "titel": "Darlehensaufnahme: Den Konsum zeitlich vorverlegen"
+      },
+      {
+       "nr": "10.3",
+       "titel": "Ungeduld und abnehmende Grenzerträge des Konsums"
+      },
+      {
+       "nr": "10.4",
+       "titel": "Darlehensaufnahme ermöglicht Glättung, da der Konsum in die Gegenwart verlagert werden kann"
+      },
+      {
+       "nr": "10.5",
+       "titel": "Darlehensvergabe und Lagerung: Glättung und Verschiebung des Konsums in die Zukunft"
+      },
+      {
+       "nr": "10.6",
+       "titel": "Investitionen: Eine weitere Möglichkeit, den Konsum in die Zukunft zu verlagern"
+      },
+      {
+       "nr": "10.7",
+       "titel": "Vermögenswerte, Schulden und Nettovermögen"
+      },
+      {
+       "nr": "10.8",
+       "titel": "Banken, Geld und die Zentralbank"
+      },
+      {
+       "nr": "10.9",
+       "titel": "Die Zentralbank, der Geldmarkt und Zinssätze"
+      },
+      {
+       "nr": "10.10",
+       "titel": "Das Bankgeschäft und die Bilanzen der Banken"
+      },
+      {
+       "nr": "10.11",
+       "titel": "Der Leitzins der Zentralbank kann die Ausgaben in der Wirtschaft beeinflussen"
+      },
+      {
+       "nr": "10.12",
+       "titel": "Beschränkungen auf dem Kreditmarkt: Ein Prinzipal–Agent-Problem"
+      },
+      {
+       "nr": "10.13",
+       "titel": "Ungleichheit: darlehensgebende, darlehensnehmende und von den Kreditmärkten ausgeschlossene Personen"
+      }
+     ]
+    },
+    {
+     "nr": "11",
+     "titel": "Rent-Seeking, Preissetzung und Marktdynamik",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/11.html",
+     "teile": [
+      {
+       "nr": "11.1",
+       "titel": "Um Renten zu erzielen ändern Menschen die Preise und führen so zu einem Marktgleichgewicht"
+      },
+      {
+       "nr": "11.2",
+       "titel": "Wie die Organisation des Marktes die Preise beeinflussen kann"
+      },
+      {
+       "nr": "11.3",
+       "titel": "Kurzfristige und langfristige Gleichgewichte"
+      },
+      {
+       "nr": "11.4",
+       "titel": "Preise, Rent-Seeking und Marktdynamiken in der Praxis: Ölpreise"
+      },
+      {
+       "nr": "11.5",
+       "titel": "Der Wert eines Vermögenswertes: Grundlagen"
+      },
+      {
+       "nr": "11.6",
+       "titel": "Veränderungen in Angebot und Nachfrage für finanzielles Vermögen"
+      },
+      {
+       "nr": "11.7",
+       "titel": "Preisblasen auf Vermögensmärkten"
+      },
+      {
+       "nr": "11.8",
+       "titel": "Modellierung von Preisblasen und Crashs"
+      },
+      {
+       "nr": "11.9",
+       "titel": "Märkte ohne Markträumung: Rationierung, Warteschlangen und Sekundärmärkte"
+      },
+      {
+       "nr": "11.10",
+       "titel": "Märkte mit kontrollierten Preisen"
+      },
+      {
+       "nr": "11.11",
+       "titel": "Die Rolle der ökonomischen Rente"
+      }
+     ]
+    },
+    {
+     "nr": "12",
+     "titel": "Märkte, Effizienz und öffentliche Politik",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/12.html",
+     "teile": [
+      {
+       "nr": "12.1",
+       "titel": "Marktversagen: Externe Effekte der Umweltverschmutzung"
+      },
+      {
+       "nr": "12.2",
+       "titel": "Externe Effekte und Verhandlung"
+      },
+      {
+       "nr": "12.3",
+       "titel": "Externe Effekte: Politische Maßnahmen und Einkommensverteilung"
+      },
+      {
+       "nr": "12.4",
+       "titel": "Eigentumsrechte, Verträge und Marktversagen"
+      },
+      {
+       "nr": "12.5",
+       "titel": "Öffentliche Güter"
+      },
+      {
+       "nr": "12.6",
+       "titel": "Fehlende Märkte: Versicherungen und Zitronen"
+      },
+      {
+       "nr": "12.7",
+       "titel": "Unvollständige Verträge und externe Effekte auf Kreditmärkten"
+      },
+      {
+       "nr": "12.8",
+       "titel": "Die Grenzen der Märkte"
+      },
+      {
+       "nr": "12.9",
+       "titel": "Marktversagen und Regierungspolitik"
+      }
+     ]
+    },
+    {
+     "nr": "13",
+     "titel": "Konjunkturschwankungen und Arbeitslosigkeit",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/13.html",
+     "teile": [
+      {
+       "nr": "13.1",
+       "titel": "Wachstum und Schwankungen"
+      },
+      {
+       "nr": "13.2",
+       "titel": "Wachstum der Wirtschaft und Entwicklung der Arbeitslosigkeit"
+      },
+      {
+       "nr": "13.3",
+       "titel": "Messung der Gesamtwirtschaft"
+      },
+      {
+       "nr": "13.4",
+       "titel": "Die Messung der Gesamtwirtschaft: Die Komponenten des BIP"
+      },
+      {
+       "nr": "13.5",
+       "titel": "Wie Haushalte mit Schwankungen umgehen"
+      },
+      {
+       "nr": "13.6",
+       "titel": "Warum hat der Konsum weniger ausgeprägte Schwankungen?"
+      },
+      {
+       "nr": "13.7",
+       "titel": "Warum sind Investitionen unbeständig?"
+      },
+      {
+       "nr": "13.8",
+       "titel": "Die Wirtschaft messen: Inflation"
+      }
+     ]
+    },
+    {
+     "nr": "14",
+     "titel": "Arbeitslosigkeit und Fiskalpolitik",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/14.html",
+     "teile": [
+      {
+       "nr": "14.1",
+       "titel": "Die Übertragung von Schocks: Der Multiplikatoreffekt"
+      },
+      {
+       "nr": "14.2",
+       "titel": "Das Multiplikatormodell"
+      },
+      {
+       "nr": "14.3",
+       "titel": "Zielvermögen, Sicherheiten und Konsumausgaben der privaten Haushalte"
+      },
+      {
+       "nr": "14.4",
+       "titel": "Investitionsausgaben"
+      },
+      {
+       "nr": "14.5",
+       "titel": "Das Multiplikatormodell: Einbeziehung der Regierung und der Nettoexporte"
+      },
+      {
+       "nr": "14.6",
+       "titel": "Fiskalpolitik: Wie Regierungen Schwankungen dämpfen und verstärken können"
+      },
+      {
+       "nr": "14.7",
+       "titel": "Der Multiplikator und wirtschaftspolitische Entscheidungen"
+      },
+      {
+       "nr": "14.8",
+       "titel": "Die Finanzen der Regierung"
+      },
+      {
+       "nr": "14.9",
+       "titel": "Fiskalpolitik und der Rest der Welt"
+      },
+      {
+       "nr": "14.10",
+       "titel": "Aggregierte Nachfrage und Arbeitslosigkeit"
+      }
+     ]
+    },
+    {
+     "nr": "15",
+     "titel": "Inflation, Arbeitslosigkeit und Geldpolitik",
+     "url": "https://books.core-econ.org/the-economy-v1/book/de/text/15.html",
+     "teile": [
+      {
+       "nr": "15.1",
+       "titel": "Was ist so schlimm an der Inflation?"
+      },
+      {
+       "nr": "15.2",
+       "titel": "Inflation resultiert aus widersprüchlichen und inkonsistenten Ansprüchen an den Output"
+      },
+      {
+       "nr": "15.3",
+       "titel": "Inflation, der Konjunkturzyklus und die Phillipskurve"
+      },
+      {
+       "nr": "15.4",
+       "titel": "Inflation und Arbeitslosigkeit: Einschränkungen und Präferenzen"
+      },
+      {
+       "nr": "15.5",
+       "titel": "Was ist mit der Phillipskurve passiert?"
+      },
+      {
+       "nr": "15.6",
+       "titel": "Erwartete Inflation und die Phillipskurve"
+      },
+      {
+       "nr": "15.7",
+       "titel": "Angebotsschocks und Inflation"
+      },
+      {
+       "nr": "15.8",
+       "titel": "Geldpolitik"
+      },
+      {
+       "nr": "15.9",
+       "titel": "Der Wechselkurskanal der Geldpolitik"
+      },
+      {
+       "nr": "15.10",
+       "titel": "Nachfrageschocks und nachfrageseitige Maßnahmen"
+      },
+      {
+       "nr": "15.11",
+       "titel": "Makroökonomische Politik vor der globalen Finanzkrise: Inflationstargeting"
+      },
+      {
+       "nr": "15.12",
+       "titel": "Ein weiterer Grund für steigende Inflation bei niedriger Arbeitslosigkeit"
+      }
+     ]
     }
    ]
   },

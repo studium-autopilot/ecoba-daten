@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-20",
+ "stand": "2026-10-21",
  "gruppen": [
   {
    "id": "ws-2026-27-b110-tutorium-1",
@@ -182,15 +182,15 @@
    "von": "14:00",
    "bis": "16:00",
    "ct": true,
-   "raum": "",
-   "anmeldung": "Im ILIAS-Kurs B180 unter „Tutorien“, Di 13.10. 16:00 bis So 25.10. 23:59, first come, first served, nur eine Gruppe. Raum laut ILIAS seit 19.10.: Hörsaal 23, Kupferbau (Alma: kein Raum).",
+   "raum": "Hörsaal 23 (Kupferbau)",
+   "anmeldung": "Im ILIAS-Kurs B180 unter „Tutorien“, Di 13.10. 16:00 bis So 25.10. 23:59, first come, first served, nur eine Gruppe. Zeiten in ILIAS teils anders als in Alma, maßgeblich ist ILIAS.",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78898&periodId=237",
    "semester": "WS 2026/27",
    "zeitraum": {
     "von": "2026-10-28",
     "bis": "2027-02-03"
    },
-   "geprueft": "2026-10-20"
+   "geprueft": "2026-10-21"
   },
   {
    "id": "ws-2026-27-b180-tutorium-4",
