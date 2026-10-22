@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-21T18:22:03Z",
+ "erstellt": "2026-10-22T04:37:45Z",
  "dateien": {
   "termine.json": {
    "sha256": "f8f8cda19f2adcbb9f2b614d86cf31524a3989949f6beadde0b3c7e4a49e4819",
@@ -15,8 +15,8 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "c83231ceb2cea75296b63bf4a3ce27d0db8ca3506549689045334de324a1a651",
-   "groesse": 28261
+   "sha256": "77bd7101361e300fc4d4c13b45bf342f76f7dc686eee6971df50f224e80c058b",
+   "groesse": 28428
   },
   "veranstaltungen.json": {
    "sha256": "0eaab5852870e20e58fed9b39cb9403d4701eafe74d0f01a6bb48fe4235d7774",
@@ -37,7 +37,7 @@
   "notiz": "Mit eigenem Server gleicht dein Tresor zwischen Windows, iPhone und iPad ab. Zusammenfassen liest die PDF selbst. Neu laden klappt wieder auf allen Geräten."
  },
  "abdeckung": {
-  "stand": "2026-10-21",
+  "stand": "2026-10-22",
   "module": [
    "B110",
    "B180",

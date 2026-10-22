@@ -1,17 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-21",
+ "stand": "2026-10-22",
  "angebote": [
-  {
-   "id": "vortrag-136368",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Warschau – Kyjiv - Jerevan",
-   "datum": "2026-10-21",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/warschau-kyjiv-jerevan/"
-  },
   {
    "id": "welcome-f325eb5c38",
    "kategorie": "welcome",
@@ -651,6 +641,16 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/novgorod/"
+  },
+  {
+   "id": "vortrag-136437",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Klima, Umwelt und Gesundheit, am Beispiel der menschlichen Psyche. Planetary – Health – Forschung in Tübingen",
+   "datum": "2026-12-17",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/klima-umwelt-und-gesundheit-am-beispiel-der-menschlichen-psyche-planetary-health-forschung-in-tuebingen/"
   }
  ]
 }
