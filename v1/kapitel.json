@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-20",
+ "stand": "2026-10-22",
  "module": [
   {
    "code": "B110",
@@ -63,8 +63,8 @@
   {
    "code": "B180",
    "semester": "WS 2026/27",
-   "quelle": "Folien 00 Einführung, S. 6 (Veranstaltungsinhalte)",
-   "stand": "2026-10-18",
+   "quelle": "Folien 00 Einführung, S. 6 (Veranstaltungsinhalte); Folien 02, S. 4 (Gliederung Kapitel II)",
+   "stand": "2026-10-22",
    "kapitel": [
     {
      "nr": "I",
@@ -75,7 +75,30 @@
     {
      "nr": "II",
      "titel": "Finanzbuchhaltung",
-     "folien": 2
+     "seiten": 93,
+     "folien": 2,
+     "teile": [
+      {
+       "nr": "1",
+       "titel": "Buchführung"
+      },
+      {
+       "nr": "2",
+       "titel": "Doppelte Buchführung: Soll an Haben"
+      },
+      {
+       "nr": "3",
+       "titel": "Buchungskreislauf: Von der Buchführung zum Jahresabschluss"
+      },
+      {
+       "nr": "4",
+       "titel": "Weiterführende Buchungen"
+      },
+      {
+       "nr": "5",
+       "titel": "Vertiefung: Tutorium"
+      }
+     ]
     },
     {
      "nr": "III",
