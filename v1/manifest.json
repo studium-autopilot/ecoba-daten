@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-23T12:44:51Z",
+ "erstellt": "2026-10-23T17:47:09Z",
  "dateien": {
   "termine.json": {
    "sha256": "d55e5c27bb73d379fb4f1e62254a5f485ee5127955993dcd87890c75e972acba",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.5.9",
+ "plugin_aktuell": "0.6.0",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.5.9",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.9/",
-  "sha256": "322be93b6d2791e6b49138519fb9ffe1be752356078ad02d25a890670635bf12",
-  "notiz": "Eigener Server: Ein Platzsucher aus einer älteren Version bricht die Einrichtung nicht mehr ab, sondern wird ersetzt."
+  "version": "0.6.0",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.0/",
+  "sha256": "20dd65ad263d304c9c036f0301a53739700d0df26ac19cb16e47cc6f0f49f07a",
+  "notiz": "Neu: die Seite Postfach zeigt deine Uni-Mails direkt in Obsidian, dazu auf dem Dashboard, was sich seit deinem letzten Besuch geändert hat."
  },
  "abdeckung": {
   "stand": "2026-10-23",
