@@ -845,6 +845,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-30-belegung-freier-tcp-plaetze-per-mail-freiwillig",
+   "titel": "Belegung freier Plätze in TCP-Kursen per Mail (freiwillig) – überfachliche Kurse für Schlüsselqualifikationen",
+   "datum": "2026-10-30",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Mail an die Anmeldeverwaltung des TCP · Liste der freien Plätze auf der TCP-Seite",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
+   "quelle_text": "",
+   "info": "Nach der 2. Belegfrist sind in Kursen des Transdisciplinary Course Program noch Plätze frei, aufgeführt in einer Liste auf der TCP-Seite. Anmeldung per Mail an die Anmeldeverwaltung des TCP.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-02-fachschaftssitzung",
    "titel": "Fachschaftssitzung",
    "datum": "2026-11-02",

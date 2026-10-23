@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-22T14:54:39Z",
+ "erstellt": "2026-10-23T07:16:34Z",
  "dateien": {
   "termine.json": {
-   "sha256": "f81e602d2d1652a3cab08c881654219ef643eee6ed71141f133e241dbb0059b1",
-   "groesse": 90324
+   "sha256": "dbf1cefa8fe77eac3afc61b019fe64d64b03bf5ac3692d913357ab9bba3da415",
+   "groesse": 91185
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "77bd7101361e300fc4d4c13b45bf342f76f7dc686eee6971df50f224e80c058b",
-   "groesse": 28428
+   "sha256": "3ec74c349451d2faa170f5eeb2db27a180d97b157a4dcce8d0868450c0f0d4fd",
+   "groesse": 27909
   },
   "veranstaltungen.json": {
    "sha256": "0eaab5852870e20e58fed9b39cb9403d4701eafe74d0f01a6bb48fe4235d7774",
@@ -27,17 +27,17 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.5.8",
+ "plugin_aktuell": "0.5.9",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.5.8",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.8/",
-  "sha256": "12e502bf657d1507f4c9018aef2b36c8a28f0ae1b67dad9dfce6cdc8b155937f",
-  "notiz": "Offene Fragen stehen auf dem Dashboard nicht mehr bei den To-dos. Die ZIP ergibt beim Entpacken direkt deinen Tresor."
+  "version": "0.5.9",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.5.9/",
+  "sha256": "322be93b6d2791e6b49138519fb9ffe1be752356078ad02d25a890670635bf12",
+  "notiz": "Eigener Server: Ein Platzsucher aus einer älteren Version bricht die Einrichtung nicht mehr ab, sondern wird ersetzt."
  },
  "abdeckung": {
-  "stand": "2026-10-22",
+  "stand": "2026-10-23",
   "module": [
    "B110",
    "B180",

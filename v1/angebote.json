@@ -1,25 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-22",
+ "stand": "2026-10-23",
  "angebote": [
-  {
-   "id": "welcome-f325eb5c38",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Stadtführung Tübingen",
-   "datum": "2026-10-22",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
-  },
-  {
-   "id": "vortrag-136410",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Cyber-Mountain – KI im Wechselspiel von lokaler Wirkung und grenzüberscheitender Regulierung",
-   "datum": "2026-10-22",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/cyber-mountain-ki-im-wechselspiel-von-lokaler-wirkung-und-grenzueberscheitender-regulierung/"
-  },
   {
    "id": "ub-92d2bc1f46",
    "kategorie": "ub",
@@ -651,6 +633,14 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/klima-umwelt-und-gesundheit-am-beispiel-der-menschlichen-psyche-planetary-health-forschung-in-tuebingen/"
+  },
+  {
+   "id": "welcome-e821b547c7",
+   "kategorie": "welcome",
+   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
+   "titel": "Weihnachtsmarkt Esslingen",
+   "datum": "2026-12-18",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
   }
  ]
 }
