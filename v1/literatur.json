@@ -1,0 +1,493 @@
+{
+ "schema": 1,
+ "stand": "2026-10-22",
+ "module": [
+  {
+   "code": "B110",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-20",
+   "quelle": "B110 Folien 00 Einführung, S. 13",
+   "hinweis": "Alle nötigen Lehrmaterialien kommen über ILIAS. Wer ein Lehrbuch konsultieren will, dem empfiehlt die Vorlesung diese beiden.",
+   "beleg": {
+    "art": "Folien",
+    "nummer": 0,
+    "seite": 13
+   },
+   "werke": [
+    {
+     "id": "woehe",
+     "rolle": "Empfohlen",
+     "angabe": "Wöhe, Döring, Brösel: Einführung in die Allgemeine Betriebswirtschaftslehre, 28. Auflage, Vahlen",
+     "katalog": "190622675X",
+     "links": [
+      {
+       "text": "E-Book (Uni-Zugang)",
+       "url": "https://doi.org/10.15358/9783800675883"
+      }
+     ]
+    },
+    {
+     "id": "neus",
+     "rolle": "Empfohlen",
+     "angabe": "Neus: Einführung in die Betriebswirtschaftslehre aus institutionenökonomischer Sicht, 10. Auflage, Mohr Siebeck",
+     "katalog": "102504844X",
+     "links": [
+      {
+       "text": "E-Book (Uni-Zugang)",
+       "url": "https://doi.org/10.1628/978-3-16-156394-2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "B180",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-22",
+   "quelle": "B180 Folien 00 Einführung, S. 14; Folien 01, S. 23; Folien 02, S. 19, 88 und 91",
+   "hinweis": "Lehrbücher der Vorlesung; zu den einzelnen Kapiteln nennen die Folien die passenden Stellen.",
+   "beleg": {
+    "art": "Folien",
+    "nummer": 0,
+    "seite": 14
+   },
+   "werke": [
+    {
+     "id": "zimmermann",
+     "rolle": "Lehrbuch",
+     "angabe": "Zimmermann, Werner, Hitz (2024): Buchführung und Bilanzierung nach IFRS, 5. Auflage, München",
+     "spalte": "Zimmermann",
+     "hinweis": "Im UB-Katalog als „Buchführung und Bilanzierung nach IFRS und HGB“ (Pearson).",
+     "katalog": "1908505001",
+     "links": [
+      {
+       "text": "E-Book (Uni-Zugang)",
+       "url": "https://elibrary.pearson.de/book/99.150005/9783868945836"
+      }
+     ]
+    },
+    {
+     "id": "coenenberg",
+     "rolle": "Lehrbuch",
+     "angabe": "Coenenberg, Haller, Mattner, Schultze (2024): Einführung in das Rechnungswesen – Grundlagen der Buchführung und Bilanzierung, 9. Auflage, Stuttgart",
+     "spalte": "Coenenberg",
+     "katalog": "1888208805",
+     "links": [
+      {
+       "text": "E-Book (Uni-Zugang)",
+       "url": "https://doi.org/10.34156/9783791063034?locatt=mode:legacy"
+      }
+     ]
+    }
+   ],
+   "lesen": [
+    {
+     "zu": "I Gegenstand und Zweck des betrieblichen Rechnungswesens",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 23
+     },
+     "stellen": {
+      "zimmermann": "Kap. 1",
+      "coenenberg": "S. 3–22, 70–74"
+     }
+    },
+    {
+     "zu": "II Finanzbuchhaltung",
+     "stellen": {
+      "coenenberg": "S. 63–68, 114–117, 131–158, 209–212, 230–235"
+     }
+    }
+   ]
+  },
+  {
+   "code": "E101",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-21",
+   "quelle": "E101 Folien 01, S. 3; ILIAS-Kurs E101, Wichtige Informationen",
+   "beleg": {
+    "art": "Folien",
+    "nummer": 1,
+    "seite": 3
+   },
+   "kopf": "Sitzung",
+   "werke": [
+    {
+     "id": "core",
+     "rolle": "Lehrbuch",
+     "angabe": "CORE Team: Die Wirtschaft, deutsche Übersetzung des Open-Source-Lehrbuchs The Economy, kostenlos online",
+     "spalte": "CORE",
+     "hinweis": "Als PDF gibt es das Buch laut ILIAS-Kurs noch nicht.",
+     "links": [
+      {
+       "text": "Online lesen",
+       "url": "https://books.core-econ.org/the-economy-v1/book/de/text/0-3-contents.html"
+      },
+      {
+       "text": "Kapitel 1 und 2 als PDF",
+       "unterlage": {
+        "art": "Literatur",
+        "nummer": 1
+       }
+      }
+     ]
+    }
+   ],
+   "lesen": [
+    {
+     "zu": "Vorlesung 01",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 9
+     },
+     "stellen": {
+      "core": "Einheiten 1.1–1.9, 2.2"
+     }
+    },
+    {
+     "zu": "Übung 1",
+     "beleg": {
+      "art": "Übung",
+      "nummer": 1,
+      "seite": 1
+     },
+     "stellen": {
+      "core": "1.1–1.3, 1.6, 2.2"
+     }
+    },
+    {
+     "zu": "Vorlesung 02",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 2,
+      "seite": 8
+     },
+     "stellen": {
+      "core": "Einheit 2 ganz; diese Woche 2.1, 2.7–2.10"
+     }
+    },
+    {
+     "zu": "Übung 2",
+     "beleg": {
+      "art": "Übung",
+      "nummer": 2,
+      "seite": 1
+     },
+     "stellen": {
+      "core": "2.1, 2.7–2.10"
+     }
+    }
+   ]
+  },
+  {
+   "code": "S100",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-20",
+   "quelle": "S100 Folien 00 Einführung Organisatorisches, S. 17–18; Folien 01–08, je S. 3",
+   "hinweis": "Literatur zur Vorlesung. Die Kapitelangaben stehen in den Kapitelfolien, die bisher aus dem Vorjahr stammen.",
+   "beleg": {
+    "art": "Folien",
+    "nummer": 0,
+    "seite": 17
+   },
+   "werke": [
+    {
+     "id": "sydsaeter",
+     "rolle": "Lehrbuch",
+     "angabe": "Sydsæter, Hammond: Mathematik für Wirtschaftswissenschaftler, Pearson Studium (2., 3., 4. oder 5. Auflage)",
+     "spalte": "Sydsæter",
+     "katalog": "1014367840",
+     "links": [
+      {
+       "text": "E-Book, 5. Aufl. (Uni-Zugang)",
+       "url": "https://ebookcentral.proquest.com/lib/unitueb/detail.action?docID=5583830"
+      }
+     ]
+    },
+    {
+     "id": "ohse",
+     "rolle": "Zum tieferen Verständnis",
+     "angabe": "Ohse (2005): Mathematik für Wirtschaftswissenschaftler II, Lineare Wirtschaftsalgebra, 5. Auflage, Vahlen",
+     "abschnitt": "weitere",
+     "spalte": "Ohse",
+     "katalog": "1184832110"
+    },
+    {
+     "id": "chiang",
+     "rolle": "Zum tieferen Verständnis",
+     "angabe": "Wainwright, Chiang (2004): Fundamental Methods of Mathematical Economics, McGraw-Hill",
+     "abschnitt": "weitere",
+     "katalog": "1615057625"
+    },
+    {
+     "id": "schwarze",
+     "rolle": "Zum tieferen Verständnis",
+     "angabe": "Schwarze (2011): Mathematik für Wirtschaftswissenschaftler, Band 2: Differential- und Integralrechnung, 13. Auflage, NWB",
+     "abschnitt": "weitere",
+     "katalog": "1403193525"
+    }
+   ],
+   "lesen": [
+    {
+     "zu": "1 Lineare Algebra",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 15–17",
+      "ohse": "Kap. 7"
+     }
+    },
+    {
+     "zu": "2 Eigenschaften von univariaten Funktionen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 2,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 6 und 7"
+     }
+    },
+    {
+     "zu": "3 Optimierung von univariaten Funktionen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 3,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 8"
+     }
+    },
+    {
+     "zu": "4 Multivariate Funktionen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 4,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 11"
+     }
+    },
+    {
+     "zu": "5 Komparative-statische Analyse",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 5,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 12"
+     }
+    },
+    {
+     "zu": "6 Optimierung von multivariaten Funktionen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 6,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 13"
+     }
+    },
+    {
+     "zu": "7 Optimierung unter Nebenbedingungen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 7,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 14"
+     }
+    },
+    {
+     "zu": "8 Integralrechnung",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 8,
+      "seite": 3
+     },
+     "stellen": {
+      "sydsaeter": "Kap. 9"
+     }
+    }
+   ]
+  },
+  {
+   "code": "S110",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-21",
+   "quelle": "S110 Folien 01, S. 9, 15 und die Trennfolien der Teile I–VI",
+   "beleg": {
+    "art": "Folien",
+    "nummer": 1,
+    "seite": 9
+   },
+   "werke": [
+    {
+     "id": "fahrmeir",
+     "rolle": "Primär",
+     "angabe": "Fahrmeir, Künstler, Pigeot, Tutz (2023): Statistik, 9. Auflage, Springer",
+     "spalte": "Fahrmeir",
+     "hinweis": "Ausleihexemplare in der Uni-Bibliothek und in der Fachbereichsbibliothek.",
+     "katalog": "1845674308",
+     "links": [
+      {
+       "text": "Online als PDF (Uni-Zugang)",
+       "url": "https://link.springer.com/book/10.1007/978-3-662-67526-7"
+      }
+     ]
+    },
+    {
+     "id": "schira",
+     "rolle": "Ergänzend",
+     "angabe": "Schira (2021): Statistische Methoden der VWL und BWL, 6. Auflage, Pearson Studium (ältere Auflagen sind auch OK)",
+     "spalte": "Schira",
+     "katalog": "1742550002",
+     "links": [
+      {
+       "text": "E-Book (Uni-Zugang)",
+       "url": "https://elibrary.pearson.de/book/99.150005/9783863263218"
+      }
+     ]
+    },
+    {
+     "id": "unstatistik",
+     "rolle": "Begleitend",
+     "angabe": "Bauer, Gigerenzer, Schüller, Krämer (2022): Grüne fahren SUV und Joggen macht unsterblich. Über Risiken und Nebenwirkungen der Unstatistik, Campus",
+     "abschnitt": "weitere",
+     "hinweis": "Nicht im UB-Katalog (Stand 20.10.2026)."
+    },
+    {
+     "id": "noise",
+     "rolle": "Begleitend",
+     "angabe": "Kahneman (2021): Noise. Was unsere Entscheidungen verzerrt – und wie wir sie verbessern können, Siedler (auch auf Englisch)",
+     "abschnitt": "weitere",
+     "suche": "Kahneman Sibony Sunstein Noise"
+    },
+    {
+     "id": "schnelles-denken",
+     "rolle": "Begleitend",
+     "angabe": "Kahneman (2011): Schnelles Denken, langsames Denken, Siedler (auch auf Englisch)",
+     "abschnitt": "weitere",
+     "suche": "Kahneman Schnelles Denken langsames Denken"
+    },
+    {
+     "id": "so-luegt-man",
+     "rolle": "Begleitend",
+     "angabe": "Krämer (2015): So lügt man mit Statistik, Campus",
+     "abschnitt": "weitere",
+     "suche": "Krämer So lügt man mit Statistik"
+    },
+    {
+     "id": "denkste",
+     "rolle": "Begleitend",
+     "angabe": "Krämer (2011): Denkste. Trugschlüsse aus der Welt der Zahlen und des Zufalls, Piper",
+     "abschnitt": "weitere",
+     "suche": "Krämer Denkste"
+    }
+   ],
+   "lesen": [
+    {
+     "zu": "Zum Selbststudium",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 15
+     },
+     "stellen": {
+      "fahrmeir": "Abschn. 1.3; empfohlen auch 1.1, 1.2, 1.4",
+      "schira": "Abschn. 1.2 oder 1.1"
+     }
+    },
+    {
+     "zu": "I Statistische Variable, Verteilungsfunktion, Quantilsfunktion, Histogramm, Kerndichte",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 30
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 1.3, 2.2, 2.6",
+      "schira": "Kap. 1"
+     }
+    },
+    {
+     "zu": "II Maßzahlen zur Charakterisierung von Verteilungen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 53
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 2.2, 2.3, 2.5, 2.6",
+      "schira": "Kap. 2"
+     }
+    },
+    {
+     "zu": "III Mehrdimensionale empirische Verteilungen",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 68
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 3.1–3.5, 3.8",
+      "schira": "Kap. 3"
+     }
+    },
+    {
+     "zu": "IV Regressionsanalyse",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 112
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 3.6, 3.7, 3.8",
+      "schira": "Kap. 4.1, 4.2, 4.4"
+     }
+    },
+    {
+     "zu": "V Deskriptive Zeitreihenanalyse",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 129
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 14 (ohne 14.1)",
+      "schira": "Kap. 5"
+     }
+    },
+    {
+     "zu": "VI Indizes",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 1,
+      "seite": 155
+     },
+     "stellen": {
+      "fahrmeir": "Kap. 14.2",
+      "schira": "Kap. 6"
+     }
+    },
+    {
+     "zu": "Übungsblatt 01, Aufgabe 1",
+     "stellen": {
+      "fahrmeir": "Kap. 1.3",
+      "schira": "Kap. 1.2"
+     }
+    }
+   ]
+  }
+ ]
+}
