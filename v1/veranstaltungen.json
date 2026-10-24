@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-20",
+ "stand": "2026-10-24",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -2662,6 +2662,28 @@
    ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46205&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-s110-praktikum-lab-fr-1415",
+   "code": "S110",
+   "art": "Praktikum",
+   "titel": "Data Science Lab",
+   "tag": "Fr",
+   "von": "14:15",
+   "bis": "15:45",
+   "ct": false,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-23",
+    "bis": "2027-02-05"
+   },
+   "raum": "online per Zoom",
+   "ausfall": [
+    "2026-12-25",
+    "2027-01-01"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006"
   },
   {
    "id": "ws-2026-27-s110-tutorium-1-mo-1600",
