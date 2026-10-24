@@ -876,6 +876,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-01-bewerbung-deutschlandstipendium",
+   "titel": "Bewerbung Deutschlandstipendium",
+   "datum": "2026-11-01",
+   "bis": "2026-11-30",
+   "uhrzeit": "",
+   "ort": "online · Bewerbungsportal der Uni Tübingen",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/studium/rund-ums-studium/studienfinanzierung/deutschlandstipendium/",
+   "quelle_text": "",
+   "info": "300 € im Monat für SoSe 2027 und WiSe 2027/28, unabhängig vom Einkommen der Eltern. Erstsemester mit Abiturschnitt bis 1,40, ab dem 2. Semester zählt der Studienschnitt.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-02-fachschaftssitzung",
    "titel": "Fachschaftssitzung",
    "datum": "2026-11-02",
@@ -1675,6 +1690,21 @@
    "geprueft": ""
   },
   {
+   "id": "2027-01-07-selbstbewerbung-studienstiftung-des-deutschen-volkes",
+   "titel": "Selbstbewerbung Studienstiftung des deutschen Volkes",
+   "datum": "2027-01-07",
+   "bis": "2027-02-11",
+   "uhrzeit": "",
+   "ort": "online · nur im 1. Fachsemester",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Studienstiftung des deutschen Volkes: Seite „Selbstbewerbung“; Termine 2027 laut Stipendienseite der FAU Erlangen-Nürnberg (abgerufen 24.10.2026)",
+   "info": "Anmeldung zum Auswahltest, nur im 1. Fachsemester möglich, die Abiturnote zählt nicht. 300 € im Monat unabhängig vom Elterneinkommen. Die Termine 2027 sind noch vorläufig.",
+   "geprueft": ""
+  },
+  {
    "id": "2027-01-09-career-service-workshop-souveraenitaetstraining-und-selbstmarketing-f",
    "titel": "Career-Service-Workshop: Souveränitätstraining und Selbstmarketing für Studentinnen",
    "datum": "2027-01-09",
@@ -1687,6 +1717,21 @@
    "quelle_url": "",
    "quelle_text": "Rundmail Career Service vom 14.10.2026",
    "info": "Kostenfreier dreitägiger Workshop des Career Service für Studentinnen zu Souveränität und Selbstmarketing. Anmeldung über die Workshop-Seite des Career Service.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-01-11-bewerbung-studienstipendium-stiftung-der-deutschen-wirtschaft",
+   "titel": "Bewerbung Studienstipendium Stiftung der Deutschen Wirtschaft",
+   "datum": "2027-01-11",
+   "bis": "2027-03-02",
+   "uhrzeit": "",
+   "ort": "bis 02.03., 13:00 · online",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Stiftung der Deutschen Wirtschaft: Seite „Bewerbung Studienstipendien“ (abgerufen 24.10.2026)",
+   "info": "Studienstipendium der sdw für das Erststudium in Vollzeit: 300 € im Monat unabhängig vom Elterneinkommen, dazu ein Grundstipendium nach BAföG-Regeln. Auswahlgespräche im Herbst 2027.",
    "geprueft": ""
   },
   {
