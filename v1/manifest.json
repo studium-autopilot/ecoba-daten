@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T09:07:15Z",
+ "erstellt": "2026-10-24T09:57:05Z",
  "dateien": {
   "termine.json": {
    "sha256": "43184b679897d3ebded3fd8ec9b0e95ac0d319833b87b03124f2c9181af5bdf2",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.1",
+ "plugin_aktuell": "0.6.2",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.1",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.1/",
-  "sha256": "af5ff4027c1cc5e97da51246f81b662f530c15dc24db97fce9d1d0bb5d68908d",
-  "notiz": "Einfacher: PDFs, Folien und Fotos holst du mit Unterlagen hinzufügen direkt in deinen Tresor, ohne Umweg über die Dateien-App."
+  "version": "0.6.2",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.2/",
+  "sha256": "1f9fc46811cd03a25b94f9df5527bc43be74e27ba1bd901ec3cd86c2cb25379f",
+  "notiz": "Behoben: Änderungen seit deinem letzten Besuch verschwinden jetzt von selbst, sobald du sie einmal aufgeklappt gesehen hast."
  },
  "abdeckung": {
   "stand": "2026-10-24",
