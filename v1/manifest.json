@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T12:58:51Z",
+ "erstellt": "2026-10-24T13:24:03Z",
  "dateien": {
   "termine.json": {
    "sha256": "c6303bdc38639b1bcaed83b666b664b8fbc515ffbb7ad8fda85ca88ce72bde51",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.5",
+ "plugin_aktuell": "0.6.6",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.5",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.5/",
-  "sha256": "92a7f64aa18a5cf40b436701d5b755bd66ef76a19bb222410b6e505407da1d92",
-  "notiz": "Studium Autopilot zählt jetzt, auf wie vielen Geräten eine Version läuft, ohne Angaben über dich. Ausschalten: Verbindungen → Studium Autopilot → Mitzählen."
+  "version": "0.6.6",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.6/",
+  "sha256": "25c5025f698869b5abb3ccae913b6b8fa83c9c8bffe5005c000d4bbd53358131",
+  "notiz": "Auf dem iPhone mehr Platz: Dashboard und Einstellungen sind flacher. Stundenplan steht in der Übersicht nur noch am iPhone, am PC und iPad zeigt das Dashboard deine Woche."
  },
  "abdeckung": {
   "stand": "2026-10-24",
