@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T14:26:24Z",
+ "erstellt": "2026-10-24T14:52:00Z",
  "dateien": {
   "termine.json": {
    "sha256": "6e8553a4492cc0065e4744233d431bb80bf73587b5add590204d39cdbf1f39fb",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.6",
+ "plugin_aktuell": "0.6.7",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.6",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.6/",
-  "sha256": "25c5025f698869b5abb3ccae913b6b8fa83c9c8bffe5005c000d4bbd53358131",
-  "notiz": "Auf dem iPhone mehr Platz: Dashboard und Einstellungen sind flacher. Stundenplan steht in der Übersicht nur noch am iPhone, am PC und iPad zeigt das Dashboard deine Woche."
+  "version": "0.6.7",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.7/",
+  "sha256": "22ff71eacbd0244fa04a56a5cc85d37933035625361553225db87b8696137637",
+  "notiz": "Dashboard aufgeräumt: Fristen, Termine, Nacharbeiten und To-dos als Knöpfe mit Zahl, die ganze Woche auch am iPhone. Einstellungen kompakt, der Eingang entfällt."
  },
  "abdeckung": {
   "stand": "2026-10-24",
