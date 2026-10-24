@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T14:52:00Z",
+ "erstellt": "2026-10-24T15:36:29Z",
  "dateien": {
   "termine.json": {
    "sha256": "6e8553a4492cc0065e4744233d431bb80bf73587b5add590204d39cdbf1f39fb",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.7",
+ "plugin_aktuell": "0.6.8",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.7",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.7/",
-  "sha256": "22ff71eacbd0244fa04a56a5cc85d37933035625361553225db87b8696137637",
-  "notiz": "Dashboard aufgeräumt: Fristen, Termine, Nacharbeiten und To-dos als Knöpfe mit Zahl, die ganze Woche auch am iPhone. Einstellungen kompakt, der Eingang entfällt."
+  "version": "0.6.8",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.8/",
+  "sha256": "3c43eff76d92cc741c5cecd279becf6eb958d075e3c76122392c6ab50ffbd75e",
+  "notiz": "Übungsblätter mit Abgabe und Lösung, alle Abgaben unter Übungen. Termine mit Karte für Zeit und Ort, Verbindungen in einem Wort, eigener Server gleicht zuverlässiger ab."
  },
  "abdeckung": {
   "stand": "2026-10-24",
