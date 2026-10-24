@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T12:36:22Z",
+ "erstellt": "2026-10-24T12:58:51Z",
  "dateien": {
   "termine.json": {
    "sha256": "c6303bdc38639b1bcaed83b666b664b8fbc515ffbb7ad8fda85ca88ce72bde51",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.4",
+ "plugin_aktuell": "0.6.5",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.4",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.4/",
-  "sha256": "a9d5f2b795fe2d3a79138b8b38b294b3f0fc712be5cf919050e6fcc485d7b32c",
-  "notiz": "Unterlagen aus dem Lab kommen auch an, wenn sich dein eigener Server noch nicht aktualisiert hat. Lösungen stehen im Lab hinten."
+  "version": "0.6.5",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.5/",
+  "sha256": "92a7f64aa18a5cf40b436701d5b755bd66ef76a19bb222410b6e505407da1d92",
+  "notiz": "Studium Autopilot zählt jetzt, auf wie vielen Geräten eine Version läuft, ohne Angaben über dich. Ausschalten: Verbindungen → Studium Autopilot → Mitzählen."
  },
  "abdeckung": {
   "stand": "2026-10-24",
