@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T15:54:02Z",
+ "erstellt": "2026-10-24T16:41:57Z",
  "dateien": {
   "termine.json": {
    "sha256": "6e8553a4492cc0065e4744233d431bb80bf73587b5add590204d39cdbf1f39fb",
@@ -31,14 +31,14 @@
    "groesse": 12036
   }
  },
- "plugin_aktuell": "0.6.8",
+ "plugin_aktuell": "0.6.10",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.8",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.8/",
-  "sha256": "3c43eff76d92cc741c5cecd279becf6eb958d075e3c76122392c6ab50ffbd75e",
-  "notiz": "Übungsblätter mit Abgabe und Lösung, alle Abgaben unter Übungen. Termine mit Karte für Zeit und Ort, Verbindungen in einem Wort, eigener Server gleicht zuverlässiger ab."
+  "version": "0.6.10",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.10/",
+  "sha256": "6ea94385b4efe298c1bf3bc02035c7a8dfaa8c6917f423b0c57012c6cd27db40",
+  "notiz": "Literaturliste je Modul, neue Fassungen von Unterlagen werden erkannt und neu zusammengefasst, Kalender mit klarer Farbe je Art, Seitenleiste nur zum Navigieren."
  },
  "abdeckung": {
   "stand": "2026-10-24",
