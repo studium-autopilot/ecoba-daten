@@ -711,6 +711,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-24-bewerbungsschluss-inone-consult",
+   "titel": "Bewerbungsschluss InOne Consult",
+   "datum": "2026-10-24",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Lebenslauf und Motivationsschreiben per Mail an InOne Consult",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "InOne Consult: Instagram-Beitrag vom 15.10.2026",
+   "info": "Bewerbungsschluss für die Aufnahme bei InOne Consult, der studentischen Unternehmensberatung in Tübingen, im Wintersemester 2026/27. Die Bewerbungsadresse steht auf ihrer Seite für Studierende.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-24-netzwerke-am-abschlag-golfschnupperkurs",
    "titel": "Netzwerke am Abschlag – Golfschnupperkurs",
    "datum": "2026-10-24",
@@ -753,21 +768,6 @@
    "quelle_url": "https://www.ffwtuebingen.de/",
    "quelle_text": "",
    "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-14-diagramm-studie-e101-eintragen",
-   "titel": "Diagramm-Studie E101: in Liste eintragen (freiwillig)",
-   "datum": "2026-10-27",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Interessentenliste im ILIAS-Kurs E101 · sonst Mail an den Lehrstuhl für Ökonomische Bildung und Wirtschaftsdidaktik",
-   "kategorie": "Frist",
-   "status": "geschätzt",
-   "code": "E101",
-   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5736099",
-   "quelle_text": "",
-   "info": "Freiwillige Studie des Lehrstuhls für Ökonomische Bildung zum Umgang mit Diagrammen, zwei Interviews mit Gutscheinen. Eintrag in die Interessentenliste im ILIAS-Kurs E101.",
    "geprueft": ""
   },
   {
@@ -828,21 +828,6 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
    "info": "Vortrag über das Universitätsarchiv und seine Bestände mit Führung durch die Archivräume; kein *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-29-alltagsstudie-am-hector-institut-teilnahme-anmelden-freiwillig",
-   "titel": "Studie zum Erleben im Alltag am Hector-Institut: Teilnahme anmelden (freiwillig)",
-   "datum": "2026-10-29",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "online · Anmeldung per Mail an das Studienteam des Hector-Instituts",
-   "kategorie": "Frist",
-   "status": "geschätzt",
-   "code": "",
-   "quelle_url": "",
-   "quelle_text": "Rundmail des Hector-Instituts für Empirische Bildungsforschung vom 22.10.2026",
-   "info": "Bezahlte Online-Studie des Hector-Instituts zu Verhalten und Erleben im Alltag, Sonntag bis Freitag mit kurzen täglichen Abfragen, ca. 1,5 Stunden, 25 €. Anmeldung per Mail an das Studienteam.",
    "geprueft": ""
   },
   {
