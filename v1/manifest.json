@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T18:00:43Z",
+ "erstellt": "2026-10-24T19:21:51Z",
  "dateien": {
   "termine.json": {
    "sha256": "6e8553a4492cc0065e4744233d431bb80bf73587b5add590204d39cdbf1f39fb",
@@ -31,14 +31,14 @@
    "groesse": 12126
   }
  },
- "plugin_aktuell": "0.6.11",
+ "plugin_aktuell": "0.6.12",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.11",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.11/",
-  "sha256": "bfed044d0be765dba5df2a25e3deb132fd1de528495e2b7ec883a9a40bfdf82b",
-  "notiz": "Beide Fassungen beschrifteter Folien klar beschriftet, Listen auf dem Dashboard als Knöpfe erkennbar, mehr Bücher führen direkt zu ihrem Eintrag in der Unibibliothek."
+  "version": "0.6.12",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.12/",
+  "sha256": "37832ab5e7472ffe23c9ca7e6201b5c192f95fbda43c08fe1dd2b43a92e6ffb0",
+  "notiz": "Auf dem Dashboard umrahmt eine Linie die offene Liste samt ihrem Knopf: So siehst du gleich, welche Liste offen ist."
  },
  "abdeckung": {
   "stand": "2026-10-24",
