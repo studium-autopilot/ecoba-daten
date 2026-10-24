@@ -2668,6 +2668,7 @@
    "code": "S110",
    "art": "Praktikum",
    "titel": "Data Science Lab",
+   "bezeichnung": "Data Science Lab",
    "tag": "Fr",
    "von": "14:15",
    "bis": "15:45",

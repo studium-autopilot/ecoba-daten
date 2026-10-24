@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T09:57:05Z",
+ "erstellt": "2026-10-24T12:09:42Z",
  "dateien": {
   "termine.json": {
    "sha256": "43184b679897d3ebded3fd8ec9b0e95ac0d319833b87b03124f2c9181af5bdf2",
@@ -19,22 +19,22 @@
    "groesse": 27223
   },
   "veranstaltungen.json": {
-   "sha256": "4b45a8addcdc02ed810bdff005c4eadb707116df5d34086c3a50f3910ac25f38",
-   "groesse": 83882
+   "sha256": "88e36bc93d1f4ef73c6c18ad4166b81ac8b8780d3518af1ef5a4646bb919f16a",
+   "groesse": 83920
   },
   "kapitel.json": {
    "sha256": "518902266567adc77e9a21c11dec6e17c5858061d7e63196e596d2c84255d4f1",
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.2",
+ "plugin_aktuell": "0.6.3",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.2",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.2/",
-  "sha256": "1f9fc46811cd03a25b94f9df5527bc43be74e27ba1bd901ec3cd86c2cb25379f",
-  "notiz": "Behoben: Änderungen seit deinem letzten Besuch verschwinden jetzt von selbst, sobald du sie einmal aufgeklappt gesehen hast."
+  "version": "0.6.3",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.3/",
+  "sha256": "47e07d833c270ba39ca9b924e324742431ad290c85e60fcc262d0e149337e47e",
+  "notiz": "Neu: Zusammenfassen geht jetzt ohne eigenen Server, mit deinem eigenen Schlüssel von Anthropic. Dazu das Data Science Lab im Stundenplan und viele Korrekturen."
  },
  "abdeckung": {
   "stand": "2026-10-24",
