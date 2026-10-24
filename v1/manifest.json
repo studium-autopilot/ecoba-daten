@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T12:09:42Z",
+ "erstellt": "2026-10-24T12:36:22Z",
  "dateien": {
   "termine.json": {
-   "sha256": "43184b679897d3ebded3fd8ec9b0e95ac0d319833b87b03124f2c9181af5bdf2",
-   "groesse": 97257
+   "sha256": "c6303bdc38639b1bcaed83b666b664b8fbc515ffbb7ad8fda85ca88ce72bde51",
+   "groesse": 98877
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -27,14 +27,14 @@
    "groesse": 24837
   }
  },
- "plugin_aktuell": "0.6.3",
+ "plugin_aktuell": "0.6.4",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.3",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.3/",
-  "sha256": "47e07d833c270ba39ca9b924e324742431ad290c85e60fcc262d0e149337e47e",
-  "notiz": "Neu: Zusammenfassen geht jetzt ohne eigenen Server, mit deinem eigenen Schlüssel von Anthropic. Dazu das Data Science Lab im Stundenplan und viele Korrekturen."
+  "version": "0.6.4",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.4/",
+  "sha256": "a9d5f2b795fe2d3a79138b8b38b294b3f0fc712be5cf919050e6fcc485d7b32c",
+  "notiz": "Unterlagen aus dem Lab kommen auch an, wenn sich dein eigener Server noch nicht aktualisiert hat. Lösungen stehen im Lab hinten."
  },
  "abdeckung": {
   "stand": "2026-10-24",

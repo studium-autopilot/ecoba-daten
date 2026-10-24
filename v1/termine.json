@@ -620,6 +620,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-22-tcp-kurse-abmeldezeitraum-nach-dem-2-belegungszeitraum",
+   "titel": "TCP-Kurse – Abmeldezeitraum nach dem 2. Belegungszeitraum",
+   "datum": "2026-10-22",
+   "bis": "2026-10-25",
+   "uhrzeit": "",
+   "ort": "Alma · danach nur in dringenden Fällen Mail an die TCP-Anmeldeverwaltung",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
+   "quelle_text": "",
+   "info": "Abmeldezeitraum für zugelassene Kurse des Transdisciplinary Course Program, unentschuldigtes Fehlen sperrt für das Folgesemester. Kurs in Alma abmelden, die Studienleistung dort gesondert.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-19-data-science-lab-s110-startet",
    "titel": "Data Science Lab S110 startet – Datenanalyse mit R per Zoom",
    "datum": "2026-10-23",
@@ -1279,6 +1295,22 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
    "info": "Kurs der Universitätsbibliothek zu Lesetechniken sowie Gedächtnis-, Merk- und Konzentrationstechniken, auch für Prüfungen; zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-19-tcp-kurse-abmeldezeitraum-nach-dem-3-belegungszeitraum",
+   "titel": "TCP-Kurse – Abmeldezeitraum nach dem 3. Belegungszeitraum",
+   "datum": "2026-11-19",
+   "bis": "2026-11-22",
+   "uhrzeit": "",
+   "ort": "Alma · danach nur in dringenden Fällen Mail an die TCP-Anmeldeverwaltung",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
+   "quelle_text": "",
+   "info": "Abmeldezeitraum für zugelassene Kurse des Transdisciplinary Course Program, unentschuldigtes Fehlen sperrt für das Folgesemester. Kurs in Alma abmelden, die Studienleistung dort gesondert.",
    "geprueft": ""
   },
   {
