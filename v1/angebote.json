@@ -1,17 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-23",
+ "stand": "2026-10-24",
  "angebote": [
-  {
-   "id": "ub-92d2bc1f46",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "Zotero",
-   "datum": "2026-10-23",
-   "von": "10:00",
-   "bis": "12:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
-  },
   {
    "id": "vortrag-136221",
    "kategorie": "vortrag",
@@ -70,17 +60,6 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/thesencheck-zu-klimawandel-und-massnahmen-probleme-der-erforschung-und-weiterentwicklung-von-klimamodellen/"
-  },
-  {
-   "id": "sport-69451541c8",
-   "kategorie": "sport",
-   "reihe": "Hochschulsport",
-   "titel": "Anmeldung für Tenniskurse im Wintersemester ab 23.10. möglich!",
-   "datum": "2026-11-02",
-   "url": "https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/_Tennis_Kurs.html",
-   "anmeldung": {
-    "ab": "2026-10-23T17:00"
-   }
   },
   {
    "id": "vortrag-136224",

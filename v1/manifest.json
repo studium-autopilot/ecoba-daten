@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-23T17:47:09Z",
+ "erstellt": "2026-10-24T04:51:00Z",
  "dateien": {
   "termine.json": {
-   "sha256": "d55e5c27bb73d379fb4f1e62254a5f485ee5127955993dcd87890c75e972acba",
-   "groesse": 98118
+   "sha256": "43184b679897d3ebded3fd8ec9b0e95ac0d319833b87b03124f2c9181af5bdf2",
+   "groesse": 97257
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "3ec74c349451d2faa170f5eeb2db27a180d97b157a4dcce8d0868450c0f0d4fd",
-   "groesse": 27909
+   "sha256": "5f752067cdca868628545ad401d5dddea59f03ab9181e48d1da8d8a845143345",
+   "groesse": 27223
   },
   "veranstaltungen.json": {
    "sha256": "0eaab5852870e20e58fed9b39cb9403d4701eafe74d0f01a6bb48fe4235d7774",
@@ -37,7 +37,7 @@
   "notiz": "Neu: die Seite Postfach zeigt deine Uni-Mails direkt in Obsidian, dazu auf dem Dashboard, was sich seit deinem letzten Besuch geändert hat."
  },
  "abdeckung": {
-  "stand": "2026-10-23",
+  "stand": "2026-10-24",
   "module": [
    "B110",
    "B180",
