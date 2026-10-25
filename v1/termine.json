@@ -244,6 +244,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-10-13-hochschulsport-anmeldestart",
+   "titel": "Hochschulsport: Anmeldestart",
+   "datum": "2026-10-13",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00 · online",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
+   "quelle_text": "",
+   "info": "Start der Online-Buchung für die Kurse des Hochschulsports im Wintersemester. Buchung online, die Plätze werden nach Eingang vergeben.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-10-13-tutorien-anmeldung-b180-jahresabschluss-ilias",
    "titel": "Tutorien-Anmeldung B180 Jahresabschluss (ILIAS)",
    "datum": "2026-10-13",
@@ -587,6 +602,21 @@
    "quelle_url": "",
    "quelle_text": "Rundmail der Tübinger Stipendiat:innen der Stiftungen vom 10.10.2026 („Einladung zum Stipendieninformationsabend 2026“)",
    "info": "Stipendiat:innen der Begabtenförderungswerke erklären Stipendien und Bewerbung und stellen die Stiftungen vor, danach Fragerunden. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-10-21-vortrag-confronting-science-denial-lead",
+   "titel": "Vortrag „Confronting Science Denial“ – Wissenschaftsleugnung begegnen (englisch)",
+   "datum": "2026-10-21",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:00 · Seminarraum 204, Hector-Institut (Europastraße 6)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Rundmail LEAD Graduate School & Research Network (Hector-Institut für Empirische Bildungsforschung) vom 15.10.2026",
+   "info": "Englischsprachiger Gastvortrag an der LEAD Graduate School über Wissenschaftsskepsis: warum sie entsteht und wie man ihr begegnet. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
@@ -2258,6 +2288,21 @@
    "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/rueckmeldung-zum-naechsten-semester/",
    "quelle_text": "",
    "info": "Rückmeldung für das Sommersemester durch Zahlung des Semesterbeitrags, Ausschlussfrist. Semesterbeitrag fristgerecht überweisen.",
+   "geprueft": ""
+  },
+  {
+   "id": "2028-06-01-bachelorarbeit-praeferenzen-ans-pruefungsamt",
+   "titel": "Bachelorarbeit: Präferenzen ans Prüfungsamt",
+   "datum": "2028-06-01",
+   "bis": "2028-07-20",
+   "uhrzeit": "",
+   "ort": "Erfassungsbogen",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/studium/service-beratung/studienorganisation/studienplaene-und-stundenplaene/abschlussarbeit/bachelorarbeiten-im-studienjahr-202627/",
+   "quelle_text": "",
+   "info": "Das Prüfungsamt fragt alle ab dem 4. Fachsemester nach ihren Präferenzen für die Bachelorarbeit, Zeitraum bisher nur geschätzt. Erfassungsbogen fristgerecht beim Prüfungsamt einreichen.",
    "geprueft": ""
   },
   {

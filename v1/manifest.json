@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-24T20:48:42Z",
+ "erstellt": "2026-10-25T05:41:18Z",
  "dateien": {
   "termine.json": {
-   "sha256": "d0c0ac30001b370c475a9f25121f945d3d887e5a7cd05117c7a49186c86a3e84",
-   "groesse": 100153
+   "sha256": "5909ccf25b93a8efa2feb53bff07ba5d6ddabf8fd608a63a60ee6542b0db8648",
+   "groesse": 102286
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,7 +15,7 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "5f752067cdca868628545ad401d5dddea59f03ab9181e48d1da8d8a845143345",
+   "sha256": "0e81dd896149548fc04723faffdae81612b1de90b2273dbcbd0708c2470490d9",
    "groesse": 27223
   },
   "veranstaltungen.json": {
@@ -27,8 +27,8 @@
    "groesse": 24837
   },
   "literatur.json": {
-   "sha256": "1dd2c183830e8e048a9dbf39bca3ba25ed0fd64ea78af3bc23b50ba4d467ca56",
-   "groesse": 12126
+   "sha256": "7a8dc1b0708dcbdbf37c1d7d26a1f2896ae09fa1f68b21b0b0aa7fe03b1484f3",
+   "groesse": 12358
   }
  },
  "plugin_aktuell": "0.6.12",
@@ -41,7 +41,7 @@
   "notiz": "Auf dem Dashboard umrahmt eine Linie die offene Liste samt ihrem Knopf: So siehst du gleich, welche Liste offen ist."
  },
  "abdeckung": {
-  "stand": "2026-10-24",
+  "stand": "2026-10-25",
   "module": [
    "B110",
    "B180",
