@@ -1132,6 +1132,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-09-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-11-09",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-09-tcp-kurse-3-belegungszeitraum",
    "titel": "TCP-Kurse – 3. Belegungszeitraum",
    "datum": "2026-11-09",

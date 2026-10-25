@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-25T21:20:46Z",
+ "erstellt": "2026-10-25T23:36:58Z",
  "dateien": {
   "termine.json": {
-   "sha256": "85beb1bb027a9cb0e73ce2ca3974fc97f1d138a44f4f29e1baa41f441fdc1a73",
-   "groesse": 103817
+   "sha256": "64f64f19e2136a3b3457719a182406995e275e82e8c9e3541d35a7d7fe344efc",
+   "groesse": 104279
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -41,7 +41,7 @@
   "notiz": "Karteikarten: Üben und Pausieren, neue Karten über alle Module verteilt. Aufgeklappte PDFs in Unterlagen zeigen wieder alle Seiten."
  },
  "abdeckung": {
-  "stand": "2026-10-25",
+  "stand": "2026-10-26",
   "module": [
    "B110",
    "B180",
