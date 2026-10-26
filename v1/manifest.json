@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-26T09:40:06Z",
+ "erstellt": "2026-10-26T11:41:16Z",
  "dateien": {
   "termine.json": {
-   "sha256": "96ea4d3e46050b309598b4d747017b1fe16b2be099839ab502effe5146118e8b",
-   "groesse": 105041
+   "sha256": "10f2b073ebaa24c22bf221556ebc52942987460ea92acab9ec933c9866c2fb55",
+   "groesse": 105687
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -19,8 +19,8 @@
    "groesse": 27223
   },
   "veranstaltungen.json": {
-   "sha256": "88e36bc93d1f4ef73c6c18ad4166b81ac8b8780d3518af1ef5a4646bb919f16a",
-   "groesse": 83920
+   "sha256": "3d99141ceebf465cccef2b4d1ff113fd44c6152a0ba4f2a5a60e2e66ca41fac8",
+   "groesse": 83938
   },
   "kapitel.json": {
    "sha256": "518902266567adc77e9a21c11dec6e17c5858061d7e63196e596d2c84255d4f1",
@@ -31,14 +31,14 @@
    "groesse": 12467
   }
  },
- "plugin_aktuell": "0.6.13",
+ "plugin_aktuell": "0.6.14",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.13",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.13/",
-  "sha256": "3ca10279b5d9d2d04ae0099219e2598a4c0d58fa9bdab27ace2a4536d312ba05",
-  "notiz": "Karteikarten: Üben und Pausieren, neue Karten über alle Module verteilt. Aufgeklappte PDFs in Unterlagen zeigen wieder alle Seiten."
+  "version": "0.6.14",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.14/",
+  "sha256": "138175180ed8f9314da440d465eb6e7c5cd6ebcd86a98fe5a30eccef76e526af",
+  "notiz": "Unterlagen ohne Modul stehen in einer eigenen Liste. Eigener Server sagt jetzt klar, dass er über dein Claude-Abo zusammenfasst."
  },
  "abdeckung": {
   "stand": "2026-10-26",
