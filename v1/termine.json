@@ -199,7 +199,7 @@
   },
   {
    "id": "2026-10-12-tcp-kurse-2-belegungszeitraum",
-   "titel": "TCP-Kurse – 2. Belegungszeitraum",
+   "titel": "TCP-Kurse: 2. Belegungszeitraum",
    "datum": "2026-10-12",
    "bis": "2026-10-19",
    "uhrzeit": "",
@@ -264,7 +264,7 @@
    "datum": "2026-10-13",
    "bis": "2026-10-25",
    "uhrzeit": "",
-   "ort": "ab 16:00 · bis 25.10., 24:00 · ILIAS-Kurs B180, Zuteilung zu den Tutorien, first come, first served",
+   "ort": "ab 16:00 · bis 25.10., 23:59 · ILIAS-Kurs B180, Zuteilung zu den Tutorien, first come, first served",
    "kategorie": "Frist",
    "status": "offiziell",
    "code": "B180",
@@ -275,7 +275,7 @@
   },
   {
    "id": "2026-10-14-dies-universitatis",
-   "titel": "Dies Universitatis – Semestereröffnung der Uni",
+   "titel": "Dies Universitatis: Semestereröffnung der Uni",
    "datum": "2026-10-14",
    "bis": "",
    "uhrzeit": "",
@@ -395,7 +395,7 @@
   },
   {
    "id": "2026-10-16-civis-kurzprogramme-bip-bewerben-freiwillig",
-   "titel": "CIVIS-Kurzprogramme (BIP): bewerben (freiwillig) – Online-Kurs mit einer Woche an einer Partneruni",
+   "titel": "CIVIS-Kurzprogramme (BIP): bewerben für Online-Kurs mit einer Woche an einer Partneruni (freiwillig)",
    "datum": "2026-10-16",
    "bis": "",
    "uhrzeit": "",
@@ -414,7 +414,7 @@
    "datum": "2026-10-18",
    "bis": "",
    "uhrzeit": "",
-   "ort": "Belegung in Alma bis 18.10.",
+   "ort": "bis 18.10. · Alma",
    "kategorie": "Frist",
    "status": "offiziell",
    "code": "",
@@ -606,7 +606,7 @@
   },
   {
    "id": "2026-10-21-vortrag-confronting-science-denial-lead",
-   "titel": "Vortrag „Confronting Science Denial“ – Wissenschaftsleugnung begegnen (englisch)",
+   "titel": "Vortrag „Confronting Science Denial“: Wissenschaftsleugnung begegnen (englisch)",
    "datum": "2026-10-21",
    "bis": "",
    "uhrzeit": "",
@@ -621,7 +621,7 @@
   },
   {
    "id": "2026-10-22-buchvorstellung-frauen-an-der-uni-tuebingen-uni-jubilaeum",
-   "titel": "Buchvorstellung „Frauen an der Universität Tübingen“ – Uni-Jubiläum",
+   "titel": "Buchvorstellung „Frauen an der Universität Tübingen“: Uni-Jubiläum",
    "datum": "2026-10-22",
    "bis": "",
    "uhrzeit": "",
@@ -651,7 +651,7 @@
   },
   {
    "id": "2026-10-22-tcp-kurse-abmeldezeitraum-nach-dem-2-belegungszeitraum",
-   "titel": "TCP-Kurse – Abmeldezeitraum nach dem 2. Belegungszeitraum",
+   "titel": "TCP-Kurse: Abmeldezeitraum nach dem 2. Belegungszeitraum",
    "datum": "2026-10-22",
    "bis": "2026-10-25",
    "uhrzeit": "",
@@ -667,7 +667,7 @@
   },
   {
    "id": "2026-10-19-data-science-lab-s110-startet",
-   "titel": "Data Science Lab S110 startet – Datenanalyse mit R per Zoom",
+   "titel": "Data Science Lab S110 startet: Datenanalyse mit R per Zoom",
    "datum": "2026-10-23",
    "bis": "",
    "uhrzeit": "",
@@ -757,7 +757,7 @@
   },
   {
    "id": "2026-10-24-netzwerke-am-abschlag-golfschnupperkurs",
-   "titel": "Netzwerke am Abschlag – Golfschnupperkurs",
+   "titel": "Netzwerke am Abschlag: Golfschnupperkurs",
    "datum": "2026-10-24",
    "bis": "",
    "uhrzeit": "",
@@ -832,7 +832,7 @@
   },
   {
    "id": "2026-10-27-workshop-kritisches-lesen-mit-sq3r",
-   "titel": "Workshop „Mastering the Art of Critical Reading with SQ3R“ – Lesetechnik für Fachtexte",
+   "titel": "Workshop „Mastering the Art of Critical Reading with SQ3R“: Lesetechnik für Fachtexte",
    "datum": "2026-10-27",
    "bis": "",
    "uhrzeit": "",
@@ -862,7 +862,7 @@
   },
   {
    "id": "2026-10-29-ausstellungseroeffnung-die-farben-des-kosmos-unimuseum",
-   "titel": "Ausstellungseröffnung „Die Farben des Kosmos“ – Sonderausstellung des Unimuseums zum Tempel von Esna",
+   "titel": "Ausstellungseröffnung „Die Farben des Kosmos“: Sonderausstellung des Unimuseums zum Tempel von Esna",
    "datum": "2026-10-29",
    "bis": "",
    "uhrzeit": "",
@@ -877,7 +877,7 @@
   },
   {
    "id": "2026-10-29-data-science-lab-2-s110-am-donnerstag-statt-freitag",
-   "titel": "Data Science Lab 2 S110 – am Donnerstag statt Freitag",
+   "titel": "Data Science Lab 2 S110: am Donnerstag statt Freitag",
    "datum": "2026-10-29",
    "bis": "",
    "uhrzeit": "",
@@ -892,7 +892,7 @@
   },
   {
    "id": "2026-10-29-history-and-video-games-franzoesische-revolution-im-videospiel",
-   "titel": "„History and Video Games“ – Vortrag zur Französischen Revolution im Videospiel (englisch)",
+   "titel": "„History and Video Games“: Vortrag zur Französischen Revolution im Videospiel (englisch)",
    "datum": "2026-10-29",
    "bis": "",
    "uhrzeit": "",
@@ -907,7 +907,7 @@
   },
   {
    "id": "2026-10-29-new-horizons-lecture-indigene-philosophie-australiens",
-   "titel": "New Horizons Lecture „Country is Alive“ – Vortrag zu indigener Philosophie Australiens (englisch)",
+   "titel": "New Horizons Lecture „Country is Alive“: Vortrag zu indigener Philosophie Australiens (englisch)",
    "datum": "2026-10-29",
    "bis": "",
    "uhrzeit": "",
@@ -922,7 +922,7 @@
   },
   {
    "id": "2026-10-30-belegung-freier-tcp-plaetze-per-mail-freiwillig",
-   "titel": "Belegung freier Plätze in TCP-Kursen per Mail (freiwillig) – überfachliche Kurse für Schlüsselqualifikationen",
+   "titel": "Belegung freier Plätze in TCP-Kursen per Mail: überfachliche Kurse für Schlüsselqualifikationen (freiwillig)",
    "datum": "2026-10-29",
    "bis": "",
    "uhrzeit": "",
@@ -963,7 +963,7 @@
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/studium/rund-ums-studium/studienfinanzierung/deutschlandstipendium/",
    "quelle_text": "",
-   "info": "300 € im Monat für SoSe 2027 und WiSe 2027/28, unabhängig vom Einkommen der Eltern. Erstsemester mit Abiturschnitt bis 1,40, ab dem 2. Semester zählt der Studienschnitt.",
+   "info": "300 € im Monat für SS 2027 und WS 2027/28, unabhängig vom Einkommen der Eltern. Erstsemester mit Abiturschnitt bis 1,40, ab dem 2. Semester zählt der Studienschnitt.",
    "geprueft": ""
   },
   {
@@ -1043,7 +1043,7 @@
   },
   {
    "id": "2026-11-04-infoveranstaltung-aussereuropaeischer-austausch",
-   "titel": "Infoveranstaltung Außereuropäischer Austausch – Auslandssemester außerhalb Europas",
+   "titel": "Infoveranstaltung Außereuropäischer Austausch: Auslandssemester außerhalb Europas",
    "datum": "2026-11-04",
    "bis": "",
    "uhrzeit": "",
@@ -1133,7 +1133,7 @@
   },
   {
    "id": "2026-11-06-workshop-zeit-und-lernmanagement-englisch",
-   "titel": "Workshop „How to Work Smarter, Not Harder!“ – Zeit- und Lernmanagement (englisch)",
+   "titel": "Workshop „How to Work Smarter, Not Harder!“: Zeit- und Lernmanagement (englisch)",
    "datum": "2026-11-06",
    "bis": "",
    "uhrzeit": "",
@@ -1148,7 +1148,7 @@
   },
   {
    "id": "2026-11-08-faktor-14-expose-einreichen-freiwillig",
-   "titel": "Faktor 14 – Studierendenmagazin für Forschung: Exposé einreichen (freiwillig)",
+   "titel": "Studierendenmagazin Faktor 14: Exposé einreichen (freiwillig)",
    "datum": "2026-11-08",
    "bis": "",
    "uhrzeit": "",
@@ -1178,7 +1178,7 @@
   },
   {
    "id": "2026-11-09-tcp-kurse-3-belegungszeitraum",
-   "titel": "TCP-Kurse – 3. Belegungszeitraum",
+   "titel": "TCP-Kurse: 3. Belegungszeitraum",
    "datum": "2026-11-09",
    "bis": "2026-11-16",
    "uhrzeit": "",
@@ -1194,7 +1194,7 @@
   },
   {
    "id": "2026-11-10-vortrag-promovieren-als-first-generation-academic",
-   "titel": "Vortrag „Promovieren als First-Generation-Academic“ – Promotion ohne akademisches Elternhaus",
+   "titel": "Vortrag „Promovieren als First-Generation-Academic“: Promotion ohne akademisches Elternhaus",
    "datum": "2026-11-10",
    "bis": "",
    "uhrzeit": "",
@@ -1345,7 +1345,7 @@
   },
   {
    "id": "2026-11-17-erasmus-infocafe-spanien-und-portugal",
-   "titel": "Erasmus-Infocafé Spanien und Portugal – Online-Info zum Auslandsstudium 2027/28",
+   "titel": "Erasmus-Infocafé Spanien und Portugal: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2026-11-17",
    "bis": "",
    "uhrzeit": "",
@@ -1405,7 +1405,7 @@
   },
   {
    "id": "2026-11-19-tcp-kurse-abmeldezeitraum-nach-dem-3-belegungszeitraum",
-   "titel": "TCP-Kurse – Abmeldezeitraum nach dem 3. Belegungszeitraum",
+   "titel": "TCP-Kurse: Abmeldezeitraum nach dem 3. Belegungszeitraum",
    "datum": "2026-11-19",
    "bis": "2026-11-22",
    "uhrzeit": "",
@@ -1511,7 +1511,7 @@
   },
   {
    "id": "2026-11-26-meet-the-big-players-8-unternehmen-8-chancen",
-   "titel": "Meet the Big Players – 8 Unternehmen, 8 Chancen",
+   "titel": "Meet the Big Players: 8 Unternehmen, 8 Chancen",
    "datum": "2026-11-26",
    "bis": "",
    "uhrzeit": "",
@@ -1526,7 +1526,7 @@
   },
   {
    "id": "2026-12-01-erasmus-infocafe-nordeuropa-benelux-uk-und-irland",
-   "titel": "Erasmus-Infocafé Nordeuropa, Benelux, UK und Irland – Online-Info zum Auslandsstudium 2027/28",
+   "titel": "Erasmus-Infocafé Nordeuropa, Benelux, UK und Irland: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2026-12-01",
    "bis": "",
    "uhrzeit": "",
@@ -1586,7 +1586,7 @@
   },
   {
    "id": "2026-12-02-workshop-prokrastination-studienberatung",
-   "titel": "Workshop „Erstmal noch die Wäsche machen …“ – Umgang mit Aufschieben (Reihe Studieren mit Plan der Studienberatung)",
+   "titel": "Workshop „Erstmal noch die Wäsche machen …“: Umgang mit Aufschieben (Reihe Studieren mit Plan der Studienberatung)",
    "datum": "2026-12-02",
    "bis": "",
    "uhrzeit": "",
@@ -1665,7 +1665,7 @@
    "datum": "2026-12-07",
    "bis": "2027-01-18",
    "uhrzeit": "",
-   "ort": "in Alma",
+   "ort": "Alma",
    "kategorie": "Frist",
    "status": "offiziell",
    "code": "",
@@ -1721,7 +1721,7 @@
   },
   {
    "id": "2026-12-15-erasmus-infocafe-frankreich-schweiz-und-oesterreich",
-   "titel": "Erasmus-Infocafé Frankreich, Schweiz und Österreich – Online-Info zum Auslandsstudium 2027/28",
+   "titel": "Erasmus-Infocafé Frankreich, Schweiz und Österreich: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2026-12-15",
    "bis": "",
    "uhrzeit": "",
@@ -1902,7 +1902,7 @@
   },
   {
    "id": "2027-01-19-erasmus-infocafe-italien-griechenland-und-tuerkei",
-   "titel": "Erasmus-Infocafé Italien, Griechenland und Türkei – Online-Info zum Auslandsstudium 2027/28",
+   "titel": "Erasmus-Infocafé Italien, Griechenland und Türkei: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2027-01-19",
    "bis": "",
    "uhrzeit": "",
@@ -1932,7 +1932,7 @@
   },
   {
    "id": "2027-01-19-welche-versicherungen-brauche-ich-wirklich-online-vortrag",
-   "titel": "Welche Versicherungen brauche ich wirklich – Online-Vortrag",
+   "titel": "Online-Vortrag: Welche Versicherungen brauche ich wirklich?",
    "datum": "2027-01-19",
    "bis": "",
    "uhrzeit": "",
@@ -2127,7 +2127,7 @@
   },
   {
    "id": "2027-02-21-tcp-anmeldeschluss-studienleistungen-ws-2026-27",
-   "titel": "TCP – Anmeldeschluss Studienleistungen WS 2026-27",
+   "titel": "TCP-Kurse: Anmeldeschluss Studienleistungen WS 2026/27",
    "datum": "2027-02-21",
    "bis": "",
    "uhrzeit": "",
@@ -2147,7 +2147,7 @@
    "datum": "2027-03-08",
    "bis": "2027-03-15",
    "uhrzeit": "",
-   "ort": "in Alma",
+   "ort": "Alma",
    "kategorie": "Frist",
    "status": "offiziell",
    "code": "",
@@ -2252,7 +2252,7 @@
    "datum": "2027-05-31",
    "bis": "2027-07-05",
    "uhrzeit": "",
-   "ort": "in Alma",
+   "ort": "Alma",
    "kategorie": "Frist",
    "status": "geschätzt",
    "code": "",
@@ -2312,7 +2312,7 @@
    "datum": "2027-09-06",
    "bis": "2027-09-13",
    "uhrzeit": "",
-   "ort": "in Alma",
+   "ort": "Alma",
    "kategorie": "Frist",
    "status": "geschätzt",
    "code": "",
@@ -2342,7 +2342,7 @@
    "datum": "2027-11-01",
    "bis": "2027-11-30",
    "uhrzeit": "",
-   "ort": "über ILIAS · fünf Präferenzen",
+   "ort": "ILIAS · fünf Präferenzen",
    "kategorie": "Frist",
    "status": "geschätzt",
    "code": "",
