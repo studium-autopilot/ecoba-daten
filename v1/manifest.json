@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-27T13:01:40Z",
+ "erstellt": "2026-10-27T13:36:21Z",
  "dateien": {
   "termine.json": {
    "sha256": "93024c4f9af2b2f3af17cce5506d51c296c665faa0b38f954f0c3584cb83fd02",
@@ -31,14 +31,14 @@
    "groesse": 12838
   }
  },
- "plugin_aktuell": "0.7.0",
+ "plugin_aktuell": "0.7.1",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.0",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.0/",
-  "sha256": "2c51d90e7a5ed2e8b8f7e773fc00efc96fe084e071eb74cf1b4790d901ad7970",
-  "notiz": "Jedes Gerät hat unten rechts dieselbe Leiste, ein Rundgang zeigt sie. Seiten sind aufgeräumter, Farben sagen nur eines, und deine Woche zeigt jedes Modul in seiner Farbe."
+  "version": "0.7.1",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.1/",
+  "sha256": "116bdc816a9809b313ab931fb47ddeca712ed9e47c2b5e09d6a7c8bc94b8f763",
+  "notiz": "Der Kalender ist kompakter und zeigt gleich die Termine von heute. Jede Kachel auf dem Dashboard öffnet ihre Seite."
  },
  "abdeckung": {
   "stand": "2026-10-27",
