@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-26T13:51:33Z",
+ "erstellt": "2026-10-27T05:42:15Z",
  "dateien": {
   "termine.json": {
-   "sha256": "d0c45319379f0455865489fad8812e38ce9eff29dae88ad8f786c16793ec6bfd",
-   "groesse": 105567
+   "sha256": "60ae357aacf1ceed3ffe4f46561fc9c714860eece3fb17330dd0853153a2de8e",
+   "groesse": 105594
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "d32ee88c8bb652e4c8f49bd749dd97b50806ad50f0dd9adffe755f939a172094",
-   "groesse": 27223
+   "sha256": "e36c0274fa44f331d0de578e375e305e8f375a972e4928445f2787d36293d040",
+   "groesse": 26824
   },
   "veranstaltungen.json": {
    "sha256": "3d99141ceebf465cccef2b4d1ff113fd44c6152a0ba4f2a5a60e2e66ca41fac8",
@@ -41,7 +41,7 @@
   "notiz": "Unterlagen ohne Modul stehen in einer eigenen Liste. Eigener Server sagt jetzt klar, dass er über dein Claude-Abo zusammenfasst."
  },
  "abdeckung": {
-  "stand": "2026-10-26",
+  "stand": "2026-10-27",
   "module": [
    "B110",
    "B180",
