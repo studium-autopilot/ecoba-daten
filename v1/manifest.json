@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-27T11:43:52Z",
+ "erstellt": "2026-10-27T13:01:40Z",
  "dateien": {
   "termine.json": {
    "sha256": "93024c4f9af2b2f3af17cce5506d51c296c665faa0b38f954f0c3584cb83fd02",
@@ -31,14 +31,14 @@
    "groesse": 12838
   }
  },
- "plugin_aktuell": "0.6.14",
+ "plugin_aktuell": "0.7.0",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.6.14",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.6.14/",
-  "sha256": "138175180ed8f9314da440d465eb6e7c5cd6ebcd86a98fe5a30eccef76e526af",
-  "notiz": "Unterlagen ohne Modul stehen in einer eigenen Liste. Eigener Server sagt jetzt klar, dass er über dein Claude-Abo zusammenfasst."
+  "version": "0.7.0",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.0/",
+  "sha256": "2c51d90e7a5ed2e8b8f7e773fc00efc96fe084e071eb74cf1b4790d901ad7970",
+  "notiz": "Jedes Gerät hat unten rechts dieselbe Leiste, ein Rundgang zeigt sie. Seiten sind aufgeräumter, Farben sagen nur eines, und deine Woche zeigt jedes Modul in seiner Farbe."
  },
  "abdeckung": {
   "stand": "2026-10-27",
