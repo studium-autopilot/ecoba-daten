@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-22",
+ "stand": "2026-10-27",
  "module": [
   {
    "code": "B110",
@@ -125,8 +125,8 @@
   {
    "code": "E101",
    "semester": "WS 2026/27",
-   "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), Folien 02 S. 1 und 8 (Einheit 2); Einheiten 3–15 vorläufig",
-   "stand": "2026-10-20",
+   "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), 02 (Einheit 2), 03 (1.10, 2.11 als PDF); Einheiten 3–15 vorläufig",
+   "stand": "2026-10-27",
    "vorlaeufig": true,
    "kapitel": [
     {
@@ -169,6 +169,10 @@
       {
        "nr": "1.9",
        "titel": "Kapitalismus, Kausalität und der Hockeyschläger der Geschichte"
+      },
+      {
+       "nr": "1.10",
+       "titel": "Formen des Kapitalismus: Institutionen, Regierung und die Wirtschaft"
       }
      ]
     },
@@ -217,6 +221,10 @@
       {
        "nr": "2.10",
        "titel": "Ausweg aus der Malthus’schen Stagnation"
+      },
+      {
+       "nr": "2.11",
+       "titel": "Kapitalismus + Kohlenstoff = Hockey-Stick-Wachstum + Klimawandel (aus The Economy 2.0, als PDF im Kurs)"
       }
      ]
     },
