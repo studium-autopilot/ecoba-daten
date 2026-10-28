@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-26",
+ "stand": "2026-10-28",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -2680,7 +2680,6 @@
    },
    "raum": "online per Zoom",
    "ausfall": [
-    "2026-10-30",
     "2026-12-25",
     "2027-01-01"
    ],
