@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-10-27T16:36:27Z",
+ "erstellt": "2026-10-28T05:42:54Z",
  "dateien": {
   "termine.json": {
-   "sha256": "93024c4f9af2b2f3af17cce5506d51c296c665faa0b38f954f0c3584cb83fd02",
-   "groesse": 106248
+   "sha256": "4da57b6c47ccaffdd311ca7abff48ad643beda374f35dfe1eb8f32c6c5e60591",
+   "groesse": 106237
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24354
   },
   "angebote.json": {
-   "sha256": "e36c0274fa44f331d0de578e375e305e8f375a972e4928445f2787d36293d040",
-   "groesse": 26824
+   "sha256": "ae961f018e2085ec40ec84d49ed26ad4d872212923d5dc069a1fb93de319fbc3",
+   "groesse": 26743
   },
   "veranstaltungen.json": {
    "sha256": "3d99141ceebf465cccef2b4d1ff113fd44c6152a0ba4f2a5a60e2e66ca41fac8",
@@ -41,7 +41,7 @@
   "notiz": "Ein angeheftetes Dashboard öffnet keine neuen Tabs mehr, und beim Start löst es sich von selbst."
  },
  "abdeckung": {
-  "stand": "2026-10-27",
+  "stand": "2026-10-28",
   "module": [
    "B110",
    "B180",

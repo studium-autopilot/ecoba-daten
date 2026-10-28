@@ -1,17 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-27",
+ "stand": "2026-10-28",
  "angebote": [
-  {
-   "id": "vortrag-136269",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Epistemische Gerechtigkeit: Warum Nichtwissenschaftler*innen in der Nachhaltigkeitsforschung beteiligen?",
-   "datum": "2026-10-27",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/epistemische-gerechtigkeit-warum-nichtwissenschaftlerinnen-in-der-nachhaltigkeitsforschung-beteiligen/"
-  },
   {
    "id": "ub-d460c9a87f",
    "kategorie": "ub",
@@ -40,6 +30,16 @@
    "titel": "Stammtisch",
    "datum": "2026-10-29",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
+  },
+  {
+   "id": "vortrag-138129",
+   "kategorie": "vortrag",
+   "reihe": "Wirtschafts- und Sozialwissenschaftliche Fakultät",
+   "titel": "Seeing and sensing world politics",
+   "datum": "2026-10-29",
+   "von": "18:00",
+   "ort": "Ernstvon-Sieglin Hörsaal, Schloss Hohentübingen, Burgsteige 11",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/seeing-and-sensing-world-politics/"
   },
   {
    "id": "vortrag-136413",
