@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-28T15:40:22Z",
+ "erstellt": "2026-10-28T18:26:51Z",
  "dateien": {
   "termine.json": {
    "sha256": "1bfdec7cd3f905527923e884e7c6de8a79df919ff108b0a96d2eef737fcd24ea",
@@ -31,14 +31,14 @@
    "groesse": 13013
   }
  },
- "plugin_aktuell": "0.7.3",
+ "plugin_aktuell": "0.7.4",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.3",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.3/",
-  "sha256": "4aeec874dbb5102fc2a473fe1ab07df931cc2273b8674d6f81392f701e844c5b",
-  "notiz": "Ein angeheftetes Dashboard öffnet keine neuen Tabs mehr, und beim Start löst es sich von selbst."
+  "version": "0.7.4",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.4/",
+  "sha256": "a9656be919e947548489f62ca8559e468032ed24284dc352b0755f5b9cec7772",
+  "notiz": "Hängt die Einrichtung des eigenen Servers am Platzsucher, geht sie jetzt weiter, und Claude sagt dir, wie weit die Suche ist."
  },
  "abdeckung": {
   "stand": "2026-10-28",
