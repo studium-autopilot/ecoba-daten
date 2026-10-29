@@ -1072,6 +1072,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-05-it-kurse-des-zdv-anmeldung-freiwillig",
+   "titel": "IT-Kurse des Rechenzentrums (ZDV): Anmeldung (freiwillig)",
+   "datum": "2026-11-05",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/de/3652",
+   "quelle_text": "",
+   "info": "Präsenz- und Online-Kurse des Rechenzentrums zu Python, R, SPSS und Grafik, bei Erfolg mit ECTS. Anmeldung in Alma zum Kurs und getrennt zur gekoppelten Prüfung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-05-science-innovation-days-festivaleroeffnung",
    "titel": "Science & Innovation Days: Eröffnung des Wissenschaftsfestivals",
    "datum": "2026-11-05",
