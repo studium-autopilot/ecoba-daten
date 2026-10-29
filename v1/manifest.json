@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-28T18:38:07Z",
+ "erstellt": "2026-10-29T05:44:33Z",
  "dateien": {
   "termine.json": {
    "sha256": "bb9226dbc44201decf2435d50d3221ae938fe92b31cceb2c4410769f9d19a209",
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "ae961f018e2085ec40ec84d49ed26ad4d872212923d5dc069a1fb93de319fbc3",
-   "groesse": 26743
+   "sha256": "91d006a53f752593cb76c0d42e170f1944a1d6dc692760041c64c82427a0b22a",
+   "groesse": 25971
   },
   "veranstaltungen.json": {
    "sha256": "b8ee91b41ab45a5a0d61fa24d49bf7fc0d4b27bf9572b289e156657a2dd0844c",
@@ -41,7 +41,7 @@
   "notiz": "Hängt die Einrichtung des eigenen Servers am Platzsucher, geht sie jetzt weiter, und Claude sagt dir, wie weit die Suche ist."
  },
  "abdeckung": {
-  "stand": "2026-10-28",
+  "stand": "2026-10-29",
   "module": [
    "B110",
    "B180",
