@@ -1,35 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-10-29",
+ "stand": "2026-10-30",
  "angebote": [
-  {
-   "id": "welcome-eacb892706",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Stammtisch",
-   "datum": "2026-10-29",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
-  },
-  {
-   "id": "vortrag-138129",
-   "kategorie": "vortrag",
-   "reihe": "Wirtschafts- und Sozialwissenschaftliche Fakultät",
-   "titel": "Seeing and sensing world politics",
-   "datum": "2026-10-29",
-   "von": "18:00",
-   "ort": "Ernstvon-Sieglin Hörsaal, Schloss Hohentübingen, Burgsteige 11",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/seeing-and-sensing-world-politics/"
-  },
-  {
-   "id": "vortrag-136413",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Thesencheck zu Klimawandel und Maßnahmen – Probleme der Erforschung und Weiterentwicklung von Klimamodellen",
-   "datum": "2026-10-29",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/thesencheck-zu-klimawandel-und-massnahmen-probleme-der-erforschung-und-weiterentwicklung-von-klimamodellen/"
-  },
   {
    "id": "vortrag-136224",
    "kategorie": "vortrag",
