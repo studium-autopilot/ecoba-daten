@@ -1,18 +1,19 @@
 {
  "schema": 1,
- "stand": "2026-10-27",
+ "stand": "2026-10-31",
  "module": [
   {
    "code": "B110",
    "semester": "WS 2026/27",
    "quelle": "Folien 00 Einführung, S. 9 (Thematische Gliederung)",
-   "stand": "2026-10-18",
+   "stand": "2026-10-31",
    "kapitel": [
     {
      "nr": "1",
      "titel": "Grundlagen",
      "seiten": 42,
      "folien": 1,
+     "vorlesung": "2026-10-19",
      "teile": [
       {
        "nr": "1.1",
@@ -126,13 +127,14 @@
    "code": "E101",
    "semester": "WS 2026/27",
    "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), 02 (Einheit 2), 03 (1.10, 2.11 als PDF); Einheiten 3–15 vorläufig",
-   "stand": "2026-10-27",
+   "stand": "2026-10-31",
    "vorlaeufig": true,
    "kapitel": [
     {
      "nr": "1",
      "titel": "Die kapitalistische Revolution",
      "url": "https://books.core-econ.org/the-economy-v1/book/de/text/01.html",
+     "vorlesung": "2026-10-14",
      "teile": [
       {
        "nr": "1.1",
@@ -181,6 +183,7 @@
      "titel": "Technologie, Bevölkerung und Wachstum",
      "folien": 2,
      "url": "https://books.core-econ.org/the-economy-v1/book/de/text/02.html",
+     "vorlesung": "2026-10-21",
      "teile": [
       {
        "nr": "2.1",
@@ -897,13 +900,14 @@
    "code": "S100",
    "semester": "WS 2026/27",
    "quelle": "Folien 00 Road Map, S. 2 (Überblick über die Themen); Seiten aus den Folien des Vorjahrs",
-   "stand": "2026-10-18",
+   "stand": "2026-10-31",
    "kapitel": [
     {
      "nr": "1",
      "titel": "Lineare Algebra",
      "seiten": 118,
-     "folien": 1
+     "folien": 1,
+     "vorlesung": "2026-10-22"
     },
     {
      "nr": "2",
@@ -953,19 +957,21 @@
    "code": "S110",
    "semester": "WS 2026/27",
    "quelle": "Folien Explorative Datenanalyse, S. 16 (Gliederung); eine PDF für alle Teile",
-   "stand": "2026-10-18",
+   "stand": "2026-10-31",
    "kapitel": [
     {
      "nr": "E",
      "titel": "Motivation, Visualisierungen, Kommunikation, Fallstricke",
      "seiten": 13,
-     "folien": 1
+     "folien": 1,
+     "vorlesung": "2026-10-12"
     },
     {
      "nr": "I",
      "titel": "Statistische Variable, Verteilungsfunktion, Quantilsfunktion, Histogramm",
      "seiten": 23,
-     "folien": 1
+     "folien": 1,
+     "vorlesung": "2026-10-19"
     },
     {
      "nr": "II",
