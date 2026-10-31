@@ -560,21 +560,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-21-speed-dating-talent-meets-industry-nachmeldung-freiwillig",
-   "titel": "Speed Dating „Talent Meets Industry“: Nachmeldung beim Career Service (freiwillig)",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Online-Formular des Career Service",
-   "kategorie": "Frist",
-   "status": "geschätzt",
-   "code": "",
-   "quelle_url": "",
-   "quelle_text": "Rundmail Career Service vom 14.10.2026",
-   "info": "Nachmeldung zum Speed Dating des Career Service mit regionalen Arbeitgebern am 05.11. Anmeldung per Online-Formular, danach Lebenslauf und kurzes Motivationsschreiben per Mail.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-21-stipendieninformationsabend",
    "titel": "Stipendieninformationsabend",
    "datum": "2026-10-21",
@@ -1054,21 +1039,6 @@
    "quelle_url": "",
    "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
    "info": "Infoveranstaltung des Fachbereichs mit dem International Office zu Austauschplätzen außerhalb Europas, Bewerbung und Finanzierung. Anmeldung über das Online-Formular (eveeno).",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-11-05-it-kurse-des-zdv-anmeldung-freiwillig",
-   "titel": "IT-Kurse des Rechenzentrums (ZDV): Anmeldung (freiwillig)",
-   "datum": "2026-11-05",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Alma",
-   "kategorie": "Frist",
-   "status": "geschätzt",
-   "code": "",
-   "quelle_url": "https://uni-tuebingen.de/de/3652",
-   "quelle_text": "",
-   "info": "Präsenz- und Online-Kurse des Rechenzentrums zu Python, R, SPSS und Grafik, bei Erfolg mit ECTS. Anmeldung in Alma zum Kurs und getrennt zur gekoppelten Prüfung.",
    "geprueft": ""
   },
   {
@@ -1791,7 +1761,7 @@
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/fristen/",
    "quelle_text": "",
-   "info": "Anmeldezeitraum des Prüfungsamts für die Prüfungen des Haupttermins. An- und Abmeldung online in Alma, Abmeldung bis einen Tag vor der jeweiligen Prüfung.",
+   "info": "Anmeldezeitraum für die Prüfungen des Haupttermins. Anmeldung in Alma unter einer Spezialisierung (BWL, VWL oder ohne, später umbuchbar), Abmeldung bis einen Tag vor der Prüfung.",
    "geprueft": ""
   },
   {
