@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-01T05:43:46Z",
+ "erstellt": "2026-11-01T11:04:42Z",
  "dateien": {
   "termine.json": {
    "sha256": "628a1dbc8d40c0082f2e1a50c752d193037052268de592629e24670162555c03",
@@ -31,14 +31,14 @@
    "groesse": 13013
   }
  },
- "plugin_aktuell": "0.7.5",
+ "plugin_aktuell": "0.7.6",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.5",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.5/",
-  "sha256": "6b17b19ff92acd0bce14090eccf9cdfee5b41b3d86e0fda5b39653f17c959435",
-  "notiz": "Den eigenen Server richtet Claude jetzt im Tab Code von Claude Desktop ein, ohne Erweiterung für Chrome, und fragt nur einmal nach deiner Mail-Adresse."
+  "version": "0.7.6",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.6/",
+  "sha256": "caa885b141f2e5dbf06589a7acd2eab017571ee21a2d00a718e372e3f5e3244f",
+  "notiz": "Widgets für iPhone und iPad, ein Lernplan nach deiner Zielnote, und den eigenen Server richtet Claude jetzt mit einem einzigen Befehl ein."
  },
  "abdeckung": {
   "stand": "2026-11-01",
