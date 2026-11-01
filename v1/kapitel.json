@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-31",
+ "stand": "2026-11-01",
  "module": [
   {
    "code": "B110",
@@ -900,56 +900,65 @@
    "code": "S100",
    "semester": "WS 2026/27",
    "quelle": "Folien 00 Road Map, S. 2 (Überblick über die Themen); Seiten aus den Folien des Vorjahrs",
-   "stand": "2026-10-31",
+   "stand": "2026-11-01",
+   "altklausuren": 11,
    "kapitel": [
     {
      "nr": "1",
      "titel": "Lineare Algebra",
      "seiten": 118,
      "folien": 1,
-     "vorlesung": "2026-10-22"
+     "vorlesung": "2026-10-22",
+     "in_altklausuren": 11
     },
     {
      "nr": "2",
      "titel": "Eigenschaften von univariaten Funktionen",
      "seiten": 74,
-     "folien": 2
+     "folien": 2,
+     "in_altklausuren": 11
     },
     {
      "nr": "3",
      "titel": "Optimierung von univariaten Funktionen",
      "seiten": 37,
-     "folien": 3
+     "folien": 3,
+     "in_altklausuren": 2
     },
     {
      "nr": "4",
      "titel": "Multivariate Funktionen",
      "seiten": 31,
-     "folien": 4
+     "folien": 4,
+     "in_altklausuren": 7
     },
     {
      "nr": "5",
      "titel": "Komparative-statische Analyse",
      "seiten": 34,
-     "folien": 5
+     "folien": 5,
+     "in_altklausuren": 8
     },
     {
      "nr": "6",
      "titel": "Optimierung von multivariaten Funktionen",
      "seiten": 33,
-     "folien": 6
+     "folien": 6,
+     "in_altklausuren": 3
     },
     {
      "nr": "7",
      "titel": "Optimierung unter Nebenbedingungen",
      "seiten": 25,
-     "folien": 7
+     "folien": 7,
+     "in_altklausuren": 11
     },
     {
      "nr": "8",
      "titel": "Integralrechnung",
      "seiten": 47,
-     "folien": 8
+     "folien": 8,
+     "in_altklausuren": 10
     }
    ]
   },
