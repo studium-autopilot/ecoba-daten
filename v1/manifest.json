@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-10-31T18:36:59Z",
+ "erstellt": "2026-11-01T05:43:46Z",
  "dateien": {
   "termine.json": {
    "sha256": "628a1dbc8d40c0082f2e1a50c752d193037052268de592629e24670162555c03",
@@ -15,7 +15,7 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "ec598304c2d2d3163a2d016144656b2c674dff2a63af272efc277009121b1c36",
+   "sha256": "3f2deb39c867fb9553c3c49a155d276f70a45e7c4911c068dea33b3e695d12a6",
    "groesse": 24653
   },
   "veranstaltungen.json": {
@@ -41,7 +41,7 @@
   "notiz": "Den eigenen Server richtet Claude jetzt im Tab Code von Claude Desktop ein, ohne Erweiterung für Chrome, und fragt nur einmal nach deiner Mail-Adresse."
  },
  "abdeckung": {
-  "stand": "2026-10-31",
+  "stand": "2026-11-01",
   "module": [
    "B110",
    "B180",
