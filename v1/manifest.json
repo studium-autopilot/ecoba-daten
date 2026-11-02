@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-02T23:26:29Z",
+ "erstellt": "2026-11-02T23:36:59Z",
  "dateien": {
   "termine.json": {
    "sha256": "c3fc293ec0bd541e7bece0869173beb1b2025e15a91179f85aa03fde73da26d8",
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "48c3ad841207d792474f909bb239bd9d42698dec68a92b2dc7c050dac11fadca",
-   "groesse": 24653
+   "sha256": "c459681f8ea731ad0fce5490a9ff5fc35b12632e34b012288b135eadb51178cc",
+   "groesse": 24146
   },
   "veranstaltungen.json": {
    "sha256": "b8ee91b41ab45a5a0d61fa24d49bf7fc0d4b27bf9572b289e156657a2dd0844c",
@@ -41,7 +41,7 @@
   "notiz": "Im Stundenplan siehst du Übungen auf einen Blick, am iPad quer stehen im Lernplan die Module neben der Woche, und dein eigener Server installiert nur geprüfte Updates."
  },
  "abdeckung": {
-  "stand": "2026-11-02",
+  "stand": "2026-11-03",
   "module": [
    "B110",
    "B180",
