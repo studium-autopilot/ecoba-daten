@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-02T12:56:43Z",
+ "erstellt": "2026-11-02T23:26:29Z",
  "dateien": {
   "termine.json": {
-   "sha256": "ae5dd215d2266544c7f57cc7bc3336f06ac86ad2311f49c10f12c8a8433b36f5",
-   "groesse": 110329
+   "sha256": "c3fc293ec0bd541e7bece0869173beb1b2025e15a91179f85aa03fde73da26d8",
+   "groesse": 110624
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -31,14 +31,14 @@
    "groesse": 13013
   }
  },
- "plugin_aktuell": "0.7.7",
+ "plugin_aktuell": "0.7.9",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.7",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.7/",
-  "sha256": "0add39ef65f953ce6e59b59a979b1bc21eeececf0b5ecb93d0285285475855e0",
-  "notiz": "Der Lernplan ist fertig, jedes Design hat ein eigenes Dunkel, und Studium Autopilot startet nur noch geprüfte Teile."
+  "version": "0.7.9",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.9/",
+  "sha256": "904ce749e7a2f40fe1d4cb9a954a1562250cae1cf2cd3f71af4ff847b1e72aa7",
+  "notiz": "Im Stundenplan siehst du Übungen auf einen Blick, am iPad quer stehen im Lernplan die Module neben der Woche, und dein eigener Server installiert nur geprüfte Updates."
  },
  "abdeckung": {
   "stand": "2026-11-02",
