@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "stand": "2026-11-01",
+ "stand": "2026-11-02",
  "module": [
   {
    "code": "B110",
    "semester": "WS 2026/27",
    "quelle": "Folien 00 Einführung, S. 9 (Thematische Gliederung)",
-   "stand": "2026-10-31",
+   "stand": "2026-11-02",
    "kapitel": [
     {
      "nr": "1",
@@ -32,7 +32,19 @@
     {
      "nr": "2",
      "titel": "Unternehmerisch-strategische Perspektive",
-     "folien": 2
+     "seiten": 78,
+     "folien": 2,
+     "vorlesung": "2026-11-02",
+     "teile": [
+      {
+       "nr": "2.1",
+       "titel": "Entrepreneurship"
+      },
+      {
+       "nr": "2.2",
+       "titel": "Strategie"
+      }
+     ]
     },
     {
      "nr": "3",
