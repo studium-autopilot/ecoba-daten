@@ -1,0 +1,735 @@
+{
+ "schema": 1,
+ "dateien": [
+  {
+   "sha256": "b3d63beaf764c303d456bcb46b5a3b1180fe7f56de7c479deaffb4205481499b",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Einführung"
+  },
+  {
+   "sha256": "77a4d0bda1ae5b19fff5e2631b8e83d4eaa221eb257cc4811c76e893425ba1fd",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Einführung mit Anmerkungen"
+  },
+  {
+   "sha256": "6dc5add0225ecdda08a29e91da02462670763be442b813bd9813caf358548f35",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Grundlagen"
+  },
+  {
+   "sha256": "2f09d660429bc3ff7b2d9d08ccf7825077ed906d9cd561c45647189cb2d92c3d",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Grundlagen mit Anmerkungen Vorlesung 2"
+  },
+  {
+   "sha256": "8914d833c2036652638a8abe0704275a3457110cebd1fb95ecd84e903753ff18",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Grundlagen mit Anmerkungen Vorlesung 3"
+  },
+  {
+   "sha256": "b51ad4290603ab11da801387cce772b1d2eab0f7e5ead726411621a344309231",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Entrepreneurship mit Anmerkungen Vorlesung 4"
+  },
+  {
+   "sha256": "8c4191f8052d6f23771755a9aa9368939fa5b4d87dd528d0b05035d45859adf0",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Unternehmerisch-strategische Perspektive"
+  },
+  {
+   "sha256": "5e11acd6e4a97ba9659839b0f474f6cf3722d5d5457820fd3827ad251f2033c9",
+   "code": "B110",
+   "art": "Lösung",
+   "nummer": 1,
+   "titel": "Grundlagen"
+  },
+  {
+   "sha256": "bb9b7a2d82beee4c50fac2324d915b6e3ad9f89c54dea5b02ba65e9159b36d8b",
+   "code": "B110",
+   "art": "Sonstiges",
+   "titel": "FAQ WS 2026/27"
+  },
+  {
+   "sha256": "146066497d82b335b68460622411e91219660707b55b5aba57396a329b58bc03",
+   "code": "B110",
+   "art": "Sonstiges",
+   "titel": "Flyer Deutschlandstipendium"
+  },
+  {
+   "sha256": "6f9a453ce1c29233dd223f04f0953a836ddc2276fc2d7fd79ee59d31685c9e42",
+   "code": "B110",
+   "art": "Sonstiges",
+   "titel": "Infoveranstaltungen Auslandsstudium"
+  },
+  {
+   "sha256": "2e34ef5bf1dccdd1a73787cf19476f0d7cb88f9aac32328fb73ecfdb8ff7f3db",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Organisation und Abgabefristen"
+  },
+  {
+   "sha256": "555e7363b38aba882343d7cdf8e18035778074574b98efa562e5dea3183a2e3d",
+   "code": "B110",
+   "art": "Tutorium",
+   "titel": "Vorlage Case Study Abgabe"
+  },
+  {
+   "sha256": "df4f491cf007a7095c2bdc19c4b452051ba6ed5d135b7a8ce223047501de8c75",
+   "code": "B110",
+   "art": "Tutorium",
+   "nummer": 1,
+   "titel": "Case Study: App gegen Lebensmittelverschwendung"
+  },
+  {
+   "sha256": "1b422f53014548ad7a57801ce6b42bbbda23c336f94439a46dc8f07e33980a0b",
+   "code": "B110",
+   "art": "Übung",
+   "titel": "Zusatzübung Ableitungen mit gelösten Aufgaben"
+  },
+  {
+   "sha256": "a52ae32848f2e162593da0429fc7824344108d9112f2de4261ab10989c868883",
+   "code": "B110",
+   "art": "Übung",
+   "titel": "Zusatzübung Teil 1"
+  },
+  {
+   "sha256": "feeb4b34e2bc0a4aae007429815b0e9375ca683df8f33ad94f2ccfafcc7d09a8",
+   "code": "B110",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Grundlagen"
+  },
+  {
+   "sha256": "1521e180dc05424f1004624ee4c256a1d7827defe4a1dd9023087ea874387f99",
+   "code": "B110",
+   "art": "Übung",
+   "nummer": 2,
+   "titel": "Unternehmerisch-strategische Perspektive"
+  },
+  {
+   "sha256": "909260ce9caf98c7030ff22f43e797f67a0d78860330bb517c3216d011a97141",
+   "code": "B180",
+   "art": "Altklausur",
+   "titel": "WS 2025/26 Haupttermin"
+  },
+  {
+   "sha256": "ab148154a7d0a07b3198ee6bccaf8a1fa3fcbc39f7605dd53b98f57e1b8b4344",
+   "code": "B180",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Einführung"
+  },
+  {
+   "sha256": "1e903768c972f3aa4c87872361d085b89e50ce69723ef771a01abf71b14cddeb",
+   "code": "B180",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Gegenstand und Zweck des betrieblichen Rechnungswesens"
+  },
+  {
+   "sha256": "b6a014e6d2e1e6e2e7e5b940d16f592d77fc29c3151aa9162887fb210e8c2450",
+   "code": "B180",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Finanzbuchhaltung"
+  },
+  {
+   "sha256": "9a37be51715b36733f20dc8463eec8a3efd267b3bb751a6d9e5ba27374185484",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 1,
+   "titel": "Gegenstand und Zweck des Rechnungswesens"
+  },
+  {
+   "sha256": "61c3f71675eee6ce80c5afe4e0203c02a8f6b28fde4ca34de9cf48fde73d2954",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 1,
+   "titel": "Vorlage Aufgabe 5 Lösungsschema"
+  },
+  {
+   "sha256": "b08498bedbe7b8466399b50d4cfc421f7353093f291712a3ab4f4b82241d42e0",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 1,
+   "titel": "Vorlage Aufgabe 6 Bilanz"
+  },
+  {
+   "sha256": "35bbeb18416c2ccae17770daf9f40d1bd4c080c643f2bf724fd2f449b96112bd",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 1,
+   "titel": "Vorlage Zusatzaufgabe Bilanzgleichungen"
+  },
+  {
+   "sha256": "702a8d45cf05afa5bce3aff720a9e9a70d3e7a939ab77d8b7b52b4e1271e7371",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 2,
+   "titel": "Finanzbuchhaltung"
+  },
+  {
+   "sha256": "39202331ca4968b66227e056ae550963f2cdcd57e2b8b28b645501364dc56b05",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 2,
+   "titel": "Vorlage Aufgabe 11 T-Konten"
+  },
+  {
+   "sha256": "ba85c1df36277075414461a10dcd6e8ae0de1b7291913d31f2cb3836edb96671",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 3,
+   "titel": "Kontenabschluss und Erfolgskonten"
+  },
+  {
+   "sha256": "f7084bca66045e61a3aa1dd0408ad3f4b874463abbbab72d6a084ded62e59758",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 3,
+   "titel": "Vorlage Aufgabe 13 Bilanz und T-Konten"
+  },
+  {
+   "sha256": "c888e344b60b2982fc0930d9a75de62822f8a65dbc3d2c16ee7e84948c0ace25",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 10,
+   "titel": "Rückstellungen und Wiederholung WS 2025/26"
+  },
+  {
+   "sha256": "fe3681cb312c16e28ac119c776d145f9adec0c8b6775adc45316d7079abe66e9",
+   "code": "E101",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Einführung"
+  },
+  {
+   "sha256": "46b6e4b9d625ffa3212ef2614fac1233b649735efec5c0cf0d347300f308249f",
+   "code": "E101",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Technologie, Bevölkerung und Wachstum"
+  },
+  {
+   "sha256": "884e238285ed81983324a90c1502b76c2b05ac61c37b9f29d80bb565dc3fbbc0",
+   "code": "E101",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Technikwahl, Innovation und Wachstum"
+  },
+  {
+   "sha256": "1b164b27314e0f8d23ae32a9550a3a8b8ed94444a5884e6e2e6e2fbb5bffcb43",
+   "code": "E101",
+   "art": "Literatur",
+   "nummer": 2,
+   "titel": "Economist: Malthus, der falsche Prophet"
+  },
+  {
+   "sha256": "55b5ea0c4c249f6783192190b517f009259e92c373d5fe3316f53f41fa91a843",
+   "code": "E101",
+   "art": "Literatur",
+   "nummer": 3,
+   "titel": "CORE 2.11: Kapitalismus, Kohlenstoff und Klimawandel"
+  },
+  {
+   "sha256": "fc8a1d1ab496134249840fda22754dc73eb5a968570d063967bc1713974e118d",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 1,
+   "titel": "Grundlegende Konzepte der Volkswirtschaft"
+  },
+  {
+   "sha256": "c8c2a4404cb52f85e8c8fcf0e1de8d0c58b92f681c18a617a9f99886e66012c9",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 2,
+   "titel": "Produktion, Bevölkerung und Wachstum"
+  },
+  {
+   "sha256": "7d27a6e822c2835e9e596f01e1e9a8e904ef94b02507310e859b46e635ac5ba9",
+   "code": "E101",
+   "art": "Sonstiges",
+   "titel": "Diagramm-Studie Teilnehmerinformation"
+  },
+  {
+   "sha256": "7d070d4fd51f58db37d53410259264980ab66a357fbd57b4b44fa26db7f9891b",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Grundlegende Konzepte der Volkswirtschaft"
+  },
+  {
+   "sha256": "96eeba2df11685a9e10404d92893f4bced4eeee736573a9c3ef13430bd4a6473",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 2,
+   "titel": "Produktion, Bevölkerung und Wachstum"
+  },
+  {
+   "sha256": "916441f5cb6c6fb18602a198700f91fef74f30f0e92cff841aca3cda07cc5be1",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 3,
+   "titel": "Technologie, Kosten und Spezialisierung"
+  },
+  {
+   "sha256": "975e46142b0602fa36f7b84a3e77c44154a0ebe67f57b2367bcfae39781da6dd",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2018/19 Haupttermin"
+  },
+  {
+   "sha256": "e4152790c5008031b4391d1e5e61b77f2c9c4a6e82f50c2767dcf09b12177a4d",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2018/19 Nachtermin"
+  },
+  {
+   "sha256": "819e447df48a65e82056baa823dec27ba92ee3a540a0b34c565a116da0f34f5f",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2019/20 Haupttermin"
+  },
+  {
+   "sha256": "57ef916bc59d08d68b754dbe90b112e971027b7844bfb72568ca671fe341534e",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2019/20 Nachtermin"
+  },
+  {
+   "sha256": "9be708ec325fa9bbeef75a0239f96dac68425108a45f47eb3e38790f275183d2",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2020/21 Haupttermin"
+  },
+  {
+   "sha256": "f0a80472bb327e658030462282eceef9dbd315ece2bc5a277578cbc3d4c2350d",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2020/21 Nachtermin"
+  },
+  {
+   "sha256": "36ff95cc3c69cc5a3e160425c21b5d3494354bbd114edefbc7c95a0dc92d793f",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2021/22 Haupttermin"
+  },
+  {
+   "sha256": "332b4e2cced7d5d74bd1cfd0a19ee687a3d782fbe63be2b0eac8381850893662",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2021/22 Nachtermin"
+  },
+  {
+   "sha256": "e05ac4497708216d1002d0db1c0d29a613ff712f05105a2ab4b371ae1c39d480",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2022/23 Haupttermin"
+  },
+  {
+   "sha256": "bd7c562cc1ba77b2b1aed8063d0e320555c2ffcfffc638fe6a9fcffc70968a01",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2023/24 Haupttermin"
+  },
+  {
+   "sha256": "f1168106da22eed1a8bfb11def39d4078a3c247bab4711532bdde65855f67909",
+   "code": "S100",
+   "art": "Altklausur",
+   "titel": "WS 2023/24 Nachtermin"
+  },
+  {
+   "sha256": "9de8b1d0effc0fbd9f7cc72a98c9f6ad8b03d78fa12982b5805f11aabf798031",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Einführung Organisatorisches"
+  },
+  {
+   "sha256": "51feff116038a3cf34d6c3477dcc1f2195366320238b4d75cb10e6e4d613988b",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Road Map mit Anmerkungen"
+  },
+  {
+   "sha256": "b0d464a7d9a19bdd203e830eb4f8bed6ad9ab8235ff3dbafcf9de634d6033d00",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 0,
+   "titel": "Road Map unbeschrieben"
+  },
+  {
+   "sha256": "cf2265ab0a20d0ace81fc82f450c4533dee73b082dace60630d75733c5425d2c",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra"
+  },
+  {
+   "sha256": "e727bf336de67e2e6fe64b74d015d532da60201ad9d83cd955a45f295c5f338c",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Determinante unbeschrieben"
+  },
+  {
+   "sha256": "0912993347be9271419281ddd74b7e10503a1e47e202068a28384153967a2d93",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Matrixmultiplikation mit Anmerkungen"
+  },
+  {
+   "sha256": "7bd9016f843b5e7d2416303b2b374cfec0c1b41cbffa53b8812cc41438386294",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Matrixmultiplikation mit Anmerkungen"
+  },
+  {
+   "sha256": "5f9fc9b2ec156db428b0d78697296f97ee5bb513e64150d426e055af5ee3c5ce",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Matrixmultiplikation unbeschrieben"
+  },
+  {
+   "sha256": "baf39cdc62df0654cc815abb0f4c5dc3a3e080d62b68b00c36051a92ce595d7b",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Vektoren mit Anmerkungen"
+  },
+  {
+   "sha256": "9116095bdbe941b0e8645b903611d710e6b49b2c34959f5d359353057d6ba764",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Vektoren mit Anmerkungen WS 2025/26"
+  },
+  {
+   "sha256": "8b486c478e79dc920d82ad45cbac9c6c4ebae66a809e2c84aed183d5253547fd",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Vektoren unbeschrieben"
+  },
+  {
+   "sha256": "ef67a54bec028c6115e9ab74534b466916c2fa871854a17a4d822c17484d8865",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Differentiation und ihre Anwendung"
+  },
+  {
+   "sha256": "99b7b4e0e0c7f77903a633cff4505077713974bc64859f2645de27672c91a277",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Optimierung einer Variablen"
+  },
+  {
+   "sha256": "19052ad9d119c2c1e30ef454334600ba74b5506b2a4c7610ac054ddd43d682b0",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 4,
+   "titel": "Funktionen mehrerer Variablen"
+  },
+  {
+   "sha256": "a67e81606abc4ca81da61ced9c62d7ca021a5fc48d0a33e84be7af7d1896a301",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 5,
+   "titel": "Komparativ-statische Analyse"
+  },
+  {
+   "sha256": "c5b2239d01c6066186ac51b6fa9cdffc8f6ac867ceee91dbbf12df3b78942f68",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 6,
+   "titel": "Envelope-Theorem zum Video"
+  },
+  {
+   "sha256": "392a065331a4bf9735712e6e6cb564ecf024263363c404137b25303ff19b2333",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 6,
+   "titel": "Optimierung mehrerer Variablen"
+  },
+  {
+   "sha256": "f1582753fa44780e69c494b57671f771af92c059701a9282f5648c87e2f104ed",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 7,
+   "titel": "Optimierung unter Nebenbedingungen"
+  },
+  {
+   "sha256": "b563ef5b8dbf22af4c633556a936aef789904cd3c19a40ed9fd9439819fb3746",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 8,
+   "titel": "Integralrechnung"
+  },
+  {
+   "sha256": "f4e3f619640a300baa2db166073f57337ae0cdeac5691a3644b88fcd391d2330",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "Kurzlösungen Aufgabenkatalog WS 2026/27"
+  },
+  {
+   "sha256": "e3c250ad7e3c73a544bb57a820fb7d3701da8209c55677398a68426aad2154eb",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "Matrix a Day 2021-12-01"
+  },
+  {
+   "sha256": "7d99218b0377ed5006e4710fc74706bf33987b2d7d416633d63b531166e9e142",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2018/19 Haupttermin"
+  },
+  {
+   "sha256": "4bc7133091732fcff059e1c056a973624b7d8572f0305975ed7480f0e62b54c2",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2018/19 Nachtermin"
+  },
+  {
+   "sha256": "d238c08ece5c99f9072de4752ca2cd5dee84a049d495f9baa3611f067e6baf7c",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2019/20 Haupttermin"
+  },
+  {
+   "sha256": "97bee9b9a2904fa2ae70a1fb969b0ec7bc893add1803662d61172aaf16b54de3",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2021/22 Haupttermin"
+  },
+  {
+   "sha256": "c23ef7f181602069dd727644826aa401a2b880ea666341e9eeae54603a43c292",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2021/22 Nachtermin"
+  },
+  {
+   "sha256": "dfaa6c55689cae5f7a36f3a72dee4dfca3c9c876856cd94f0539ce93606b5fbc",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2022/23 Haupttermin"
+  },
+  {
+   "sha256": "b7dade5a9322d34499f86b367b23917e50716404905f7ac86ce4f92b056fc39f",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2023/24 Haupttermin"
+  },
+  {
+   "sha256": "e820c49408528245d09efac8ca6503e442ebb99eb5e94e30a22717b3d73052cb",
+   "code": "S100",
+   "art": "Lösung",
+   "titel": "WS 2023/24 Nachtermin"
+  },
+  {
+   "sha256": "e61b8d17f342b442cd746e160dd46c8208367dd3cda299c3bd995d9472e1add3",
+   "code": "S100",
+   "art": "Lösung",
+   "nummer": 1,
+   "titel": "Kurzlösung Vorkursstoff"
+  },
+  {
+   "sha256": "c4be58daebcbf3dc6688f75ad440f74d08a5325b8a2cb29bcdcac9829b1a5723",
+   "code": "S100",
+   "art": "Sonstiges",
+   "titel": "Formelsammlung"
+  },
+  {
+   "sha256": "4ece478484fee6e0102a3bb9954be9deb82d6372a6be3b61d07ceb9932dc3647",
+   "code": "S100",
+   "art": "Übung",
+   "titel": "Aufgabenkatalog WS 2026/27"
+  },
+  {
+   "sha256": "d408e3707178de338c3edc4ea93988fc264772e4b8ec8fa73262e7f893407a8c",
+   "code": "S100",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Aufgabenblatt Vorkursstoff"
+  },
+  {
+   "sha256": "8e0b813e55d33911b0f5d9ce67dbed2431b762c827b08a1c03be022a46f33ad6",
+   "code": "S110",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Explorative Datenanalyse"
+  },
+  {
+   "sha256": "dcbde8ce11d78f850c7110077fbda2621a42732459dca0a3f69fde28286dfbe1",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 1,
+   "titel": "Daten G8-Klausurergebnisse"
+  },
+  {
+   "sha256": "a2188d5dcc8f5457d1c40fadf73bdf61addff08c43f0065fcb728a1770be16e5",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 1,
+   "titel": "Notebook Grundlagen"
+  },
+  {
+   "sha256": "022ab96e10ab50fde7633691bee481d48f465d6a0217bd755233dad84e743e76",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 1,
+   "titel": "Notebook Grundlagen mit Ausgaben"
+  },
+  {
+   "sha256": "67de23cd5f082be289cdc3fed307e193e18bf0eb8f6c640bda7195dd2c8eb20d",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 2,
+   "titel": "Notebook Häufigkeiten und Verteilungsfunktion"
+  },
+  {
+   "sha256": "3022679cf00b05d8bf1bed0d36e5575fbe6f316685039d5a6b7714aa71716a20",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 2,
+   "titel": "Notebook Häufigkeiten und Verteilungsfunktion mit Ausgaben"
+  },
+  {
+   "sha256": "0edfbd461be88165584ce3e07650e32386d42363ffee54f558c21b1a563e385a",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 2,
+   "titel": "Notebook Teil b Quantile und Histogramme"
+  },
+  {
+   "sha256": "3e367655e3018c5b1c68273bb7884671780196da6e278a6f50ec45564c88cc05",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 2,
+   "titel": "Notebook Teil b Quantile und Histogramme mit Ausgaben"
+  },
+  {
+   "sha256": "4d69635078b0cfc5902bfc7225c6363d99c035f7873e99ca9aa4c25fe663331c",
+   "code": "S110",
+   "art": "Literatur",
+   "nummer": 1,
+   "titel": "Bestimmung von empirischen Quantilen"
+  },
+  {
+   "sha256": "d611cce2617c0c1ec88007899b33b74dfe4c27eeb781d08bdffe9a3726c6e8d4",
+   "code": "S110",
+   "art": "Literatur",
+   "nummer": 2,
+   "titel": "Dimpfl Sönksen Bechmann Grammig 2022"
+  },
+  {
+   "sha256": "b47e06e8c3cf3aea70903d4c740f117c76cf5d852310dfeaa0ed2b4e06e1eff1",
+   "code": "S110",
+   "art": "Lösung",
+   "nummer": 1,
+   "titel": "R-Code zu Aufgabe 4"
+  },
+  {
+   "sha256": "381e024a906e546247980bbad23b8fca969cff9bcd7579066faa94ecbceb9846",
+   "code": "S110",
+   "art": "Sonstiges",
+   "titel": "Q4R Verständnisfragen zur Vorlesung"
+  },
+  {
+   "sha256": "a0fbf4e9bc0c9b408a87b3523f8175b0b5a912d138dac15ab0e93e63722ceb52",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Daten zu Aufgabe 4"
+  },
+  {
+   "sha256": "23e12c340e0f702f21983870eca577b6043dbfc3b63732cbf7005449818f5ff9",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Merkmale und empirische Verteilungsfunktion"
+  },
+  {
+   "sha256": "0fd95a5e9d86775fed076c6f2b980259483459870063bd44b52e9d90edcb2f9d",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 2,
+   "titel": "Empirische Verteilungsfunktion und Quantile"
+  },
+  {
+   "sha256": "02f4c17883a096227cdbc8ca27d0688a24586ae1191a9d6ffe5979d21baac0b7",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 3,
+   "titel": "Polygonzug und Kerndichten"
+  },
+  {
+   "sha256": "a866901215cfb676f17f6692cad482d5a53f1291c80e208ae0ba1a845644e98e",
+   "code": "SQ888",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Vorkurs Tag 1"
+  },
+  {
+   "sha256": "2e68359f1fb396b4ee68f1c40a02c16454babd7ad57e2d98ad981842d37f3152",
+   "code": "SQ888",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Vorkurs Tag 2"
+  },
+  {
+   "sha256": "80026c55ac840273f2bcecafcbcb0c786b1f6228bb6b0e1c806883763dba1529",
+   "code": "SQ888",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Vorkurs Tag 3"
+  },
+  {
+   "sha256": "54cebcd0979e743f93d1f48e1f22ddf374f2615830896b45176660e975bc9f18",
+   "code": "SQ888",
+   "art": "Übung",
+   "nummer": 1,
+   "titel": "Übungsblatt"
+  },
+  {
+   "sha256": "f9bf78c90d13bda9f7a5da7667ae929ac35b64fb1a2da7316bb86c84762d8804",
+   "code": "SQ888",
+   "art": "Übung",
+   "nummer": 2,
+   "titel": "Übungsblatt"
+  },
+  {
+   "sha256": "5cdb413e08c8d4c34223d953d9552023b9492d6a8975cf05abf58a776f05c8e6",
+   "code": "SQ888",
+   "art": "Übung",
+   "nummer": 2,
+   "titel": "Übungsblatt Fassung 2025"
+  },
+  {
+   "sha256": "f93f4e57b3cebbd8279c34fbd9f0f848ab1d0176499cc268d8b5392701c174e3",
+   "code": "SQ888",
+   "art": "Übung",
+   "nummer": 3,
+   "titel": "Übungsblatt"
+  }
+ ]
+}

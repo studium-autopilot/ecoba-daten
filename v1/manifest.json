@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T08:12:40Z",
+ "erstellt": "2026-11-03T09:35:54Z",
  "dateien": {
   "termine.json": {
    "sha256": "4986255f455b07bedefffec03c2562f05743db35dc77ad75764cae12aec2bcff",
@@ -29,6 +29,10 @@
   "literatur.json": {
    "sha256": "aeb07442638dcefa36086db4e88ca77745615295ba8d757babe11bb35d0e746c",
    "groesse": 13013
+  },
+  "unterlagen.json": {
+   "sha256": "0a73dcfff88e13d749c0bd9616964fbb29da97adcf5788d04e20cf216df7a4b9",
+   "groesse": 20226
   }
  },
  "plugin_aktuell": "0.7.10",
