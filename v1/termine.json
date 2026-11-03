@@ -2,21 +2,6 @@
  "schema": 1,
  "termine": [
   {
-   "id": "2026-10-04-wiwi-goes-wasen",
-   "titel": "Wiwi goes Wasen",
-   "datum": "2026-10-04",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Cannstatter Wasen, Stuttgart · Tickets vorab",
-   "kategorie": "Fachschaft",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "https://www.ffwtuebingen.de/blank-3",
-   "quelle_text": "",
-   "info": "Gemeinsamer Ausflug der Freien Fachschaft Wiwi zum Volksfest nach Stuttgart. Tickets vorab erforderlich.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-05-alma-einfuehrung-fuer-neue-studierende",
    "titel": "Alma-Einführung für neue Studierende",
    "datum": "2026-10-05",

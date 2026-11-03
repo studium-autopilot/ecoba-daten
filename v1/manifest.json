@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T18:40:12Z",
+ "erstellt": "2026-11-03T23:37:26Z",
  "dateien": {
   "termine.json": {
-   "sha256": "24920604879a3d4173ee1e232c84670e372419e20e1ceffe7b71044b1e73792f",
-   "groesse": 112929
+   "sha256": "7ba69f3b82a0188a8222189d580529757e4d869c56a8b0b98948f0f314ece32c",
+   "groesse": 112447
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "494620221cd5221ea9d8b2a29ba33f822ef4d978b8c4dcb47b32c11f73af70c2",
-   "groesse": 24161
+   "sha256": "b34aa0c4415d3ad05b28dd08874bec7ea3f69db08e272bc51e08931d3e75ed35",
+   "groesse": 22784
   },
   "veranstaltungen.json": {
    "sha256": "5e266d3ea975faca728067bfcbea07ac50eea16b07ff342e521855810006967e",
@@ -45,7 +45,7 @@
   "notiz": "Unterlagen aus ILIAS heißen jetzt nach ihrem Inhalt, etwa „Tutorium 03 Kontenabschluss und Erfolgskonten“; schon geladene werden umbenannt."
  },
  "abdeckung": {
-  "stand": "2026-11-03",
+  "stand": "2026-11-04",
   "module": [
    "B110",
    "B180",

@@ -3,38 +3,6 @@
  "stand": "2026-11-03",
  "angebote": [
   {
-   "id": "ub-ae329f559c",
-   "kategorie": "ub",
-   "reihe": "Informationen finden und bewerten",
-   "titel": "Recherche-Schulung",
-   "datum": "2026-11-03",
-   "von": "10:00",
-   "bis": "11:30",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
-  },
-  {
-   "id": "vortrag-136272",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Mit ‚anderen‘ Wissen schaffen: Vom Mitmachen und Mut machen im Reallabor",
-   "datum": "2026-11-03",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/mit-anderen-wissen-schaffen-vom-mitmachen-und-mut-machen-im-reallabor/"
-  },
-  {
-   "id": "vortrag-136305",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Autoritärer Populismus und die radikale und evangelikale Rechte in den USA",
-   "datum": "2026-11-03",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/autoritaerer-populismus-und-die-radikale-und-evangelikale-rechte-in-den-usa/"
-  },
-  {
    "id": "vortrag-136374",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
