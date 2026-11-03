@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T09:39:01Z",
+ "erstellt": "2026-11-03T11:37:22Z",
  "dateien": {
   "termine.json": {
    "sha256": "4986255f455b07bedefffec03c2562f05743db35dc77ad75764cae12aec2bcff",
@@ -31,7 +31,7 @@
    "groesse": 13013
   },
   "unterlagen.json": {
-   "sha256": "0a73dcfff88e13d749c0bd9616964fbb29da97adcf5788d04e20cf216df7a4b9",
+   "sha256": "16dcd8644e232d06d1f96217a1b9dfe1f6f29977f6415cc075f450659a6d6d72",
    "groesse": 20226
   }
  },
