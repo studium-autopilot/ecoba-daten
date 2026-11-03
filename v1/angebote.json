@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-02",
+ "stand": "2026-11-03",
  "angebote": [
   {
    "id": "ub-ae329f559c",
@@ -123,10 +123,10 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/novi-sad/"
   },
   {
-   "id": "welcome-180522760c",
+   "id": "welcome-fe2de94bad",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Museum Alte Kulturen",
+   "titel": "Besichtigung des Großen Weinfasses",
    "datum": "2026-11-12",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
   },

@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-10-28",
+ "stand": "2026-11-03",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -1809,29 +1809,6 @@
    "ausfall": [
     "2026-12-28",
     "2027-01-04"
-   ],
-   "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
-  },
-  {
-   "id": "ws-2026-27-e210-uebung-2-di-1400",
-   "code": "E210",
-   "art": "Übung",
-   "titel": "Microeconomics II - Tutorial",
-   "gruppe": "2",
-   "tag": "Di",
-   "von": "14:00",
-   "bis": "16:00",
-   "ct": true,
-   "rhythmus": "wöchentlich",
-   "zeitraum": {
-    "von": "2026-10-20",
-    "bis": "2027-02-02"
-   },
-   "raum": "Hörsaal H404 (Geographie (Hauptbau))",
-   "ausfall": [
-    "2026-12-29",
-    "2027-01-05"
    ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78902&periodId=237"
