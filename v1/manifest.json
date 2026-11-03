@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T09:35:54Z",
+ "erstellt": "2026-11-03T09:39:01Z",
  "dateien": {
   "termine.json": {
    "sha256": "4986255f455b07bedefffec03c2562f05743db35dc77ad75764cae12aec2bcff",
@@ -35,14 +35,14 @@
    "groesse": 20226
   }
  },
- "plugin_aktuell": "0.7.10",
+ "plugin_aktuell": "0.7.11",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.10",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.10/",
-  "sha256": "3c032016506d4bfb545fa6235efccebee970af9981768bdeebf835d3fa0741d6",
-  "notiz": "Blätter aus deiner Tutoriumsgruppe stehen jetzt unter Tutorium statt bei den Übungen, auch schon geladene."
+  "version": "0.7.11",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.11/",
+  "sha256": "99eddcc1707cb3c29bc7151167e61bf51686f4822ac696dc3c05bef65cc8517e",
+  "notiz": "Unterlagen aus ILIAS heißen jetzt nach ihrem Inhalt, etwa „Tutorium 03 Kontenabschluss und Erfolgskonten“; schon geladene werden umbenannt."
  },
  "abdeckung": {
   "stand": "2026-11-03",
