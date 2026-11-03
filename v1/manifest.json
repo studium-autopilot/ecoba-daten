@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T05:42:19Z",
+ "erstellt": "2026-11-03T08:12:40Z",
  "dateien": {
   "termine.json": {
    "sha256": "4986255f455b07bedefffec03c2562f05743db35dc77ad75764cae12aec2bcff",
@@ -31,14 +31,14 @@
    "groesse": 13013
   }
  },
- "plugin_aktuell": "0.7.9",
+ "plugin_aktuell": "0.7.10",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.9",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.9/",
-  "sha256": "904ce749e7a2f40fe1d4cb9a954a1562250cae1cf2cd3f71af4ff847b1e72aa7",
-  "notiz": "Im Stundenplan siehst du Übungen auf einen Blick, am iPad quer stehen im Lernplan die Module neben der Woche, und dein eigener Server installiert nur geprüfte Updates."
+  "version": "0.7.10",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.10/",
+  "sha256": "3c032016506d4bfb545fa6235efccebee970af9981768bdeebf835d3fa0741d6",
+  "notiz": "Blätter aus deiner Tutoriumsgruppe stehen jetzt unter Tutorium statt bei den Übungen, auch schon geladene."
  },
  "abdeckung": {
   "stand": "2026-11-03",
