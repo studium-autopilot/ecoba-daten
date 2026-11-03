@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-03T13:38:48Z",
+ "erstellt": "2026-11-03T18:40:12Z",
  "dateien": {
   "termine.json": {
    "sha256": "24920604879a3d4173ee1e232c84670e372419e20e1ceffe7b71044b1e73792f",
@@ -23,16 +23,16 @@
    "groesse": 83329
   },
   "kapitel.json": {
-   "sha256": "0219d2983b9107053a51a995d44595b2f7780202a2c1f5c189beeb576a23b743",
-   "groesse": 25775
+   "sha256": "1035e7588b29a0199e2ae096baf60993f186d96a7000bc9df9ca648d5d0b4c07",
+   "groesse": 25789
   },
   "literatur.json": {
-   "sha256": "aeb07442638dcefa36086db4e88ca77745615295ba8d757babe11bb35d0e746c",
-   "groesse": 13013
+   "sha256": "fe2b1f273d3ac7246a884a7d151eb02ef4e5278f757a35cbf8e45ac4208ca44f",
+   "groesse": 13187
   },
   "unterlagen.json": {
-   "sha256": "58926b6bac97b8779f13051550a03af7c954775c7d695d895df7b19d13acc496",
-   "groesse": 20416
+   "sha256": "17e13be636242fe53091e51c715dbd5867ba78a9772cddc9cca37cae35ea9026",
+   "groesse": 20606
   }
  },
  "plugin_aktuell": "0.7.11",
