@@ -1042,6 +1042,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-04-local-civis-days-lunch-talk-zu-civis-projekten",
+   "titel": "Local CIVIS Days: Lunch Talk zur Europäischen Universitätsallianz",
+   "datum": "2026-11-04",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "12:00–12:30 · Foyer, Hörsaalzentrum Morgenstelle (Auf der Morgenstelle 16)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Rundmail der Stabsstelle Europäische Universitätsallianz (CIVIS) vom 03.11.2026",
+   "info": "Gespräch über Projekte der Europäischen Universitätsallianz CIVIS bei der Posterausstellung der Local CIVIS Days. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-05-science-innovation-days-festivaleroeffnung",
    "titel": "Science & Innovation Days: Eröffnung des Wissenschaftsfestivals",
    "datum": "2026-11-05",
@@ -1295,6 +1310,21 @@
    "quelle_url": "",
    "quelle_text": "Rundmail des College of Fellows vom 30.10.2026",
    "info": "Englischsprachiger Vortrag der Reihe CoF Lecture über Verlust, Verwandtschaft und Zugehörigkeit im geteilten Deutschland, mit Fragerunde und Empfang. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-12-vortrag-des-college-of-fellows-algorithmen-als-soziale-akteure",
+   "titel": "Vortrag des College of Fellows „Algorithmen als soziale Akteure und juristische Personen?“",
+   "datum": "2026-11-12",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:00 · Alte Aula (Münzgasse 30)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des College of Fellows vom 03.11.2026",
+   "info": "Abendvortrag auf Deutsch zur Frage, ob autonome Algorithmen als soziale Akteure oder juristische Personen gelten können. Die Einladung nennt keine Anmeldung.",
    "geprueft": ""
   },
   {
@@ -1665,7 +1695,7 @@
    "datum": "2026-12-01",
    "bis": "",
    "uhrzeit": "",
-   "ort": "16:15 (16 c.t.) · Ort folgt · Anmeldung bis 23.11.",
+   "ort": "16:15–18:00 (16 c.t.) · Ort folgt · Anmeldung bis 23.11.",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
@@ -2041,7 +2071,7 @@
    "datum": "2027-01-19",
    "bis": "",
    "uhrzeit": "",
-   "ort": "online · Anmeldung öffnet im Dezember",
+   "ort": "16:30–17:30 · online · Anmeldung öffnet im Dezember",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
