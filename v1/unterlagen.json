@@ -669,6 +669,13 @@
    "titel": "R-Code zu Aufgabe 4"
   },
   {
+   "sha256": "b294d930661991462b9cf0a776e7f9cd574a010889a5f91fe0a2208d6f041b57",
+   "code": "S110",
+   "art": "Lösung",
+   "nummer": 3,
+   "titel": "R-Code zu den Kerndichten"
+  },
+  {
    "sha256": "381e024a906e546247980bbad23b8fca969cff9bcd7579066faa94ecbceb9846",
    "code": "S110",
    "art": "Sonstiges",
@@ -694,6 +701,20 @@
    "art": "Übung",
    "nummer": 2,
    "titel": "Empirische Verteilungsfunktion und Quantile"
+  },
+  {
+   "sha256": "26fd7fc4ede151dacb8fd6bf4a3154f364c4484f7e826a345c5cf27e21081537",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 3,
+   "titel": "Daten wagef Stundenlöhne Frauen"
+  },
+  {
+   "sha256": "b700bccbb4fd9240d16ccb168df47a7ca28a388cef5da9c38121b160bd2d9cf8",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 3,
+   "titel": "Daten wagem Stundenlöhne Männer"
   },
   {
    "sha256": "02f4c17883a096227cdbc8ca27d0688a24586ae1191a9d6ffe5979d21baac0b7",
