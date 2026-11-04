@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-04T13:38:08Z",
+ "erstellt": "2026-11-04T13:38:49Z",
  "dateien": {
   "termine.json": {
    "sha256": "7ba69f3b82a0188a8222189d580529757e4d869c56a8b0b98948f0f314ece32c",
@@ -35,14 +35,14 @@
    "groesse": 20808
   }
  },
- "plugin_aktuell": "0.7.11",
+ "plugin_aktuell": "0.8.1",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.7.11",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.7.11/",
-  "sha256": "99eddcc1707cb3c29bc7151167e61bf51686f4822ac696dc3c05bef65cc8517e",
-  "notiz": "Unterlagen aus ILIAS heißen jetzt nach ihrem Inhalt, etwa „Tutorium 03 Kontenabschluss und Erfolgskonten“; schon geladene werden umbenannt."
+  "version": "0.8.1",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.1/",
+  "sha256": "d4449a59987cd92842f3b220479898abfd72e32644ea977578f2288a655cc519",
+  "notiz": "Mit eigenem Server fragst du Claude jetzt auch in der Claude-App nach Terminen, Lernplan und Prüfungen. Dazu „Heute“ im Lernplan und eigene Schlüssel je Gerät."
  },
  "abdeckung": {
   "stand": "2026-11-04",
