@@ -300,6 +300,13 @@
    "titel": "Technologie, Kosten und Spezialisierung"
   },
   {
+   "sha256": "cbe80d9f8f605fa95448b7f1802ef3a014f20f801ea19d4347ae82ba8eab8697",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 4,
+   "titel": "Präferenzen, Knappheit und Entscheidungen"
+  },
+  {
    "sha256": "975e46142b0602fa36f7b84a3e77c44154a0ebe67f57b2367bcfae39781da6dd",
    "code": "S100",
    "art": "Altklausur",
