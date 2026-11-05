@@ -3031,25 +3031,6 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46283&periodId=237"
   },
   {
-   "id": "ws-2026-27-sq888-kurs-1-20261006-0915",
-   "code": "SQ888",
-   "art": "Kurs",
-   "titel": "Mathematisches Propädeutikum für Wirtschaftswissenschaftler",
-   "gruppe": "1",
-   "tag": "Di",
-   "von": "09:15",
-   "bis": "12:00",
-   "ct": false,
-   "rhythmus": "Einzeltermin",
-   "zeitraum": {
-    "von": "2026-10-06",
-    "bis": "2026-10-06"
-   },
-   "raum": "AUDIMAX (Neue Aula)",
-   "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46219&periodId=237"
-  },
-  {
    "id": "ws-2026-27-sq888-kurs-1-20261007-0915",
    "code": "SQ888",
    "art": "Kurs",

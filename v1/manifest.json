@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-05T18:39:57Z",
+ "erstellt": "2026-11-05T23:36:38Z",
  "dateien": {
   "termine.json": {
-   "sha256": "d5a2247099e97a5df447b8fd236fc2099a8d847a0c1613cbee843adca0251419",
-   "groesse": 113517
+   "sha256": "774fae8e1abe3798507025492fa71ed335e6907651d6fd405787e2dfb759c4e3",
+   "groesse": 114239
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,12 +15,12 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "1ae457fc302b93aba680726c6b531417611aa093a1af5df9b479c5a262310241",
-   "groesse": 22441
+   "sha256": "89fc1e61c54d8ac2daedd321787c8a6d5973d4aa6107eebe0da304340732c939",
+   "groesse": 21983
   },
   "veranstaltungen.json": {
-   "sha256": "3c0590ea509afef124fabd5bc8a8fb8d0b7401ed8f4952131a6b2b3199233ce5",
-   "groesse": 83303
+   "sha256": "d4e6df94b66f6d527e702266ec89777e20313e3e3196ee23eda9702c5a235087",
+   "groesse": 82749
   },
   "kapitel.json": {
    "sha256": "e5f8dbe21eb9448b2185a0d2733f89b5fd39bb4c72789830ce022e2c6d409a5c",
@@ -45,7 +45,7 @@
   "notiz": "Braucht dein eigener Server ein Update, tippst du unter Eigener Server auf „Server jetzt aktualisieren“, statt zu warten."
  },
  "abdeckung": {
-  "stand": "2026-11-05",
+  "stand": "2026-11-06",
   "module": [
    "B110",
    "B180",
