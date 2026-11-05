@@ -648,6 +648,20 @@
    "titel": "Notebook Teil b Quantile und Histogramme mit Ausgaben"
   },
   {
+   "sha256": "bf33c9906757a947acbddf58c2672d0990b337473fb0671b6e8faa115f7d946f",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 3,
+   "titel": "Notebook Quantile Box-Plots und Kerndichten"
+  },
+  {
+   "sha256": "8d052085a5312df951f1deae2f03d71dc3f4d1480df86a9886477bf9b938fbf8",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 3,
+   "titel": "Notebook Quantile Box-Plots und Kerndichten mit Ausgaben"
+  },
+  {
    "sha256": "4d69635078b0cfc5902bfc7225c6363d99c035f7873e99ca9aa4c25fe663331c",
    "code": "S110",
    "art": "Literatur",
