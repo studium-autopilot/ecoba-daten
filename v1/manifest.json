@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-05T06:36:57Z",
+ "erstellt": "2026-11-05T08:47:02Z",
  "dateien": {
   "termine.json": {
    "sha256": "e24776f0829e4c87623f712748a049ad4d898bd0367f318b7e2d6c59cf04ab33",
@@ -35,14 +35,14 @@
    "groesse": 21379
   }
  },
- "plugin_aktuell": "0.8.1",
+ "plugin_aktuell": "0.8.2",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.8.1",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.1/",
-  "sha256": "d4449a59987cd92842f3b220479898abfd72e32644ea977578f2288a655cc519",
-  "notiz": "Mit eigenem Server fragst du Claude jetzt auch in der Claude-App nach Terminen, Lernplan und Prüfungen. Dazu „Heute“ im Lernplan und eigene Schlüssel je Gerät."
+  "version": "0.8.2",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.2/",
+  "sha256": "9bff376bc97b6d8d4a137f0b5a184c1805ead5387aab278b67a99e6b13b5735d",
+  "notiz": "Braucht dein eigener Server ein Update, tippst du unter Eigener Server auf „Server jetzt aktualisieren“, statt zu warten."
  },
  "abdeckung": {
   "stand": "2026-11-05",
