@@ -266,11 +266,18 @@
    "titel": "Grundlegende Konzepte der Volkswirtschaft"
   },
   {
-   "sha256": "c8c2a4404cb52f85e8c8fcf0e1de8d0c58b92f681c18a617a9f99886e66012c9",
+   "sha256": "62512022e811a60698172bfd9aa8bab9fafebc5e3266c86801e57f911c14fae7",
    "code": "E101",
    "art": "Lösung",
    "nummer": 2,
    "titel": "Produktion, Bevölkerung und Wachstum"
+  },
+  {
+   "sha256": "fd31718fc049d32e302db18d62b40e5936ebaa5b44186a0c13dbe220c065088f",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 3,
+   "titel": "Technologie, Kosten und Spezialisierung"
   },
   {
    "sha256": "7d27a6e822c2835e9e596f01e1e9a8e904ef94b02507310e859b46e635ac5ba9",
@@ -300,7 +307,7 @@
    "titel": "Technologie, Kosten und Spezialisierung"
   },
   {
-   "sha256": "cbe80d9f8f605fa95448b7f1802ef3a014f20f801ea19d4347ae82ba8eab8697",
+   "sha256": "2b0dbe5661b77fbf3f644ef97d77b2a8cbfc8f0a032591f2123a74e3e8777927",
    "code": "E101",
    "art": "Übung",
    "nummer": 4,
