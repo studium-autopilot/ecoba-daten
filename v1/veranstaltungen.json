@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-03",
+ "stand": "2026-11-05",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -717,6 +717,25 @@
     "2026-12-24",
     "2026-12-31"
    ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44052&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b290-vorlesung-1-20261120-1200",
+   "code": "B290",
+   "art": "Vorlesung",
+   "titel": "Global Strategy",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "12:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-20",
+    "bis": "2026-11-20"
+   },
+   "raum": "Seminarraum E 02 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=44052&periodId=237"
   },

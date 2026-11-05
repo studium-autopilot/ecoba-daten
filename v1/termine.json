@@ -1333,13 +1333,13 @@
    "datum": "2026-11-13",
    "bis": "",
    "uhrzeit": "",
-   "ort": "14:00–16:00 · online · Anmeldung über Alma",
+   "ort": "14:00–16:00 · online (Zoom)",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
-   "info": "Online-Kurs der Universitätsbibliothek zur Datenaufbereitung mit OpenRefine und regulären Ausdrücken, zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
+   "info": "Online-Kurs der Universitätsbibliothek zum Aufbereiten tabellarischer Daten mit OpenRefine, ohne Vorkenntnisse; zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
