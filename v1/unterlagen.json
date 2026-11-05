@@ -401,6 +401,13 @@
    "titel": "Lineare Algebra"
   },
   {
+   "sha256": "634223f17e732383dfe00649566346bf8f5c50791f658cddb2ac41df1407ec89",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Determinante mit Anmerkungen"
+  },
+  {
    "sha256": "bbdb833c9e34262e6bf1fa916fc95ce399a2cb0cda9790c2a7faf3e3777c8e08",
    "code": "S100",
    "art": "Folien",
