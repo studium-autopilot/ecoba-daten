@@ -1825,6 +1825,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-12-09-lehrevaluation-s100-mathe",
+   "titel": "Lehrevaluation S100 Mathe",
+   "datum": "2026-12-09",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "Ort folgt",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "S100",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
+   "quelle_text": "",
+   "info": "Lehrevaluation in S100 Mathematische Methoden laut Wochenplan der Kursseite. Teilnahme mit dem Codewort, das im ILIAS-Kurs S100 steht.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-12-10-career-service-webinar-netzwerken-zum-berufseinstieg",
    "titel": "Career-Service-Webinar: Netzwerken zum Berufseinstieg",
    "datum": "2026-12-10",
