@@ -1238,6 +1238,21 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-10-vortragsabend-ai-and-the-new-humanities-forum-scientiarum",
+   "titel": "Vortragsabend „AI and the New Humanities“: KI und die Zukunft der Geisteswissenschaften",
+   "datum": "2026-11-10",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:00 · Hörsaal im 1. OG, Forum Scientiarum (Doblerstraße 33)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "https://uni-tuebingen.de/de/303078",
+   "quelle_text": "",
+   "info": "Zwei Vorträge aus der Philosophie darüber, was künstliche Intelligenz für die Geisteswissenschaften und die Grenze zwischen Mensch und Maschine bedeutet. Die Ankündigung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-11-bewerbungsschluss-female-mentoring-mit-lenovo",
    "titel": "Bewerbungsschluss Female Mentoring mit Lenovo",
    "datum": "2026-11-11",
@@ -1389,18 +1404,18 @@
   },
   {
    "id": "2026-11-14-buddy-programm-t-ies-anmeldung-freiwillig",
-   "titel": "Buddy-Programm des Doshisha T-IES Program: Anmeldung (freiwillig)",
-   "datum": "2026-11-14",
+   "titel": "Buddy-Programm der T-IES Winter School: Anmeldung (freiwillig)",
+   "datum": "2026-11-15",
    "bis": "",
    "uhrzeit": "",
-   "ort": "bis Sa 14.11. · Anmeldung laut Rundmail des T-IES Program",
+   "ort": "Online-Formular",
    "kategorie": "Frist",
-   "status": "geschätzt",
+   "status": "offiziell",
    "code": "",
    "bereich": "schluesselqualifikation",
-   "quelle_url": "",
-   "quelle_text": "Rundmail des Doshisha T-IES Program vom 13.10.2026",
-   "info": "Buddy-Programm für Studierende des Doshisha T-IES Program mit Winter School und interkulturellem Training, anrechenbar über das TCP. Anmeldung beim T-IES Program.",
+   "quelle_url": "https://uni-tuebingen.de/de/57648",
+   "quelle_text": "",
+   "info": "Im Buddy-Programm begleiten Studierende internationale Gäste der T-IES Winter School, mit interkulturellem Training und 2 ECTS über das TCP. Anmeldung per Online-Formular, danach Lebenslauf.",
    "geprueft": ""
   },
   {
@@ -1416,6 +1431,21 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Anmeldeschluss für die Karrieremesse „Meet the Big Players“ mit acht Unternehmen. Anmeldung per Online-Formular mit Lebenslauf und Transcript, die an die Unternehmen gehen.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-15-ausstellungsabschluss-was-bleibt-unimuseum",
+   "titel": "Ausstellungsabschluss „Was bleibt“: offener Nachmittag im Unimuseum",
+   "datum": "2026-11-15",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "12:00–15:00 · Kabinettraum, Schloss Hohentübingen (Burgsteige 11)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des Museums der Universität Tübingen (MUT) vom 06.11.2026",
+   "info": "Offener Nachmittag zum Ende der Ausstellung „Was bleibt“ des Universitätsmuseums über Leben, Familie und Wissenschaft, mit zwei Führungen. Teilnahme kostenlos, ohne Anmeldung.",
    "geprueft": ""
   },
   {
