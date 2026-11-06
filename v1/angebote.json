@@ -3,16 +3,6 @@
  "stand": "2026-11-06",
  "angebote": [
   {
-   "id": "ub-685f3c7f7c",
-   "kategorie": "ub",
-   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
-   "titel": "Notizen ohne Lock-in mit Markdown",
-   "datum": "2026-11-06",
-   "von": "10:00",
-   "bis": "11:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/"
-  },
-  {
    "id": "welcome-43aa0c87be",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",

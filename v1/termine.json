@@ -2,21 +2,6 @@
  "schema": 1,
  "termine": [
   {
-   "id": "2026-10-05-mathe-vorkurs-fuer-wirtschaftswissenschaftler",
-   "titel": "Mathe-Vorkurs für Wirtschaftswissenschaftler",
-   "datum": "2026-10-05",
-   "bis": "2026-10-07",
-   "uhrzeit": "",
-   "ort": "Mo–Mi 9:15–12:00 · Audimax, Neue Aula",
-   "kategorie": "Einführung",
-   "status": "offiziell",
-   "code": "SQ888",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46219&periodId=237",
-   "quelle_text": "",
-   "info": "Mathematisches Propädeutikum für Erstsemester der Wirtschaftswissenschaft vor Vorlesungsbeginn, ohne ECTS und ohne Prüfung. Teilnahme ohne Anmeldung.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-05-orientierungswochen-der-universitaet",
    "titel": "Orientierungswochen der Universität",
    "datum": "2026-10-05",
@@ -29,51 +14,6 @@
    "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/studienanfang/",
    "quelle_text": "",
    "info": "Zentrale Orientierungswochen der Universität mit Einführungs- und Informationsangeboten für Studienanfängerinnen und Studienanfänger.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-06-neu-an-der-uni-wie-geht-s-nun-weiter",
-   "titel": "Neu an der Uni – wie geht’s nun weiter?",
-   "datum": "2026-10-06",
-   "bis": "2026-10-07",
-   "uhrzeit": "",
-   "ort": "Di 10–12 oder 14–16, Mi 12–14 · HS 25 Kupferbau · einen Termin wählen",
-   "kategorie": "Einführung",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/studienanfang/neu-an-der-uni-wie-gehts-weiter/",
-   "quelle_text": "",
-   "info": "Einführung der Zentralen Studienberatung zu Stundenplan, Prüfungsordnung und Studienorganisation. Einen der angebotenen Termine wählen.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-07-ecoba-get-together",
-   "titel": "EcoBA Get-Together",
-   "datum": "2026-10-07",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "nach der Infoveranstaltung · Ort per Instagram",
-   "kategorie": "Fachschaft",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "https://www.ffwtuebingen.de/blank-3",
-   "quelle_text": "",
-   "info": "Kennenlerntreffen der Fachschaft für EcoBA-Erstsemester im Anschluss an die Infoveranstaltung. Treffpunkt gibt die Fachschaft auf Instagram bekannt.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-07-infoveranstaltung-b-sc-economics-and-business-administration",
-   "titel": "Infoveranstaltung B.Sc. Economics and Business Administration",
-   "datum": "2026-10-07",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "14:00–16:00 · Hörsaal 10, Neue Aula",
-   "kategorie": "Einführung",
-   "status": "offiziell",
-   "code": "",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49962&periodId=237",
-   "quelle_text": "",
-   "info": "Pflichtinfoveranstaltung des Fachbereichs zum Studienstart im B.Sc. Economics and Business Administration. Teilnahme für alle Erstsemester des Studiengangs.",
    "geprueft": ""
   },
   {
