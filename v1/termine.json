@@ -1976,6 +1976,22 @@
    "geprueft": ""
   },
   {
+   "id": "2027-01-07-einstufungstest-fuer-sprachkurse-testphase-am-fremdsprachenzentrum",
+   "titel": "Einstufungstest für Sprachkurse: Testphase am Fremdsprachenzentrum",
+   "datum": "2027-01-07",
+   "bis": "2027-03-26",
+   "uhrzeit": "",
+   "ort": "Mail an die Infotheke des Fremdsprachenzentrums",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/termine/",
+   "quelle_text": "",
+   "info": "Einstufungstest (C-Test) für die Sprachkurse des Fremdsprachenzentrums, nötig bei Vorkenntnissen und nur einmal je Testphase. Anmeldung per Mail an die Infotheke.",
+   "geprueft": ""
+  },
+  {
    "id": "2027-01-07-selbstbewerbung-studienstiftung-des-deutschen-volkes",
    "titel": "Selbstbewerbung Studienstiftung des deutschen Volkes",
    "datum": "2027-01-07",
@@ -2322,6 +2338,22 @@
    "geprueft": ""
   },
   {
+   "id": "2027-02-25-sprachkurs-anmeldung-fremdsprachenzentrum-ss-2027",
+   "titel": "Sprachkurs-Anmeldung Fremdsprachenzentrum: SS 2027",
+   "datum": "2027-02-25",
+   "bis": "2027-03-26",
+   "uhrzeit": "",
+   "ort": "bis 26.03., 12:00 · Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/termine/",
+   "quelle_text": "",
+   "info": "Anmeldezeitraum für die semesterbegleitenden Sprachkurse des Fremdsprachenzentrums, anrechenbar als Schlüsselqualifikation. Anmeldung in Alma, mit Vorkenntnissen vorher Einstufungstest.",
+   "geprueft": ""
+  },
+  {
    "id": "2027-03-08-pruefungsanmeldung-nachholtermin-ws-2026-27",
    "titel": "Prüfungsanmeldung Nachholtermin WS 2026/27",
    "datum": "2027-03-08",
@@ -2454,6 +2486,22 @@
    "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/rueckmeldung-zum-naechsten-semester/",
    "quelle_text": "",
    "info": "Rückmeldung für das Wintersemester durch Zahlung des Semesterbeitrags, Ausschlussfrist. Semesterbeitrag fristgerecht überweisen.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-06-10-sprachkurs-anmeldung-fremdsprachenzentrum-intensivkurse-ss-2027",
+   "titel": "Sprachkurs-Anmeldung Fremdsprachenzentrum: Intensivkurse SS 2027",
+   "datum": "2027-06-10",
+   "bis": "2027-07-09",
+   "uhrzeit": "",
+   "ort": "bis 09.07., 12:00 · Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/termine/",
+   "quelle_text": "",
+   "info": "Anmeldezeitraum für die Intensivsprachkurse des Fremdsprachenzentrums im SS 2027 (Englisch, Französisch, Spanisch), anrechenbar als Schlüsselqualifikation. Anmeldung in Alma.",
    "geprueft": ""
   },
   {
