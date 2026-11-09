@@ -3,14 +3,6 @@
  "stand": "2026-11-08",
  "angebote": [
   {
-   "id": "welcome-43aa0c87be",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Wanderung: Burg Hohenzollern und die Schwäbische Alb",
-   "datum": "2026-11-08",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/"
-  },
-  {
    "id": "vortrag-136227",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",

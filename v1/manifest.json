@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-08T18:36:46Z",
+ "erstellt": "2026-11-09T00:07:44Z",
  "dateien": {
   "termine.json": {
-   "sha256": "68f738cd8f87a68ef30194f726467d851c3625a825d9cb6b90d6e7483b2b6a9d",
-   "groesse": 116071
+   "sha256": "a666484d355474b6c198383857ec174144c27c0471d5978daaef83b78fa6e69f",
+   "groesse": 114697
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "c57695f496b1fae6be63a5dc7dd4514f7c4b73fcf6e3e63d524d2f60c387cde8",
-   "groesse": 21501
+   "sha256": "ceda83ed1cd58df7907f43ec833bfc908f307fc786a9933f84a6202dd5cf156e",
+   "groesse": 21150
   },
   "veranstaltungen.json": {
    "sha256": "9bd4a28f4aee88c6f8c996242ab7e5610c0cff2112178754fff2ae537e87396d",
@@ -35,17 +35,17 @@
    "groesse": 22196
   }
  },
- "plugin_aktuell": "0.8.2",
+ "plugin_aktuell": "0.8.3",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.8.2",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.2/",
-  "sha256": "9bff376bc97b6d8d4a137f0b5a184c1805ead5387aab278b67a99e6b13b5735d",
-  "notiz": "Braucht dein eigener Server ein Update, tippst du unter Eigener Server auf „Server jetzt aktualisieren“, statt zu warten."
+  "version": "0.8.3",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.3/",
+  "sha256": "94fd09b5b0c12c240aaf09e17aa78bdf151196fa089f2655eba3366dd7439509",
+  "notiz": "Was laut ILIAS diese Woche in einem Kurs dran ist, steht jetzt als Kursseite bei den Unterlagen und in der Claude-App, dazu mehrere Fehler behoben."
  },
  "abdeckung": {
-  "stand": "2026-11-08",
+  "stand": "2026-11-09",
   "module": [
    "B110",
    "B180",
