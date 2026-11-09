@@ -210,6 +210,27 @@
    "titel": "Vorlage Aufgabe 13 Bilanz und T-Konten"
   },
   {
+   "sha256": "172875611c6398057ff0e2b70b47c3cbfe84990ef61cb62b89bfad60ef00027c",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 4,
+   "titel": "Vorlage Aufgabe 14 Umsatzsteuerkonten"
+  },
+  {
+   "sha256": "0b3a50af9693b0b55c186acdadf77a17870e668b6943d53f5fd1b22d8b9596d3",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 4,
+   "titel": "Vorlage Aufgabe 17 Bilanz und T-Konten"
+  },
+  {
+   "sha256": "6b2c6477459fb55668a2f778ae8fac6d30f31356036b734c78a707ce31dbfda1",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 4,
+   "titel": "Warenverkehr Umsatzsteuer und Preisnachlässe"
+  },
+  {
    "sha256": "c888e344b60b2982fc0930d9a75de62822f8a65dbc3d2c16ee7e84948c0ace25",
    "code": "B180",
    "art": "Tutorium",
