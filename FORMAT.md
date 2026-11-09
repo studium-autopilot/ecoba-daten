@@ -1,0 +1,795 @@
+# Datenformat v1
+
+Das Format der Dateien in `v1/`. Der Export, der sie erzeugt, prüft sie vor jedem Push nach diesen Regeln und veröffentlicht
+diese Beschreibung im selben Commit wie die Daten. Ein Test des Exports schlägt fehl, wenn sie eine Datei, ein Feld oder einen
+erlaubten Wert nicht nennt, den der Export schreibt. Lesende Programme verwerfen, was hier nicht erlaubt ist; das Obsidian-Plugin
+[Studium Autopilot EcoBA](https://github.com/studium-autopilot/ecoba) tut es in `System/Skripte/zentral.js`. Dateien wie
+`zentral.js`, `update.js` oder `docs/…` liegen im Repo des Plugins.
+
+Stand: 9.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026).
+
+Adresse: `https://studium-autopilot.github.io/ecoba-daten/v1/` (GitHub Pages, öffentliches Repo `studium-autopilot/ecoba-daten`,
+Ordner `v1/`). Das Plugin holt **nur Daten (JSON), nie Code**. `v1` ist die Schema-Version im Pfad: Ältere Plugins lesen weiter
+`v1/`, wenn es einmal `v2/` gibt.
+
+## Dateien
+
+| Datei | Pflicht | Höchstgröße | Inhalt |
+|---|---|---|---|
+| `manifest.json` | ja | 16 KB | Zeitstempel, Prüfsummen, Plugin-Version, Hinweis, Notbremse |
+| `termine.json` | nein | 1 000 000 Byte | Termine, Fristen, Veranstaltungen (max. 2000 Einträge) |
+| `semester.json` | nein | 256 KB | Semesterdaten, entspricht `System/Daten/Semester.md` |
+| `gruppen.json` | nein | 512 KB | Übungs- und Tutoriengruppen (max. 1000 Einträge), seit 17.10.2026, siehe [unten](#gruppenjson) |
+| `veranstaltungen.json` | nein | 1 500 000 Byte | Zentraler Stundenplan: Termin-Serien aller Veranstaltungen der Module (max. 3000 Einträge), Vertrag seit 17.10.2026, veröffentlicht seit 18.10.2026, siehe [unten](#veranstaltungenjson) |
+| `kapitel.json` | nein | 512 KB | Kapitellisten der Module für den Lernplan (höchstens 60 Module), seit 19.10.2026, siehe [unten](#kapiteljson) |
+| `literatur.json` | nein | 512 KB | Literaturlisten der Module (höchstens 60 Module), Vertrag seit 24.10.2026, siehe [unten](#literaturjson) |
+| `unterlagen.json` | nein | 512 KB | Namen der Unterlagen aus ILIAS je Prüfsumme der Datei (höchstens 5000), Vertrag seit 03.11.2026, siehe [unten](#unterlagenjson) |
+| `angebote.json` | nein | 512 KB | Angebote der Uni: Vorträge, Kurse der Unibibliothek, Hochschulsport, Welcome Center (max. 1000 Einträge), seit 17.10.2026, siehe [unten](#angebotejson) |
+| `quellen.json` | nein | 64 KB | Gruppen, denen man folgen kann, mit den Kanälen, die der Abgleich liest, und deren Status (höchstens 100 Gruppen), Vertrag seit 9.11.2026, siehe [unten](#quellenjson) |
+| `musterplan.json` | nein | – | reserviert (entspricht `System/Daten/Musterplan.md`); das Plugin liest ihn noch nicht |
+| `module.json` | nein | – | reserviert für Korrekturen am Modulkatalog; das Plugin liest ihn noch nicht |
+
+Alle Dateien: UTF-8 ohne BOM, gültiges JSON. Die Formatierung (Einrückung) ist frei, die Prüfsumme gilt für die Bytes, wie
+sie ausgeliefert werden.
+
+## manifest.json
+
+```json
+{
+ "schema": 1,
+ "erstellt": "2026-10-15T07:53:49Z",
+ "dateien": {
+  "termine.json": { "sha256": "27f55ab3…717c", "groesse": 51790 },
+  "semester.json": { "sha256": "f0a0a397…fb5f", "groesse": 9641 }
+ },
+ "plugin_aktuell": "0.2.0",
+ "release": {
+  "version": "0.2.0",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.2.0/",
+  "sha256": "5c432130…1ed2",
+  "notiz": "Neu: Update mit einem Tipp."
+ },
+ "hinweis": "",
+ "pause": false
+}
+```
+
+| Feld | Regel |
+|---|---|
+| `schema` | genau `1`, sonst Fehler (nichts übernommen) |
+| `erstellt` | ISO-Zeit (`JJJJ-MM-TT` oder mit Uhrzeit und Zone), 2020–2040 |
+| `dateien` | je bekannter Datei `sha256` (64 Zeichen hex, klein) über die ausgelieferten Bytes und `groesse` (Bytes, ganze Zahl). Unbekannte Namen werden ignoriert. Fehlt eine Datei hier, bleibt auf den Geräten ihr letzter Stand. |
+| `plugin_aktuell` | optional, `X.Y.Z`. Ist sie größer als die installierte Version und fehlt ein passendes `release`, zeigt die Übersicht „Neue Version verfügbar“ mit Link auf `https://github.com/studium-autopilot/ecoba/releases` (Plugin 0.1: immer). |
+| `release` | optional, seit Plugin 0.2.0 (ältere ignorieren es). Neueste **fertige** Version für den Knopf „Aktualisieren“, siehe [Update-Angaben](#update-angaben-release-und-beta). Ungültig → wird ignoriert, das Manifest gilt trotzdem. |
+| `beta` | optional, seit Plugin 0.2.0. Neueste **Beta** (gleiches Schema), nur für Tresore mit Kanal „Beta“. |
+| `hinweis` | optional, reiner Text ≤ 200 Zeichen (gesäubert wie `info`), erscheint in der Übersicht „Verbindungen“ |
+| `pause` | optional. `true` = **Notbremse**: Kein Gerät übernimmt etwas, Anzeige „Pausiert“. Rücknahme: `false` (oder Git-Revert). |
+| `abdeckung` | optional, seit Plugin 0.5.3 (ältere ignorieren es). `{ "stand": "JJJJ-MM-TT", "module": ["B110", …] }`: Module, deren ILIAS-Unterlagen (Folien, Blätter, Kursseiten) der Abgleich des Autors liest, sodass deren Termine aus Unterlagen in `termine.json` kommen; `stand` = Tag des letzten Abrufs dieser Unterlagen. Höchstens 60 Codes, ungültige fallen weg; ohne gültiges `stand` gilt das Feld als fehlend. Älter als 14 Tage: kein Modul gilt als abgedeckt. Das Plugin zeigt auf der Modulseite jedes anderen Moduls im laufenden Semester einen Satz dazu, und ein eigener Server durchsucht neue Unterlagen dieser Module nach Terminen. Nur Modulcodes und ein Datum, nichts über die Person. |
+
+Das Plugin holt zuerst nur das Manifest. Eine Datei lädt es nur, wenn ihre Prüfsumme sich gegenüber dem letzten übernommenen
+Stand dieses Geräts geändert hat (oder beim Knopf **Aktualisieren**). Stimmt Größe oder SHA-256 nicht, wird **in diesem Lauf
+nichts** übernommen (auch nicht die anderen Dateien); der nächste Lauf versucht es wieder. Das fängt auch einen kurzzeitig
+gemischten Stand im CDN ab.
+
+### Update-Angaben (`release` und `beta`)
+
+Beide Felder haben dasselbe Schema. Das Plugin (`update.js`) lädt danach **nur nach einem Tipp auf „Aktualisieren“** die Dateien
+der neuen Version aus dem Haupt-Repo; die zentralen Daten selbst bleiben reine Daten.
+
+| Feld | Regel |
+|---|---|
+| `version` | `release`: `X.Y.Z`; `beta`: `X.Y.Z-beta.N`. Vergleich wie SemVer: `0.3.0-beta.2` < `0.3.0` < `0.3.1-beta.1`. |
+| `url_basis` | genau `https://raw.githubusercontent.com/studium-autopilot/ecoba/v<version>/` (Tag im Haupt-Repo), sonst wird das Feld ignoriert |
+| `sha256` | SHA-256 (64 Zeichen hex, klein) von `Studium Autopilot/System/Daten/system-dateien.json` dieser Version, wie `werkzeuge/release.py` sie druckt |
+| `notiz` | optional, reiner Text ≤ 200 Zeichen (gesäubert wie `hinweis`): was neu ist, erscheint neben „Neue Version … verfügbar“ |
+
+Angeboten wird: Kanal „stabil“ (Standard) → `release`; Kanal „beta“ (`update_kanal: beta` in `System/Einstellungen.md`) → die
+höhere von `beta` und `release`. Nur wenn sie neuer ist als die installierte Version (`System/Daten/installiert.json`), nie
+zurück. Beim Tipp holt das Plugin das Manifest frisch.
+
+**Reihenfolge beim Veröffentlichen:** `release` bzw. `beta` erst setzen, wenn der Tag gepusht und das GitHub-Release (bei einer
+Beta: Vorab-Release) mit `Studium-Autopilot.zip` veröffentlicht ist – sonst bekommt jemand eine Version angeboten, deren Dateien
+es noch nicht gibt (das Update scheitert dann ohne Schaden mit „Keine Verbindung“). `plugin_aktuell` gleichzeitig mit `release`
+setzen.
+
+**system-dateien.json** (im Release-Baum, Pfad oben; seit 0.7.1 dieselben Bytes auch als Datei im GitHub-Release `v<version>`,
+das Update lädt sie zuerst von dort und nimmt sie nur mit genau dieser `sha256`, sonst von `url_basis`): `{ "schema": 1, "version",
+"ordner": "Studium Autopilot", "erstellt",
+"dateien": [{ "pfad", "klasse", "groesse", "sha256", "koerper"?, "ohne_haken"? }], "weitere"?: [{ "pfad", "klasse", "groesse",
+"sha256" }] }`. `klasse` ist in `dateien` `system`, `einstellung`, `seite` oder `modul` (Regeln: `klasseVon` in `update.js` =
+`klasse_von` in `werkzeuge/pruefen.py`); `koerper` = SHA-256 des Textes nach dem Frontmatter (Module), `ohne_haken` = SHA-256
+der Seite mit allen `- [x]` als `- [ ]` (Seiten mit Aufgaben). Eine Liste mit einem einzigen unzulässigen Eintrag in `dateien`
+lehnt das Plugin ganz ab. `weitere` (seit 0.6.9) nennt Dateien neuer Klassen, bisher `claude` (`.claude/CLAUDE.md` und
+`.claude/skills/studium-autopilot/*.md`): Plugins bis 0.6.8 übergehen den Schlüssel, ab 0.6.9 übergeht es darin nur, was es
+nicht kennt. Eine Klasse für `weitere` steht nie in `dateien`.
+
+**system-dateien.json.sig** (seit 01.11.2026, im GitHub-Release `v<version>` neben der Liste, nicht im Tag): SSH-Signatur genau
+dieser Bytes (`ssh-keygen -Y sign`, Namensraum `studium-autopilot-plugin`, sha512) mit einem der Schlüssel, die der Kern `main.js`
+fest kennt. Ohne gültige Signatur installiert das Plugin nichts, auch wenn `sha256` passt (`docs/architektur/update.md`, „Signatur
+der Liste“). Dieselben Bytes liegen im Tresor als `System/Daten/system-dateien.json.sig` (aus der ZIP oder vom Update); mit ihnen
+prüft der Kern die Skripte (`docs/architektur/skripte-pruefen.md`). Das Manifest nennt sie nicht; wer das Manifest ändern kann,
+kann die Signatur trotzdem nicht fälschen.
+
+## termine.json
+
+```json
+{
+ "schema": 1,
+ "termine": [
+  {
+   "id": "2027-02-08-klausur-s100-mathe",
+   "titel": "Klausur S100 Mathe",
+   "datum": "2027-02-08",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "12:00–13:30 · Raum folgt",
+   "kategorie": "Prüfung",
+   "status": "offiziell",
+   "code": "S100",
+   "quelle_url": "",
+   "quelle_text": "Prüfungsamt: Prüfungstermine Pflicht- und Profilbildungsmodule WS 2026/27 Haupttermin (PDF, Stand 09.10.2026)",
+   "info": "",
+   "geprueft": "2026-10-14"
+  }
+ ]
+}
+```
+
+| Feld | Pflicht | Regel |
+|---|---|---|
+| `id` | ja | `^[a-z0-9]([a-z0-9-]{0,78}[a-z0-9])?$`, stabil (siehe id-Regel), eindeutig. Doppelte id: der erste Eintrag gilt, jeder weitere wird verworfen. |
+| `titel` | ja | 1–120 Zeichen, eine Zeile. **Abgelehnt** (Eintrag verworfen) bei HTML (`<b>`, `<script` …), spitzen, eckigen oder geschweiften Klammern, senkrechtem Strich, Backslash, Backticks, `<%`/`%>`, `obsidian://`, `javascript:`, Zeilenumbruch. Wird Dateiname und Überschrift. |
+| `datum` | ja | `JJJJ-MM-TT`, echtes Kalenderdatum, 2020-01-01 bis 2040-12-31 |
+| `bis` | nein | leer oder Datum ≥ `datum`, höchstens 400 Tage danach (gleich `datum` = eintägig) |
+| `uhrzeit` | nein | leer, `HH:MM` oder `HH:MM–HH:MM` (auch `-`). Das Plugin schreibt sie vor den Ort („12:00–13:30 · Raum folgt“), weil Agenda und Kalender die Zeit im Ort suchen. Steht die Zeit schon im `ort`, bleibt `uhrzeit` leer. |
+| `ort` | nein | ≤ 120 Zeichen nach dem Säubern |
+| `kategorie` | ja | genau eine aus der Freigabeliste unten |
+| `status` | ja | `offiziell` oder `geschätzt` (geschätzt = noch nicht veröffentlicht; die Notiz zeigt dann einen Hinweis) |
+| `code` | nein | leer oder Modulcode `^[A-Z]{1,4}[0-9][0-9X]{2}[A-Z]?$` (wie `eba.js`), z. B. `B110`, `SQ888`, `E371A` |
+| `bereich` | nein | seit 15.10.2026. Fehlt oder ein Wert aus der Freigabeliste „Bereiche“ unten. Ein **unbekannter Wert wird ignoriert** (der Eintrag bleibt, ohne Bereich). Der Export schreibt das Feld nur, wenn es gesetzt ist. |
+| `gruppe` | nein | seit 9.11.2026. `id` der veranstaltenden Gruppe aus `quellen.json` (Form wie `id`). Fehlt sie oder ist sie unbekannt, gehört der Termin zu keiner Gruppe und erreicht alle (nach seinem Thema). Termine eines Moduls haben keine. Das Plugin liest das Feld nicht. |
+| `thema` | nein | seit 9.11.2026. Ein Wert aus der Freigabeliste „Themen“ unten. Fehlt es oder ist es unbekannt, wird der Termin nie ausgeblendet. Das Plugin liest das Feld nicht. |
+| `quelle_url` | nein | leer oder `https://` auf einer erlaubten Domain (siehe unten), ≤ 500 Zeichen, ohne Leerzeichen, Anführungszeichen, `<>`, Backslash, Benutzer, Port |
+| `quelle_text` | nein | ≤ 200 Zeichen, reiner Text. Für Quellen ohne öffentliche Adresse (Rundmail an alle, PDF, Folie). Wird nur gezeigt, wenn `quelle_url` leer ist. |
+| `info` | nein | ≤ 200 Zeichen, reiner Text **für alle** (nie der Notiztext aus dem Tresor des Autors) |
+| `geprueft` | nein | ISO-Datum oder -Zeit der letzten Prüfung durch den Abgleich; die Notiz zeigt „geprüft am TT.MM.JJJJ“ |
+
+**Säubern** (für `ort`, `info`, `quelle_text`, `hinweis`, Namen in `semester.json`): Zuerst werden Zeichenreferenzen für
+Buchstaben, Ziffern, `+`, `.`, `-` und `:` zu ihrem Zeichen, für Leerraum zu einem Leerzeichen (`&colon;`, `&#106;`). Dann fallen
+Steuer- und unsichtbare Zeichen weg (Richtung, Zeilen- und Worttrenner, weiches Trennzeichen, Variantenwähler, Hangul-Füller,
+Unicode-Tags U+E0000–E007F), dann HTML-Tags, `<% … %>`, `obsidian://…`, `[[`/`]]` und Backticks. Ein Linkziel in
+Markdown-Schreibweise (hinter `](`, `]:` oder `<`) bleibt nur mit `http(s)`; bei jedem anderen Schema wird daraus reiner Text
+(`] (`, `] :`, ohne `<`). Danach fallen `javascript:` und `vbscript:` auch im übrigen Text weg. Links im Text, wie Obsidian
+sie erkennt (`http(s):…` mit oder ohne `//`, andere Schemata mit `://`, `www.…` auch mitten im Wort, `domain.tld/…`), bleiben nur
+stehen, wenn sie `http(s)` sind, ohne Benutzerangaben und Port vor dem Host, der Host nur aus a–z, 0–9, `.` und `-`, auf
+`uni-tuebingen.de` oder `ffwtuebingen.de` (mit Subdomains), und dann in der Form, die der Browser liest (`new URL`), mit
+Markdown-Zeichen als %-Kodierung. Jeder andere wird zu seinem Domainnamen ohne führendes `www.` und nie mit drei `w`
+hintereinander, abgesetzt vom Wort davor; bei `domain.tld/…` ohne Schema bekommt der Text ein Leerzeichen vor dem ersten `/`;
+`file:…`, `data:…` und `jar:…` fallen ganz weg (Obsidian öffnet `file:` auf eine Datei im Tresor ohne Rückfrage). Satzzeichen am
+Ende gehören nicht zum Link (kein Klickziel; Links gehören in `quelle_url`). Teams und Zoom sind keine Uni-Domains: Dort kann
+jede:r Seiten anlegen. Leerraum wird zusammengefasst. Ist der Text danach zu lang, wird der **Eintrag verworfen** (nicht
+gekürzt). Was danach noch unter die Regel für `titel` fiele (eine einzelne eckige, spitze oder geschweifte Klammer, `|`, `\`),
+wird zu `(`, `)` bzw. `/` (seit 02.11.2026); gewöhnlicher Text bleibt, wie er ist. Im Notiztext werden Markdown-Zeichen
+zusätzlich maskiert, als zweite Sicherung auch jedes Zeichen, an dem Obsidian sonst noch einen Link erkennen könnte (Doppelpunkt hinter `http(s)`, `file`, `data`, `jar` und vor `/`, Punkt hinter `www` und vor
+`tld/`); Obsidian zeigt diese `\` nicht. „1. …“ am Anfang wird keine Liste.
+
+Ungültige Einträge werden **einzeln** verworfen; der Rest wird übernommen. Ein verworfener Eintrag mit gültiger id gilt nicht als
+„entfallen“ (seine Notiz bleibt unverändert).
+
+**Unbekannte Felder werden ignoriert, nicht abgelehnt** – in `manifest.json`, in jedem Eintrag von `termine.json` und in
+`semester.json` (geprüft 15.10.2026: `manifestPruefen`, `termineNormal` und `semesterPruefen` in `zentral.js` übernehmen nur die
+bekannten Felder). Darum dürfen in `v1` neue **optionale** Felder dazukommen, ohne dass ältere Plugins Einträge verwerfen; sie
+sehen das neue Feld einfach nicht. Ein neuer Wert in einer Freigabeliste mit Pflichtfeld (z. B. eine neue Kategorie) würde dagegen
+den Eintrag verwerfen – so etwas gehört nach `v2/`.
+
+### Freigabeliste Bereiche (`bereich`)
+
+| Wert | Bedeutung | Wirkung im Plugin |
+|---|---|---|
+| `schluesselqualifikation` | Termin zu den Schlüsselqualifikationen (SQ100: TCP-Kurse, Sprachkurse …). **Freiwillig, keine Pflicht.** | gilt für alle wie ein Termin ohne `code`; Notiz bekommt `bereich: schluesselqualifikation` und den Tag `schlüsselqualifikation`; ruhige Pille „Schlüsselqualifikation · freiwillig“ im Notizkopf, in der Agenda und in der Kalender-Tagesliste, im Dashboard unter Fristen leise „freiwillig“ (seit 0.7.0; vorher „Frist · freiwillig“), unter Termine „<Art> · freiwillig“ |
+
+Export: Termine, deren Code mit `SQ1` beginnt (SQ100), gehen **ohne** `code` und mit diesem Bereich; der Titel bleibt
+unverändert (kein Zusatz). `SQ888` (Mathematisches Propädeutikum, Mathe-Vorkurs) ist kein SQ-Kurs und behält seinen Code.
+Erweitern nur mit Eintrag in dieser Tabelle **und** in `BEREICHE` in `zentral.js` und `export-daten.py`.
+
+### Freigabeliste Themen (`thema`)
+
+In der App blenden Studierende ganze Themen aus und folgen Gruppen (`gruppe`); `pflicht` blendet sie nie aus.
+
+| Wert | In der App | Was dazugehört |
+|---|---|---|
+| `pflicht` | – (nie ausgeblendet) | Semester und vorlesungsfreie Tage, Prüfungen und Prüfungsanmeldung, Rückmeldung, Lehre und Tutorien-Anmeldungen, Einführungen zum Studienstart, Orientierungsprüfung, Bachelorarbeit; jeder Termin mit `code` |
+| `kurse` | Kurse & Sprachen | Schlüsselqualifikationen und Sprachkurse, TCP, Kurse der Unibibliothek und Medienkurse, Workshops der Studienberatung |
+| `karriere` | Karriere | Career Service, Unternehmen, Messen |
+| `stipendien-ausland` | Stipendien & Ausland | Stipendien, Auslandssemester, Erasmus |
+| `initiativen` | Initiativen | Bewerbungen und Veranstaltungen studentischer Initiativen |
+| `freizeit` | Sport & Freizeit | Hochschulsport, Partys, Feste der Fachschaft |
+| `engagement` | Engagement | Vorträge, Lesungen, Ausstellungen, Dies Universitatis, Ehrenamt, Mentoring, Fachschaftssitzungen |
+| `studien` | Studien | Studien, die Teilnehmende suchen |
+
+Export: Termine der Kategorien `Semester`, `Vorlesungsfrei` und `Prüfung` und jeder Termin mit `code` haben immer `pflicht`;
+ein ungültiger Wert fällt weg (der Termin bleibt). Erweitern nur mit Eintrag in dieser Tabelle **und** in `THEMEN`
+(`export-daten.py`) und in der App.
+
+### Freigabeliste Kategorien
+
+Genau die im Tresor verwendeten: `Semester`, `Vorlesungsfrei`, `Prüfung`, `Frist`, `Einführung`, `Lehre`, `Fachschaft`,
+`Veranstaltung`. `Fachschaft` und `Veranstaltung` blendet der Schalter „Fachschaft & Veranstaltungen“ aus.
+
+### Freigabeliste Domains (`quelle_url`, `quellen` in semester.json)
+
+| Domain (inkl. Subdomains) | Warum |
+|---|---|
+| `uni-tuebingen.de` | Uni-Seiten, Prüfungsamt, Fachbereich; Subdomains `alma.` (Vorlesungsverzeichnis) und `ovidius.` (ILIAS) |
+| `ffwtuebingen.de` | Fachschaft Wirtschaftswissenschaft (`www.ffwtuebingen.de`) |
+
+Erweitern nur mit Begründung in dieser Tabelle **und** in `DOMAINS` in `zentral.js` (beide gleich halten). Nur `https`.
+
+## id-Regel (Export und Migration erzeugen dieselben ids)
+
+1. **Hat die Termin-Notiz ein Feld `zentral_id`, gilt es.** Einmal vergeben, ändert sich die id nie – auch nicht, wenn Datum
+   oder Titel sich ändern (das Plugin benennt die Notiz dann um).
+2. Sonst wird sie **einmal** aus dem Dateinamen der Notiz im Tresor des Autors abgeleitet (ohne `.md`, Form `JJJJ-MM-TT Titel`):
+   1. klein schreiben;
+   2. `ä`→`ae`, `ö`→`oe`, `ü`→`ue`, `ß`→`ss`;
+   3. Unicode NFKD, dann Zeichen U+0300–U+036F entfernen (Akzente);
+   4. jede Folge von Zeichen außer `a–z`, `0–9` → `-`; `-` am Anfang/Ende weg;
+   5. höchstens 80 Zeichen (danach abschneiden, `-` am Ende weg).
+3. Ergibt das eine id, die es schon gibt (anderer Termin), hängt der Export `-2`, `-3` … an.
+4. Eine id wird nie für einen anderen Termin wiederverwendet.
+
+Prüfwerte:
+
+| Dateiname | id |
+|---|---|
+| `2026-10-08 Kneipentour 😍 und Semester Opening` | `2026-10-08-kneipentour-und-semester-opening` |
+| `2027-01-29 Klausurphase Haupttermin WS 2026-27` | `2027-01-29-klausurphase-haupttermin-ws-2026-27` |
+| `2026-10-06 Neu an der Uni – wie geht’s nun weiter` | `2026-10-06-neu-an-der-uni-wie-geht-s-nun-weiter` |
+| `2026-10-05 Alma-Einführung für neue Studierende` | `2026-10-05-alma-einfuehrung-fuer-neue-studierende` |
+| `2026-11-02 Tutorien starten – B110 BWL` | `2026-11-02-tutorien-starten-b110-bwl` |
+
+Python (gleich wie `idAusName` in `zentral.js`):
+
+```python
+import re, unicodedata
+def zentral_id(dateiname: str) -> str:
+    s = re.sub(r"\.md$", "", dateiname, flags=re.I).lower()
+    s = s.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    s = re.sub("[̀-ͯ]", "", unicodedata.normalize("NFKD", s))
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s[:80].rstrip("-") if len(s) > 80 else s
+```
+
+**Damit die id fest bleibt**, muss der Export sie sich merken, sobald er sie das erste Mal veröffentlicht. Empfehlung: Der Export
+schreibt `zentral_id` in die Termin-Notiz im Tresor des Autors (braucht dessen Okay). Alternative ohne Eingriff:
+eine Zuordnungsdatei im Export (`Pfad → id`, bei Umbenennung über Titel + Kategorie + Code nachgeführt).
+Die 109 Termin-Notizen der Vorlage tragen bereits `zentral_id` nach Regel 2 (Migration 15.10.2026), aus den heutigen
+Dateinamen – der Export erzeugt also für sie dieselben ids.
+
+## semester.json
+
+Gleiche Felder wie das Frontmatter von `System/Daten/Semester.md` (siehe `docs/architektur/zentrale-daten.md`):
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-14",
+ "quellen": { "semestertermine": "https://uni-tuebingen.de/…" },
+ "semester": [ { "name": "WS 2026/27", "beginn": "2026-10-01", "ende": "2027-03-31", "vorlesung_beginn": "2026-10-12", "vorlesung_ende": "2027-02-06", "status": "offiziell" } ],
+ "pausen": [ { "name": "Weihnachtspause", "von": "2026-12-23", "bis": "2027-01-06", "status": "offiziell" } ],
+ "freie_tage": [ { "name": "Fronleichnam", "datum": "2027-05-27", "status": "offiziell" } ],
+ "pruefungsphasen": [ { "art": "Haupttermin", "semester": "WS 2026/27", "von": "2027-01-29", "bis": "2027-02-13", "status": "offiziell", "hinweis": "…" } ],
+ "rueckmeldung": [ { "fuer": "SS 2027", "von": "2027-01-15", "bis": "2027-02-15", "status": "offiziell" } ]
+}
+```
+
+Regeln: Semesternamen `WS JJJJ/JJ` oder `SS JJJJ`; alle Daten wie oben (2020–2040, `ende > beginn`, `bis ≥ von`); `status`
+`offiziell`/`geschätzt`; `hinweis` optional ≤ 200 Zeichen; `name`/`art` ≤ 60 Zeichen, abgelehnt wie `titel` bei Terminen (seit
+02.11.2026, der Eintrag wird verworfen); je Liste höchstens 100 Einträge;
+`quellen` höchstens 10, Schlüssel `[a-z_]{1,30}`, Werte wie `quelle_url`. Ungültige Listeneinträge werden einzeln verworfen;
+ohne ein einziges gültiges Semester wird die Datei abgelehnt. Das Plugin schreibt `Semester.md` nur, wenn der Inhalt sich
+unterscheidet (Vergleich der Felder, nicht der Formatierung); den Text unter dem Frontmatter lässt es stehen. `modell.js` leitet
+daraus wie bisher Semesterliste, Pausen und Prüfungsphasen in `System/Einstellungen.md` ab.
+
+## gruppen.json
+
+Seit 17.10.2026 (Plan Abschnitt 20). Optional: Fehlt die Datei im Manifest, bleibt auf jedem Gerät der letzte Stand. Plugins vor
+dieser Fassung kennen den Namen nicht und ignorieren ihn.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-17",
+ "gruppen": [
+  {
+   "id": "ws-2026-27-x100-uebung-1",
+   "code": "X100",
+   "art": "Übung",
+   "gruppe": "1",
+   "tag": "Di",
+   "von": "08:00",
+   "bis": "10:00",
+   "ct": true,
+   "raum": "Hörsaal 1 (Beispielbau)",
+   "anmeldung": "Über den ILIAS-Kurs X100, ab Mo 19.10., 12:00; nur eine Gruppe.",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=…&periodId=…",
+   "semester": "WS 2026/27",
+   "zeitraum": { "von": "2026-10-20", "bis": "2027-02-02" },
+   "geprueft": "2026-10-17"
+  }
+ ]
+}
+```
+
+| Feld | Pflicht | Regel |
+|---|---|---|
+| `schema` | ja | genau `1`; sonst, ohne Liste `gruppen` oder mit mehr als 1000 Einträgen wird die **ganze Datei** abgelehnt |
+| `stand` | nein | Datum `JJJJ-MM-TT` der letzten Pflege; das Plugin zeigt es im Fuß an |
+| `id` | ja | wie bei Terminen (`^[a-z0-9]([a-z0-9-]{0,78}[a-z0-9])?$`), eindeutig; doppelte: der erste Eintrag gilt. Empfohlen: `<semester>-<code>-<art>-<gruppe>` klein, z. B. `ws-2026-27-x100-uebung-1` |
+| `code` | ja | Modulcode wie bei Terminen |
+| `art` | ja | `Übung` oder `Tutorium` |
+| `gruppe` | nein | Nummer oder Name, wie die Quelle ihn nennt, ≤ 20 Zeichen, reiner Text (abgelehnt wie `titel`: HTML, Klammern, senkrechter Strich …); leer = ohne Nummer. ILIAS kann dieselbe Gruppe anders zählen (ILIAS „Gruppe 2“ = Liste Gr. 3); das Plugin ordnet darum nie über die Nummer zu |
+| `tag` | ja | `Mo`, `Di`, `Mi`, `Do` oder `Fr` |
+| `von`, `bis` | ja | `HH:MM`, `bis` nach `von`. Zeiten wie in der Quelle (Alma: volle Stunden). |
+| `ct` | nein | `true` = c.t. (beginnt 15 Min. später, endet 15 Min. früher); alles andere gilt als nicht gesetzt. Das Plugin zeigt „8–10 c.t.“. |
+| `raum` | nein | ≤ 120 Zeichen nach dem Säubern; mehrere Räume mit „ / “ getrennt |
+| `leitung` | nein | ≤ 120 Zeichen. **Einziges Feld mit Personennamen**, und nur, wenn die Uni den Namen selbst öffentlich nennt (siehe unten). |
+| `anmeldung` | nein | ≤ 200 Zeichen, reiner Text für alle: wo und ab wann man sich anmeldet |
+| `quelle_url` | ja | wie bei Terminen (`https`, erlaubte Domain) |
+| `semester` | ja | `WS JJJJ/JJ` oder `SS JJJJ` |
+| `zeitraum` | nein | `{ "von", "bis" }`, Daten wie bei Terminen, `bis ≥ von`, höchstens 400 Tage: erster und letzter Termin der Gruppe |
+| `geprueft` | nein | ISO-Datum oder -Zeit der letzten Prüfung |
+
+Gesäubert wie `info` (siehe oben); ungültige Einträge werden **einzeln** verworfen, unbekannte Felder ignoriert. Jedes Gerät
+holt die Datei selbst (auch wenn ein anderes Gerät die Termine schreibt), prüft sie wie die anderen Dateien gegen das Manifest
+und speichert nur die gültigen Einträge gerätelokal (`eba-zentral-gruppen`). Stimmen Prüfsumme oder Schema nicht, bleiben die
+Gruppen beim letzten Stand (Warnung im Bericht); Termine und Semesterdaten werden trotzdem übernommen, wie beim Export
+(Pflicht 6). Eine Notiz in `Stundenplan/` entsteht nur für **deine** Gruppe, nie für die ganze Liste: aus deiner
+ILIAS-Mitgliedschaft (`herkunft: ilias-gruppe`, zugeordnet über Code, Tag und Zeit, nie über die Nummer) oder aus deiner Wahl
+„Meine“ (`herkunft: gruppe-gewaehlt`); Felder aus diesem Eintrag, der Name aus ILIAS (siehe `docs/architektur/zentrale-daten.md`, „Deine
+Übungs- oder Tutoriengruppe“). Anzeige: Codeblock `eba-gruppen` (`System/Skripte/gruppen.js`), gefiltert wie die Termine mit
+`code` und auf das aktuelle und das nächste Semester; mit Argument `alle` (```` ```eba-gruppen alle ```` ) ohne Filter.
+Gruppen, die im eigenen Stundenplan stehen (gleicher Code, Semester, Wochentag, Beginn höchstens 15 Min. daneben, bei Notizen
+zu deiner Gruppe über `gruppe_id`), sind markiert; ein eigener „Stand“ wird nicht gespeichert.
+
+**Namen (Plan Abschnitt 20):** `leitung` nur, wenn die Universität den Namen selbst öffentlich nennt (Alma-Vorlesungsverzeichnis
+ohne Anmeldung, Seite des Lehrstuhls), mit `quelle_url` auf genau diese Seite. Nie aus Fotos, Folien, Mails oder ILIAS, nie die
+eigene Gruppe des Autors. Wer nicht genannt werden möchte, meldet das per Issue im Haupt-Repo; der Export entfernt den Namen dann
+über eine Sperrliste.
+
+## angebote.json
+
+Seit 17.10.2026 (Plan 27.1 Punkt 6). Optional. Offene Angebote der Uni für alle: Vorträge (Studium Generale, Vortragsreihen der
+Fakultät), Kurse der Universitätsbibliothek, Hochschulsport und Welcome Center. Nur Fakten und nur etwa die nächsten acht Wochen;
+keine Beschreibungen, keine Namen von Personen. Plugins vor dieser Fassung kennen den Namen nicht und ignorieren ihn.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-17",
+ "angebote": [
+  {
+   "id": "2026-10-19-studium-generale-beispielvortrag",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Beispielvortrag über Beispiele",
+   "datum": "2026-10-19",
+   "von": "18:15",
+   "bis": "19:45",
+   "ort": "Hörsaal 9 (Beispielbau)",
+   "online": true,
+   "url": "https://uni-tuebingen.de/…",
+   "anmeldung": { "ab": "2026-10-12", "bis": "2026-10-18T23:59" }
+  }
+ ]
+}
+```
+
+| Feld | Pflicht | Regel |
+|---|---|---|
+| `schema` | ja | genau `1`; sonst, ohne Liste `angebote` oder mit mehr als 1000 Einträgen wird die **ganze Datei** abgelehnt |
+| `stand` | nein | Datum `JJJJ-MM-TT` (oder ISO-Zeit) der letzten Pflege; das Plugin zeigt es im Fuß an |
+| `id` | ja | wie bei Terminen (`^[a-z0-9]([a-z0-9-]{0,78}[a-z0-9])?$`), eindeutig, stabil; doppelte: der erste Eintrag gilt. Der Export vergibt `<kategorie>-<Nummer>` (Nummer des Eintrags im Veranstaltungskalender der Uni) bzw. `<kategorie>-<Prüfsumme aus Titel, Datum, Uhrzeit und Link>`; Reihen ausblenden hängt nicht an der `id` |
+| `kategorie` | ja | genau ein Wert aus der Freigabeliste unten |
+| `reihe` | ja | 1–80 Zeichen, reiner Text (abgelehnt wie `titel`), z. B. „Studium Generale“. Bei `vortrag` wählen Nutzer:innen je Reihe, ob sie sie sehen: „Studium Generale“ und „Wirtschafts- und Sozialwissenschaftliche Fakultät“ (auch „WiSo“) erkennt die App am Namen, jede andere Reihe ist zunächst aus. Den Namen darum nicht ohne Grund ändern |
+| `titel` | ja | wie bei Terminen: 1–120 Zeichen, eine Zeile, abgelehnt bei HTML, spitzen, eckigen oder geschweiften Klammern, senkrechtem Strich, Backslash, Backticks, `<%`/`%>`, `obsidian://`, `javascript:` |
+| `datum` | ja | `JJJJ-MM-TT` wie bei Terminen; beim Hochschulsport der erste Kurstermin. Ist nur der Buchungsbeginn bekannt, ist `datum` der Buchungstag (Uhrzeit in `von`) und `anmeldung` fehlt, damit die App den Tag nicht doppelt zeigt |
+| `von` | nein | `HH:MM` |
+| `bis` | nein | `HH:MM`, nur zusammen mit `von` und nach `von` |
+| `ort` | nein | ≤ 120 Zeichen nach dem Säubern |
+| `online` | nein | `true` = (auch) online; alles andere gilt als nicht gesetzt |
+| `url` | ja | `https` auf `uni-tuebingen.de` oder einer Subdomain (z. B. `hochschulsport.`, `ub.`), sonst wie `quelle_url`. Strenger als die Domain-Liste der Termine: keine anderen Domains |
+| `anmeldung` | nein | `{ "ab", "bis" }`, beide optional: `JJJJ-MM-TT` oder `JJJJ-MM-TTTHH:MM` (Ortszeit, ohne Zone), `bis` nicht vor `ab`. Kein Objekt oder ungültig → Eintrag verworfen; `{}` = keine Angabe. Beim Hochschulsport ist `ab` der Buchungsbeginn |
+| `gruppe` | nein | seit 9.11.2026, wie bei Terminen: die Gruppe aus `quellen.json`, die die Kategorie (bei Vorträgen die Reihe) anbietet, z. B. `studium-generale`, `ub`. Das Plugin liest das Feld nicht |
+| `thema` | nein | seit 9.11.2026, wie bei Terminen: `vortrag` → `engagement`, `ub` → `kurse`, `sport` und `welcome` → `freizeit`. Das Plugin liest das Feld nicht |
+
+### Freigabeliste Kategorien der Angebote (`kategorie`)
+
+| Wert | Chip in der App | Inhalt |
+|---|---|---|
+| `vortrag` | Vorträge | Studium Generale, Vortragsreihen der Fakultät |
+| `ub` | Unibibliothek (in der Auswahl „Kurse der Unibibliothek“) | Kurse und Führungen der Universitätsbibliothek |
+| `sport` | Hochschulsport | Kurse; `anmeldung.ab` erscheint als eigene Zeile „ab 17:00 · Buchungsstart“ am Tag der Buchung |
+| `welcome` | Welcome Center | Veranstaltungen des Welcome Centers; laut Uni vor allem für internationale Promovierende und Postdocs (darum steht das in `reihe`) |
+
+Erweitern nur mit Eintrag in dieser Tabelle **und** in `ANGEBOT_KATEGORIEN` (`zentral.js`) und `ARTEN` (`angebote.js`). Ältere
+Plugins verwerfen Einträge mit einem neuen Wert einzeln; sie fehlen dort nur.
+
+Gesäubert wie `info`; ungültige Einträge werden **einzeln** verworfen, unbekannte Felder ignoriert. Das Plugin schreibt aus
+`angebote.json` **keine Notizen**: Jedes Gerät holt die Datei selbst (auch wenn ein anderes Gerät die Termine schreibt), prüft sie
+gegen das Manifest und speichert nur die gültigen Einträge gerätelokal (`eba-zentral-angebote`). Stimmen Prüfsumme oder Schema
+nicht, bleibt der letzte Stand (Warnung im Bericht); Termine, Semesterdaten und Gruppen laufen weiter. **Fehlt `angebote.json`
+in einem gültigen Manifest** (ohne `pause`), gelten die Angebote als zurückgezogen: Jedes Gerät löscht seinen Stand. Anzeige:
+Codeblock `eba-angebote` (`System/Skripte/angebote.js`): beim ersten Mal eine Auswahl (Kategorien, Vortragsreihen), danach Chips
+je gewählter Kategorie mit Anzahl, nach Tagen die nächsten 14 Tage, der Rest unter „Mehr anzeigen“. Vergangenes (Tage vor heute, heutige Angebote nach `bis`) blendet das Plugin
+selbst aus.
+
+## quellen.json
+
+Vertrag seit 9.11.2026. Optional; das Plugin liest die Datei nicht (Plugins kennen den Namen nicht und ignorieren ihn), die App
+zeigt damit, welchen Gruppen man folgen kann und welche ihrer Kanäle der Abgleich schon liest. Keine Links, keine
+Konto-Namen, keine Personen.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-11-09",
+ "gruppen": [
+  {
+   "id": "fachschaft",
+   "name": "Freie Fachschaft",
+   "art": "fachschaft",
+   "kanaele": [
+    { "art": "web", "status": "geprueft", "zuletzt": "2026-11-09" },
+    { "art": "instagram", "status": "bald" }
+   ]
+  }
+ ]
+}
+```
+
+| Feld | Pflicht | Regel |
+|---|---|---|
+| `schema` | ja | genau `1`; sonst, ohne Liste `gruppen` oder mit mehr als 100 Gruppen wird die **ganze Datei** abgelehnt |
+| `stand` | ja | `JJJJ-MM-TT`, Tag des Exports; der Status gilt für diesen Tag |
+| `id` | ja | Form wie bei Terminen, eindeutig und **für immer stabil**: Die App merkt sich gefolgte Gruppen an der `id`, Termine und Angebote nennen sie in `gruppe` |
+| `name` | ja | 1–60 Zeichen, reiner Text (abgelehnt wie `titel`) |
+| `art` | ja | `fachbereich`, `fachschaft`, `initiative`, `uni` oder `stiftung` |
+| `kanaele` | ja | Liste, jede `art` höchstens einmal; leer = der Abgleich liest die Gruppe noch nicht (die App bietet „Quelle fehlt“ an) |
+| `kanaele[].art` | ja | `web`, `instagram`, `newsletter` oder `rundmail` |
+| `kanaele[].status` | ja | `geprueft`: jede Quelle des Kanals wurde in den letzten drei Tagen erfolgreich gelesen, und der Abgleich zählt den Abruf nicht als gestört · `bald`: geplant, noch nicht gelesen (Instagram ohne Zugang) · `gestoert`: sonst |
+| `kanaele[].zuletzt` | nein | `JJJJ-MM-TT`, der Tag, bis zu dem jede Quelle des Kanals gelesen wurde; fehlt bei `bald` und wenn eine Quelle nie gelesen wurde |
+
+Ungültige Gruppen werden **einzeln** verworfen, unbekannte Felder ignoriert.
+
+## kapitel.json
+
+Seit 19.10.2026 (Plan Abschnitt 31). Optional. Kapitellisten der Module für den Lernplan: je Modul und Semester die Kapitel aus
+der Gliederung der Vorlesung bzw. die Einheiten des Lehrbuchs, die die Vorlesung nennt. Nur Fakten (Nummer, Titel, Seitenzahl der
+Folien, Nummer der Folien, Link auf ein frei zugängliches Lehrbuch, seit 31.10.2026 Tag der ersten Vorlesung zum Kapitel und des
+ersten Zwischentests, der es abfragt, seit 1.11.2026 in wie vielen Altklausuren das Kapitel drankam); keine Beschreibungen, keine Lernziele, keine Namen. Plugins vor dieser Fassung kennen den
+Namen nicht und ignorieren ihn. Erzeugt vom Uni-Abgleich (Kurse, in denen der Autor ist), veröffentlicht
+erst mit dem Schalter `kapitel.veroeffentlichen` im Export.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-19T06:30:00Z",
+ "module": [
+  {
+   "code": "X100",
+   "semester": "WS 2026/27",
+   "quelle": "Folien 00 Einführung, S. 9",
+   "stand": "2026-10-18",
+   "vorlaeufig": false,
+   "altklausuren": 12,
+   "kapitel": [
+    { "nr": "1", "titel": "Grundlagen", "seiten": 42, "folien": 1, "vorlesung": "2026-10-19", "zwischentest": "2026-11-13",
+      "in_altklausuren": 11, "teile": [{ "nr": "1.1", "titel": "Grundbegriffe" }] },
+    { "nr": "2", "titel": "Märkte", "folien": 2, "in_altklausuren": 4 },
+    { "nr": "3", "titel": "Knappheit", "url": "https://books.core-econ.org/the-economy-v1/book/de/text/03.html" }
+   ]
+  }
+ ]
+}
+```
+
+| Feld | Regel |
+|---|---|
+| `schema` | genau `1`, sonst wird die ganze Datei abgelehnt |
+| `stand` | optional, ISO-Zeit |
+| `module` | höchstens 60; je `code` + `semester` nur einmal (sonst „doppelt“) |
+| `code` | Modulcode wie im Modulkatalog |
+| `semester` | „WS JJJJ/JJ“ oder „SS JJJJ“ |
+| `quelle` | optional, reiner Text ≤ 120 Zeichen: woher die Liste stammt (Folie, Lehrbuch) |
+| `stand` (Modul) | optional, `JJJJ-MM-TT` |
+| `vorlaeufig` | optional, `true` = Liste teils geschätzt (z. B. Lehrbuch-Einheiten, die die Vorlesung noch nicht genannt hat) |
+| `altklausuren` | optional, seit 1.11.2026 (ältere Plugins ignorieren es), ganze Zahl 1–99: wie viele Altklausuren des Moduls ausgezählt sind (`in_altklausuren`). Der Uni-Abgleich setzt es erst ab fünf |
+| `kapitel` | 1–40 Einträge, Nummern im Modul eindeutig |
+| `nr` | 1–8 Zeichen, beginnt mit Ziffer oder Großbuchstabe (`1`, `IV`, `E`, `2.3`). **Bleibt:** Im Modul und Semester ändert sich eine einmal veröffentlichte Nummer nie und wird nie für ein anderes Kapitel vergeben; ein umbenanntes Kapitel behält sie, ein weggefallenes fehlt einfach (seit 9.11.2026 hier festgehalten, der Export hält es seit 19.10.2026 so). Die App erkennt Kapitel und Unterkapitel daran wieder. |
+| `titel` | reiner Text ≤ 140 Zeichen, ohne `[`, `]`, `<`, `>`, `{`, `}`, `|`, `\` |
+| `seiten` | optional, ganze Zahl 1–2000 (Folien des Kapitels, Gewicht im Plan) |
+| `folien` | optional, ganze Zahl 0–99: Nummer der Folien-Unterlage dieses Kapitels (`art: Folien`, Feld `nummer`); ohne sie gilt die Kapitelnummer |
+| `url` | optional, `https` auf `uni-tuebingen.de` oder `core-econ.org` (jeweils mit Subdomains) |
+| `vorlesung` | optional, seit 31.10.2026 (ältere Plugins ignorieren es), `JJJJ-MM-TT`: Tag der ersten Vorlesung dieses Semesters, die das Kapitel behandelt hat, nur belegt (Ordner der Sitzung in ILIAS, beschriftete Folien, Vorlesungsnotiz), nie in der Zukunft. Fehlt = die Vorlesung ist noch nicht so weit. Hat ein Modul bei keinem Kapitel einen Tag, gilt jedes als behandelt (wie vorher) |
+| `zwischentest` | optional, seit 31.10.2026, `JJJJ-MM-TT`: Tag des ersten Zwischentests (Online-Test, Testat mit Bonuspunkten), der das Kapitel abfragt; nur, wenn die Veranstaltung das sagt. Derselbe Tag wie ein Prüfungstermin des Moduls in `termine.json` |
+| `in_altklausuren` | optional, seit 1.11.2026, ganze Zahl 0–`altklausuren`: in wie vielen der ausgezählten Altklausuren eine Aufgabe zum Kapitel vorkam. Ohne `altklausuren` am Modul oder größer: das Modul wird verworfen. Schaltet man im Lernplan „Zeit je Kapitel“ ein, gibt das Plugin dem Kapitel danach mehr oder weniger Zeit (ab fünf Altklausuren) |
+| `teile` | optional, höchstens 40 Unterkapitel `{ nr, titel }` mit denselben Regeln |
+
+Ein ungültiges Kapitel oder Unterkapitel verwirft sein **ganzes Modul** (keine halbe Liste im Lernplan), die anderen Module bleiben.
+Unbekannte Felder werden ignoriert.
+
+**Was das Plugin daraus macht:** Jedes Gerät holt die Datei selbst und merkt sie sich gerätelokal (wie `angebote.json`). Nur der
+Abrufer schreibt daraus `Lernplan/<Code> Lernplan.md` (`herkunft: zentral`), nur für Module des laufenden Semesters, die in deinem
+Plan liegen (oder laufen bzw. angemeldet sind) und nicht bestanden sind. Seit 31.10.2026 zeigt jede Kapitelzeile auf die Folien des
+Kapitels, sobald sie im Tresor liegen, dazu „Vorlesung TT.MM.JJJJ“ und „Zwischentest TT.MM.JJJJ“, seit 1.11.2026 „in 9 von 12
+Altklausuren“; der eigene Server liefert Listen
+derselben Form für Module ohne zentrale Liste (Eingang, Feld `kapitel`, Notizen mit `herkunft: server`), und eine spätere zentrale
+Liste übernimmt eine solche Notiz. Häkchen gehen mit dem Titel des (Unter-)Kapitels, nicht
+mit seiner Nummer: Wird ein Kapitel eingeschoben oder umnummeriert, bleibt es abgehakt, und ein neues Kapitel unter alter Nummer
+erbt kein Häkchen. Eigene Eigenschaften (`seit`, `verstanden_bis` …), eigene Zeilen und Aufgaben unter „## Kapitel“ (auch mit
+Nummer vorn) und alles unter „## Meine Notizen“ bleiben bei jeder neuen Liste. Notizen mit anderer `herkunft` (eigene KI) fasst das Plugin nie an. Eine gelöschte Notiz
+entsteht erst wieder, wenn sich ihre Liste ändert, auch wenn inzwischen ein anderes Gerät abruft (der Stand steht in `abruf.json`).
+Ältere Notizen (anderes Semester, Modul bestanden oder verschoben) bleiben und heißen im Lernplan „nicht mehr dran“. Fehlt die Datei
+im Manifest, bleiben die Notizen, wie sie sind.
+
+## literatur.json
+
+Vertrag seit 24.10.2026. Optional. Literaturlisten der Module: je Modul und Semester die Werke, die die Lehrveranstaltung nennt,
+mit ihrer Rolle (Lehrbuch, Übungsbuch, zum Vertiefen), dazu, was zu welchem Kapitel oder welcher Sitzung zu lesen ist. Nur Fakten
+(Angabe des Werks mit Auflage und ISBN, Rolle, Links auf Verlag und UB-Katalog, Kapitel- und Seitenzahlen, Nummer und Seite der
+Folien); keine Beschreibungen oder Texte aus den Unterlagen. Plugins vor dieser Fassung kennen den Namen nicht und ignorieren ihn.
+Erzeugt vom Uni-Abgleich (Kurse, in denen der Autor ist), veröffentlicht erst mit dem Schalter `literatur.veroeffentlichen` im Export.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-24T06:30:00Z",
+ "module": [
+  {
+   "code": "X100",
+   "semester": "WS 2026/27",
+   "stand": "2026-10-20",
+   "quelle": "Folien 00 Organisatorisches, S. 4",
+   "hinweis": "Die Folien reichen für die Klausur, das Lehrbuch hilft beim Üben.",
+   "beleg": { "art": "Folien", "nummer": 0, "seite": 4 },
+   "kopf": "Kapitel",
+   "werke": [
+    { "id": "muster", "rolle": "Lehrbuch", "spalte": "Muster", "katalog": "123456789X",
+      "angabe": "Muster, A.: Grundlagen der Beispielkunde. 3. Auflage, Beispielverlag 2025. ISBN 978-3-000-00000-0",
+      "links": [{ "text": "Springer Link", "url": "https://link.springer.com/book/10.1007/978-3-000-00000-0" }] },
+    { "id": "probe", "rolle": "Zum Vertiefen", "abschnitt": "weitere", "suche": "Probe Beispielkunde vertieft",
+      "angabe": "Probe, B.: Beispielkunde vertieft. Beispielverlag 2023." }
+   ],
+   "lesen": [
+    { "zu": "1 Grundlagen", "beleg": { "art": "Folien", "nummer": 1, "seite": 3 }, "stellen": { "muster": "Kap. 1, S. 1–24" } }
+   ]
+  }
+ ]
+}
+```
+
+| Feld | Regel |
+|---|---|
+| `schema` | genau `1`, sonst wird die ganze Datei abgelehnt |
+| `stand` | optional, ISO-Zeit |
+| `module` | höchstens 60; je `code` + `semester` nur einmal (sonst „doppelt“) |
+| `code`, `semester` | wie in `kapitel.json` |
+| `stand` (Modul) | optional, `JJJJ-MM-TT` |
+| `quelle` | reiner Text ≤ 200 Zeichen: woher die Liste stammt (Folie, Modulhandbuch) |
+| `hinweis` | optional, reiner Text ≤ 300 Zeichen: wie die Literatur zur Vorlesung steht, in eigenen Worten |
+| `beleg` | optional, Unterlage des Moduls, in der die Liste steht (siehe unten) |
+| `kopf` | optional, reiner Text ≤ 20 Zeichen: Überschrift der Lese-Tabelle („Kapitel“, „Sitzung“); ohne ihn „Kapitel“ |
+| `werke` | 1–15 Werke, `id` im Modul eindeutig |
+| `id` (Werk) | 1–40 Zeichen `a–z`, `0–9`, `-` (nicht am Rand) |
+| `rolle` | reiner Text ≤ 40 Zeichen („Lehrbuch“, „Übungsbuch“, „Zum Vertiefen“) |
+| `angabe` | reiner Text ≤ 300 Zeichen: Autor:innen, Titel, Auflage, Verlag, Jahr, ISBN |
+| `abschnitt` | optional, `haupt` (Standard, steht unter „Das Wichtigste“) oder `weitere` („Weitere Literatur“) |
+| `spalte` | optional, reiner Text ≤ 20 Zeichen: Kurzname als Spalte der Lese-Tabelle; nur Werke mit `spalte` bekommen eine Spalte |
+| `hinweis` (Werk) | optional, reiner Text ≤ 200 Zeichen (welche Teile die Vorlesung nutzt) |
+| `katalog` | optional, Nummer des Eintrags im UB-Katalog (PPN, 7–13 Ziffern, am Ende auch `X`); nur gesetzt, wenn genau eine Ausgabe passt, die die UB Tübingen besitzt, und jeden Tag neu geprüft (Export-Regel 9) |
+| `suche` | optional, reiner Text ≤ 120 Zeichen: Suchwörter für den UB-Katalog, wenn es keine Nummer gibt |
+| `links` | optional, höchstens 4 je Werk: `{ text, url }` (Online-Fassung beim Verlag) oder `{ text, unterlage }` (Unterlage des Moduls); `text` reiner Text ≤ 40 Zeichen |
+| `lesen` | optional, höchstens 40 Zeilen `{ zu, beleg, stellen }` |
+| `zu` | reiner Text ≤ 120 Zeichen: Kapitel oder Sitzung („1 Grundlagen“) |
+| `stellen` | mindestens ein Eintrag Werk-`id` → reiner Text ≤ 80 Zeichen („Kap. 1, S. 1–24“); nur Werke mit `spalte` |
+| Unterlage (`beleg`, `unterlage`) | `{ art, nummer, seite }`: `art` eine der Unterlagen-Arten (`Folien`, `Skript`, `Übung`, `Tutorium`, `Lab`, `Lösung`, `Altklausur`, `Literatur`), `nummer` ganze Zahl 0–99, `seite` optional 1–2000 |
+
+Reiner Text heißt: ohne Zeilenumbruch, ohne `` ` ``, `[`, `]`, `<`, `>`, `{`, `}`, `|`, `\`. Links nur `https` auf
+`uni-tuebingen.de`, `ibs-bw.de`, `doi.org`, `core-econ.org`, `springer.com`, `pearson.de` oder `proquest.com` (jeweils mit
+Subdomains), ohne Sitzung oder Schlüssel in der Adresse (`token`, `sid`, `jsessionid`, `ticket`, `key` …). Links auf den UB-Katalog
+baut das Plugin selbst aus `katalog` bzw. `suche`. Ein ungültiges Werk, ein ungültiger Link oder eine ungültige Zeile verwirft das
+**ganze Modul**, die anderen Module bleiben. Unbekannte Felder werden ignoriert.
+
+**Was das Plugin daraus macht:** Jedes Gerät holt die Datei selbst und merkt sie sich gerätelokal (wie `kapitel.json`). Nur der
+Abrufer schreibt daraus je Modul `Unterlagen/<Code> <Modultitel>/Literatur/<Code> Literatur 00 Literaturliste.md` (`typ: unterlage`,
+`art: Literatur`, `nummer: 0`, `herkunft: zentral`, `literatur_id` = Code klein), für dieselben Module wie die Lernplan-Notizen
+(laufendes Semester, im Plan, laufend oder angemeldet, nicht bestanden). Die Unterlagen-Liste des Moduls zeigt sie als erste Zeile
+unter „Literatur“. Verweise auf Unterlagen werden Links auf das PDF (mit Seite) bzw. die Begleitnotiz, sobald die Unterlage im
+Tresor liegt; bis dahin stehen sie als Text da. `status`, `datum`, `tags`, eigene Eigenschaften und alles unter „## Meine Notizen“
+bleiben bei jeder neuen Liste. Eine gelöschte Notiz entsteht erst wieder, wenn sich ihre Liste ändert (Stand in `abruf.json`, Feld
+`literatur`). Eine Notiz mit `literatur_id` ohne `herkunft` übernimmt das Plugin an ihrem Ort; Notizen mit anderer `herkunft` fasst
+es nie an. Für ein Modul ohne Liste entsteht keine Notiz. Fehlt die Datei im Manifest, vergessen die Geräte ihren Stand; die Notizen
+bleiben, wie sie sind.
+
+## unterlagen.json
+
+Vertrag seit 03.11.2026. Optional. Namen der Dateien, die in den ILIAS-Kursen der Module liegen: je Datei Modul, Art, Nummer und
+Titel, wie der Uni-Abgleich des Autors sie nach dem Inhalt vergeben hat („Tutorium 03 Kontenabschluss und Erfolgskonten“ statt
+„JA_Tutorium_3_WiSe26_27.pdf“). Kennung ist die Prüfsumme SHA-256 der Datei, wie sie aus ILIAS kommt; nur Fakten über Dateien,
+die alle im Kurs sehen, nie ihr Inhalt. Plugins vor dieser Fassung kennen den Namen nicht und ignorieren ihn. Veröffentlicht erst
+mit dem Schalter `unterlagen.veroeffentlichen` im Export.
+
+```json
+{
+ "schema": 1,
+ "dateien": [
+  { "sha256": "<64 Hex-Zeichen>", "code": "X100", "art": "Tutorium", "nummer": 3, "titel": "Kontenabschluss und Erfolgskonten" },
+  { "sha256": "<64 Hex-Zeichen>", "code": "X100", "art": "Sonstiges", "titel": "Semesterplan" }
+ ]
+}
+```
+
+| Feld | Regel |
+|---|---|
+| `schema` | genau `1`, sonst wird die ganze Datei abgelehnt |
+| `stand` | optional, ISO-Zeit |
+| `dateien` | höchstens 5000; je `sha256` nur einmal (sonst „doppelt“) |
+| `sha256` | 64 Zeichen `0–9`, `a–f` |
+| `code` | Modulcode wie in `termine.json` |
+| `art` | eine der Unterlagen-Arten `Folien`, `Skript`, `Übung`, `Tutorium`, `Lab`, `Lösung`, `Altklausur`, `Literatur`, `Sonstiges` |
+| `nummer` | optional, ganze Zahl 0–99 |
+| `titel` | reiner Text, 1–120 Zeichen (wie bei `literatur.json`) |
+
+Ein ungültiger Eintrag wird einzeln verworfen, die anderen bleiben. Unbekannte Felder werden ignoriert.
+
+**Was das Plugin daraus macht:** Jedes Gerät holt die Datei selbst und merkt sie sich gerätelokal (wie `kapitel.json`). Lädt die
+ILIAS-Ablage eine Datei, deren Prüfsumme in der Liste steht, und gibt es das Modul im Tresor, bekommt sie Name, Art, Nummer und
+Titel aus der Liste statt aus ihrem Dateinamen. Schon geladene Dateien benennt jeder ILIAS-Lauf nach (Datei und Begleitnotiz,
+Art, Nummer, Titel und Überschrift der Notiz), solange Name und Notiz noch so sind, wie das Plugin sie angelegt hat; hast du
+Name, Art, Nummer oder Titel geändert oder liegt eine neue Fassung daneben, bleibt alles, wie es ist. Kommen die Unterlagen von
+einem eigenen Uni-Abgleich, nutzt das Plugin die Liste nicht. Fehlt die Datei im Manifest, vergessen die Geräte ihren Stand;
+umbenannte Dateien bleiben, wie sie sind.
+
+## veranstaltungen.json
+
+Vertrag seit 17.10.2026, **im Manifest seit 18.10.2026** (Schalter `veranstaltungen.veroeffentlichen` im Export). Optional
+wie `gruppen.json`: Fehlt sie im Manifest, bleibt auf jedem Gerät der letzte Stand; Plugins vor 0.4.2 kennen den Namen nicht und
+ignorieren ihn.
+
+**Herkunft:** das öffentliche Vorlesungsverzeichnis in Alma, ohne Anmeldung gelesen, höchstens einmal am Tag, nacheinander mit
+mindestens einer Sekunde Abstand und dem User-Agent `StudiumAutopilot-Abgleich/1.0 (+https://github.com/studium-autopilot/ecoba)`.
+Gelesen werden nur die Detailseiten der Veranstaltungen zu den Modulen im Modulkatalog, für das laufende und das nächste Semester.
+Bei Fehlern oder einer Überlastungsantwort ruht der Abruf bis zum nächsten Tag. Übernommen werden nur Fakten: Titel, Art,
+Parallelgruppe, Rhythmus, Wochentag, Zeit, Zeitraum, Ausfalltermine, Raum und Raum- oder Zeitänderungen je Datum. Seit
+20.10.2026 kommen Räume dazu, die nur eine Ankündigung an alle Teilnehmenden nennt (Kursmail, ILIAS-Kurs, Uni-Seite), nie Angaben
+nur zur eigenen Gruppe des Autors; einen eigenen Termin „Raumwechsel“ gibt es dafür nicht mehr. Seit 24.10.2026 kommen
+regelmäßige Lehrveranstaltungen dazu, die Alma nicht kennt (z. B. das Data Science Lab in S110, nur im ILIAS-Kurs), wenn die
+Kursseite oder eine Ankündigung an alle Teilnehmenden Tag und Zeit nennt; `quelle_url` ist dann die Kursseite. **Keine
+Namen und kein Freitext:** Verantwortliche, Durchführende, Vertretungen, Bemerkungen und Teilnehmerzahlen werden nie gespeichert.
+
+```json
+{
+ "schema": 1,
+ "stand": "2026-10-17",
+ "veranstaltungen": [
+  {
+   "id": "ws-2026-27-x100-vorlesung-1-mi-1000",
+   "code": "X100",
+   "art": "Vorlesung",
+   "titel": "Einführung in die Beispielökonomik",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "12:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": { "von": "2026-10-14", "bis": "2027-02-03" },
+   "raum": "Hörsaal 1 (Beispielbau)",
+   "ausfall": ["2026-12-23", "2026-12-30"],
+   "aenderungen": [
+    { "datum": "2026-11-11", "raum": "Hörsaal 2 (Beispielbau)" },
+    { "datum": "2026-11-18", "von": "14:00", "bis": "16:00" }
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=…&periodId=…"
+  }
+ ]
+}
+```
+
+Ein Eintrag ist eine **Termin-Serie** (eine Zeile der Alma-Terminliste), nicht ein einzelnes Datum.
+
+| Feld | Pflicht | Regel |
+|---|---|---|
+| `schema` | ja | genau `1`; sonst, ohne Liste `veranstaltungen` oder mit mehr als 3000 Einträgen wird die **ganze Datei** abgelehnt |
+| `stand` | ja | Datum `JJJJ-MM-TT` der letzten inhaltlichen Änderung (nicht des letzten Abrufs; ohne Änderung bleibt die Datei byte-gleich) |
+| `id` | ja | wie bei Terminen (`^[a-z0-9]([a-z0-9-]{0,78}[a-z0-9])?$`), eindeutig; doppelte: der erste Eintrag gilt. Aufbau siehe [id-Regel](#id-regel-für-veranstaltungen) |
+| `code` | ja | Modulcode wie bei Terminen |
+| `art` | ja | `Vorlesung`, `Übung`, `Tutorium`, `Seminar`, `Kolloquium`, `Praktikum`, `Kurs` oder `Sonstige`. Übungsgruppen heißen `Tutorium`, wenn der Kurs sie so nennt (Alma sagt meist „Übung“). Ein unbekannter Wert gilt im Plugin als `Sonstige` (der Eintrag bleibt). |
+| `titel` | ja | 1–120 Zeichen, Regeln wie `titel` bei Terminen; der offizielle Titel aus Alma, sonst `<code> <art>` |
+| `bezeichnung` | nein | seit 24.10.2026: offizieller Name einer Lehrveranstaltung außerhalb von Alma, wie ihn Kursseite, ILIAS-Ordner oder Folien nennen (z. B. „Data Science Lab“ zur `art` `Praktikum`), ≤ 30 Zeichen, reiner Text, nur zur `art` Kolloquium, Praktikum, Kurs oder Sonstige (Vorlesung, Übung, Tutorium und Seminar steuern Gruppen und Raster). Das Plugin schreibt ihn statt der Art in Dateiname, Titel und Kopf der Notiz und ins Feld `art` der Notiz (so zeigt ihn auch das Wochenraster); der Abgleich mit eigenen Notizen folgt weiter `art` aus den Daten. Kommt er dazu oder ändert er sich, benennt das Plugin die Notiz um, solange sie noch ihren Namen nach der Regel trägt. Ungültig, zu einer anderen Art oder selbst eine dieser vier Arten („Übung“, ohne Rücksicht auf Groß- und Kleinschreibung) → ignoriert (der Eintrag bleibt); ältere Plugins zeigen die Art. |
+| `gruppe` | nein | Nummer der Parallelgruppe in Alma, ≤ 20 Zeichen, reiner Text; bei Vorlesungen meist `1`. Nicht dieselbe Nummer wie in ILIAS. |
+| `tag` | ja | `Mo` bis `So`; immer der Wochentag von `zeitraum.von` (sonst wird der Eintrag verworfen) |
+| `von`, `bis` | ja | `HH:MM`, `bis` nach `von`, wie in Alma (meist volle Stunden) |
+| `ct` | nein | `true` = c.t. (beginnt 15 Min. später, endet 15 Min. früher), wie in `gruppen.json` |
+| `rhythmus` | ja | `wöchentlich`, `14-täglich` (alle zwei Wochen ab `zeitraum.von`) oder `Einzeltermin` (`zeitraum.von` = `zeitraum.bis`). Blockveranstaltungen, tägliche und 3- oder 4-wöchentliche Serien schreibt der Export als Einzeltermine aus. Unbekannter Wert: Eintrag verworfen. |
+| `zeitraum` | ja | `{ "von", "bis" }`: erster und letzter Termin der Serie; Daten wie bei Terminen, `bis ≥ von`, höchstens 400 Tage; höchstens 31 Tage vor Beginn oder nach Ende des Semesters (WS 01.10.–31.03., SS 01.04.–30.09.) |
+| `raum` | nein | ≤ 120 Zeichen nach dem Säubern; mehrere Räume mit „ / “ getrennt, eine zu lange Liste als „<erster Raum> und N weitere Räume“; leer = noch kein Raum. Nennt Alma für eine Serie mehrere Räume und findet die Mehrheit der Termine in einem davon statt, steht dieser hier und die übrigen Daten stehen in `aenderungen`. |
+| `raum_seit`, `raum_vorher` | nein | seit 20.10.2026, nur zusammen: dauerhafte Verlegung. `raum_seit` = erster Termin im neuen Raum (`raum`, nicht leer), innerhalb von `zeitraum`; `raum_vorher` = der bisherige Raum (Regeln wie `raum`, nicht leer). Vor `raum_seit` gilt `raum_vorher`. Der Export setzt beide, wenn der Raum einer Serie sich gegenüber der veröffentlichten Fassung ändert, und behält sie, solange der Raum bleibt. Ungültig → Eintrag verworfen. |
+| `ausfall` | nein | aufsteigende Liste verschiedener Daten (höchstens 100) innerhalb von `zeitraum`, an denen die Serie entfällt |
+| `aenderungen` | nein | Liste (höchstens 100) von `{ "datum", "raum"?, "von"?, "bis"?, "zusatz"? }`, nur heute und künftig: an diesem Datum anderer Raum und/oder andere Zeit (`von` und `bis` nur zusammen, Regeln wie oben). `zusatz: true` = zusätzlicher Termin außerhalb des Rhythmus (mit Zeit und Raum). Datum höchstens 31 Tage außerhalb von `zeitraum`. Ein Ausfall steht in `ausfall`, nie hier. Unbekannte Schlüssel werden ignoriert. |
+| `semester` | ja | `WS JJJJ/JJ` oder `SS JJJJ` |
+| `quelle_url` | ja | die Alma-Detailseite der Veranstaltung, Regeln wie `quelle_url` bei Terminen |
+
+Gesäubert wie `info` (siehe oben); ungültige Einträge werden **einzeln** verworfen, unbekannte Felder ignoriert. Die Datei
+enthält das laufende und das nächste Semester; Serien, deren Ende mehr als 30 Tage zurückliegt, fallen weg.
+
+### id-Regel für Veranstaltungen
+
+`<semester>-<code>-<art>-<gruppe>-<termin>`, alles klein: Semester wie bei Gruppen (`ws-2026-27`), `art` ohne Umlaute
+(`vorlesung`, `uebung`, `tutorium`, `seminar`, `kolloquium`, `praktikum`, `kurs`, `sonstige`), `termin` = Wochentag und Beginn
+(`mi-1000`) bei regelmäßigen Serien, Datum und Beginn (`20261107-0900`) bei Einzelterminen. Haben zwei Alma-Veranstaltungen
+eines Moduls dieselbe Art, bekommt die zweite ihre Alma-Nummer (`unitId`) nach der Art; gleiche ids sonst `-2`, `-3` ….
+Die id bleibt, solange Wochentag und Beginn (bei Einzelterminen Datum und Beginn) bleiben: Raum, Ausfälle und Änderungen ändern
+sie nie. Verlegt Alma eine Serie auf einen anderen Tag oder Beginn, ist das eine neue id (die alte fällt weg).
+
+## Wie das Plugin die Daten verwendet
+
+Abruf, Notizen, Filter, Wegfall und die Übergabe nach id an einen eigenen Abgleich:
+[docs/daten-v1.md](https://github.com/studium-autopilot/ecoba/blob/main/docs/daten-v1.md#was-das-plugin-daraus-macht-kurzfassung)
+und [docs/architektur/zentrale-daten.md](https://github.com/studium-autopilot/ecoba/blob/main/docs/architektur/zentrale-daten.md)
+im Repo des Plugins.
+
+## Pflichten des Exports (Seite des Autors, `export-daten.py` im Uni-Abgleich)
+
+1. Nur Einträge nach Freigabeliste (Kategorie, öffentliche Quelle oder Rundmail an alle, nichts mit `persoenlich: true`,
+   Persönliches nur mit `teilen: true`); nur die Felder oben; **nie** den Notiztext. `semester.json` kommt aus dem Frontmatter
+   von `System/Daten/Semester.md` im Tresor des Autors; fehlt die Datei, fehlt `semester.json` (Geräte behalten ihren Stand).
+2. Vor dem Veröffentlichen dieselben Prüfungen wie das Plugin (Schema, Grenzen, Domains), dazu Scan auf persönliche Daten und
+   eine Höchstzahl an Änderungen je Lauf. Ein **Scan-Treffer hält nur diesen Eintrag zurück** (wie das KI-Urteil
+   „persönlich“; eine schon veröffentlichte Fassung bleibt) und steht im Protokoll unter „Termine nicht an alle geteilt“.
+   **Nichts** veröffentlicht wird bei: Änderungsgrenze überschritten, Schema- oder Prüfsummenfehler, `Semester.md` ohne gültiges
+   Semester, Ausfall der KI-Prüfung; Hinweis ins Protokoll.
+3. ids nach der id-Regel vergeben und merken.
+4. Termine erst entfernen, wenn ihr Ende mindestens 30 Tage zurückliegt – oder wenn sie wirklich entfallen.
+5. Prüfsummen über die geschriebenen Bytes; Manifest, Dateien und `plugin_aktuell` in einem Commit. `release`/`beta` kommen
+   aus der Konfiguration des Exports und werden unverändert übernommen (nach derselben Prüfung wie im Plugin).
+6. `gruppen.json` (seit 17.10.2026): aus der Gruppen-Masterliste des Abgleichs; dieselben Prüfungen wie das Plugin, dazu Scan auf
+   persönliche Angaben in allen Feldern; Personennamen nur in `leitung`, und nur, wenn der Name auf der Seite unter `quelle_url`
+   steht (Abruf ohne Anmeldung) und die Seite nicht ILIAS ist; Namen auf der Sperrliste fallen weg. Ein Fehler hält nur
+   `gruppen.json` an (der zuletzt veröffentlichte Stand bleibt), nie die Termine.
+7. `angebote.json` (seit 17.10.2026): nur von öffentlichen Seiten der Uni (Abruf ohne Anmeldung), nur die Felder oben, keine
+   Beschreibungen und keine Personennamen; dieselben Prüfungen wie das Plugin und der Scan auf persönliche Angaben in allen Feldern.
+   Nur etwa die nächsten acht Wochen; Vergangenes fällt beim nächsten Lauf weg. Ein Fehler hält nur `angebote.json` an, nie die
+   Termine: Die zuletzt veröffentlichte Datei bleibt **im Manifest** (fehlt sie dort, löschen die Geräte ihre Angebote).
+8. `veranstaltungen.json` (Vertrag seit 17.10.2026): aus dem täglichen Abruf des Vorlesungsverzeichnisses; dieselben Prüfungen
+   wie das Plugin, Scan auf persönliche Angaben in jedem Feld (ein Treffer hält nur diesen Eintrag zurück; eine saubere, schon
+   veröffentlichte Fassung bleibt). Eigene Änderungsgrenze (neu oder geändert, entfernt) und Schutz gegen Massenwegfall (mehr als
+   die Hälfte und mehr als 20 Einträge); ist der letzte Abruf älter als drei Tage, bleibt der Stand. Eine leere oder fehlende
+   Alma-Seite gilt erst beim zweiten Abruf hintereinander als „entfällt“. Ein Fehler hält nur `veranstaltungen.json` an, nie
+   Termine, Semesterdaten, Gruppen oder Angebote. Vor der ersten Veröffentlichung eine Woche Trockenlauf mit privater Vorschau.
+9. `literatur.json` (Vertrag seit 24.10.2026): aus den Literaturlisten des Abgleichs (Kurse, in denen der Autor ist); nur die
+   Felder oben, nie Text aus Folien oder Mails (ein Hinweis mit Wortlaut aus einer Quelle fällt weg, das Modul bleibt). Dieselben
+   Prüfungen wie das Plugin und der Scan auf persönliche Angaben in jedem Feld; ein Treffer hält nur dieses Modul zurück. Vom
+   UB-Katalog nur Katalognummern und Suchwörter. Die Nummern sucht und prüft ein Skript ohne KI über die SRU-Schnittstelle des
+   K10plus: eingetragen nur bei einem eindeutigen Treffer mit Bestand der UB Tübingen (ISIL `DE-21`, auch `DE-21-…`), geprüft
+   etwa einmal am Tag; passt eine Nummer zweimal hintereinander nicht mehr, fällt sie weg, und das Werk führt wieder zur Suche.
+   Veröffentlicht erst mit dem Schalter `literatur.veroeffentlichen`, bis dahin private Vorschau. Ein Fehler hält nur
+   `literatur.json` an.
+10. `unterlagen.json` (Vertrag seit 03.11.2026): aus der Ablage der ILIAS-Unterlagen des Abgleichs (Prüfsumme je Datei) und
+   den Begleitnotizen dazu (Modul, Art, Nummer, Titel; sonst der Dateiname „<Code> <Art> <NN> <Titel>“). Nie Dateien aus der
+   eigenen Übungs- oder Tutoriumsgruppe des Autors, nur Kurse mit Modulcode. Dieselben Prüfungen wie das
+   Plugin und der Scan auf persönliche Angaben je Eintrag; ein Treffer hält nur diesen Eintrag zurück. Veröffentlicht erst mit
+   dem Schalter `unterlagen.veroeffentlichen`. Ein Fehler hält nur `unterlagen.json` an.
+11. `gruppe`, `thema` und `quellen.json` (Vertrag seit 9.11.2026): Gruppen nur aus der Gruppen-Masterliste des Abgleichs; jede
+   Seite und jedes Konto, das der Abgleich liest, gehört zu genau einer Gruppe. Der Status kommt aus den Abrufen ohne KI und
+   behauptet nie mehr, als gelesen wurde. `pflicht` wie oben erzwungen; ein ungültiger Wert lässt nur das Feld weg. Ändern sich
+   nur `gruppe` oder `thema`, prüft die KI nicht neu (die Änderungsgrenze gilt). `quellen.json` erst mit dem Schalter
+   `quellen.veroeffentlichen`, bis dahin private Vorschau; ein Fehler hält nur `quellen.json` an.
+12. Schema erweitern: neue **optionale** Felder sind in `v1` erlaubt (das Plugin ignoriert Unbekanntes). Alles, was alte Plugins
+   falsch verstehen würden, kommt nach `v2/`. Eine neue Datei, ein neues Feld oder ein neuer erlaubter Wert steht im selben
+   Commit in dieser Datei.
+
+Tests: Der Export prüft seine Ausgabe gegen diese Regeln und gegen diese Datei. Die öffentlichen Tests des Plugins stehen in
+[`tests/`](https://github.com/studium-autopilot/ecoba/tree/main/tests).
