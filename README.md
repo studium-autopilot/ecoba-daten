@@ -4,7 +4,7 @@ Zentrale Daten für [Studium Autopilot EcoBA](https://github.com/studium-autopil
 
 - Die Daten werden automatisch aus öffentlichen Quellen der Universität, des Fachbereichs und der Fachschaft zusammengestellt, regelbasiert und per KI geprüft und hier veröffentlicht.
 - Das Plugin in der Vorlage lädt nur diese Daten (JSON), nie Programmcode.
-- Format: `v1/` (siehe Vorlage, `docs/daten-v1.md`).
+- Format: [FORMAT.md](FORMAT.md) beschreibt jede Datei in `v1/` und ändert sich im selben Commit wie die Daten.
 - Namen von Übungs- und Tutoriumsleitungen stehen nur in `v1/gruppen.json` und nur, wenn die Universität sie selbst öffentlich nennt (Alma-Vorlesungsverzeichnis, Lehrstuhlseite).
 
 **Kein offizielles Angebot der Universität Tübingen. Keine Gewähr – maßgeblich sind Alma, das Prüfungsamt und die Prüfungsordnung.**
