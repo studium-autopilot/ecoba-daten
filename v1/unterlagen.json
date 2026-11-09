@@ -732,6 +732,13 @@
    "titel": "R-Code zu den Kerndichten"
   },
   {
+   "sha256": "79f23cc2a84c7bfdb6065ba7c31c715e5697d43e9aa41139273995782b9fb750",
+   "code": "S110",
+   "art": "Lösung",
+   "nummer": 4,
+   "titel": "R-Code zu Aufgabe 2 und 3"
+  },
+  {
    "sha256": "381e024a906e546247980bbad23b8fca969cff9bcd7579066faa94ecbceb9846",
    "code": "S110",
    "art": "Sonstiges",
@@ -778,6 +785,20 @@
    "art": "Übung",
    "nummer": 3,
    "titel": "Polygonzug und Kerndichten"
+  },
+  {
+   "sha256": "f1ac07ac3c0bf0cfcab63a6518bdbfb256cb6ad7594582458fdbb8d8da5e4e3e",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 4,
+   "titel": "Arithmetisches Mittel Median und Streuung"
+  },
+  {
+   "sha256": "42a5961ddb3863886a559b2bb95e8adfa2e58d5a186f90c531bf1a46e7b8f432",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 4,
+   "titel": "Daten FF-25 Portfoliorenditen"
   },
   {
    "sha256": "a866901215cfb676f17f6692cad482d5a53f1291c80e208ae0ba1a845644e98e",
