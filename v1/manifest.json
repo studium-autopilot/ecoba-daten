@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-10T11:54:32Z",
+ "erstellt": "2026-11-10T14:23:33Z",
  "dateien": {
   "termine.json": {
    "sha256": "52b5cdf240943ca5b65390f694b0d2aaf7cc4237e4f41117734ac227b18e51e2",
@@ -39,14 +39,14 @@
    "groesse": 4419
   }
  },
- "plugin_aktuell": "0.8.3",
+ "plugin_aktuell": "0.8.4",
  "hinweis": "",
  "pause": false,
  "release": {
-  "version": "0.8.3",
-  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.3/",
-  "sha256": "94fd09b5b0c12c240aaf09e17aa78bdf151196fa089f2655eba3366dd7439509",
-  "notiz": "Was laut ILIAS diese Woche in einem Kurs dran ist, steht jetzt als Kursseite bei den Unterlagen und in der Claude-App, dazu mehrere Fehler behoben."
+  "version": "0.8.4",
+  "url_basis": "https://raw.githubusercontent.com/studium-autopilot/ecoba/v0.8.4/",
+  "sha256": "0a5c10d37bce3852dc09c8b24c41b0e5b39d4f11ddce2607db1736a17f1d6277",
+  "notiz": "Unter Eigener Server siehst du jetzt mit Haken und Kreuzen, was läuft und was fehlt. Hat ein Gerät seine Verbindung verloren, sagt es das jetzt."
  },
  "abdeckung": {
   "stand": "2026-11-10",
