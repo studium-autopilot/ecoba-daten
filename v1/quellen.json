@@ -1,0 +1,275 @@
+{
+ "schema": 1,
+ "stand": "2026-11-10",
+ "gruppen": [
+  {
+   "id": "fachbereich",
+   "name": "Fachbereich Wirtschaftswissenschaft",
+   "art": "fachbereich",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    },
+    {
+     "art": "instagram",
+     "status": "bald"
+    },
+    {
+     "art": "newsletter",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "wiso-fakultaet",
+   "name": "WiSo-Fakultät",
+   "art": "fachbereich",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "fachschaft",
+   "name": "Freie Fachschaft",
+   "art": "fachschaft",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    },
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "inone-consult",
+   "name": "InOne Consult",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    },
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "bfs-society",
+   "name": "BFS Society",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "ibwlopment",
+   "name": "iBWLopment",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "exceed",
+   "name": "exceed",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "dialog",
+   "name": "dialog",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "rethinking-economics",
+   "name": "Rethinking Economics",
+   "art": "initiative",
+   "kanaele": [
+    {
+     "art": "instagram",
+     "status": "bald"
+    }
+   ]
+  },
+  {
+   "id": "wiwi-netzwerk",
+   "name": "WiWi-Netzwerk",
+   "art": "initiative",
+   "kanaele": []
+  },
+  {
+   "id": "universitaet",
+   "name": "Universität Tübingen",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    },
+    {
+     "art": "rundmail",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "pruefungsamt",
+   "name": "Prüfungsamt",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "studium-generale",
+   "name": "Studium Generale",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "hochschulsport",
+   "name": "Hochschulsport",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "ub",
+   "name": "Universitätsbibliothek",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "fremdsprachen",
+   "name": "Fremdsprachenzentrum",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "tcp",
+   "name": "Transdisciplinary Course Program",
+   "art": "uni",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "career-service",
+   "name": "Career Service",
+   "art": "uni",
+   "kanaele": []
+  },
+  {
+   "id": "international-office",
+   "name": "International Office",
+   "art": "uni",
+   "kanaele": []
+  },
+  {
+   "id": "studienberatung",
+   "name": "Zentrale Studienberatung",
+   "art": "uni",
+   "kanaele": []
+  },
+  {
+   "id": "studienstiftung",
+   "name": "Studienstiftung",
+   "art": "stiftung",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "sdw",
+   "name": "Stiftung der Deutschen Wirtschaft",
+   "art": "stiftung",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "id": "deutschlandstipendium",
+   "name": "Deutschlandstipendium",
+   "art": "stiftung",
+   "kanaele": [
+    {
+     "art": "web",
+     "status": "geprueft",
+     "zuletzt": "2026-11-10"
+    }
+   ]
+  }
+ ]
+}
