@@ -108,6 +108,13 @@
    "titel": "Case Study: App gegen Lebensmittelverschwendung"
   },
   {
+   "sha256": "f6736b1f266aaab1490bec2705e98f753f79a5ccb47a180a13ce352742380d7e",
+   "code": "B110",
+   "art": "Tutorium",
+   "nummer": 2,
+   "titel": "Case Study: Unternehmertum und Strategie"
+  },
+  {
    "sha256": "1b422f53014548ad7a57801ce6b42bbbda23c336f94439a46dc8f07e33980a0b",
    "code": "B110",
    "art": "Übung",
@@ -335,7 +342,7 @@
    "titel": "Technologie, Kosten und Spezialisierung"
   },
   {
-   "sha256": "2b0dbe5661b77fbf3f644ef97d77b2a8cbfc8f0a032591f2123a74e3e8777927",
+   "sha256": "00bcdd384a0a3b1d62effecbf13b658653fa44ae732a4931fa79e48fa7264ff2",
    "code": "E101",
    "art": "Übung",
    "nummer": 4,

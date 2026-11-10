@@ -1469,6 +1469,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-15-b110-bwl-abgabe-tutoriumsblatt-ii",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt II",
+   "datum": "2026-11-15",
+   "bis": "2026-11-17",
+   "uhrzeit": "",
+   "ort": "bis 12:00 · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "B110",
+   "thema": "pflicht",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt II für einen Bonuspunkt. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch; Tutorium Di: bis So, Mi: bis Mo, Do: bis Di.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-16-b110-bwl-zweite-vorlesung-statt-uebung",
    "titel": "B110 BWL: zweite Vorlesung statt Übung",
    "datum": "2026-11-16",
