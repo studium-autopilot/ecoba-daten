@@ -980,7 +980,7 @@
    "code": "S110",
    "semester": "WS 2026/27",
    "quelle": "Folien Explorative Datenanalyse, S. 16 (Gliederung); eine PDF für alle Teile",
-   "stand": "2026-10-31",
+   "stand": "2026-11-10",
    "kapitel": [
     {
      "nr": "E",
@@ -1000,7 +1000,8 @@
      "nr": "II",
      "titel": "Maßzahlen zur Charakterisierung von Verteilungen",
      "seiten": 15,
-     "folien": 1
+     "folien": 1,
+     "vorlesung": "2026-11-09"
     },
     {
      "nr": "III",
