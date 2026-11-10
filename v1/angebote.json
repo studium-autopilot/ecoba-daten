@@ -1,19 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-09",
+ "stand": "2026-11-10",
  "angebote": [
-  {
-   "id": "vortrag-136227",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Alles öffentlich? Koloniale Sammlungsdaten zwischen Transparenz, Schutz und Teilhabe",
-   "datum": "2026-11-09",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/alles-oeffentlich-koloniale-sammlungsdaten-zwischen-transparenz-schutz-und-teilhabe/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
   {
    "id": "vortrag-136275",
    "kategorie": "vortrag",
