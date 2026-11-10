@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-04",
+ "stand": "2026-11-10",
  "module": [
   {
    "code": "B110",
@@ -104,7 +104,7 @@
   {
    "code": "E101",
    "semester": "WS 2026/27",
-   "stand": "2026-11-04",
+   "stand": "2026-11-10",
    "quelle": "E101 Folien 01, S. 3; ILIAS-Kurs E101, Wichtige Informationen",
    "hinweis": "Das Lehrbuch begleitet die Vorlesung. Für die Klausur zählt der gesamte Stoff aus Vorlesungs- und Übungsunterlagen, dazu die Buchkapitel, auf die diese verweisen (so der ILIAS-Kurs unter Wichtige Informationen).",
    "beleg": {
@@ -141,6 +141,13 @@
        }
       }
      ]
+    },
+    {
+     "id": "keynes",
+     "rolle": "Lektüre zu Woche 5",
+     "angabe": "Keynes (1930): Economic Possibilities for our Grandchildren",
+     "spalte": "Keynes",
+     "suche": "Keynes Economic Possibilities for our Grandchildren"
     }
    ],
    "lesen": [
@@ -230,6 +237,18 @@
      },
      "stellen": {
       "core": "3.1–3.5"
+     }
+    },
+    {
+     "zu": "Vorlesung 05",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 5,
+      "seite": 6
+     },
+     "stellen": {
+      "core": "Kapitel 3, Verweise auf 3.7 und 3.10",
+      "keynes": "ganz"
      }
     }
    ]
