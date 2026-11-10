@@ -34,6 +34,7 @@
    "datum": "2026-11-11",
    "von": "10:00",
    "bis": "11:30",
+   "ort": "Schulungsraum Ammerbau",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -79,6 +80,20 @@
    "datum": "2026-11-13",
    "von": "10:00",
    "bis": "12:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-f12c97f567",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI in der sozialen Arbeit",
+   "datum": "2026-11-13",
+   "von": "10:00",
+   "bis": "12:30",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -91,6 +106,20 @@
    "datum": "2026-11-13",
    "von": "14:00",
    "bis": "16:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-a5662ceccd",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "Chat-to-Code Ansätze zur Datenaufbereitung mit AI",
+   "datum": "2026-11-13",
+   "von": "17:00",
+   "bis": "20:00",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -115,6 +144,8 @@
    "datum": "2026-11-17",
    "von": "14:00",
    "bis": "15:30",
+   "ort": "online",
+   "online": true,
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -182,6 +213,30 @@
    "thema": "kurse"
   },
   {
+   "id": "ub-4c94d05534",
+   "kategorie": "ub",
+   "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
+   "titel": "Veranstaltungen der KIT Bibliothek",
+   "datum": "2026-11-19",
+   "von": "14:00",
+   "bis": "14:45",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-d97d3a5ae7",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI-Inhalte á la carte - flexibel lernen mit dem KI-Campus",
+   "datum": "2026-11-19",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136425",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -201,6 +256,32 @@
    "datum": "2026-11-20",
    "von": "10:00",
    "bis": "12:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-cd7f1d39e2",
+   "kategorie": "ub",
+   "reihe": "Workshops in English",
+   "titel": "Citation Management with Zotero",
+   "datum": "2026-11-20",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-f9779429f6",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI – Chancen und Herausforderungen für offene Bildungsmaterialien",
+   "datum": "2026-11-20",
+   "von": "10:00",
+   "bis": "11:30",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -213,6 +294,7 @@
    "datum": "2026-11-23",
    "von": "12:30",
    "bis": "14:00",
+   "ort": "UB",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -228,6 +310,18 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-und-aufarbeitung-von-geschichten-mit-partnerinnen-aus-papua-neuguinea-am-beispiel-der-hamburger-suedsee-expedition/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "ub-4c69c28b92",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "Offene Sprechstunde",
+   "datum": "2026-11-24",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "welcome-6301a10610",
@@ -246,6 +340,8 @@
    "datum": "2026-11-24",
    "von": "14:00",
    "bis": "16:00",
+   "ort": "online",
+   "online": true,
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -270,6 +366,8 @@
    "datum": "2026-11-25",
    "von": "12:30",
    "bis": "14:00",
+   "ort": "online",
+   "online": true,
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -282,6 +380,8 @@
    "datum": "2026-11-25",
    "von": "14:00",
    "bis": "15:30",
+   "ort": "online",
+   "online": true,
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -320,6 +420,42 @@
    "thema": "engagement"
   },
   {
+   "id": "ub-5084916586",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "H5P - interaktive Materialien erstellen",
+   "datum": "2026-11-27",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-320687cd5b",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "Kompetenzanforderung und mediendidaktische Szenarien für Schule und Hochschule",
+   "datum": "2026-11-30",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-96f331dcfa",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "Tutor-Bots selber bauen",
+   "datum": "2026-11-30",
+   "von": "16:00",
+   "bis": "18:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136248",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -330,6 +466,19 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-als-selbstzweck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nutzens/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "sport-e705246b11",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Verschiebung Anmeldung Kurse Gymnastikhalle auf 23.11.",
+   "datum": "2026-12-01",
+   "url": "https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/index.html",
+   "anmeldung": {
+    "ab": "2026-11-23T17:00"
+   },
+   "gruppe": "hochschulsport",
+   "thema": "freizeit"
   },
   {
    "id": "vortrag-136284",
@@ -375,6 +524,8 @@
    "datum": "2026-12-03",
    "von": "14:00",
    "bis": "16:00",
+   "ort": "online",
+   "online": true,
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -401,6 +552,30 @@
    "thema": "freizeit"
   },
   {
+   "id": "ub-44fd7328d0",
+   "kategorie": "ub",
+   "reihe": "Workshops in English",
+   "titel": "Literature Research With AI",
+   "datum": "2026-12-04",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-71a23b87f6",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI, OER und Prompt Design",
+   "datum": "2026-12-04",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "welcome-a02bc61d35",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
@@ -408,6 +583,30 @@
    "datum": "2026-12-06",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-36ab4cc2b1",
+   "kategorie": "ub",
+   "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
+   "titel": "Veranstaltungen der KIT Bibliothek",
+   "datum": "2026-12-07",
+   "von": "15:00",
+   "bis": "16:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-8682ca5926",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "Kenne deinen Tutor-Bot",
+   "datum": "2026-12-07",
+   "von": "16:00",
+   "bis": "18:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "vortrag-136251",
@@ -465,6 +664,20 @@
    "datum": "2026-12-10",
    "von": "10:00",
    "bis": "11:30",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-e7cf101f7e",
+   "kategorie": "ub",
+   "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
+   "titel": "Veranstaltungen der KIT Bibliothek",
+   "datum": "2026-12-10",
+   "von": "14:00",
+   "bis": "15:00",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -486,6 +699,20 @@
    "kategorie": "ub",
    "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
    "titel": "Bessere Notizen für Kurse, Projekte und schriftliche Arbeiten mit Obsidian",
+   "datum": "2026-12-11",
+   "von": "10:00",
+   "bis": "12:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-f3af479325",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "Kostenlose Bilder und Co. zur legalen Nachnutzung finden und verwenden",
    "datum": "2026-12-11",
    "von": "10:00",
    "bis": "12:00",
@@ -530,6 +757,18 @@
    "thema": "engagement"
   },
   {
+   "id": "ub-617eb6b98c",
+   "kategorie": "ub",
+   "reihe": "Workshops in English",
+   "titel": "How to Cite Properly",
+   "datum": "2026-12-16",
+   "von": "11:00",
+   "bis": "12:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136392",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -561,6 +800,17 @@
    "datum": "2026-12-18",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-02fe72e638",
+   "kategorie": "ub",
+   "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
+   "titel": "Veranstaltungen der UB Stuttgart",
+   "datum": "2026-12-18",
+   "von": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   }
  ]
 }

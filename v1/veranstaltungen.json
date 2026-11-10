@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-05",
+ "stand": "2026-11-10",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -1060,6 +1060,44 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
   },
   {
+   "id": "ws-2026-27-b322-seminar-1-20261104-1000",
+   "code": "B322",
+   "art": "Seminar",
+   "titel": "Bachelor Thesis Seminar on Marketing",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "13:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-04",
+    "bis": "2026-11-04"
+   },
+   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b322-seminar-1-20261125-1000",
+   "code": "B322",
+   "art": "Seminar",
+   "titel": "Bachelor Thesis Seminar on Marketing",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": false,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2026-11-25",
+    "bis": "2026-11-25"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+  },
+  {
    "id": "ws-2026-27-b322-seminar-1-20261016-0900",
    "code": "B322",
    "art": "Seminar",
@@ -1074,7 +1112,26 @@
     "von": "2026-10-16",
     "bis": "2026-10-16"
    },
-   "raum": "",
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b322-seminar-1-20270122-0800",
+   "code": "B322",
+   "art": "Seminar",
+   "titel": "Bachelor Thesis Seminar on Marketing",
+   "gruppe": "1",
+   "tag": "Fr",
+   "von": "08:00",
+   "bis": "18:00",
+   "ct": true,
+   "rhythmus": "Einzeltermin",
+   "zeitraum": {
+    "von": "2027-01-22",
+    "bis": "2027-01-22"
+   },
+   "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
   },
