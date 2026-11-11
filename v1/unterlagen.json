@@ -464,6 +464,20 @@
    "titel": "Lineare Algebra Determinante unbeschrieben"
   },
   {
+   "sha256": "8bd46da41ced0a528343a18d01bcf11bdf1d0ea8a56d835611f0ea6c7251d058",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Eigenwerte und quadratische Formen unbeschrieben"
+  },
+  {
+   "sha256": "18c95259e754f2e0d7a03067818724804f067369c44649c07a5302a7cfa43962",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Lineare Gleichungssysteme unbeschrieben"
+  },
+  {
    "sha256": "0912993347be9271419281ddd74b7e10503a1e47e202068a28384153967a2d93",
    "code": "S100",
    "art": "Folien",
