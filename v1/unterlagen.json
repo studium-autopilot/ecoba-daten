@@ -760,7 +760,7 @@
    "titel": "R-Code zu den Kerndichten"
   },
   {
-   "sha256": "79f23cc2a84c7bfdb6065ba7c31c715e5697d43e9aa41139273995782b9fb750",
+   "sha256": "481dd137928b8ca38d879a3c0671c5948bfbd7086d6eeeda9f83a601ec35ceab",
    "code": "S110",
    "art": "Lösung",
    "nummer": 4,
@@ -827,6 +827,13 @@
    "art": "Übung",
    "nummer": 4,
    "titel": "Daten FF-25 Portfoliorenditen"
+  },
+  {
+   "sha256": "30faa18c23b81a776955be4d7809e11e6f8c5ce7561034520fdc95afbf9068bb",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 4,
+   "titel": "Daten gewinne Unternehmensgewinne"
   },
   {
    "sha256": "a866901215cfb676f17f6692cad482d5a53f1291c80e208ae0ba1a845644e98e",
