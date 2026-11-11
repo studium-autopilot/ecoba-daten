@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-10",
+ "stand": "2026-11-11",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -1652,6 +1652,44 @@
    ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90460&periodId=237"
+  },
+  {
+   "id": "ws-2026-27-b393-vorlesung-1-mi-1000",
+   "code": "B393",
+   "art": "Vorlesung",
+   "titel": "Die Internationalisierung mittlerer Marktführer",
+   "gruppe": "1",
+   "tag": "Mi",
+   "von": "10:00",
+   "bis": "14:00",
+   "ct": true,
+   "rhythmus": "wöchentlich",
+   "zeitraum": {
+    "von": "2026-10-14",
+    "bis": "2027-02-03"
+   },
+   "raum": "",
+   "ausfall": [
+    "2026-10-14",
+    "2026-10-21",
+    "2026-10-28",
+    "2026-11-04",
+    "2026-11-11",
+    "2026-11-18",
+    "2026-11-25",
+    "2026-12-02",
+    "2026-12-09",
+    "2026-12-16",
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-06",
+    "2027-01-13",
+    "2027-01-20",
+    "2027-01-27",
+    "2027-02-03"
+   ],
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36193&periodId=237"
   },
   {
    "id": "ws-2026-27-e101-vorlesung-1-mi-1000",

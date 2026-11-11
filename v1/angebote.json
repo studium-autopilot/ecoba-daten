@@ -16,6 +16,18 @@
    "thema": "kurse"
   },
   {
+   "id": "ub-e5aebfb622",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-11",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136377",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -35,6 +47,18 @@
    "datum": "2026-11-12",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-9ebe0895ca",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-12",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "vortrag-136422",
@@ -176,6 +200,18 @@
    "thema": "kurse"
   },
   {
+   "id": "ub-795e6297e0",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-18",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136380",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -201,10 +237,22 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-4c94d05534",
+   "id": "ub-00404fc690",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-19",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-511bd9a939",
    "kategorie": "ub",
    "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Veranstaltungen der KIT Bibliothek",
+   "titel": "Alternative Publishing for Researchers: Beyond the Big 5 (Veranstaltungen der KIT Bibliothek)",
    "datum": "2026-11-19",
    "von": "14:00",
    "bis": "14:45",
@@ -275,6 +323,16 @@
    "thema": "kurse"
   },
   {
+   "id": "sport-d58dc83e3d",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
+   "datum": "2026-11-23",
+   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit"
+  },
+  {
    "id": "ub-59e85b273d",
    "kategorie": "ub",
    "reihe": "Publizieren",
@@ -300,18 +358,6 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-4c69c28b92",
-   "kategorie": "ub",
-   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
-   "titel": "Offene Sprechstunde",
-   "datum": "2026-11-24",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
    "id": "welcome-6301a10610",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
@@ -319,6 +365,20 @@
    "datum": "2026-11-24",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-f861b91e37",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "Offene Sprechstunde",
+   "datum": "2026-11-24",
+   "von": "12:30",
+   "bis": "13:30",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "ub-9b8b5ecb6c",
@@ -375,6 +435,18 @@
    "thema": "kurse"
   },
   {
+   "id": "ub-9a0706153b",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-25",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136383",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -394,6 +466,18 @@
    "datum": "2026-11-26",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-60c5dc9cd5",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-11-26",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "vortrag-136428",
@@ -493,6 +577,18 @@
    "thema": "engagement"
   },
   {
+   "id": "ub-a07b60f1d3",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-02",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136386",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -503,6 +599,18 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/narva/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "ub-5b8fcf7149",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-03",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "ub-8aac5ed915",
@@ -573,10 +681,10 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-36ab4cc2b1",
+   "id": "ub-ad1cb6901d",
    "kategorie": "ub",
    "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Veranstaltungen der KIT Bibliothek",
+   "titel": "Smarte Recherche: KI-Tools sinnvoll im Rechercheprozess nutzen (Veranstaltungen der KIT Bibliothek)",
    "datum": "2026-12-07",
    "von": "15:00",
    "bis": "16:30",
@@ -633,6 +741,18 @@
    "thema": "engagement"
   },
   {
+   "id": "ub-17688075ec",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-09",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136389",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -659,10 +779,22 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-e7cf101f7e",
+   "id": "ub-96cbec81d4",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-10",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-2d48214df2",
    "kategorie": "ub",
    "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Veranstaltungen der KIT Bibliothek",
+   "titel": "Einführung in Google Scholar (Veranstaltungen der KIT Bibliothek)",
    "datum": "2026-12-10",
    "von": "14:00",
    "bis": "15:00",
@@ -757,6 +889,18 @@
    "thema": "kurse"
   },
   {
+   "id": "ub-6f5d32be31",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-16",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
    "id": "vortrag-136392",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -767,6 +911,18 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/novgorod/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "ub-29cd06f824",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-17",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "vortrag-136437",
@@ -790,12 +946,60 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-02fe72e638",
+   "id": "ub-345a3abd8a",
    "kategorie": "ub",
    "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Veranstaltungen der UB Stuttgart",
+   "titel": "Zotero für Fortschrittene - Texte auswerten und Wissen organisieren (Veranstaltungen der UB Stuttgart)",
    "datum": "2026-12-18",
    "von": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-0c4d946024",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-23",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-6a3fdcec1a",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-24",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-d71ddb8111",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-30",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-fadad4b89e",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (nach Anmeldung)",
+   "datum": "2026-12-31",
+   "von": "13:00",
+   "bis": "15:00",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"

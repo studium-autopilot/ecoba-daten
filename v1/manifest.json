@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-11T05:40:42Z",
+ "erstellt": "2026-11-11T08:39:11Z",
  "dateien": {
   "termine.json": {
    "sha256": "f83193034c53afcec72d797cccbf2d6dff199a4a3f7b48e819afd6882e0f71a5",
@@ -15,12 +15,12 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "702cef1b77ac68cffa7f901f9f5b7264f924a113156fa3292a35bb8982e5728c",
-   "groesse": 30930
+   "sha256": "b48f7b946360d2ccdd010b08795b54d9837deed4146703687aacebb007fb897d",
+   "groesse": 37932
   },
   "veranstaltungen.json": {
-   "sha256": "77ec5444143c581ddfb42147b0f8add6971988d5c99ed43165d65b6e89edda63",
-   "groesse": 83866
+   "sha256": "312f42e3ab4aead5e4cb1f0d8c4082d27bc6a7a3c0b36253780cf6360abbb3e1",
+   "groesse": 84716
   },
   "kapitel.json": {
    "sha256": "5950378e0a9e2dad17d60ad6384ffbed32799a5dca3d9a8f51c5345c47e27659",
@@ -31,8 +31,8 @@
    "groesse": 13824
   },
   "unterlagen.json": {
-   "sha256": "821b2ee51337a7244644e4d202647c8bceaf5c7ff8519091dd3144931a8d6a05",
-   "groesse": 24162
+   "sha256": "ef588ed62ffd510c890411cae8fae978300884344d221df9ca554a189ed9b8df",
+   "groesse": 23982
   },
   "quellen.json": {
    "sha256": "c6d38bcdc6988b6befdb3121c9d02129f2074c5babaef491f82dafc1ed8c711a",
