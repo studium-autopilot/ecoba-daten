@@ -19,23 +19,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-12-bewerbungsfrist-speed-dating-talent-meets-industry",
-   "titel": "Bewerbungsfrist Speed Dating „Talent Meets Industry“",
-   "datum": "2026-10-12",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Online-Formular · Career Service",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "career-service",
-   "thema": "karriere",
-   "quelle_url": "",
-   "quelle_text": "wiwinews Band 95 und 96 (25.09. und 02.10.2026)",
-   "info": "Bewerbungsschluss für das Speed Dating „Talent Meets Industry“ des Career Service mit regionalen Arbeitgebern. Bewerbung über das Online-Formular des Career Service.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-12-tcp-kurse-2-belegungszeitraum",
    "titel": "TCP-Kurse: 2. Belegungszeitraum",
    "datum": "2026-10-12",
@@ -51,40 +34,6 @@
    "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
    "quelle_text": "",
    "info": "Zweiter Belegungszeitraum für Kurse des Transdisciplinary Course Program, anrechenbar für Schlüsselqualifikationen. Kurs in Alma belegen und die Studienleistung dort zusätzlich anmelden.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-12-vorlesungsbeginn-ws-2026-27",
-   "titel": "Vorlesungsbeginn WS 2026/27",
-   "datum": "2026-10-12",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "",
-   "kategorie": "Semester",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "universitaet",
-   "thema": "pflicht",
-   "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2029/",
-   "quelle_text": "",
-   "info": "Beginn der Vorlesungszeit im Wintersemester 2026/27.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-11-16-pruefungstermine-ws-2026-27-pruefen",
-   "titel": "Prüfungstermine WS 2026/27 prüfen",
-   "datum": "2026-10-12",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Seite des Prüfungsamts",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "pruefungsamt",
-   "thema": "pflicht",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/pruefungstermine-pflicht-und-profilbildungsmodule/",
-   "quelle_text": "",
-   "info": "Der Prüfungsplan des Haupttermins für die Pflicht- und Profilbildungsmodule ist auf der Seite des Prüfungsamts veröffentlicht. Klausurtermine der eigenen Module heraussuchen.",
    "geprueft": ""
   },
   {
@@ -1347,6 +1296,23 @@
    "quelle_url": "",
    "quelle_text": "Rundmail des College of Fellows vom 10.11.2026",
    "info": "Englischsprachiger Vortrag der Reihe CoF Lecture über Feldforschung, Autobiografie und Katharsis in der Ethnologie, mit Fragerunde und Empfang. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-12-neue-zugangsdaten-nach-webmail-angriff-abholung-zdv",
+   "titel": "Neue Zugangsdaten nach Webmail-Angriff: Abholung beim Rechenzentrum (ZDV)",
+   "datum": "2026-11-12",
+   "bis": "2026-11-13",
+   "uhrzeit": "",
+   "ort": "Do 09:30–17:00, Fr 09:00–13:00 · Auf der Morgenstelle B9N22 oder Seminarraum des ZDV (Wächterstraße 76)",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "pflicht",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/hiddenpages/newsfullview-aktuelles/article/nutzersperrungen-nach-angriff-auf-webmail/",
+   "quelle_text": "",
+   "info": "Nach einem Angriff auf Webmail setzte das ZDV die Anmeldedaten möglicherweise betroffener Uni-Konten zurück. Klappt die Anmeldung beim Datenspiegel nicht, neues Datenblatt mit Ausweis abholen.",
    "geprueft": ""
   },
   {
