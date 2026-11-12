@@ -1350,6 +1350,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-13-data-science-lab-4-s110-schon-um-12-uhr",
+   "titel": "S110 Datenanalyse: Data Science Lab 4 schon von 12:00 bis 14:00",
+   "datum": "2026-11-13",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "12:00–14:00 · online (Zoom)",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "S110",
+   "thema": "pflicht",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
+   "quelle_text": "",
+   "info": "Das 4. Data Science Lab des Moduls Explorative Datenanalyse ist ausnahmsweise früher als sonst (14:15). Teilnahme über den gewohnten Zoom-Link aus dem ILIAS-Kurs.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-13-internationales-sprachencafe-in-der-ub",
    "titel": "Internationales Sprachencafé in der UB",
    "datum": "2026-11-13",

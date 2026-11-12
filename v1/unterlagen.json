@@ -363,6 +363,13 @@
    "titel": "Präferenzen, Knappheit und Entscheidungen"
   },
   {
+   "sha256": "e954884fcc9d93d819be1ad0913f2d8d8734ae0d96c842613f9885fbf83d33fd",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 5,
+   "titel": "Optimale Konsumentscheidung und Gaspreisbremse"
+  },
+  {
    "sha256": "975e46142b0602fa36f7b84a3e77c44154a0ebe67f57b2367bcfae39781da6dd",
    "code": "S100",
    "art": "Altklausur",
@@ -478,7 +485,7 @@
    "titel": "Lineare Algebra Eigenwerte und quadratische Formen unbeschrieben"
   },
   {
-   "sha256": "18c95259e754f2e0d7a03067818724804f067369c44649c07a5302a7cfa43962",
+   "sha256": "b462d7ed5098e22f2ddca676588bdfcf075de597464ad60b9a3edeb21e5b3720",
    "code": "S100",
    "art": "Folien",
    "nummer": 1,
@@ -737,6 +744,20 @@
    "art": "Lab",
    "nummer": 3,
    "titel": "Notebook Quantile Box-Plots und Kerndichten mit Ausgaben"
+  },
+  {
+   "sha256": "b644f68cf7d62851099a5a57e6950953f3262e6cd40370a921c0e263e55327be",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 4,
+   "titel": "Notebook Matrizen Streuung Schiefe und Wölbung"
+  },
+  {
+   "sha256": "7ba53d76c06c535134f9485b3fa135fc3293a945c13fe90929eaab110ed532e6",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 4,
+   "titel": "Notebook Matrizen Streuung Schiefe und Wölbung mit Ausgaben"
   },
   {
    "sha256": "4d69635078b0cfc5902bfc7225c6363d99c035f7873e99ca9aa4c25fe663331c",
