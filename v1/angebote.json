@@ -1,40 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-12",
+ "stand": "2026-11-13",
  "angebote": [
-  {
-   "id": "welcome-fe2de94bad",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Besichtigung des Großen Weinfasses",
-   "datum": "2026-11-12",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
-   "thema": "freizeit"
-  },
-  {
-   "id": "ub-9ebe0895ca",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
-   "datum": "2026-11-12",
-   "von": "13:00",
-   "bis": "15:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136422",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Nachhaltige Nutzung begrenzter Ressourcen in Zeiten des globalen Wandels: Ungenutzte Potentiale im Stadt-Land-Kontext",
-   "datum": "2026-11-12",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/nachhaltige-nutzung-begrenzter-ressourcen-in-zeiten-des-globalen-wandels-ungenutzte-potentiale-im-stadt-land-kontext/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
   {
    "id": "ub-4fd707c195",
    "kategorie": "ub",
@@ -328,6 +295,19 @@
    "datum": "2026-11-24",
    "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
    "thema": "freizeit"
+  },
+  {
+   "id": "ub-5e4aa20e45",
+   "kategorie": "ub",
+   "reihe": "Publizieren",
+   "titel": "Fragestunde zur Abrechnung von Open-Access-Artikeln für KollegInnen in der Institutsverwaltung oder im Bereichscontroll…",
+   "datum": "2026-11-24",
+   "von": "09:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   },
   {
    "id": "ub-f861b91e37",

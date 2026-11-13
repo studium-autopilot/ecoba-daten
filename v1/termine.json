@@ -37,23 +37,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-13-hochschulsport-anmeldestart",
-   "titel": "Hochschulsport: Anmeldestart",
-   "datum": "2026-10-13",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "17:00 · online",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "hochschulsport",
-   "thema": "freizeit",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
-   "quelle_text": "",
-   "info": "Start der Online-Buchung für die Kurse des Hochschulsports im Wintersemester. Buchung online, die Plätze werden nach Eingang vergeben.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-13-tutorien-anmeldung-b180-jahresabschluss-ilias",
    "titel": "Tutorien-Anmeldung B180 Jahresabschluss (ILIAS)",
    "datum": "2026-10-13",
@@ -1636,6 +1619,40 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-18-vortrag-des-college-of-fellows-precarity",
+   "titel": "Vortrag des College of Fellows „Precarity: Beyond Repair and Refusal“: Prekarität im Globalen Süden (englisch)",
+   "datum": "2026-11-18",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:15 · Raum 027, Brechtbau (Wilhelmstraße 50)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des College of Fellows und des Graduiertenkollegs 3105 vom 13.11.2026",
+   "info": "Englischsprachiger öffentlicher Vortrag darüber, ob Reparatur und Verweigerung prekäres Leben im Globalen Süden erfassen. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-19-online-vortrag-sexuelle-belaestigung-an-hochschulen",
+   "titel": "Online-Vortrag „Sexuelle Belästigung an Hochschulen – was sagt das Recht dazu?“: Rechtslage und Beschwerdeweg",
+   "datum": "2026-11-19",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:00–16:00 · online",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des Teams Equity vom 13.11.2026",
+   "info": "Online-Vortrag zu Rechtslage, Schutzpflichten der Hochschule und Beschwerdeverfahren bei sexueller Belästigung. Anmeldung vorab per Mail an das Team Equity.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-19-tcp-kurse-abmeldezeitraum-nach-dem-3-belegungszeitraum",
    "titel": "TCP-Kurse: Abmeldezeitraum nach dem 3. Belegungszeitraum",
    "datum": "2026-11-19",
@@ -1838,6 +1855,23 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Karrieremesse in Kleingruppen mit acht Unternehmen, an jeder Station eine kleine Aufgabe, dazu kostenloser CV-Check. Anmeldung per Online-Formular mit Lebenslauf und Transcript.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-27-internationales-sprachencafe-in-der-ub",
+   "titel": "Internationales Sprachencafé in der UB",
+   "datum": "2026-11-27",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:00–15:30 · Universitätsbibliothek (Wilhelmstraße 32), Foyer (Eingangsbereich links)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "fremdsprachen",
+   "thema": "kurse",
+   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/sprachen-kurskonzepte/sprachencafes/",
+   "quelle_text": "",
+   "info": "Offenes Sprachencafé der Abteilung Deutsch als Fremdsprache und des Fremdsprachenzentrums mit Gesprächsgruppen in mehreren Sprachen. Teilnahme ohne Anmeldung, kostenlos.",
    "geprueft": ""
   },
   {

@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-12",
+ "stand": "2026-11-13",
  "gruppen": [
   {
    "id": "fachbereich",
@@ -10,7 +10,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     },
     {
      "art": "instagram",
@@ -19,7 +19,7 @@
     {
      "art": "newsletter",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -31,7 +31,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -43,7 +43,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     },
     {
      "art": "instagram",
@@ -59,7 +59,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     },
     {
      "art": "instagram",
@@ -136,12 +136,12 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     },
     {
      "art": "rundmail",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -153,7 +153,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -165,7 +165,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -177,7 +177,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -189,7 +189,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -201,7 +201,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -213,7 +213,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -243,7 +243,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -255,7 +255,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   },
@@ -267,7 +267,7 @@
     {
      "art": "web",
      "status": "geprueft",
-     "zuletzt": "2026-11-12"
+     "zuletzt": "2026-11-13"
     }
    ]
   }

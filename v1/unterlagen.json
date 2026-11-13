@@ -329,6 +329,13 @@
    "titel": "Technologie, Kosten und Spezialisierung"
   },
   {
+   "sha256": "f63c351c8b2fe6fea24907c01d3dbd210945b893e878e579d9ff1133bf09e808",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 4,
+   "titel": "Präferenzen, Knappheit und Entscheidungen"
+  },
+  {
    "sha256": "7d27a6e822c2835e9e596f01e1e9a8e904ef94b02507310e859b46e635ac5ba9",
    "code": "E101",
    "art": "Sonstiges",
@@ -363,7 +370,7 @@
    "titel": "Präferenzen, Knappheit und Entscheidungen"
   },
   {
-   "sha256": "e954884fcc9d93d819be1ad0913f2d8d8734ae0d96c842613f9885fbf83d33fd",
+   "sha256": "7efdc8094c8999b4043782ce98dbb1d1b883b067d1940cc148e40561b8b95cbc",
    "code": "E101",
    "art": "Übung",
    "nummer": 5,
@@ -751,6 +758,13 @@
    "art": "Lab",
    "nummer": 3,
    "titel": "Notebook Quantile Box-Plots und Kerndichten mit Ausgaben"
+  },
+  {
+   "sha256": "afd3c7d137a95d53cf569e9e89525d0523169a9f9c8c7c86fe582d07123208b0",
+   "code": "S110",
+   "art": "Lab",
+   "nummer": 4,
+   "titel": "Daten Marathon-Zielzeiten 2019"
   },
   {
    "sha256": "b644f68cf7d62851099a5a57e6950953f3262e6cd40370a921c0e263e55327be",
