@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-10",
+ "stand": "2026-11-13",
  "module": [
   {
    "code": "B110",
@@ -76,8 +76,8 @@
   {
    "code": "B180",
    "semester": "WS 2026/27",
-   "quelle": "Folien 00 Einführung, S. 6 (Veranstaltungsinhalte); Folien 02, S. 4 (Gliederung Kapitel II)",
-   "stand": "2026-10-22",
+   "quelle": "Folien 00, S. 6 (Veranstaltungsinhalte); Gliederungen in Folien 02, S. 4 und Folien 03, S. 3",
+   "stand": "2026-11-13",
    "kapitel": [
     {
      "nr": "I",
@@ -116,7 +116,18 @@
     {
      "nr": "III",
      "titel": "Der Jahresabschluss",
-     "folien": 3
+     "seiten": 67,
+     "folien": 3,
+     "teile": [
+      {
+       "nr": "1",
+       "titel": "Jahresabschluss nach HGB"
+      },
+      {
+       "nr": "2",
+       "titel": "Kapitalmarktorientierte Rechnungslegung: Jahresabschluss nach International Financial Reporting Standards"
+      }
+     ]
     },
     {
      "nr": "IV",

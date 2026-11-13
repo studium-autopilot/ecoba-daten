@@ -175,6 +175,13 @@
    "titel": "Finanzbuchhaltung"
   },
   {
+   "sha256": "c883dc22a999f55f0be72cb83e7a2d8d18f93d1bbc00dc09aeb65041f0911ef5",
+   "code": "B180",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Jahresabschluss nach HGB und IFRS"
+  },
+  {
    "sha256": "9a37be51715b36733f20dc8463eec8a3efd267b3bb751a6d9e5ba27374185484",
    "code": "B180",
    "art": "Tutorium",
