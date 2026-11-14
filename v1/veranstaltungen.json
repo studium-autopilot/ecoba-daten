@@ -2363,25 +2363,6 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
   },
   {
-   "id": "ws-2026-27-e380-seminar-1-20261014-1000",
-   "code": "E380",
-   "art": "Seminar",
-   "titel": "Be ready for your thesis in Empirical Economics",
-   "gruppe": "1",
-   "tag": "Mi",
-   "von": "10:00",
-   "bis": "14:00",
-   "ct": true,
-   "rhythmus": "Einzeltermin",
-   "zeitraum": {
-    "von": "2026-10-14",
-    "bis": "2026-10-14"
-   },
-   "raum": "Seminarraum 331 (WiWi Sem Mohl)",
-   "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
-  },
-  {
    "id": "ws-2026-27-e380-seminar-1-20261111-1000",
    "code": "E380",
    "art": "Seminar",

@@ -1,59 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-13",
+ "stand": "2026-11-14",
  "angebote": [
-  {
-   "id": "ub-4fd707c195",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "Zotero",
-   "datum": "2026-11-13",
-   "von": "10:00",
-   "bis": "12:00",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-f12c97f567",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI in der sozialen Arbeit",
-   "datum": "2026-11-13",
-   "von": "10:00",
-   "bis": "12:30",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-1663e1a447",
-   "kategorie": "ub",
-   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
-   "titel": "Datenanalyse leicht(er) gemacht: Datenaufbereitung mit OpenRefine",
-   "datum": "2026-11-13",
-   "von": "14:00",
-   "bis": "16:00",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-a5662ceccd",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "Chat-to-Code Ansätze zur Datenaufbereitung mit AI",
-   "datum": "2026-11-13",
-   "von": "17:00",
-   "bis": "20:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
   {
    "id": "vortrag-138847",
    "kategorie": "vortrag",
