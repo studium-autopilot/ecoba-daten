@@ -27,6 +27,16 @@
    "thema": "engagement"
   },
   {
+   "id": "sport-ab127eb20f",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Achtung: Alberstraße 27 am 17.11. nicht beheizt (bis ca. 16:00 Uhr)",
+   "datum": "2026-11-17",
+   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit"
+  },
+  {
    "id": "ub-1ed1629d91",
    "kategorie": "ub",
    "reihe": "Informationen finden und bewerten",
@@ -236,12 +246,12 @@
    "thema": "engagement"
   },
   {
-   "id": "welcome-6301a10610",
+   "id": "welcome-f2c123e17f",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
    "titel": "Do's and Don'ts - Intercultural Workshop",
    "datum": "2026-11-24",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/intercultural-workshop/",
    "thema": "freizeit"
   },
   {
@@ -350,12 +360,12 @@
    "thema": "engagement"
   },
   {
-   "id": "welcome-d356a6ca5a",
+   "id": "welcome-979462dd41",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
    "titel": "Stammtisch",
    "datum": "2026-11-26",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/stammtisch/",
    "thema": "freizeit"
   },
   {
@@ -530,12 +540,12 @@
    "thema": "engagement"
   },
   {
-   "id": "welcome-7ecf73b9bd",
+   "id": "welcome-f381adf880",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
    "titel": "International Christmas Coffee",
    "datum": "2026-12-04",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/international-christmas-coffee/",
    "thema": "freizeit"
   },
   {

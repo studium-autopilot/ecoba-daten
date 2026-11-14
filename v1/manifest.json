@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-14T05:39:34Z",
+ "erstellt": "2026-11-14T12:33:50Z",
  "dateien": {
   "termine.json": {
    "sha256": "bd6f75cea1d7a32b7bb81a8a70a7490c5c54265ecaf3248d236ee2c1905a5274",
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "ac1e8ae67f776e16cc2b4d8ba781938dfceb3137f1852fc8d725d19cdb451fe1",
-   "groesse": 34457
+   "sha256": "252a7bd38368ec4959de4c01ebb02a310fb8f77207cce5d0ad4986fbb35a09e8",
+   "groesse": 34806
   },
   "veranstaltungen.json": {
    "sha256": "be3441ae37cf1815f806d5024f9dc39617dda472a04c259e0d57277eff36f4ac",
