@@ -1417,6 +1417,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-17-ausfall-b180-jahresabschluss-vorlesung-entfaellt-aufzeichnung-folgt",
+   "titel": "Ausfall B180 Jahresabschluss: Vorlesung entfällt, Aufzeichnung folgt",
+   "datum": "2026-11-17",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:15–15:45 · Hörsaal 25, Kupferbau (Hölderlinstraße 5)",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "B180",
+   "thema": "pflicht",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701677",
+   "quelle_text": "",
+   "info": "Die Vorlesung Jahresabschluss entfällt krankheitsbedingt. Der Lehrstuhl stellt sie bis Ende der Woche als Aufzeichnung im ILIAS-Kurs bereit.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-17-erasmus-infocafe-spanien-und-portugal",
    "titel": "Erasmus-Infocafé Spanien und Portugal: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2026-11-17",
@@ -1448,6 +1464,22 @@
    "quelle_url": "https://uni-tuebingen.de/international/studieren-im-ausland/wege-ins-ausland/",
    "quelle_text": "",
    "info": "Online-Infoveranstaltung des International Office zum Auslandsstudium mit Erasmus+ und CIVIS in Europa. Teilnahme ohne Anmeldung, Link auf der Seite „Wege ins Ausland“.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-18-ausfall-e101-vwl-keine-vorlesung-wegen-des-studieninfotags",
+   "titel": "Ausfall E101 VWL: keine Vorlesung wegen des Studieninfotags",
+   "datum": "2026-11-18",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "10:15–11:45 · Hörsaal 21, Kupferbau (Hölderlinstraße 5)",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "E101",
+   "thema": "pflicht",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5736099",
+   "quelle_text": "",
+   "info": "Die Vorlesung zur Einführung in die VWL entfällt in dieser Woche wegen des Studieninfotags; die Übungen finden statt und behandeln weiter Kapitel 3.",
    "geprueft": ""
   },
   {
