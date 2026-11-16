@@ -1098,25 +1098,6 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
   },
   {
-   "id": "ws-2026-27-b322-seminar-1-20261016-0900",
-   "code": "B322",
-   "art": "Seminar",
-   "titel": "Bachelor Thesis Seminar on Marketing",
-   "gruppe": "1",
-   "tag": "Fr",
-   "von": "09:00",
-   "bis": "13:00",
-   "ct": false,
-   "rhythmus": "Einzeltermin",
-   "zeitraum": {
-    "von": "2026-10-16",
-    "bis": "2026-10-16"
-   },
-   "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
-   "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
-  },
-  {
    "id": "ws-2026-27-b322-seminar-1-20270122-0800",
    "code": "B322",
    "art": "Seminar",

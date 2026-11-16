@@ -2,23 +2,6 @@
  "schema": 1,
  "termine": [
   {
-   "id": "2026-10-05-orientierungswochen-der-universitaet",
-   "titel": "Orientierungswochen der Universität",
-   "datum": "2026-10-05",
-   "bis": "2026-10-16",
-   "uhrzeit": "",
-   "ort": "zentral",
-   "kategorie": "Einführung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "universitaet",
-   "thema": "pflicht",
-   "quelle_url": "https://uni-tuebingen.de/studium/studienorganisation/studienanfang/",
-   "quelle_text": "",
-   "info": "Zentrale Orientierungswochen der Universität mit Einführungs- und Informationsangeboten für Studienanfängerinnen und Studienanfänger.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-12-tcp-kurse-2-belegungszeitraum",
    "titel": "TCP-Kurse: 2. Belegungszeitraum",
    "datum": "2026-10-12",
@@ -66,22 +49,6 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5736099",
    "quelle_text": "",
    "info": "Anmeldung zu den sieben Übungsgruppen im Modul E101 Einführung in die VWL, Vergabe nach Eingang. Im ILIAS-Kurs E101 unter Übungen eintragen, nicht über Alma.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-16-civis-kurzprogramme-bip-bewerben-freiwillig",
-   "titel": "CIVIS-Kurzprogramme (BIP): bewerben für Online-Kurs mit einer Woche an einer Partneruni (freiwillig)",
-   "datum": "2026-10-16",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Bewerbung je Kurs über den CIVIS-Kurskatalog",
-   "kategorie": "Frist",
-   "status": "geschätzt",
-   "code": "",
-   "thema": "stipendien-ausland",
-   "quelle_url": "",
-   "quelle_text": "wiwinews Band 96, Eintrag 2 und 3 (09.10. und 16.10.2026)",
-   "info": "Blended Intensive Programmes der Hochschulallianz CIVIS: Online-Kurs plus fünf Tage an einer Partneruni, 3–6 ECTS, Förderung durch Erasmus+. Bewerbung über den CIVIS-Kurskatalog.",
    "geprueft": ""
   },
   {
@@ -1702,7 +1669,7 @@
    "thema": "freizeit",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
    "quelle_text": "",
-   "info": "Aktionstage der Universität zu mentaler Gesundheit mit Workshops, Vorträgen und Beratungen, zum Auftakt Keynote mit Infobörse. Alle Angebote kostenlos, Anmeldung über das Programm von BeTaBalance.",
+   "info": "Aktionstage der Uni zu mentaler Gesundheit mit Workshops, Vorträgen und Beratungen, Auftakt mit Keynote und Infobörse. Kostenlos, Anmeldung je Angebot, beim Auftakt erwünscht (Plätze begrenzt).",
    "geprueft": ""
   },
   {
@@ -1788,6 +1755,23 @@
    "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/sprachen-kurskonzepte/sprachencafes/",
    "quelle_text": "",
    "info": "Offenes Sprachencafé der Abteilung Deutsch als Fremdsprache und des Fremdsprachenzentrums mit Gesprächsgruppen in mehreren Sprachen. Teilnahme ohne Anmeldung, kostenlos.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-30-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-11-30",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "fachschaft",
+   "thema": "engagement",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {

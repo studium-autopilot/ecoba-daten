@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-15T12:34:37Z",
+ "erstellt": "2026-11-16T01:34:58Z",
  "dateien": {
   "termine.json": {
-   "sha256": "ecfe78bdfd1422614163cb4c895e1c442c929441df28531708f0d3ff9ab78b27",
-   "groesse": 125662
+   "sha256": "36e190d7b5a65494dd683a4ab89a8325bfd77de334e348cba840bfc187896031",
+   "groesse": 124832
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -19,8 +19,8 @@
    "groesse": 34948
   },
   "veranstaltungen.json": {
-   "sha256": "be3441ae37cf1815f806d5024f9dc39617dda472a04c259e0d57277eff36f4ac",
-   "groesse": 84161
+   "sha256": "de43c877f2d001522dddd9921a572c697fdad4be8d24b84debe8c1ee4ee172b1",
+   "groesse": 83614
   },
   "kapitel.json": {
    "sha256": "aa888eaf51b62571dcf49886d799b120aa74f0c55d70853c4e1bbe3c2d069c1a",
@@ -35,7 +35,7 @@
    "groesse": 26242
   },
   "quellen.json": {
-   "sha256": "e2a93aa7dbbbb8af12c1f11249df5e38e6b071dcaa016f2f2bbc5583ece0544b",
+   "sha256": "48156ba4e0eb232327d415bb45c317ea5995ce0ab6e6ac379e5d92b05cf56797",
    "groesse": 4419
   }
  },
@@ -49,7 +49,7 @@
   "notiz": "Unter Eigener Server siehst du jetzt mit Haken und Kreuzen, was läuft und was fehlt. Hat ein Gerät seine Verbindung verloren, sagt es das jetzt."
  },
  "abdeckung": {
-  "stand": "2026-11-15",
+  "stand": "2026-11-16",
   "module": [
    "B110",
    "B180",
