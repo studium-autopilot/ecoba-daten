@@ -1485,6 +1485,23 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-18-studieninfotag-hoersaele-belegt",
+   "titel": "Studieninfotag: Hörsäle in Neue Aula, Kupferbau und Morgenstelle belegt",
+   "datum": "2026-11-18",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "08:00–16:00 · Hörsäle in Neue Aula, Kupferbau und Hörsaalzentrum Morgenstelle",
+   "kategorie": "Lehre",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "pflicht",
+   "quelle_url": "",
+   "quelle_text": "Rundmail der Zentralen Studienberatung (Studieninfotag) vom 16.11.2026",
+   "info": "Für den Studieninfotag sind laut Rektorat alle Hörsäle dieser Gebäude belegt; betroffen ist auch die Vorlesung E101. Ausfall oder Ersatzraum in Alma und im ILIAS-Kurs nachsehen.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-18-ub-kurs-lese-lern-und-mnemotechniken",
    "titel": "UB-Kurs: Lese-, Lern- und Mnemotechniken",
    "datum": "2026-11-18",
