@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-11",
+ "stand": "2026-11-16",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -600,7 +600,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b260-seminar-1-20270104-0900",
@@ -619,7 +625,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b260-seminar-1-20261229-0900",
@@ -638,7 +650,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b260-seminar-1-20270105-0900",
@@ -657,7 +675,13 @@
    },
    "raum": "Fakultätssitzungsraum (WiWi Naukler) und 6 weitere Räume",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b260-seminar-1-20261230-0900",
@@ -676,7 +700,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl) und 6 weitere Räume",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b260-seminar-1-20270109-0900",
@@ -695,7 +725,13 @@
    },
    "raum": "Seminarraum E 03 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36037&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b290-vorlesung-1-do-1000",
@@ -848,7 +884,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-1-20261110-1800",
@@ -867,7 +909,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-1-20261117-1800",
@@ -886,7 +934,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-1-20261111-1800",
@@ -905,7 +959,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-1-20261118-1800",
@@ -924,7 +984,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-1-20261112-1800",
@@ -943,7 +1009,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=55533&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20270114-1000",
@@ -962,7 +1034,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20261030-1000",
@@ -981,7 +1059,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20261113-1000",
@@ -1000,7 +1084,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20261211-0900",
@@ -1019,7 +1109,13 @@
    },
    "raum": "Hörsaal 036 (Neuphilologicum)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20270129-1000",
@@ -1038,7 +1134,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b321-vorlesung-75199-1-20261212-0900",
@@ -1057,7 +1159,13 @@
    },
    "raum": "Hörsaal 036 (Neuphilologicum)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=75199&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b322-seminar-1-20261104-1000",
@@ -1076,7 +1184,13 @@
    },
    "raum": "Seminarraum 331 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-11T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b322-seminar-1-20261125-1000",
@@ -1095,7 +1209,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-11T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b322-seminar-1-20270122-0800",
@@ -1114,7 +1234,13 @@
    },
    "raum": "Konferenzraum 209 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36341&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-11T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-b350-vorlesung-1-20261029-1530",
@@ -1670,7 +1796,13 @@
     "2027-02-03"
    ],
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36193&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36193&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e101-vorlesung-1-mi-1000",
@@ -2128,7 +2260,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-04T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e360-vorlesung-1-20261130-1400",
@@ -2147,7 +2285,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-04T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e360-vorlesung-1-20270118-1400",
@@ -2166,7 +2310,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36704&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-04T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e361-vorlesung-1-do-1200",
@@ -2189,7 +2339,13 @@
     "2026-12-31"
    ],
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46051&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46051&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-25T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e365-seminar-1-20261021-1800",
@@ -2208,7 +2364,13 @@
    },
    "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-25T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e365-seminar-1-20270121-1000",
@@ -2227,7 +2389,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-25T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e365-seminar-1-20270122-1000",
@@ -2246,7 +2414,13 @@
    },
    "raum": "",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-09-01T00:00",
+     "ende": "2026-10-25T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e376-sonstige-1-20261130-1000",
@@ -2265,7 +2439,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e376-sonstige-1-20261202-1000",
@@ -2284,7 +2464,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e376-sonstige-1-20261203-1000",
@@ -2303,7 +2489,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e376-sonstige-1-20261204-1000",
@@ -2322,7 +2514,13 @@
    },
    "raum": "PC-Labor (großer Pool) 008 (WiWi Naukler)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36876&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e380-seminar-1-20261109-1200",
@@ -2341,7 +2539,13 @@
    },
    "raum": "Seminarraum 331 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e380-seminar-1-20261111-1000",
@@ -2360,7 +2564,13 @@
    },
    "raum": "Seminarraum 331 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e380-seminar-1-20261112-1000",
@@ -2379,7 +2589,13 @@
    },
    "raum": "Seminarraum 331 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-e380-seminar-1-20270122-1000",
@@ -2398,7 +2614,13 @@
    },
    "raum": "Seminarraum E 04 (WiWi Sem Mohl)",
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=57400&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   },
   {
    "id": "ws-2026-27-j200-vorlesung-1-fr-0900",
@@ -3085,7 +3307,13 @@
     "2027-01-05"
    ],
    "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46283&periodId=237"
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46283&periodId=237",
+   "belegfristen": [
+    {
+     "beginn": "2026-08-01T00:00",
+     "ende": "2026-10-18T23:59"
+    }
+   ]
   }
  ]
 }

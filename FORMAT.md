@@ -6,7 +6,7 @@ erlaubten Wert nicht nennt, den der Export schreibt. Lesende Programme verwerfen
 [Studium Autopilot EcoBA](https://github.com/studium-autopilot/ecoba) tut es in `System/Skripte/zentral.js`. Dateien wie
 `zentral.js`, `update.js` oder `docs/…` liegen im Repo des Plugins.
 
-Stand: 9.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026).
+Stand: 16.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026).
 
 Adresse: `https://studium-autopilot.github.io/ecoba-daten/v1/` (GitHub Pages, öffentliches Repo `studium-autopilot/ecoba-daten`,
 Ordner `v1/`). Das Plugin holt **nur Daten (JSON), nie Code**. `v1` ist die Schema-Version im Pfad: Ältere Plugins lesen weiter
@@ -661,7 +661,8 @@ ignorieren ihn.
 mindestens einer Sekunde Abstand und dem User-Agent `StudiumAutopilot-Abgleich/1.0 (+https://github.com/studium-autopilot/ecoba)`.
 Gelesen werden nur die Detailseiten der Veranstaltungen zu den Modulen im Modulkatalog, für das laufende und das nächste Semester.
 Bei Fehlern oder einer Überlastungsantwort ruht der Abruf bis zum nächsten Tag. Übernommen werden nur Fakten: Titel, Art,
-Parallelgruppe, Rhythmus, Wochentag, Zeit, Zeitraum, Ausfalltermine, Raum und Raum- oder Zeitänderungen je Datum. Seit
+Parallelgruppe, Rhythmus, Wochentag, Zeit, Zeitraum, Ausfalltermine, Raum, Raum- oder Zeitänderungen je Datum und (seit
+16.11.2026) die Belegfristen der Veranstaltung oder Parallelgruppe. Seit
 20.10.2026 kommen Räume dazu, die nur eine Ankündigung an alle Teilnehmenden nennt (Kursmail, ILIAS-Kurs, Uni-Seite), nie Angaben
 nur zur eigenen Gruppe des Autors; einen eigenen Termin „Raumwechsel“ gibt es dafür nicht mehr. Seit 24.10.2026 kommen
 regelmäßige Lehrveranstaltungen dazu, die Alma nicht kennt (z. B. das Data Science Lab in S110, nur im ILIAS-Kurs), wenn die
@@ -691,6 +692,9 @@ Namen und kein Freitext:** Verantwortliche, Durchführende, Vertretungen, Bemerk
     { "datum": "2026-11-11", "raum": "Hörsaal 2 (Beispielbau)" },
     { "datum": "2026-11-18", "von": "14:00", "bis": "16:00" }
    ],
+   "belegfristen": [
+    { "beginn": "2026-09-01T00:00", "ende": "2026-10-18T23:59" }
+   ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=…&periodId=…"
   }
@@ -719,6 +723,7 @@ Ein Eintrag ist eine **Termin-Serie** (eine Zeile der Alma-Terminliste), nicht e
 | `raum_seit`, `raum_vorher` | nein | seit 20.10.2026, nur zusammen: dauerhafte Verlegung. `raum_seit` = erster Termin im neuen Raum (`raum`, nicht leer), innerhalb von `zeitraum`; `raum_vorher` = der bisherige Raum (Regeln wie `raum`, nicht leer). Vor `raum_seit` gilt `raum_vorher`. Der Export setzt beide, wenn der Raum einer Serie sich gegenüber der veröffentlichten Fassung ändert, und behält sie, solange der Raum bleibt. Ungültig → Eintrag verworfen. |
 | `ausfall` | nein | aufsteigende Liste verschiedener Daten (höchstens 100) innerhalb von `zeitraum`, an denen die Serie entfällt |
 | `aenderungen` | nein | Liste (höchstens 100) von `{ "datum", "raum"?, "von"?, "bis"?, "zusatz"? }`, nur heute und künftig: an diesem Datum anderer Raum und/oder andere Zeit (`von` und `bis` nur zusammen, Regeln wie oben). `zusatz: true` = zusätzlicher Termin außerhalb des Rhythmus (mit Zeit und Raum). Datum höchstens 31 Tage außerhalb von `zeitraum`. Ein Ausfall steht in `ausfall`, nie hier. Unbekannte Schlüssel werden ignoriert. |
+| `belegfristen` | nein | seit 16.11.2026: Liste (1–10) von `{ "beginn", "ende" }`, die Belegfristen (Belegzeiträume) aus dem Feld „Zeitraum“ der Alma-Seite. Zeitpunkte `JJJJ-MM-TTTHH:MM` in Berliner Ortszeit wie alle Zeiten hier (ohne Uhrzeit in Alma: Beginn 00:00, Ende 23:59), `ende` nach `beginn`, höchstens 400 Tage; aufsteigend nach `beginn`, ohne Doppel. Nennt Alma bei einer Parallelgruppe eigene Fristen, tragen nur deren Serien diese; sonst trägt jede Serie die Fristen der Veranstaltung (bei Einzelterminen jede). Vergangene und künftige Fristen stehen mit darin; ob eine Frist offen ist, folgt aus `beginn` und `ende`, nicht aus einem Status. Almas interner Name der Frist bleibt weg, Zeiträume, die nach ihm keine Belegung sind (Abmeldung), ebenso. Fehlt das Feld, nennt Alma keine Frist. Ungültig → ignoriert (der Eintrag bleibt). |
 | `semester` | ja | `WS JJJJ/JJ` oder `SS JJJJ` |
 | `quelle_url` | ja | die Alma-Detailseite der Veranstaltung, Regeln wie `quelle_url` bei Terminen |
 

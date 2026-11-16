@@ -1503,7 +1503,7 @@
   },
   {
    "id": "2026-11-18-ub-kurs-lese-lern-und-mnemotechniken",
-   "titel": "UB-Kurs: Lese-, Lern- und Mnemotechniken",
+   "titel": "UB-Kurs: Lese-, Lern- und Mnemotechniken (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-18",
    "bis": "",
    "uhrzeit": "",
@@ -1572,7 +1572,7 @@
   },
   {
    "id": "2026-11-19-ub-kurs-kreatives-denken",
-   "titel": "UB-Kurs: Kreatives Denken",
+   "titel": "UB-Kurs: Kreatives Denken (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-19",
    "bis": "",
    "uhrzeit": "",
@@ -1606,7 +1606,7 @@
   },
   {
    "id": "2026-11-20-ub-kurs-latex",
-   "titel": "UB-Kurs: LaTeX",
+   "titel": "UB-Kurs: LaTeX (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-20",
    "bis": "",
    "uhrzeit": "",
@@ -2063,7 +2063,7 @@
   },
   {
    "id": "2026-12-10-ub-kurs-ki-prompting-im-schreibprozess",
-   "titel": "UB-Kurs: KI Prompting im Schreibprozess",
+   "titel": "UB-Kurs: KI Prompting im Schreibprozess (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-10",
    "bis": "",
    "uhrzeit": "",
@@ -2080,7 +2080,7 @@
   },
   {
    "id": "2026-12-11-ub-kurs-bessere-notizen-mit-obsidian",
-   "titel": "UB-Kurs: Bessere Notizen mit Obsidian",
+   "titel": "UB-Kurs: Bessere Notizen mit Obsidian (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-11",
    "bis": "",
    "uhrzeit": "",
@@ -2250,7 +2250,7 @@
   },
   {
    "id": "2027-01-14-ub-kurs-texte-ueberarbeiten-mit-ki",
-   "titel": "UB-Kurs: Texte überarbeiten mit KI",
+   "titel": "UB-Kurs: Texte überarbeiten mit KI (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2027-01-14",
    "bis": "",
    "uhrzeit": "",
@@ -2284,7 +2284,7 @@
   },
   {
    "id": "2027-01-15-ub-kurs-zotero-fuer-fortgeschrittene-mit-obsidian",
-   "titel": "UB-Kurs: Zotero für Fortgeschrittene (mit Obsidian)",
+   "titel": "UB-Kurs: Zotero für Fortgeschrittene (mit Obsidian) (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2027-01-15",
    "bis": "",
    "uhrzeit": "",
@@ -2296,7 +2296,7 @@
    "thema": "kurse",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
-   "info": "Online-Kurs der Universitätsbibliothek für Fortgeschrittene zur Literaturverwaltung mit Zotero und Obsidian.",
+   "info": "Online-Kurs der Universitätsbibliothek für Fortgeschrittene zur Literaturverwaltung mit Zotero und Obsidian. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
@@ -2419,7 +2419,7 @@
   },
   {
    "id": "2027-01-22-ub-kurs-literaturrecherche-mit-ki",
-   "titel": "UB-Kurs: Literaturrecherche mit KI",
+   "titel": "UB-Kurs: Literaturrecherche mit KI (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2027-01-22",
    "bis": "",
    "uhrzeit": "",
@@ -2470,7 +2470,7 @@
   },
   {
    "id": "2027-01-29-ub-kurs-einfuehrung-in-jupyter-notebooks",
-   "titel": "UB-Kurs: Einführung in Jupyter Notebooks",
+   "titel": "UB-Kurs: Einführung in Jupyter Notebooks (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2027-01-29",
    "bis": "",
    "uhrzeit": "",

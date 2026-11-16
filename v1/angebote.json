@@ -38,10 +38,10 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-1ed1629d91",
+   "id": "ub-4dbb47df0a",
    "kategorie": "ub",
    "reihe": "Informationen finden und bewerten",
-   "titel": "Literaturrecherche für Medizin",
+   "titel": "Literaturrecherche für Medizin (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-17",
    "von": "14:00",
    "bis": "15:30",
@@ -76,10 +76,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-9a2bb40fe2",
+   "id": "ub-ed1e6cdcf6",
    "kategorie": "ub",
    "reihe": "Lern- und Arbeitstechniken",
-   "titel": "Lese- , Lern- und Mnemotechniken",
+   "titel": "Lese- , Lern- und Mnemotechniken (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-18",
    "von": "10:00",
    "bis": "11:30",
@@ -89,10 +89,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-795e6297e0",
+   "id": "ub-5435a4d009",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-18",
    "von": "14:00",
    "bis": "16:00",
@@ -113,10 +113,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-b476039b51",
+   "id": "ub-ffbb6bea67",
    "kategorie": "ub",
    "reihe": "Lern- und Arbeitstechniken",
-   "titel": "Kreatives Denken",
+   "titel": "Kreatives Denken (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-19",
    "von": "10:00",
    "bis": "12:00",
@@ -126,13 +126,25 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-00404fc690",
+   "id": "ub-04bbd50682",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-19",
    "von": "13:00",
    "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-42520681cc",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI-Inhalte á la carte - flexibel lernen mit dem KI-Campus (nach Anmeldung)",
+   "datum": "2026-11-19",
+   "von": "14:00",
+   "bis": "16:00",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -150,18 +162,6 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-d97d3a5ae7",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI-Inhalte á la carte - flexibel lernen mit dem KI-Campus",
-   "datum": "2026-11-19",
-   "von": "14:00",
-   "bis": "16:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
    "id": "vortrag-136425",
    "kategorie": "vortrag",
    "reihe": "Studium Generale",
@@ -174,39 +174,39 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-a28a80635e",
+   "id": "ub-780cfb5e3f",
+   "kategorie": "ub",
+   "reihe": "Workshops in English",
+   "titel": "Citation Management with Zotero (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2026-11-20",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-8b4ba4a2be",
+   "kategorie": "ub",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI – Chancen und Herausforderungen für offene Bildungsmaterialien (nach Anmeldung)",
+   "datum": "2026-11-20",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-beeb14b266",
    "kategorie": "ub",
    "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
-   "titel": "LaTeX",
+   "titel": "LaTeX (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-20",
    "von": "10:00",
    "bis": "12:00",
    "ort": "online",
    "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-cd7f1d39e2",
-   "kategorie": "ub",
-   "reihe": "Workshops in English",
-   "titel": "Citation Management with Zotero",
-   "datum": "2026-11-20",
-   "von": "10:00",
-   "bis": "11:30",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-f9779429f6",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI – Chancen und Herausforderungen für offene Bildungsmaterialien",
-   "datum": "2026-11-20",
-   "von": "10:00",
-   "bis": "11:30",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -284,10 +284,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-9b8b5ecb6c",
+   "id": "ub-0f7cad7448",
    "kategorie": "ub",
    "reihe": "Informationen finden und bewerten",
-   "titel": "Literaturrecherche für Naturwissenschaften",
+   "titel": "Literaturrecherche für Naturwissenschaften (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-24",
    "von": "14:00",
    "bis": "16:00",
@@ -324,10 +324,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-1a5e0b2b39",
+   "id": "ub-2452d7a363",
    "kategorie": "ub",
    "reihe": "Informationen finden und bewerten",
-   "titel": "Literatursuche für Studierende der Psychologie",
+   "titel": "Literatursuche für Studierende der Psychologie (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-25",
    "von": "14:00",
    "bis": "15:30",
@@ -338,10 +338,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-9a0706153b",
+   "id": "ub-2e30f59d84",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-25",
    "von": "14:00",
    "bis": "16:00",
@@ -371,10 +371,10 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-60c5dc9cd5",
+   "id": "ub-f44896ddb4",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-11-26",
    "von": "13:00",
    "bis": "15:00",
@@ -395,10 +395,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-5084916586",
+   "id": "ub-326304dcc5",
    "kategorie": "ub",
    "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
-   "titel": "H5P - interaktive Materialien erstellen",
+   "titel": "H5P - interaktive Materialien erstellen (nach Anmeldung)",
    "datum": "2026-11-27",
    "von": "10:00",
    "bis": "11:30",
@@ -407,10 +407,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-320687cd5b",
+   "id": "ub-4f9145a524",
    "kategorie": "ub",
    "reihe": "KI und Open Educational Resources",
-   "titel": "Kompetenzanforderung und mediendidaktische Szenarien für Schule und Hochschule",
+   "titel": "Kompetenzanforderung und mediendidaktische Szenarien für Schule und Hochschule (nach Anmeldung)",
    "datum": "2026-11-30",
    "von": "14:00",
    "bis": "16:00",
@@ -419,10 +419,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-96f331dcfa",
+   "id": "ub-53238efd16",
    "kategorie": "ub",
    "reihe": "KI und Open Educational Resources",
-   "titel": "Tutor-Bots selber bauen",
+   "titel": "Tutor-Bots selber bauen (nach Anmeldung)",
    "datum": "2026-11-30",
    "von": "16:00",
    "bis": "18:00",
@@ -481,10 +481,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-a07b60f1d3",
+   "id": "ub-052074a45d",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-02",
    "von": "14:00",
    "bis": "16:00",
@@ -505,10 +505,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-5b8fcf7149",
+   "id": "ub-f349e6f387",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-03",
    "von": "13:00",
    "bis": "15:00",
@@ -517,10 +517,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-8aac5ed915",
+   "id": "ub-5c47d2c190",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "Zotero",
+   "titel": "Zotero (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-03",
    "von": "14:00",
    "bis": "16:00",
@@ -552,25 +552,25 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-44fd7328d0",
+   "id": "ub-8d852ff88a",
    "kategorie": "ub",
-   "reihe": "Workshops in English",
-   "titel": "Literature Research With AI",
+   "reihe": "KI und Open Educational Resources",
+   "titel": "KI, OER und Prompt Design (nach Anmeldung)",
    "datum": "2026-12-04",
    "von": "10:00",
-   "bis": "12:00",
+   "bis": "11:30",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
   },
   {
-   "id": "ub-71a23b87f6",
+   "id": "ub-99539a5d6c",
    "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI, OER und Prompt Design",
+   "reihe": "Workshops in English",
+   "titel": "Literature Research With AI (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-04",
    "von": "10:00",
-   "bis": "11:30",
+   "bis": "12:00",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "gruppe": "ub",
    "thema": "kurse"
@@ -597,10 +597,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-8682ca5926",
+   "id": "ub-54016b1b10",
    "kategorie": "ub",
    "reihe": "KI und Open Educational Resources",
-   "titel": "Kenne deinen Tutor-Bot",
+   "titel": "Kenne deinen Tutor-Bot (nach Anmeldung)",
    "datum": "2026-12-07",
    "von": "16:00",
    "bis": "18:00",
@@ -646,10 +646,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-17688075ec",
+   "id": "ub-23efe0f29e",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-09",
    "von": "14:00",
    "bis": "16:00",
@@ -670,10 +670,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-f2056b07e9",
+   "id": "ub-8cd5e1b06f",
    "kategorie": "ub",
    "reihe": "Informationen finden und bewerten",
-   "titel": "KI Prompting im Schreibprozess",
+   "titel": "KI Prompting im Schreibprozess (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-10",
    "von": "10:00",
    "bis": "11:30",
@@ -684,10 +684,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-96cbec81d4",
+   "id": "ub-f0ed6da5d1",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-10",
    "von": "13:00",
    "bis": "15:00",
@@ -720,10 +720,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-efb33b6f91",
+   "id": "ub-8b8794c29d",
    "kategorie": "ub",
    "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
-   "titel": "Bessere Notizen für Kurse, Projekte und schriftliche Arbeiten mit Obsidian",
+   "titel": "Bessere Notizen für Kurse, Projekte und schriftliche Arbeiten mit Obsidian (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-11",
    "von": "10:00",
    "bis": "12:00",
@@ -734,10 +734,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-f3af479325",
+   "id": "ub-ed3d37cc53",
    "kategorie": "ub",
    "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
-   "titel": "Kostenlose Bilder und Co. zur legalen Nachnutzung finden und verwenden",
+   "titel": "Kostenlose Bilder und Co. zur legalen Nachnutzung finden und verwenden (nach Anmeldung)",
    "datum": "2026-12-11",
    "von": "10:00",
    "bis": "12:00",
@@ -783,10 +783,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-617eb6b98c",
+   "id": "ub-3ea3d73843",
    "kategorie": "ub",
    "reihe": "Workshops in English",
-   "titel": "How to Cite Properly",
+   "titel": "How to Cite Properly (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-16",
    "von": "11:00",
    "bis": "12:30",
@@ -795,10 +795,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-6f5d32be31",
+   "id": "ub-0f84c6c312",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-16",
    "von": "14:00",
    "bis": "16:00",
@@ -819,10 +819,10 @@
    "thema": "engagement"
   },
   {
-   "id": "ub-29cd06f824",
+   "id": "ub-6f7e410de3",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-17",
    "von": "13:00",
    "bis": "15:00",
@@ -852,10 +852,10 @@
    "thema": "freizeit"
   },
   {
-   "id": "ub-345a3abd8a",
+   "id": "ub-30f90dc3a5",
    "kategorie": "ub",
    "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Zotero für Fortschrittene - Texte auswerten und Wissen organisieren (Veranstaltungen der UB Stuttgart)",
+   "titel": "Zotero für Fortschrittene - Texte auswerten und Wissen organisieren (Veranstaltungen der UB Stuttgart) (nach Anmeldung)",
    "datum": "2026-12-18",
    "von": "11:30",
    "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
@@ -863,10 +863,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-0c4d946024",
+   "id": "ub-0bc9da45ce",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-23",
    "von": "14:00",
    "bis": "16:00",
@@ -875,10 +875,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-6a3fdcec1a",
+   "id": "ub-7c808438e8",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-24",
    "von": "13:00",
    "bis": "15:00",
@@ -887,10 +887,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-d71ddb8111",
+   "id": "ub-2f94db0697",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-30",
    "von": "14:00",
    "bis": "16:00",
@@ -899,10 +899,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-fadad4b89e",
+   "id": "ub-da845dd514",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2026-12-31",
    "von": "13:00",
    "bis": "15:00",
@@ -911,10 +911,10 @@
    "thema": "kurse"
   },
   {
-   "id": "ub-b1dbd38d0a",
+   "id": "ub-773d1f0626",
    "kategorie": "ub",
    "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (nach Anmeldung)",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
    "datum": "2027-01-07",
    "von": "13:00",
    "bis": "15:00",
