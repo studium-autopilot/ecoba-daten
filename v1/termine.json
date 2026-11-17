@@ -2,6 +2,22 @@
  "schema": 1,
  "termine": [
   {
+   "id": "belegfrist-36709-237-20261001",
+   "titel": "Belegfrist E364 Applied Research in Economic History",
+   "datum": "2026-10-01",
+   "bis": "2027-03-31",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "E364",
+   "thema": "pflicht",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36709&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-13"
+  },
+  {
    "id": "2026-10-12-tcp-kurse-2-belegungszeitraum",
    "titel": "TCP-Kurse: 2. Belegungszeitraum",
    "datum": "2026-10-12",
