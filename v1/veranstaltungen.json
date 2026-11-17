@@ -3146,6 +3146,12 @@
     "2026-12-28",
     "2027-01-04"
    ],
+   "inoffiziell": [
+    {
+     "ab": "2026-11-23",
+     "beginn": "08:30"
+    }
+   ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46221&periodId=237"
   },

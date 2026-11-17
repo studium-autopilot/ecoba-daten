@@ -1266,19 +1266,19 @@
   },
   {
    "id": "2026-11-13-uni-netz-am-wochenende-zugang-von-aussen-nur-ueber-eduvpn",
-   "titel": "Uni-Netz am Wochenende: Zugang von außen nur über eduVPN",
+   "titel": "Uni-Netz: Zugang von außen nur über eduVPN (bis auf Weiteres)",
    "datum": "2026-11-13",
-   "bis": "2026-11-16",
+   "bis": "",
    "uhrzeit": "",
-   "ort": "ab Fr nachmittags · bis Mo vormittags · eduVPN",
+   "ort": "ab Fr nachmittags · bis auf Weiteres · eduVPN",
    "kategorie": "Frist",
    "status": "offiziell",
    "code": "",
    "gruppe": "universitaet",
    "thema": "pflicht",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/hiddenpages/newsfullview-aktuelles/article/vorsorgliche-schutzmassnahmen-fuer-die-it-infrastruktur-am-wochenende/",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/hiddenpages/newsfullview-aktuelles/article/vorsorgliche-schutzmassnahmen-fuer-die-it-infrastruktur-am-wochenende-und-danach/",
    "quelle_text": "",
-   "info": "Vorsorgliche IT-Schutzmaßnahme: Die Uni ist von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar, Webseite, Mailabruf und Shibboleth ausgenommen. Für andere Dienste eduVPN nutzen.",
+   "info": "Vorsorgliche IT-Schutzmaßnahme bis auf Weiteres: Die Uni ist von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar, auch ILIAS und Alma. Für den Zugang von zu Hause eduVPN einrichten.",
    "geprueft": ""
   },
   {
@@ -1581,6 +1581,23 @@
    "quelle_url": "",
    "quelle_text": "Rundmail des College of Fellows und des Graduiertenkollegs 3105 vom 13.11.2026",
    "info": "Englischsprachiger öffentlicher Vortrag darüber, ob Reparatur und Verweigerung prekäres Leben im Globalen Süden erfassen. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-18-vortrag-personality-development-and-education-lead",
+   "titel": "Vortrag „Personality Development and Education in the Age of AI“: Bildung im KI-Zeitalter (englisch)",
+   "datum": "2026-11-18",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "15:00–16:30 · Seminarraum, Hector-Institut für Empirische Bildungsforschung (nicht Europastraße 6)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail LEAD Graduate School & Research Network (Hector-Institut für Empirische Bildungsforschung) vom 17.11.2026",
+   "info": "Englischsprachiger Gastvortrag der LEAD Lecture Series über Persönlichkeitsentwicklung und Bildung im Zeitalter Künstlicher Intelligenz. Die Einladung nennt keine Anmeldung.",
    "geprueft": ""
   },
   {
