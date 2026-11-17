@@ -6,7 +6,7 @@ erlaubten Wert nicht nennt, den der Export schreibt. Lesende Programme verwerfen
 [Studium Autopilot EcoBA](https://github.com/studium-autopilot/ecoba) tut es in `System/Skripte/zentral.js`. Dateien wie
 `zentral.js`, `update.js` oder `docs/…` liegen im Repo des Plugins.
 
-Stand: 17.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026, `abgesagt` in `veranstaltungen.json` seit 17.11.2026).
+Stand: 17.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026 (abends auch verlinkter Alma-Seiten), `abgesagt` in `veranstaltungen.json` seit 17.11.2026).
 
 Adresse: `https://studium-autopilot.github.io/ecoba-daten/v1/` (GitHub Pages, öffentliches Repo `studium-autopilot/ecoba-daten`,
 Ordner `v1/`). Das Plugin holt **nur Daten (JSON), nie Code**. `v1` ist die Schema-Version im Pfad: Ältere Plugins lesen weiter
@@ -149,6 +149,7 @@ kann die Signatur trotzdem nicht fälschen.
 | `bereich` | nein | seit 15.10.2026. Fehlt oder ein Wert aus der Freigabeliste „Bereiche“ unten. Ein **unbekannter Wert wird ignoriert** (der Eintrag bleibt, ohne Bereich). Der Export schreibt das Feld nur, wenn es gesetzt ist. |
 | `gruppe` | nein | seit 9.11.2026. `id` der veranstaltenden Gruppe aus `quellen.json` (Form wie `id`). Fehlt sie oder ist sie unbekannt, gehört der Termin zu keiner Gruppe und erreicht alle (nach seinem Thema). Termine eines Moduls haben keine. Das Plugin liest das Feld nicht. |
 | `thema` | nein | seit 9.11.2026. Ein Wert aus der Freigabeliste „Themen“ unten. Fehlt es oder ist es unbekannt, wird der Termin nie ausgeblendet. Das Plugin liest das Feld nicht. |
+| `semester` | nein | seit 17.11.2026, nur bei erzeugten Belegfristen (unten): `WS JJJJ/JJ` oder `SS JJJJ` wie in `veranstaltungen.json`, das Semester der Alma-Seite, zu der die Frist gehört. Aus den Daten folgt es nicht: Eine Frist fürs Sommersemester kann im Februar oder März laufen. Fehlt es, gilt das Semester nach dem Datum (WS 01.10.–31.03., SS 01.04.–30.09.); ein anderer Wert wird abgelehnt (der Eintrag fällt weg). Das Plugin liest das Feld nicht. |
 | `inoffiziell` | nein | seit 17.11.2026. Genau `true`: ein Hinweis aus der Gruppe des Jahrgangs, den keine offizielle Quelle bestätigt; er geht bewusst mit diesem Vermerk an alle. Dann ist `status` immer `geschätzt`, `quelle_url` leer und `quelle_text` immer „inoffiziell (Hinweis aus dem Jahrgang), nicht offiziell bestätigt“. Leser zeigen den Termin mit Vermerk (App: Info-Symbol, „Achtung, inoffiziell: Diese Info ist nicht offiziell bestätigt.“) und behandeln ihn als inoffiziell, auch wenn `status` etwas anderes sagte. Ein anderer Wert gilt als nicht gesetzt. Bestätigt eine offizielle Quelle den Hinweis, fällt das Feld weg und die offizielle Quelle steht da (die `id` bleibt). Fällt ein Termin mit diesem Feld ganz weg, war der Hinweis falsch oder überholt: Leser nehmen ihn heraus, ohne ihn als „entfällt“ zu zeigen (er war nie offiziell). Inoffizielle Prüfungen (`kategorie` `Prüfung`) kommen nur, wenn der Hinweis Modul und Datum nennt und sich auf eine offizielle Mitteilung stützt (Bildschirmfoto einer Mail, Aushang, Ansage). Das Plugin liest das Feld nicht; es zeigt `status` und den Quelltext. |
 | `quelle_url` | nein | leer oder `https://` auf einer erlaubten Domain (siehe unten), ≤ 500 Zeichen, ohne Leerzeichen, Anführungszeichen, `<>`, Backslash, Benutzer, Port |
 | `quelle_text` | nein | ≤ 200 Zeichen, reiner Text. Für Quellen ohne öffentliche Adresse (Rundmail an alle, PDF, Folie). Wird nur gezeigt, wenn `quelle_url` leer ist. |
@@ -159,9 +160,14 @@ kann die Signatur trotzdem nicht fälschen.
 Belegfrist, aber keine Serie in `veranstaltungen.json` (ihre Termine sind noch nicht geplant), kommt jede Frist, die noch nicht
 vorbei ist, als Termin: `kategorie` `Frist`, `titel` „Belegfrist <Code> <Titel der Veranstaltung>“ (eigene Frist einer
 Parallelgruppe: dazu „(Gruppe <Name>)“), `datum` = Beginn und `bis` = Ende der Frist, `ort` „Alma“, `code` und `quelle_url` =
-Alma-Seite der Veranstaltung, `thema` `pflicht`. Die id `belegfrist-<unitId>-<periodId>[-gruppe-<Name>]-<JJJJMMTT des Beginns>`
+Alma-Seite der Veranstaltung, `thema` `pflicht`, `semester` = Semester der Alma-Seite (seit 17.11.2026, abends; ältere Exporte
+ohne). Die id `belegfrist-<unitId>-<periodId>[-gruppe-<Name>]-<JJJJMMTT des Beginns>`
 bleibt, wenn Alma das Ende verschiebt. Bekommt die Veranstaltung eine Serie, trägt diese die Frist (`belegfristen`) und der
-Termin fällt weg; sonst bleibt er wie jeder Termin bis 30 Tage nach dem Ende.
+Termin fällt weg; sonst bleibt er wie jeder Termin bis 30 Tage nach dem Ende, auch wenn der Abgleich die Seite nicht mehr liest.
+Ebenso (seit 17.11.2026, abends) die Fristen einer Alma-Seite, die ein Termin dieser Datei verlinkt, etwa eines Kurses der
+Universitätsbibliothek: `code`, `gruppe` und `thema` wie bei diesem Termin, `titel` „Belegfrist <Titel der Veranstaltung>“, wenn
+er keinen Code hat. Nennt die Seite Termine, endet die Frist spätestens am letzten: Die UB nennt einen Zeitraum für das ganze
+Semester, ihr Kurs ist früher vorbei.
 
 **Säubern** (für `ort`, `info`, `quelle_text`, `hinweis`, Namen in `semester.json`): Zuerst werden Zeichenreferenzen für
 Buchstaben, Ziffern, `+`, `.`, `-` und `:` zu ihrem Zeichen, für Leerraum zu einem Leerzeichen (`&colon;`, `&#106;`). Dann fallen
