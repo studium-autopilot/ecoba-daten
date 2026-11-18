@@ -1,55 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-17",
+ "stand": "2026-11-18",
  "angebote": [
-  {
-   "id": "sport-ab127eb20f",
-   "kategorie": "sport",
-   "reihe": "Hochschulsport",
-   "titel": "Achtung: Alberstraße 27 am 17.11. nicht beheizt (bis ca. 16:00 Uhr)",
-   "datum": "2026-11-17",
-   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
-   "gruppe": "hochschulsport",
-   "thema": "freizeit"
-  },
-  {
-   "id": "ub-4dbb47df0a",
-   "kategorie": "ub",
-   "reihe": "Informationen finden und bewerten",
-   "titel": "Literaturrecherche für Medizin (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-17",
-   "von": "14:00",
-   "bis": "15:30",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136278",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Imagining the Inner Lives of Animals: How Science and the Arts Can Collaborate to Cultivate Empathy Across S… (englisch)",
-   "datum": "2026-11-17",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/imagining-the-inner-lives-of-animals-how-science-and-the-arts-can-collaborate-to-cultivate-empathy-across-species-vortrag-auf-englisch/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
-  {
-   "id": "vortrag-136311",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Is the Bible the Origin of Nationalism? (englisch)",
-   "datum": "2026-11-17",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/is-the-bible-the-origin-of-nationalism/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
   {
    "id": "ub-ed1e6cdcf6",
    "kategorie": "ub",
@@ -931,6 +883,30 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/katechon-und-antichrist-politische-theologie-im-handgemenge/",
+   "gruppe": "studium-generale",
+   "thema": "engagement"
+  },
+  {
+   "id": "ub-c1c81eb490",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-13",
+   "von": "14:00",
+   "bis": "16:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "vortrag-136395",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Odesa",
+   "datum": "2027-01-13",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/odesa/",
    "gruppe": "studium-generale",
    "thema": "engagement"
   }

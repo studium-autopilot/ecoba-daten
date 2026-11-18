@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-17T22:35:22Z",
+ "erstellt": "2026-11-18T05:39:44Z",
  "dateien": {
   "termine.json": {
-   "sha256": "dc4283b52b06435443b67fc10dddfce460a6c0ceb4b983116bc0b3e01cebb383",
-   "groesse": 131541
+   "sha256": "1308016702e36ff5718d3b0dbab68a1a8392ebfcf9dd339a244673c71c5c8fbd",
+   "groesse": 130344
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -15,12 +15,12 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "7db9f2683007e31c32da2143f352f81dad7123c7979389526337f4c9ded983e8",
-   "groesse": 36500
+   "sha256": "c7d48a753178fb8508ab592a5080a2b97918174d84603fe3a3274acf409c3594",
+   "groesse": 35334
   },
   "veranstaltungen.json": {
-   "sha256": "bad8ea882519835bdcba5f28c1e7c576311a58221b332d4eb242cefd9f446019",
-   "groesse": 87764
+   "sha256": "2d9adfdfee310616f26ba0f55261353e03593e1479524cc24b4e47b373b187cb",
+   "groesse": 87767
   },
   "kapitel.json": {
    "sha256": "aa888eaf51b62571dcf49886d799b120aa74f0c55d70853c4e1bbe3c2d069c1a",
@@ -35,7 +35,7 @@
    "groesse": 26242
   },
   "quellen.json": {
-   "sha256": "5dbc7dfa651a515434af2e9ca26fdc7b0cb65a6863c11cfa2aa9035081a13602",
+   "sha256": "c6ddfd8d471d7a828357e10eb75a8da254ba02ae1f2bfc3de80aea0f81cc5908",
    "groesse": 4419
   }
  },
@@ -49,7 +49,7 @@
   "notiz": "Lehrveranstaltungen aus Alma zeigen jetzt Almas Hinweis dazu, etwa auf zusätzliche Tutorien, und mit In Alma öffnen ihre Seite in Alma."
  },
  "abdeckung": {
-  "stand": "2026-11-17",
+  "stand": "2026-11-18",
   "module": [
    "B110",
    "B180",
