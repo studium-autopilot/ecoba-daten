@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "erstellt": "2026-11-19T10:34:33Z",
+ "erstellt": "2026-11-19T13:50:38Z",
  "dateien": {
   "termine.json": {
-   "sha256": "83e5026cd4db0fb29db615a91b6fc63cd695bf5bee201b9515bfd7840b5af9dd",
-   "groesse": 126958
+   "sha256": "0372b955f2541a4f62ec95c0e51e76d10a1d372a8d68e44ddadb0b4a64137fb7",
+   "groesse": 128178
   },
   "semester.json": {
    "sha256": "bdcb93508d57b713b254ec69b1822548d33e95edfafecfb5c070d8e8e2153d09",
@@ -19,20 +19,20 @@
    "groesse": 35906
   },
   "veranstaltungen.json": {
-   "sha256": "5948039e4a5ae7ef8114b749651010e72d4962cee9944c843c0007ed7e190626",
-   "groesse": 87749
+   "sha256": "b316ea4307bb113c7404be9708cfc32f25b4fe884f16193bef698d489bd729cc",
+   "groesse": 87767
   },
   "kapitel.json": {
-   "sha256": "aa888eaf51b62571dcf49886d799b120aa74f0c55d70853c4e1bbe3c2d069c1a",
-   "groesse": 26137
+   "sha256": "9bd6f4f2b8252f927c4e2096afae3304918c14bbcae8ff176d0d0fc5685c48bf",
+   "groesse": 26458
   },
   "literatur.json": {
    "sha256": "30b0f9aa5621e13ebc847d1c236a25430417a50a3fb2d294bc4706cd2c179030",
    "groesse": 15039
   },
   "unterlagen.json": {
-   "sha256": "6329c522ff9b92f40d08312785cf9bdb72a9a65c40049d7f9eef1e982692729e",
-   "groesse": 26242
+   "sha256": "20850fe640bfcfa3aa0d1f1f862a13c836eb96ddb001414623c6d8505965e892",
+   "groesse": 28258
   },
   "quellen.json": {
    "sha256": "82ee641b617cee14c9a914e951e81c1c5fb0fd8adbf98187106de9392d0be52b",

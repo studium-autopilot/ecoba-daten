@@ -1,12 +1,12 @@
 {
  "schema": 1,
- "stand": "2026-11-13",
+ "stand": "2026-11-19",
  "module": [
   {
    "code": "B110",
    "semester": "WS 2026/27",
-   "quelle": "Folien 00 Einführung, S. 9 (Thematische Gliederung)",
-   "stand": "2026-11-02",
+   "quelle": "Folien 00 Einführung, S. 9 (Thematische Gliederung); Teile von Kapitel 3 aus Folien 03, S. 6",
+   "stand": "2026-11-19",
    "kapitel": [
     {
      "nr": "1",
@@ -49,7 +49,23 @@
     {
      "nr": "3",
      "titel": "Finanzielle Perspektive",
-     "folien": 3
+     "seiten": 57,
+     "folien": 3,
+     "vorlesung": "2026-11-16",
+     "teile": [
+      {
+       "nr": "3.1",
+       "titel": "Rechnungslegung"
+      },
+      {
+       "nr": "3.2",
+       "titel": "Investition"
+      },
+      {
+       "nr": "3.3",
+       "titel": "Finanzierung"
+      }
+     ]
     },
     {
      "nr": "4",

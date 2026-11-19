@@ -44,6 +44,13 @@
    "titel": "Entrepreneurship mit Anmerkungen Vorlesung 4"
   },
   {
+   "sha256": "b5ec1da4ac58826e075ec2e5d454b97eb3aa820d0975f68c630e8e92d6ec1d25",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Entscheidungstheorie mit Anmerkungen Vorlesung 6"
+  },
+  {
    "sha256": "a1ec197505a7704a145ad3874e6aa3091d1d5b9b1482a18d36e9d48938b44524",
    "code": "B110",
    "art": "Folien",
@@ -51,11 +58,25 @@
    "titel": "Innovation und Strategie mit Anmerkungen Vorlesung 5"
   },
   {
+   "sha256": "fa2bfbbbf7e7b39985875da509d604eb44073df88fb8f9f5c6b3a1c1602d4eec",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Spieltheorie und Rechnungslegung mit Anmerkungen Vorlesung 7"
+  },
+  {
    "sha256": "8c4191f8052d6f23771755a9aa9368939fa5b4d87dd528d0b05035d45859adf0",
    "code": "B110",
    "art": "Folien",
    "nummer": 2,
    "titel": "Unternehmerisch-strategische Perspektive"
+  },
+  {
+   "sha256": "f8891d6002ef1bf84982e017ef7d875384d2a757c26950be0f9586334b3a15b4",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Finanzielle Perspektive"
   },
   {
    "sha256": "58a683fc5b8033ba098a61fbaeb432c34b50a54ff21c478825f3612908efc8b0",
@@ -120,6 +141,13 @@
    "art": "Tutorium",
    "nummer": 2,
    "titel": "Case Study: Unternehmertum und Strategie"
+  },
+  {
+   "sha256": "f4836541c60e23423234cf063ccfc5c3a7a2aa4f56b6ade1fa5a2c9bc70e6338",
+   "code": "B110",
+   "art": "Tutorium",
+   "nummer": 3,
+   "titel": "Case Study: Rechnungslegung und Finanzierung"
   },
   {
    "sha256": "1b422f53014548ad7a57801ce6b42bbbda23c336f94439a46dc8f07e33980a0b",
@@ -315,6 +343,13 @@
    "titel": "CORE 2.11: Kapitalismus, Kohlenstoff und Klimawandel"
   },
   {
+   "sha256": "578da93b5e80467a0e37e2a0a56f6a65e4add23d898392ef872e3294ebd155fa",
+   "code": "E101",
+   "art": "Literatur",
+   "nummer": 4,
+   "titel": "ECONtribute: Gasdebatte im Rückblick"
+  },
+  {
    "sha256": "fc8a1d1ab496134249840fda22754dc73eb5a968570d063967bc1713974e118d",
    "code": "E101",
    "art": "Lösung",
@@ -377,11 +412,18 @@
    "titel": "Präferenzen, Knappheit und Entscheidungen"
   },
   {
-   "sha256": "7efdc8094c8999b4043782ce98dbb1d1b883b067d1940cc148e40561b8b95cbc",
+   "sha256": "6c7c83d7440aa3253728d15c47d0abe630749bbe8c38e99dbda521a87c0f1ad7",
    "code": "E101",
    "art": "Übung",
    "nummer": 5,
    "titel": "Optimale Konsumentscheidung und Gaspreisbremse"
+  },
+  {
+   "sha256": "592b452ae4cd56939696a6f40c17a5935a809a6bd78453082e9b6232ac9f0d48",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 6,
+   "titel": "Gender Pay Gap und Arbeitszeiten"
   },
   {
    "sha256": "975e46142b0602fa36f7b84a3e77c44154a0ebe67f57b2367bcfae39781da6dd",
@@ -492,7 +534,14 @@
    "titel": "Lineare Algebra Determinante unbeschrieben"
   },
   {
-   "sha256": "8bd46da41ced0a528343a18d01bcf11bdf1d0ea8a56d835611f0ea6c7251d058",
+   "sha256": "9fa4b7f8afdaba720c2fcd6fde7e7966df51f4b6080e7959df5bd7d0b8cc7caf",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 1,
+   "titel": "Lineare Algebra Eigenwerte quadratische Formen mit Anmerkungen"
+  },
+  {
+   "sha256": "7b40878d39a8fff8d45d33ab99357ba9373e11cec14fd157afb2cc1cbf41a86b",
    "code": "S100",
    "art": "Folien",
    "nummer": 1,
@@ -823,10 +872,16 @@
    "titel": "R-Code zu Aufgabe 2 und 3"
   },
   {
-   "sha256": "6148f47b0af25c4f26e7dd7ae312626e54efe969a532cd551e489ca0882d690c",
+   "sha256": "a7771afed9fe3f3bf0a21f56c077675f5aa1015cb86419dc28b87e976ab7e9d4",
    "code": "S110",
    "art": "Sonstiges",
    "titel": "Q4R Verständnisfragen zur Vorlesung"
+  },
+  {
+   "sha256": "95b513c0aa3cd1a3f6804e9b5cf01b6e3d19d8fe6c30c4d3746d2342d177ddaf",
+   "code": "S110",
+   "art": "Sonstiges",
+   "titel": "R-Code der 4. Vorlesung Histogramm und Kerndichten"
   },
   {
    "sha256": "a0fbf4e9bc0c9b408a87b3523f8175b0b5a912d138dac15ab0e93e63722ceb52",
@@ -890,6 +945,20 @@
    "art": "Übung",
    "nummer": 4,
    "titel": "Daten gewinne Unternehmensgewinne"
+  },
+  {
+   "sha256": "5d2d34b000bd0f433f863c335ee4b638beee3ef81d5e8d5a6e642be28d3b330c",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 5,
+   "titel": "Daten Drittmittel je Professur"
+  },
+  {
+   "sha256": "19b91088e13bdc23b70b63dd025330e5f19bafbb78d1cdd41b807e5fd2170bed",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 5,
+   "titel": "Gini und Konzentration der Drittmittel"
   },
   {
    "sha256": "a866901215cfb676f17f6692cad482d5a53f1291c80e208ae0ba1a845644e98e",
