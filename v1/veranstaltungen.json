@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-18",
+ "stand": "2026-11-19",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -1824,7 +1824,6 @@
    "raum_seit": "2026-10-21",
    "raum_vorher": "Hörsaal 25 (Kupferbau)",
    "ausfall": [
-    "2026-11-18",
     "2026-12-23",
     "2026-12-30",
     "2027-01-06"

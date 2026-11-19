@@ -1,44 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-18",
+ "stand": "2026-11-19",
  "angebote": [
-  {
-   "id": "ub-ed1e6cdcf6",
-   "kategorie": "ub",
-   "reihe": "Lern- und Arbeitstechniken",
-   "titel": "Lese- , Lern- und Mnemotechniken (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-18",
-   "von": "10:00",
-   "bis": "11:30",
-   "ort": "Schulungsraum im Ammerbau (hinter der Brücke links)",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-5435a4d009",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-18",
-   "von": "14:00",
-   "bis": "16:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136380",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Krementschuk",
-   "datum": "2026-11-18",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/krementschuk/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
   {
    "id": "ub-ffbb6bea67",
    "kategorie": "ub",
@@ -907,6 +870,57 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/odesa/",
+   "gruppe": "studium-generale",
+   "thema": "engagement"
+  },
+  {
+   "id": "ub-f4f76f6117",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Texte überarbeiten mit KI (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-14",
+   "von": "10:00",
+   "bis": "11:30",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-7d9a6830dc",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-14",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-779e6fcf30",
+   "kategorie": "ub",
+   "reihe": "Publizieren",
+   "titel": "Richtig zitieren - eine Einführung (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-14",
+   "von": "14:00",
+   "bis": "15:30",
+   "ort": "Schulungsraum B004, Bonatzbau UB",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "vortrag-136440",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Von der Forschung in die Gesellschaft: das Exzellenzcluster TERRA",
+   "datum": "2027-01-14",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/von-der-forschung-in-die-gesellschaft-das-exzellenzcluster-terra/",
    "gruppe": "studium-generale",
    "thema": "engagement"
   }
