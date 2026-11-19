@@ -534,7 +534,7 @@
    "titel": "Lineare Algebra Determinante unbeschrieben"
   },
   {
-   "sha256": "9fa4b7f8afdaba720c2fcd6fde7e7966df51f4b6080e7959df5bd7d0b8cc7caf",
+   "sha256": "4975c5da6290d4a37e0c3e0184382cec2007705e7b9f1f1e24c9dd4dfda02ff0",
    "code": "S100",
    "art": "Folien",
    "nummer": 1,
@@ -604,6 +604,13 @@
    "titel": "Lineare Algebra Vektoren unbeschrieben"
   },
   {
+   "sha256": "d251604435b7a16370ac7e422d01e6d1d90cafb585fe9034c125f1043ac69c11",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 2,
+   "titel": "Differentiation unbeschrieben"
+  },
+  {
    "sha256": "ef67a54bec028c6115e9ab74534b466916c2fa871854a17a4d822c17484d8865",
    "code": "S100",
    "art": "Folien",
@@ -618,6 +625,13 @@
    "titel": "Optimierung einer Variablen"
   },
   {
+   "sha256": "96a6923816d7aa3286725de8aebef5a2013ee9112efcaf3ecdd227faa0812b0c",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Optimierung einer Variablen unbeschrieben"
+  },
+  {
    "sha256": "19052ad9d119c2c1e30ef454334600ba74b5506b2a4c7610ac054ddd43d682b0",
    "code": "S100",
    "art": "Folien",
@@ -625,11 +639,25 @@
    "titel": "Funktionen mehrerer Variablen"
   },
   {
+   "sha256": "e98b9e70f32f9077fb5036f00de1eb65ae7930aec65ac544bd4f6607bf9413e8",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 4,
+   "titel": "Funktionen mehrerer Variablen unbeschrieben"
+  },
+  {
    "sha256": "a67e81606abc4ca81da61ced9c62d7ca021a5fc48d0a33e84be7af7d1896a301",
    "code": "S100",
    "art": "Folien",
    "nummer": 5,
    "titel": "Komparativ-statische Analyse"
+  },
+  {
+   "sha256": "2d38443a91bb9300aafc3421598e6889957b7d016943c060b18ffec624d6777f",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 5,
+   "titel": "Komparativ-statische Analyse unbeschrieben"
   },
   {
    "sha256": "c5b2239d01c6066186ac51b6fa9cdffc8f6ac867ceee91dbbf12df3b78942f68",
@@ -646,6 +674,13 @@
    "titel": "Optimierung mehrerer Variablen"
   },
   {
+   "sha256": "29a1e421d6a00500261b679aeffa6c79b3641d78c3f53ac477fc6090ddd4a775",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 6,
+   "titel": "Optimierung mehrerer Variablen unbeschrieben"
+  },
+  {
    "sha256": "f1582753fa44780e69c494b57671f771af92c059701a9282f5648c87e2f104ed",
    "code": "S100",
    "art": "Folien",
@@ -653,11 +688,25 @@
    "titel": "Optimierung unter Nebenbedingungen"
   },
   {
+   "sha256": "0eba0238a62a59e8b2f88911bad8d4d4f1bd6f7e53e080ab26faf883cba9ae19",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 7,
+   "titel": "Optimierung unter Nebenbedingungen unbeschrieben"
+  },
+  {
    "sha256": "b563ef5b8dbf22af4c633556a936aef789904cd3c19a40ed9fd9439819fb3746",
    "code": "S100",
    "art": "Folien",
    "nummer": 8,
    "titel": "Integralrechnung"
+  },
+  {
+   "sha256": "24814046397d4ee42f2ac596a32225fe4009144a1dd55d9157d374835ee00c07",
+   "code": "S100",
+   "art": "Folien",
+   "nummer": 8,
+   "titel": "Integralrechnung unbeschrieben"
   },
   {
    "sha256": "f4e3f619640a300baa2db166073f57337ae0cdeac5691a3644b88fcd391d2330",
