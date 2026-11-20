@@ -1,68 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-19",
+ "stand": "2026-11-20",
  "angebote": [
-  {
-   "id": "ub-ffbb6bea67",
-   "kategorie": "ub",
-   "reihe": "Lern- und Arbeitstechniken",
-   "titel": "Kreatives Denken (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-19",
-   "von": "10:00",
-   "bis": "12:00",
-   "ort": "Schulungsraum im Ammerbau",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-04bbd50682",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-19",
-   "von": "13:00",
-   "bis": "15:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-12e2272371",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI-Inhalte á la carte - flexibel lernen mit dem KI-Campus (laut Seite freitags) (nach Anmeldung)",
-   "datum": "2026-11-19",
-   "von": "14:00",
-   "bis": "16:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-511bd9a939",
-   "kategorie": "ub",
-   "reihe": "Veranstaltungen unserer Partneruniversitäten aus dem „Netzwerk Informations…",
-   "titel": "Alternative Publishing for Researchers: Beyond the Big 5 (Veranstaltungen der KIT Bibliothek)",
-   "datum": "2026-11-19",
-   "von": "14:00",
-   "bis": "14:45",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136425",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Klimagerechtigkeit unter den Bedingungen ökologischer Unregierbarkeit",
-   "datum": "2026-11-19",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/klimagerechtigkeit-unter-den-bedingungen-oekologischer-unregierbarkeit/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
   {
    "id": "ub-780cfb5e3f",
    "kategorie": "ub",
@@ -332,19 +271,6 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-als-selbstzweck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nutzens/",
    "gruppe": "studium-generale",
    "thema": "engagement"
-  },
-  {
-   "id": "sport-3c96e81a9c",
-   "kategorie": "sport",
-   "reihe": "Hochschulsport",
-   "titel": "Verschiebung Anmeldung Kurse Gymnastikhalle auf 23.11. (voraussichtlich)",
-   "datum": "2026-12-01",
-   "url": "https://buchung.hsp.uni-tuebingen.de/angebote/aktueller_zeitraum/index.html",
-   "anmeldung": {
-    "ab": "2026-11-23T17:00"
-   },
-   "gruppe": "hochschulsport",
-   "thema": "freizeit"
   },
   {
    "id": "vortrag-136284",
@@ -923,6 +849,32 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/von-der-forschung-in-die-gesellschaft-das-exzellenzcluster-terra/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "ub-70903ea29e",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "Zotero für Fortgeschrittene: Zitierstile erstellen, Massenbearbeitung von Einträg… (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-15",
+   "von": "10:00",
+   "bis": "12:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-fa5b3382c4",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "Mediendesign – didaktisch, einfach und intuitiv (nach Anmeldung)",
+   "datum": "2027-01-15",
+   "von": "10:00",
+   "bis": "12:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   }
  ]
 }

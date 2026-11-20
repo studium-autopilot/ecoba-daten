@@ -139,22 +139,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-20-uebungen-starten-e101-vwl",
-   "titel": "Übungen starten: E101 VWL",
-   "datum": "2026-10-20",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Übungsgruppen über ILIAS (nicht Alma)",
-   "kategorie": "Lehre",
-   "status": "offiziell",
-   "code": "E101",
-   "thema": "pflicht",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78900&periodId=237",
-   "quelle_text": "",
-   "info": "Beginn der wöchentlichen E101-Übungen in sieben Parallelgruppen mit gleichem Stoff. Nur die eigene, über ILIAS gewählte Gruppe besuchen; Übungsblatt 1 vorbereiten.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-21-anmeldeschluss-verhandlungstraining-freiwillig",
    "titel": "Anmeldeschluss Seminar Verhandlungstraining (freiwillig)",
    "datum": "2026-10-21",
@@ -1215,7 +1199,7 @@
    "thema": "pflicht",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/hiddenpages/newsfullview-aktuelles/article/vorsorgliche-schutzmassnahmen-fuer-die-it-infrastruktur-am-wochenende-und-danach/",
    "quelle_text": "",
-   "info": "Vorsorgliche IT-Schutzmaßnahme bis auf Weiteres: Die Uni ist von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar, auch ILIAS und Alma. Für den Zugang von zu Hause eduVPN einrichten.",
+   "info": "IT-Schutzmaßnahme bis auf Weiteres: ILIAS, Alma und andere Uni-Dienste sind von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar. Diese vor Ort im Uni-Netz (eduroam) einrichten.",
    "geprueft": ""
   },
   {
@@ -1708,7 +1692,7 @@
   },
   {
    "id": "2026-11-23-hochschulsport-anmeldestart-kurse-in-der-gymnastikhalle",
-   "titel": "Hochschulsport: Anmeldestart Kurse in der Gymnastikhalle (voraussichtlich)",
+   "titel": "Hochschulsport: Anmeldestart Kurse in der Gymnastikhalle (abgesagt)",
    "datum": "2026-11-23",
    "bis": "",
    "uhrzeit": "",
@@ -1720,7 +1704,7 @@
    "thema": "freizeit",
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
    "quelle_text": "",
-   "info": "Anmeldestart der Hochschulsportkurse in der Gymnastikhalle, die wegen Bauarbeiten später beginnen. Buchung online auf der Buchungsseite des Hochschulsports; Termin noch vorläufig.",
+   "info": "Die Hochschulsportkurse in der Gymnastikhalle sind wegen der andauernden Bauarbeiten für das laufende Semester abgesagt; die geplante Anmeldung entfällt.",
    "geprueft": ""
   },
   {
@@ -2027,6 +2011,23 @@
    "quelle_url": "",
    "quelle_text": "Rundmail Career Service vom 14.10.2026",
    "info": "Zweitägiger, kostenfreier Workshop des Career Service zu beruflichen Entscheidungen. Anmeldung über die Workshop-Seite des Career Service.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-04-internationales-sprachencafe-in-der-ub",
+   "titel": "Internationales Sprachencafé in der UB",
+   "datum": "2026-12-04",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:00–15:30 · Universitätsbibliothek (Wilhelmstraße 32), Foyer (Eingangsbereich links)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "fremdsprachen",
+   "thema": "kurse",
+   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/sprachen-kurskonzepte/sprachencafes/",
+   "quelle_text": "",
+   "info": "Offenes Sprachencafé der Abteilung Deutsch als Fremdsprache und des Fremdsprachenzentrums mit Gesprächsgruppen in mehreren Sprachen. Teilnahme ohne Anmeldung, kostenlos.",
    "geprueft": ""
   },
   {
