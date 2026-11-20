@@ -287,6 +287,34 @@
    "titel": "Warenverkehr Umsatzsteuer und Preisnachlässe"
   },
   {
+   "sha256": "35550ac19bd3fb7b71f11cf11cfd17f23372c82de4333fc712be5f59030b33f5",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 5,
+   "titel": "Produktionsfaktoren und Industriebetrieb"
+  },
+  {
+   "sha256": "5e9e874c1a49e03580f283c718ac5fb7072f50e44534acaf27635d174258479e",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 5,
+   "titel": "Vorlage Aufgabe 19 T-Konten Bilanz und GuV"
+  },
+  {
+   "sha256": "36bbb8864e22cf5c9a20c9dfa4074d5038aea51301c7c2850265c593258adf22",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 6,
+   "titel": "Industriebetrieb mit Handelswaren und Abgrenzungen"
+  },
+  {
+   "sha256": "2b7051f7296a6d6374d3521fc7e188486180c6ef00ffcfb3803cb7e4c17a4141",
+   "code": "B180",
+   "art": "Tutorium",
+   "nummer": 6,
+   "titel": "Vorlage Aufgabe 20 Bilanz T-Konten und GuV"
+  },
+  {
    "sha256": "c888e344b60b2982fc0930d9a75de62822f8a65dbc3d2c16ee7e84948c0ace25",
    "code": "B180",
    "art": "Tutorium",
