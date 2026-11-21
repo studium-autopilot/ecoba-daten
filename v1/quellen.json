@@ -21,6 +21,16 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/fb-wiwi/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/studium/service-beratung/studienorganisation/aktuelles-zum-studium/",
+     "titel": "Aktuelles zum Studium"
+    }
    ]
   },
   {
@@ -32,6 +42,12 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/",
+     "titel": "Startseite"
     }
    ]
   },
@@ -49,6 +65,16 @@
      "art": "instagram",
      "status": "bald"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.ffwtuebingen.de/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://www.ffwtuebingen.de/blank-3",
+     "titel": "Aktuelles"
+    }
    ]
   },
   {
@@ -65,6 +91,16 @@
      "art": "instagram",
      "status": "bald"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://inone-consult.de/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://inone-consult.de/fuer-studierende/",
+     "titel": "Für Studierende"
+    }
    ]
   },
   {
@@ -75,6 +111,12 @@
     {
      "art": "instagram",
      "status": "bald"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.bfs-society.de/",
+     "titel": "Startseite"
     }
    ]
   },
@@ -87,6 +129,12 @@
      "art": "instagram",
      "status": "bald"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.ibwlopment.com/",
+     "titel": "Startseite"
+    }
    ]
   },
   {
@@ -97,6 +145,12 @@
     {
      "art": "instagram",
      "status": "bald"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://exceed-ev.org/tuebingen/",
+     "titel": "Standort Tübingen"
     }
    ]
   },
@@ -109,6 +163,12 @@
      "art": "instagram",
      "status": "bald"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.dialog-ev.org/",
+     "titel": "Startseite"
+    }
    ]
   },
   {
@@ -120,13 +180,25 @@
      "art": "instagram",
      "status": "bald"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://rethinkingtue.wordpress.com/",
+     "titel": "Blog"
+    }
    ]
   },
   {
    "id": "wiwi-netzwerk",
    "name": "WiWi-Netzwerk",
    "art": "initiative",
-   "kanaele": []
+   "kanaele": [],
+   "webseiten": [
+    {
+     "url": "https://www.wiwi-netzwerk.com/",
+     "titel": "Startseite"
+    }
+   ]
   },
   {
    "id": "universitaet",
@@ -143,6 +215,20 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2029/",
+     "titel": "Semestertermine"
+    },
+    {
+     "url": "https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/rueckmeldung-zum-naechsten-semester/",
+     "titel": "Rückmeldung"
+    }
    ]
   },
   {
@@ -154,6 +240,20 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/",
+     "titel": "Wirtschaftswissenschaft"
+    },
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/pruefungstermine-pflicht-und-profilbildungsmodule/",
+     "titel": "Prüfungstermine"
+    },
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/wirtschafts-und-sozialwissenschaftliche-faecher-und-theologien/fachbereich-wirtschaftswissenschaft/fristen/",
+     "titel": "Fristen"
     }
    ]
   },
@@ -167,6 +267,12 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/",
+     "titel": "Startseite"
+    }
    ]
   },
   {
@@ -178,6 +284,12 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
+     "titel": "Startseite"
     }
    ]
   },
@@ -191,6 +303,16 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+     "titel": "Schulungsangebot"
+    }
    ]
   },
   {
@@ -202,6 +324,16 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/termine/",
+     "titel": "Termine"
     }
    ]
   },
@@ -215,25 +347,49 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/",
+     "titel": "Startseite"
+    }
    ]
   },
   {
    "id": "career-service",
    "name": "Career Service",
    "art": "uni",
-   "kanaele": []
+   "kanaele": [],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/verwaltung/iii-studium-und-lehre/ueberfachliche-bildung-und-berufliche-orientierung/career-service/",
+     "titel": "Startseite"
+    }
+   ]
   },
   {
    "id": "international-office",
    "name": "International Office",
    "art": "uni",
-   "kanaele": []
+   "kanaele": [],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/einrichtungen/verwaltung/v-international-office/",
+     "titel": "Startseite"
+    }
+   ]
   },
   {
    "id": "studienberatung",
    "name": "Zentrale Studienberatung",
    "art": "uni",
-   "kanaele": []
+   "kanaele": [],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/",
+     "titel": "Startseite"
+    }
+   ]
   },
   {
    "id": "studienstiftung",
@@ -244,6 +400,16 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.studienstiftung.de/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://www.studienstiftung.de/infos-fuer-studierende-und-vorschlagende/bewerbung-und-auswahl/selbstbewerbung-um-ein-stipendium-der-studienstiftung",
+     "titel": "Selbstbewerbung"
     }
    ]
   },
@@ -257,6 +423,16 @@
      "status": "geprueft",
      "zuletzt": "2026-11-21"
     }
+   ],
+   "webseiten": [
+    {
+     "url": "https://www.sdw.org/",
+     "titel": "Startseite"
+    },
+    {
+     "url": "https://www.sdw.org/studierende-und-promovierende/stipendien-studierende/bewerbung/",
+     "titel": "Bewerbung"
+    }
    ]
   },
   {
@@ -268,6 +444,16 @@
      "art": "web",
      "status": "geprueft",
      "zuletzt": "2026-11-21"
+    }
+   ],
+   "webseiten": [
+    {
+     "url": "https://uni-tuebingen.de/studium/rund-ums-studium/studienfinanzierung/deutschlandstipendium/",
+     "titel": "An der Uni Tübingen"
+    },
+    {
+     "url": "https://www.deutschlandstipendium.de/",
+     "titel": "Startseite"
     }
    ]
   }

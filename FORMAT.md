@@ -6,7 +6,7 @@ erlaubten Wert nicht nennt, den der Export schreibt. Lesende Programme verwerfen
 [Studium Autopilot EcoBA](https://github.com/studium-autopilot/ecoba) tut es in `System/Skripte/zentral.js`. Dateien wie
 `zentral.js`, `update.js` oder `docs/…` liegen im Repo des Plugins.
 
-Stand: 17.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026 (abends auch verlinkter Alma-Seiten), `abgesagt` in `veranstaltungen.json` seit 17.11.2026).
+Stand: 20.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026 (abends auch verlinkter Alma-Seiten), `abgesagt` in `veranstaltungen.json` seit 17.11.2026, `webseiten` in `quellen.json` seit 20.11.2026).
 
 Adresse: `https://studium-autopilot.github.io/ecoba-daten/v1/` (GitHub Pages, öffentliches Repo `studium-autopilot/ecoba-daten`,
 Ordner `v1/`). Das Plugin holt **nur Daten (JSON), nie Code**. `v1` ist die Schema-Version im Pfad: Ältere Plugins lesen weiter
@@ -442,8 +442,8 @@ selbst aus.
 ## quellen.json
 
 Vertrag seit 9.11.2026. Optional; das Plugin liest die Datei nicht (Plugins kennen den Namen nicht und ignorieren ihn), die App
-zeigt damit, welchen Gruppen man folgen kann und welche ihrer Kanäle der Abgleich schon liest. Keine Links, keine
-Konto-Namen, keine Personen.
+zeigt damit, welchen Gruppen man folgen kann, welche ihrer Kanäle der Abgleich schon liest und (seit 20.11.2026) ihre
+Webseiten. Keine Konto-Namen, keine Postfächer, keine Personen; Links nur zu den Webseiten der Gruppen, jede geprüft.
 
 ```json
 {
@@ -457,6 +457,10 @@ Konto-Namen, keine Personen.
    "kanaele": [
     { "art": "web", "status": "geprueft", "zuletzt": "2026-11-09" },
     { "art": "instagram", "status": "bald" }
+   ],
+   "webseiten": [
+    { "url": "https://www.ffwtuebingen.de/", "titel": "Startseite" },
+    { "url": "https://www.ffwtuebingen.de/blank-3", "titel": "Aktuelles" }
    ]
   }
  ]
@@ -474,8 +478,26 @@ Konto-Namen, keine Personen.
 | `kanaele[].art` | ja | `web`, `instagram`, `newsletter` oder `rundmail` |
 | `kanaele[].status` | ja | `geprueft`: jede Quelle des Kanals wurde in den letzten drei Tagen erfolgreich gelesen, und der Abgleich zählt den Abruf nicht als gestört · `bald`: geplant, noch nicht gelesen (Instagram ohne Zugang) · `gestoert`: sonst |
 | `kanaele[].zuletzt` | nein | `JJJJ-MM-TT`, der Tag, bis zu dem jede Quelle des Kanals gelesen wurde; fehlt bei `bald` und wenn eine Quelle nie gelesen wurde |
+| `webseiten` | nein | seit 20.11.2026. Liste von 1–5 Webseiten der Gruppe zum Öffnen, in der Reihenfolge, in der die App sie zeigt; fehlt, wenn die Gruppe keine hat. Jede `url` höchstens einmal |
+| `webseiten[].url` | ja | `https` auf einem Host der Liste unten oder einer Subdomain davon, sonst wie `quelle_url` (≤ 500 Zeichen, ohne Leerzeichen, Anführungszeichen, `<>`, Backslash, Benutzer, Port) |
+| `webseiten[].titel` | ja | 1–60 Zeichen, reiner Text (abgelehnt wie `titel`): was die Seite ist („Startseite“, „Prüfungstermine“); den Namen der Gruppe zeigt die App darüber |
 
-Ungültige Gruppen werden **einzeln** verworfen, unbekannte Felder ignoriert.
+Erlaubte Hosts für `webseiten[].url` (dieselbe Liste in der App): `uni-tuebingen.de`, `ffwtuebingen.de`, `inone-consult.de`,
+`bfs-society.de`, `ibwlopment.com`, `exceed-ev.org`, `dialog-ev.org`, `rethinkingtue.wordpress.com` (nur dieses Blog, nie
+ganz `wordpress.com`), `wiwi-netzwerk.com`, `studienstiftung.de`, `sdw.org`, `deutschlandstipendium.de`. Ein neuer Host kommt
+nur mit einer neuen App-Version dazu; ältere Apps lassen eine Webseite auf einem Host, den sie nicht kennen, weg.
+
+**Geprüft:** Der Export veröffentlicht eine Webseite nur, wenn sie am Tag des Exports (höchstens einmal am Tag abgerufen)
+nach höchstens fünf Weiterleitungen mit 200 antwortet, keine Anmeldeseite ist und ihr Seitentitel noch das Merkmal enthält,
+das der Abgleich für sie kennt (so fällt eine verfallene, geparkte oder übernommene Domain sofort weg). Jede Weiterleitung
+muss über `https` auf einen Host der Liste oben führen, weil die App nicht sieht, wo der Browser landet; einer anderen folgt
+der Abruf nicht, und die Webseite fällt weg. Einzige Ausnahme: Leitet eine Gruppe ihre eigene Domain auf ihre Seite bei
+einem Anbieter weiter, bei dem jede:r Seiten anlegen kann, gilt für diesen einen Link genau dieser eine Host, nie der Anbieter
+als Ganzes; veröffentlicht wird die Adresse auf der eigenen Domain. Antwortet sie nicht, mit 401, 403 (oft eine Sperre für
+Abrufe ohne Browser), 429 oder 5xx, bleibt sie, solange sie in den drei Tagen davor bestanden hat.
+
+Ungültige Gruppen werden **einzeln** verworfen, unbekannte Felder ignoriert. Eine ungültige Webseite fällt allein weg, die
+Gruppe bleibt. Apps vor dem 20.11.2026 kennen `webseiten` nicht und ignorieren es (wie jedes unbekannte Feld).
 
 ## kapitel.json
 
