@@ -247,40 +247,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-22-buchvorstellung-frauen-an-der-uni-tuebingen-uni-jubilaeum",
-   "titel": "Buchvorstellung „Frauen an der Universität Tübingen“: Uni-Jubiläum",
-   "datum": "2026-10-22",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "18:00 · Pfleghofsaal (Schulberg 2)",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "universitaet",
-   "thema": "engagement",
-   "quelle_url": "",
-   "quelle_text": "Rundmail von Team Equity und Universitätsjubiläum vom 20.10.2026",
-   "info": "Buchvorstellung zur Geschichte der Frauen an der Universität im Rahmen des 550. Uni-Jubiläums, mit Podiumsdiskussion und Plakatausstellung. Teilnahme ohne Anmeldung.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-22-muehlstrassenparty",
-   "titel": "Mühlstraßenparty",
-   "datum": "2026-10-22",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Ticket nötig",
-   "kategorie": "Fachschaft",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "fachschaft",
-   "thema": "freizeit",
-   "quelle_url": "https://www.ffwtuebingen.de/blank-3",
-   "quelle_text": "",
-   "info": "Party der Fachschaft. Teilnahme nur mit Ticket.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-22-tcp-kurse-abmeldezeitraum-nach-dem-2-belegungszeitraum",
    "titel": "TCP-Kurse: Abmeldezeitraum nach dem 2. Belegungszeitraum",
    "datum": "2026-10-22",
@@ -1805,7 +1771,7 @@
    "datum": "2026-11-25",
    "bis": "",
    "uhrzeit": "",
-   "ort": "14:00–18:30 · Universitätsbibliothek, Historischer Lesesaal im Bonatzbau, Wilhelmstraße 32 · ohne Anmeldung",
+   "ort": "14:00–18:30 · Historischer Lesesaal im Bonatzbau, Universitätsbibliothek (Wilhelmstraße 32)",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
@@ -1813,7 +1779,7 @@
    "thema": "kurse",
    "quelle_url": "https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/angebote-fuer-studierende/studieren-mit-plan/lernwerkstatt-lernen-in-intervallen/",
    "quelle_text": "",
-   "info": "Offene Lernwerkstatt der Zentralen Studienberatung zum Lernen in 25-Minuten-Intervallen mit eigenem Lernmaterial. Teilnahme ohne Anmeldung, Einstieg in jeder Pause.",
+   "info": "Offene Lernwerkstatt der Zentralen Studienberatung und des Schreibzentrums zum Lernen in 25-Minuten-Intervallen mit Schreibberatung. Teilnahme ohne Anmeldung, eigenes Lernmaterial mitbringen.",
    "geprueft": ""
   },
   {
