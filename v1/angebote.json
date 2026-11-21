@@ -1,45 +1,7 @@
 {
  "schema": 1,
- "stand": "2026-11-20",
+ "stand": "2026-11-21",
  "angebote": [
-  {
-   "id": "ub-780cfb5e3f",
-   "kategorie": "ub",
-   "reihe": "Workshops in English",
-   "titel": "Citation Management with Zotero (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-20",
-   "von": "10:00",
-   "bis": "11:30",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-8b4ba4a2be",
-   "kategorie": "ub",
-   "reihe": "KI und Open Educational Resources",
-   "titel": "KI – Chancen und Herausforderungen für offene Bildungsmaterialien (nach Anmeldung)",
-   "datum": "2026-11-20",
-   "von": "10:00",
-   "bis": "11:30",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "ub-beeb14b266",
-   "kategorie": "ub",
-   "reihe": "Anwendungen für wissenschaftliches Arbeiten und Publizieren:",
-   "titel": "LaTeX (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-20",
-   "von": "10:00",
-   "bis": "12:00",
-   "ort": "online",
-   "online": true,
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
   {
    "id": "sport-d58dc83e3d",
    "kategorie": "sport",

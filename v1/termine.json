@@ -2,6 +2,42 @@
  "schema": 1,
  "termine": [
   {
+   "id": "belegfrist-101386-237-20260901",
+   "titel": "Belegfrist Einführung in Jupyter Notebooks",
+   "datum": "2026-09-01",
+   "bis": "2027-01-29",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101386&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
+  },
+  {
+   "id": "belegfrist-38967-237-20260901",
+   "titel": "Belegfrist Richtig zitieren - eine Einführung",
+   "datum": "2026-09-01",
+   "bis": "2027-01-14",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38967&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
+  },
+  {
    "id": "belegfrist-39062-237-20260901",
    "titel": "Belegfrist Zotero",
    "datum": "2026-09-01",
@@ -17,7 +53,25 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39062&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-13"
+   "geprueft": "2026-11-21"
+  },
+  {
+   "id": "belegfrist-39160-237-20260901",
+   "titel": "Belegfrist Recherche- Schulung",
+   "datum": "2026-09-01",
+   "bis": "2027-02-05",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39160&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
   },
   {
    "id": "belegfrist-59526-237-20260901",
@@ -35,7 +89,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59526&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-13"
+   "geprueft": "2026-11-21"
   },
   {
    "id": "belegfrist-59527-237-20260901",
@@ -53,7 +107,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59527&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-13"
+   "geprueft": "2026-11-21"
   },
   {
    "id": "belegfrist-61966-237-20260901",
@@ -71,7 +125,61 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61966&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-13"
+   "geprueft": "2026-11-21"
+  },
+  {
+   "id": "belegfrist-90647-237-20260901",
+   "titel": "Belegfrist Literaturrecherche mit KI",
+   "datum": "2026-09-01",
+   "bis": "2027-01-22",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90647&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
+  },
+  {
+   "id": "belegfrist-96529-237-20260901",
+   "titel": "Belegfrist KI Prompting im Schreibprozess",
+   "datum": "2026-09-01",
+   "bis": "2026-12-10",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96529&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
+  },
+  {
+   "id": "belegfrist-96530-237-20260901",
+   "titel": "Belegfrist Texte überarbeiten mit KI",
+   "datum": "2026-09-01",
+   "bis": "2027-01-14",
+   "uhrzeit": "",
+   "ort": "Alma",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "ub",
+   "thema": "kurse",
+   "semester": "WS 2026/27",
+   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96530&periodId=237",
+   "quelle_text": "",
+   "info": "",
+   "geprueft": "2026-11-21"
   },
   {
    "id": "belegfrist-36709-237-20261001",
@@ -88,7 +196,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36709&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-13"
+   "geprueft": "2026-11-21"
   },
   {
    "id": "2026-10-13-tutorien-anmeldung-b180-jahresabschluss-ilias",
@@ -136,73 +244,6 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
    "quelle_text": "",
    "info": "Anmeldung zu den sieben inhaltlich gleichen Tutorien in B110 mit Gruppenarbeit und Bonuspunkten für die Klausur. Im ILIAS-Kurs B110 verbindlich in genau ein Tutorium eintragen.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-21-anmeldeschluss-verhandlungstraining-freiwillig",
-   "titel": "Anmeldeschluss Seminar Verhandlungstraining (freiwillig)",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "bis 21.10. · Alma",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "fachbereich",
-   "thema": "kurse",
-   "quelle_url": "",
-   "quelle_text": "wiwinews Band 96, Eintrag 3 (16.10.2026)",
-   "info": "Blockseminar Verhandlungstraining mit einem Verhandlungsprofi, laut Studienfachberatung noch Plätze frei. Anmeldung über Alma.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-21-raumwechsel-e101-vwl-vorlesung-in-hoersaal-21",
-   "titel": "Raumwechsel E101 VWL: Vorlesung in Hörsaal 21",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "10:15–11:45 · Hörsaal 21, Kupferbau",
-   "kategorie": "Lehre",
-   "status": "offiziell",
-   "code": "E101",
-   "thema": "pflicht",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=78899&periodId=237",
-   "quelle_text": "",
-   "info": "Die E101-Vorlesung wechselt laut Alma für alle weiteren Termine des Semesters den Hörsaal.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-21-stipendieninformationsabend",
-   "titel": "Stipendieninformationsabend",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "19:00 · Hörsaal 24, Kupferbau (Hölderlinstr. 5)",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "universitaet",
-   "thema": "stipendien-ausland",
-   "quelle_url": "",
-   "quelle_text": "Rundmail der Tübinger Stipendiat:innen der Stiftungen vom 10.10.2026 („Einladung zum Stipendieninformationsabend 2026“)",
-   "info": "Stipendiat:innen der Begabtenförderungswerke erklären Stipendien und Bewerbung und stellen die Stiftungen vor, danach Fragerunden. Teilnahme ohne Anmeldung.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-21-vortrag-confronting-science-denial-lead",
-   "titel": "Vortrag „Confronting Science Denial“: Wissenschaftsleugnung begegnen (englisch)",
-   "datum": "2026-10-21",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "14:00 · Seminarraum 204, Hector-Institut (Europastraße 6)",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "universitaet",
-   "thema": "engagement",
-   "quelle_url": "",
-   "quelle_text": "Rundmail LEAD Graduate School & Research Network (Hector-Institut für Empirische Bildungsforschung) vom 15.10.2026",
-   "info": "Englischsprachiger Gastvortrag an der LEAD Graduate School über Wissenschaftsskepsis: warum sie entsteht und wie man ihr begegnet. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
@@ -1790,6 +1831,24 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Karrieremesse in Kleingruppen mit acht Unternehmen, an jeder Station eine kleine Aufgabe, dazu kostenloser CV-Check. Anmeldung per Online-Formular mit Lebenslauf und Transcript.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-26-tcp-kurse-freie-plaetze-nach-dem-3-belegungszeitraum-freiwillig",
+   "titel": "TCP-Kurse: Belegung freier Plätze nach dem 3. Belegungszeitraum (freiwillig)",
+   "datum": "2026-11-26",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 8 Tage vor Kursbeginn (erste Kurse ab 04.12.) · Mail an die TCP-Anmeldeverwaltung",
+   "kategorie": "Frist",
+   "status": "offiziell",
+   "code": "",
+   "bereich": "schluesselqualifikation",
+   "gruppe": "tcp",
+   "thema": "kurse",
+   "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
+   "quelle_text": "",
+   "info": "In Kursen des Transdisciplinary Course Program sind nach dem 3. Belegungszeitraum noch Plätze frei. Anmeldung per Mail an die TCP-Anmeldeverwaltung bis 8 Tage vor Kursbeginn.",
    "geprueft": ""
   },
   {

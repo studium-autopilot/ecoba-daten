@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-19",
+ "stand": "2026-11-21",
  "veranstaltungen": [
   {
    "id": "ws-2026-27-b110-tutorium-1-di-1000",
@@ -368,6 +368,7 @@
    },
    "raum": "Hörsaal 25 (Kupferbau)",
    "ausfall": [
+    "2026-11-17",
     "2026-12-29",
     "2027-01-05"
    ],
@@ -2341,31 +2342,6 @@
    ],
    "semester": "WS 2026/27",
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=46051&periodId=237",
-   "belegfristen": [
-    {
-     "beginn": "2026-09-01T00:00",
-     "ende": "2026-10-25T23:59"
-    }
-   ]
-  },
-  {
-   "id": "ws-2026-27-e365-seminar-1-20261021-1800",
-   "code": "E365",
-   "art": "Seminar",
-   "titel": "Topics in International Economic History",
-   "gruppe": "1",
-   "tag": "Mi",
-   "von": "18:00",
-   "bis": "19:00",
-   "ct": false,
-   "rhythmus": "Einzeltermin",
-   "zeitraum": {
-    "von": "2026-10-21",
-    "bis": "2026-10-21"
-   },
-   "raum": "Werner-Diez-Raum E 07 (WiWi Sem Mohl)",
-   "semester": "WS 2026/27",
-   "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36712&periodId=237",
    "belegfristen": [
     {
      "beginn": "2026-09-01T00:00",
