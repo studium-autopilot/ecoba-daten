@@ -1804,6 +1804,23 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-25-walk-reset-kurze-pause-an-der-frischen-luft",
+   "titel": "Walk&Reset: kurze Pause an der frischen Luft",
+   "datum": "2026-11-25",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "14:00–14:40 · Treffpunkt vor dem Haupteingang der Universitätsbibliothek (Wilhelmstraße 32)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Kurzer gemeinsamer Spaziergang als Lernpause, von Studierenden für Studierende. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-26-meet-the-big-players-8-unternehmen-8-chancen",
    "titel": "Meet the Big Players: 8 Unternehmen, 8 Chancen",
    "datum": "2026-11-26",
@@ -1870,6 +1887,40 @@
    "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/sprachen-kurskonzepte/sprachencafes/",
    "quelle_text": "",
    "info": "Offenes Sprachencafé der Abteilung Deutsch als Fremdsprache und des Fremdsprachenzentrums mit Gesprächsgruppen in mehreren Sprachen. Teilnahme ohne Anmeldung, kostenlos.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-27-walk-talk-spaziergang-zum-kennenlernen",
+   "titel": "Walk&Talk: Spaziergang zum Kennenlernen",
+   "datum": "2026-11-27",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "15:00–16:30 · Treffpunkt am Taubenhaus (Neckarinsel)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Offener Spaziergang von Studierenden für Studierende zum Kennenlernen und Reden, auf Wunsch auch vertraulich mit studentischen Ansprechpersonen. Teilnahme ohne Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-29-walk-draw-zeichenspaziergang-nach-anmeldung",
+   "titel": "Walk&Draw: Zeichenspaziergang (nach Anmeldung)",
+   "datum": "2026-11-29",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "11:00–13:00 · Treffpunkt am Taubenhaus (Neckarinsel)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Spaziergang mit Zeichnen an verschiedenen Orten der Stadt, Teil der Mental Health Days, nur noch wenige Plätze. Kostenlose Anmeldung beim Hochschulsport, Zeichenzeug und Sitzunterlage mitbringen.",
    "geprueft": ""
   },
   {
@@ -1989,6 +2040,23 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/studi-dinner/",
    "quelle_text": "",
    "info": "Abend mit drei Gängen, die Zweierteams reihum bei sich zu Hause für andere Teams kochen, organisiert von BeTaBalance. Anmeldung als Team oder einzeln auf der Seite des Hochschulsports.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-02-walk-talk-spaziergang-zum-schokomarkt",
+   "titel": "Walk&Talk: Spaziergang zum Schokomarkt",
+   "datum": "2026-12-02",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "17:00–18:30 · Treffpunkt am Taubenhaus (Neckarinsel)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Offener Spaziergang von Studierenden für Studierende zum Kennenlernen und Reden, diesmal über den Schokoladenmarkt. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
@@ -2225,6 +2293,23 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
    "info": "Online-Kurs der Universitätsbibliothek zum Notizenmachen mit dem Programm Obsidian. Anmeldung über Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-11-walk-talk-spaziergang-zum-kennenlernen",
+   "titel": "Walk&Talk: Spaziergang zum Kennenlernen",
+   "datum": "2026-12-11",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "15:00–16:30 · Treffpunkt am Taubenhaus (Neckarinsel)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Offener Spaziergang von Studierenden für Studierende zum Kennenlernen und Reden, auf Wunsch auch vertraulich mit studentischen Ansprechpersonen. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
@@ -2581,6 +2666,23 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
    "quelle_text": "",
    "info": "Online-Kurs der Universitätsbibliothek zu KI-Tools für die Literaturrecherche und ihren Grenzen, zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-01-23-walk-talk-spaziergang-zum-kennenlernen",
+   "titel": "Walk&Talk: Spaziergang zum Kennenlernen",
+   "datum": "2027-01-23",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "15:00–16:30 · Treffpunkt am Taubenhaus (Neckarinsel)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit",
+   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/sgm-betabalance/angebote-fuer-studierende/",
+   "quelle_text": "",
+   "info": "Offener Spaziergang von Studierenden für Studierende zum Kennenlernen und Reden, auf Wunsch auch vertraulich mit studentischen Ansprechpersonen. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
