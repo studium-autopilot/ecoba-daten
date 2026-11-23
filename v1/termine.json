@@ -1923,6 +1923,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-11-27-zwischentest-1-s100-mathe-nachholtermin",
+   "titel": "Zwischentest 1 S100 Mathe: Nachholtermin",
+   "datum": "2026-11-27",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "09:00–22:00 · ILIAS-Kurs S100 Zwischentests (online)",
+   "kategorie": "Prüfung",
+   "status": "offiziell",
+   "code": "S100",
+   "thema": "pflicht",
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
+   "quelle_text": "",
+   "info": "Nachholtermin des freiwilligen 1. Zwischentests in S100, gewertet nur ohne Teilnahme am ersten Termin oder nach Absprache. Zugriff auf ILIAS nur über eduroam oder das Uni-VPN.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-11-29-walk-draw-zeichenspaziergang-nach-anmeldung",
    "titel": "Walk&Draw: Zeichenspaziergang (nach Anmeldung)",
    "datum": "2026-11-29",
