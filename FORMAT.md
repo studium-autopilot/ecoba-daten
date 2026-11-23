@@ -6,7 +6,7 @@ erlaubten Wert nicht nennt, den der Export schreibt. Lesende Programme verwerfen
 [Studium Autopilot EcoBA](https://github.com/studium-autopilot/ecoba) tut es in `System/Skripte/zentral.js`. Dateien wie
 `zentral.js`, `update.js` oder `docs/…` liegen im Repo des Plugins.
 
-Stand: 20.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026 (abends auch verlinkter Alma-Seiten), `abgesagt` in `veranstaltungen.json` seit 17.11.2026, `webseiten` in `quellen.json` seit 20.11.2026).
+Stand: 23.11.2026 (`gruppen.json` und `angebote.json` veröffentlicht seit 17.10.2026, `veranstaltungen.json` seit 18.10.2026, `kapitel.json` seit 19.10.2026, Vertrag für `literatur.json` seit 24.10.2026, `abdeckung` im Manifest seit 0.5.3, `vorlesung` und `zwischentest` in `kapitel.json` seit 31.10.2026, `gruppe` und `thema` in `termine.json` und `angebote.json` und Vertrag für `quellen.json` seit 9.11.2026, `belegfristen` in `veranstaltungen.json` seit 16.11.2026, erzeugte Belegfristen in `termine.json` seit 17.11.2026 (abends auch verlinkter Alma-Seiten), `abgesagt` in `veranstaltungen.json` seit 17.11.2026, `webseiten` in `quellen.json` seit 20.11.2026, `fuer` in `termine.json` seit 23.11.2026).
 
 Adresse: `https://studium-autopilot.github.io/ecoba-daten/v1/` (GitHub Pages, öffentliches Repo `studium-autopilot/ecoba-daten`,
 Ordner `v1/`). Das Plugin holt **nur Daten (JSON), nie Code**. `v1` ist die Schema-Version im Pfad: Ältere Plugins lesen weiter
@@ -149,6 +149,7 @@ kann die Signatur trotzdem nicht fälschen.
 | `bereich` | nein | seit 15.10.2026. Fehlt oder ein Wert aus der Freigabeliste „Bereiche“ unten. Ein **unbekannter Wert wird ignoriert** (der Eintrag bleibt, ohne Bereich). Der Export schreibt das Feld nur, wenn es gesetzt ist. |
 | `gruppe` | nein | seit 9.11.2026. `id` der veranstaltenden Gruppe aus `quellen.json` (Form wie `id`). Fehlt sie oder ist sie unbekannt, gehört der Termin zu keiner Gruppe und erreicht alle (nach seinem Thema). Termine eines Moduls haben keine. Das Plugin liest das Feld nicht. |
 | `thema` | nein | seit 9.11.2026. Ein Wert aus der Freigabeliste „Themen“ unten. Fehlt es oder ist es unbekannt, wird der Termin nie ausgeblendet. Das Plugin liest das Feld nicht. |
+| `fuer` | nein | seit 23.11.2026. `{ "art", "tag" }`: Der Termin gilt nur den Parallelgruppen des Moduls (`code`, ohne ihn ungültig) dieser `art` (`Übung` oder `Tutorium`), die an diesem `tag` (`Mo` bis `So`) stattfinden, im Sinn der Serien in `veranstaltungen.json` (gleicher `code`, gleiche `art` und gleicher `tag`, `semester` = Semester des `datum`; WS 01.10.–31.03., SS 01.04.–30.09.). Für die Gruppen der anderen Tage steht je ein eigener Termin da, mit eigener `id` und einem Titel, der die Gruppen nennt (siehe „Fristen je Parallelgruppe“ unten). Leser, die die Gruppe der Person in diesem Modul kennen, zeigen nur den Termin ihres Tags; kennen sie sie nicht, zeigen sie alle und erinnern nur an den frühesten noch offenen (früh erinnert ist nie zu spät). Ein Wert mit anderen Schlüsseln oder Werten gilt als nicht gesetzt (der Termin bleibt, für alle). Ändert sich nur dieses Feld, bleibt die `id`. Das Plugin liest das Feld nicht; es zeigt jeden dieser Termine mit seinem Titel. |
 | `semester` | nein | seit 17.11.2026, nur bei erzeugten Belegfristen (unten): `WS JJJJ/JJ` oder `SS JJJJ` wie in `veranstaltungen.json`, das Semester der Alma-Seite, zu der die Frist gehört. Aus den Daten folgt es nicht: Eine Frist fürs Sommersemester kann im Februar oder März laufen. Fehlt es, gilt das Semester nach dem Datum (WS 01.10.–31.03., SS 01.04.–30.09.); ein anderer Wert wird abgelehnt (der Eintrag fällt weg). Das Plugin liest das Feld nicht. |
 | `inoffiziell` | nein | seit 17.11.2026. Genau `true`: ein Hinweis aus der Gruppe des Jahrgangs, den keine offizielle Quelle bestätigt; er geht bewusst mit diesem Vermerk an alle. Dann ist `status` immer `geschätzt`, `quelle_url` leer und `quelle_text` immer „inoffiziell (Hinweis aus dem Jahrgang), nicht offiziell bestätigt“. Leser zeigen den Termin mit Vermerk (App: Info-Symbol, „Achtung, inoffiziell: Diese Info ist nicht offiziell bestätigt.“) und behandeln ihn als inoffiziell, auch wenn `status` etwas anderes sagte. Ein anderer Wert gilt als nicht gesetzt. Bestätigt eine offizielle Quelle den Hinweis, fällt das Feld weg und die offizielle Quelle steht da (die `id` bleibt). Fällt ein Termin mit diesem Feld ganz weg, war der Hinweis falsch oder überholt: Leser nehmen ihn heraus, ohne ihn als „entfällt“ zu zeigen (er war nie offiziell). Inoffizielle Prüfungen (`kategorie` `Prüfung`) kommen nur, wenn der Hinweis Modul und Datum nennt und sich auf eine offizielle Mitteilung stützt (Bildschirmfoto einer Mail, Aushang, Ansage). Das Plugin liest das Feld nicht; es zeigt `status` und den Quelltext. |
 | `quelle_url` | nein | leer oder `https://` auf einer erlaubten Domain (siehe unten), ≤ 500 Zeichen, ohne Leerzeichen, Anführungszeichen, `<>`, Backslash, Benutzer, Port |
@@ -168,6 +169,33 @@ Ebenso (seit 17.11.2026, abends) die Fristen einer Alma-Seite, die ein Termin di
 Universitätsbibliothek: `code`, `gruppe` und `thema` wie bei diesem Termin, `titel` „Belegfrist <Titel der Veranstaltung>“, wenn
 er keinen Code hat. Nennt die Seite Termine, endet die Frist spätestens am letzten: Die UB nennt einen Zeitraum für das ganze
 Semester, ihr Kurs ist früher vorbei.
+
+**Fristen je Parallelgruppe** (`fuer`, seit 23.11.2026): Liegt eine Frist je nach Wochentag der Übung oder des Tutoriums an einem anderen Tag (Merkblatt eines
+Lehrstuhls: Abgabe „eineinhalb Tage vor dem jeweiligen Tutorium bis 12:00“, also Dienstag-Tutorien bis Sonntag, Mittwoch-Tutorien
+bis Montag), kommt für jeden Wochentag, an dem das Modul in `veranstaltungen.json` Gruppen dieser Art hat, ein eigener Termin, und
+für keinen anderen: `kategorie` `Frist`, eintägig, „(Tutorium Di)“ bzw. „(Übung Mi)“ am Ende des Titels, eigene `id` nach der
+id-Regel und `fuer`. Nie eine Spanne über die Fristen aller Gruppen: Sie wäre für die Gruppen der früheren Tage falsch. Wer das
+Feld nicht kennt, sieht je Gruppe das richtige Datum unter einem Titel, der sagt, für wen es gilt, nur eben alle Tage.
+
+```json
+{
+ "id": "2026-11-01-x100-beispiel-abgabe-blatt-1-tutorium-di",
+ "titel": "X100 Beispiel: Abgabe Blatt 1 (Tutorium Di)",
+ "datum": "2026-11-01",
+ "bis": "",
+ "uhrzeit": "",
+ "ort": "bis 12:00 · ILIAS-Kurs X100",
+ "kategorie": "Frist",
+ "status": "offiziell",
+ "code": "X100",
+ "thema": "pflicht",
+ "fuer": { "art": "Tutorium", "tag": "Di" },
+ "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/1",
+ "quelle_text": "",
+ "info": "Abgabe der Lösung zu Blatt 1, Frist der Dienstag-Tutorien. Upload als PDF in ILIAS.",
+ "geprueft": ""
+}
+```
 
 **Säubern** (für `ort`, `info`, `quelle_text`, `hinweis`, Namen in `semester.json`): Zuerst werden Zeichenreferenzen für
 Buchstaben, Ziffern, `+`, `.`, `-` und `:` zu ihrem Zeichen, für Leerraum zu einem Leerzeichen (`&colon;`, `&#106;`). Dann fallen
@@ -839,6 +867,7 @@ im Repo des Plugins.
 13. Schema erweitern: neue **optionale** Felder sind in `v1` erlaubt (das Plugin ignoriert Unbekanntes). Alles, was alte Plugins
    falsch verstehen würden, kommt nach `v2/`. Eine neue Datei, ein neues Feld oder ein neuer erlaubter Wert steht im selben
    Commit in dieser Datei.
+14. `fuer` in `termine.json` (Vertrag seit 23.11.2026): nur mit `code` und nur für einen Wochentag, an dem die `veranstaltungen.json` desselben Exports eine Serie des Moduls dieser `art` im Semester des Termins hat; sonst geht der Termin nicht hinaus (Hinweis an den Autor, nie still). Fristen, die je Wochentag der Gruppen anders liegen, kommen nur so, nie als Spanne über alle. Ändert sich allein `fuer`, prüft die KI nicht neu (die Änderungsgrenze gilt).
 
 Tests: Der Export prüft seine Ausgabe gegen diese Regeln und gegen diese Datei. Die öffentlichen Tests des Plugins stehen in
 [`tests/`](https://github.com/studium-autopilot/ecoba/tree/main/tests).

@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-22",
+ "stand": "2026-11-23",
  "gruppen": [
   {
    "id": "fachbereich",
@@ -213,7 +213,7 @@
     {
      "art": "rundmail",
      "status": "geprueft",
-     "zuletzt": "2026-11-22"
+     "zuletzt": "2026-11-23"
     }
    ],
    "webseiten": [

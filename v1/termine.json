@@ -265,22 +265,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-19-data-science-lab-s110-startet",
-   "titel": "Data Science Lab S110 startet: Datenanalyse mit R per Zoom",
-   "datum": "2026-10-23",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "ab 14:15 · online per Zoom · ILIAS-Kurs S110, Ordner 03 - Data Science Lab",
-   "kategorie": "Lehre",
-   "status": "offiziell",
-   "code": "S110",
-   "thema": "pflicht",
-   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
-   "quelle_text": "",
-   "info": "Erste Sitzung des Data Science Lab in S110, eines wöchentlichen Online-Formats zur Datenanalyse mit R. Teilnahme per Zoom oder später über die Aufzeichnung im ILIAS-Kurs.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-19-tutorien-anmeldung-s110-datenanalyse-ilias",
    "titel": "Tutorien-Anmeldung S110 Datenanalyse (ILIAS)",
    "datum": "2026-10-23",
@@ -294,57 +278,6 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
    "quelle_text": "",
    "info": "Anmeldung zu den Tutorien in S110 Explorative Datenanalyse, sechs Gruppen mit je 55 Plätzen. Im ILIAS-Kurs S110 unter „02 - Tutorien“ in eine Gruppe eintragen (direkter Beitritt).",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-23-hochschulsport-anmeldestart-tenniskurse",
-   "titel": "Hochschulsport: Anmeldestart Tenniskurse",
-   "datum": "2026-10-23",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "ab 17:00 · online",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "hochschulsport",
-   "thema": "freizeit",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/",
-   "quelle_text": "",
-   "info": "Anmeldestart für die neuen Tenniskurse des Hochschulsports. Buchung online über die Buchungsseite des Hochschulsports.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-23-internationales-sprachencafe-in-der-ub",
-   "titel": "Internationales Sprachencafé in der UB",
-   "datum": "2026-10-23",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "14:00–15:30 · Universitätsbibliothek, Foyer (Eingangsbereich links)",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "fremdsprachen",
-   "thema": "kurse",
-   "quelle_url": "https://uni-tuebingen.de/international/sprachen-lernen/fremdsprachen-lernen/sprachen-kurskonzepte/sprachencafes/",
-   "quelle_text": "",
-   "info": "Offenes Sprachencafé der Abteilung Deutsch als Fremdsprache und des Fremdsprachenzentrums mit Gesprächsgruppen in mehreren Sprachen. Teilnahme ohne Anmeldung, kostenlos.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-23-ub-kurs-zotero",
-   "titel": "UB-Kurs: Zotero",
-   "datum": "2026-10-23",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "10:00–12:00 · online · Anmeldung über Alma",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "ub",
-   "thema": "kurse",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "quelle_text": "",
-   "info": "Online-Einführung der Universitätsbibliothek in das Literaturverwaltungsprogramm Zotero, zählt als *-Kurs für den TCP-Punkt der UB. Anmeldung über Alma.",
    "geprueft": ""
   },
   {
@@ -1295,19 +1228,43 @@
    "geprueft": ""
   },
   {
-   "id": "2026-11-15-b110-bwl-abgabe-tutoriumsblatt-ii",
-   "titel": "B110 BWL: Abgabe Tutoriumsblatt II",
+   "id": "2026-11-15-b110-bwl-abgabe-tutoriumsblatt-ii-tutorium-di",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt II (Tutorium Di)",
    "datum": "2026-11-15",
-   "bis": "2026-11-17",
+   "bis": "",
    "uhrzeit": "",
    "ort": "bis 12:00 · ILIAS-Kurs B110",
    "kategorie": "Frist",
    "status": "geschätzt",
    "code": "B110",
    "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Di"
+   },
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
    "quelle_text": "",
-   "info": "Abgabe der Teamlösung zu Tutoriumsblatt II für einen Bonuspunkt. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch; Tutorium Di: bis So, Mi: bis Mo, Do: bis Di.",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt II für einen Bonuspunkt, Frist der Dienstag-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-16-b110-bwl-abgabe-tutoriumsblatt-ii-tutorium-mi",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt II (Tutorium Mi)",
+   "datum": "2026-11-16",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 12:00 · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "B110",
+   "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Mi"
+   },
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt II für einen Bonuspunkt, Frist der Mittwoch-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
    "geprueft": ""
   },
   {
@@ -1374,6 +1331,26 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701677",
    "quelle_text": "",
    "info": "Die Vorlesung Jahresabschluss entfällt krankheitsbedingt. Der Lehrstuhl stellt sie bis Ende der Woche als Aufzeichnung im ILIAS-Kurs bereit.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-17-b110-bwl-abgabe-tutoriumsblatt-ii-tutorium-do",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt II (Tutorium Do)",
+   "datum": "2026-11-17",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 12:00 · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "B110",
+   "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Do"
+   },
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt II für einen Bonuspunkt, Frist der Donnerstag-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
    "geprueft": ""
   },
   {
@@ -1648,19 +1625,23 @@
    "geprueft": ""
   },
   {
-   "id": "2026-11-22-b110-bwl-abgabe-tutoriumsblatt-iii",
-   "titel": "B110 BWL: Abgabe Tutoriumsblatt III",
+   "id": "2026-11-22-b110-bwl-abgabe-tutoriumsblatt-iii-tutorium-di",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt III (Tutorium Di)",
    "datum": "2026-11-22",
-   "bis": "2026-11-24",
+   "bis": "",
    "uhrzeit": "",
    "ort": "bis 12:00 · ILIAS-Kurs B110",
    "kategorie": "Frist",
    "status": "geschätzt",
    "code": "B110",
    "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Di"
+   },
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
    "quelle_text": "",
-   "info": "Abgabe der Teamlösung zu Tutoriumsblatt III für einen Bonuspunkt. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch; Tutorium Di: bis So, Mi: bis Mo, Do: bis Di.",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt III für einen Bonuspunkt, Frist der Dienstag-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
    "geprueft": ""
   },
   {
@@ -1678,6 +1659,26 @@
    "quelle_url": "",
    "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
    "info": "Anmeldeschluss für den Vortrag „Steuern verstehen – clever fürs Studium sparen“ der Kanzlei RWT. Anmeldung per Online-Formular.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-23-b110-bwl-abgabe-tutoriumsblatt-iii-tutorium-mi",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt III (Tutorium Mi)",
+   "datum": "2026-11-23",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 12:00 · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "B110",
+   "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Mi"
+   },
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt III für einen Bonuspunkt, Frist der Mittwoch-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
    "geprueft": ""
   },
   {
@@ -1729,6 +1730,26 @@
    "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
    "quelle_text": "",
    "info": "Aktionstage der Uni zu mentaler Gesundheit mit Workshops, Vorträgen und Beratungen, Auftakt mit Keynote und Infobörse. Kostenlos, Anmeldung je Angebot, beim Auftakt erwünscht (Plätze begrenzt).",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-11-24-b110-bwl-abgabe-tutoriumsblatt-iii-tutorium-do",
+   "titel": "B110 BWL: Abgabe Tutoriumsblatt III (Tutorium Do)",
+   "datum": "2026-11-24",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "bis 12:00 · ILIAS-Kurs B110",
+   "kategorie": "Frist",
+   "status": "geschätzt",
+   "code": "B110",
+   "thema": "pflicht",
+   "fuer": {
+    "art": "Tutorium",
+    "tag": "Do"
+   },
+   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
+   "quelle_text": "",
+   "info": "Abgabe der Teamlösung zu Tutoriumsblatt III für einen Bonuspunkt, Frist der Donnerstag-Tutorien. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
    "geprueft": ""
   },
   {
@@ -2103,6 +2124,23 @@
    "quelle_url": "",
    "quelle_text": "Rundmail Career Service vom 14.10.2026",
    "info": "Kostenfreier Bewerbungsworkshop des Career Service für den Berufseinstieg an fünf Abenden. Anmeldung über die Workshop-Seite des Career Service.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-07-fachschaftssitzung",
+   "titel": "Fachschaftssitzung",
+   "datum": "2026-12-07",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 20:15 · Mohlstraße 36, Raum E02",
+   "kategorie": "Fachschaft",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "fachschaft",
+   "thema": "engagement",
+   "quelle_url": "https://www.ffwtuebingen.de/",
+   "quelle_text": "",
+   "info": "Wöchentliche offene Sitzung der Fachschaft Wirtschaftswissenschaft. Teilnahme ohne Anmeldung.",
    "geprueft": ""
   },
   {
