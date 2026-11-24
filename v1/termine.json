@@ -281,40 +281,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-24-bewerbungsschluss-inone-consult",
-   "titel": "Bewerbungsschluss InOne Consult",
-   "datum": "2026-10-24",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Lebenslauf und Motivationsschreiben per Mail an InOne Consult",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "inone-consult",
-   "thema": "initiativen",
-   "quelle_url": "",
-   "quelle_text": "InOne Consult: Instagram-Beitrag vom 15.10.2026",
-   "info": "Bewerbungsschluss für die Aufnahme bei InOne Consult, der studentischen Unternehmensberatung in Tübingen, im Wintersemester 2026/27. Die Bewerbungsadresse steht auf ihrer Seite für Studierende.",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-24-netzwerke-am-abschlag-golfschnupperkurs",
-   "titel": "Netzwerke am Abschlag: Golfschnupperkurs",
-   "datum": "2026-10-24",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "13:30–17:00 · Golfclub Schloss Kressbach, Kressbach Hofgut 11",
-   "kategorie": "Veranstaltung",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "wiwi-netzwerk",
-   "thema": "initiativen",
-   "quelle_url": "",
-   "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
-   "info": "Golfschnupperkurs des WiWi-Netzwerks für Studierende und Alumni, auch für Einsteiger, mit anschließendem Get-together. Anmeldung über das Online-Formular, Beitrag 9 €.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-25-anmeldefrist-unternehmensbesichtigung-triqbriq",
    "titel": "Anmeldefrist Unternehmensbesichtigung TRIQBRIQ",
    "datum": "2026-10-25",
@@ -2718,6 +2684,23 @@
    "geprueft": ""
   },
   {
+   "id": "2027-01-25-online-infotermin-studienstipendium-stiftung-der-deutschen-wirtschaft",
+   "titel": "Online-Infotermin zum Studienstipendium der Stiftung der Deutschen Wirtschaft",
+   "datum": "2027-01-25",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 18:00 · online (Zoom)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "sdw",
+   "thema": "stipendien-ausland",
+   "quelle_url": "",
+   "quelle_text": "Stiftung der Deutschen Wirtschaft: Seite „Stipendien für Studierende“ (abgerufen 24.11.2026)",
+   "info": "Online-Infoveranstaltung der Stiftung der Deutschen Wirtschaft zur Bewerbung um ein Studienstipendium 2027. Teilnahme ohne Anmeldung per Zoom, Einlass nur bis zehn Minuten nach Beginn.",
+   "geprueft": ""
+  },
+  {
    "id": "2027-01-26-infoveranstaltung-auslandsstudium-australien-und-neuseeland",
    "titel": "Infoveranstaltung Auslandsstudium: Australien und Neuseeland",
    "datum": "2027-01-26",
@@ -2851,6 +2834,23 @@
    "quelle_url": "",
    "quelle_text": "Prüfungsamt: Prüfungstermine Pflicht- und Profilbildungsmodule WS 2026/27 Haupttermin (PDF, Stand 19.10.2026)",
    "info": "Klausur im Haupttermin zu E101 Einführung in die VWL, 60 Minuten Multiple Choice ohne Teilpunkte, closed book mit Cheat-Sheet. Anmeldung im Prüfungsanmeldezeitraum in Alma.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-02-11-online-infotermin-studienstipendium-stiftung-der-deutschen-wirtschaft",
+   "titel": "Online-Infotermin zum Studienstipendium der Stiftung der Deutschen Wirtschaft",
+   "datum": "2027-02-11",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 18:00 · online (Zoom)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "sdw",
+   "thema": "stipendien-ausland",
+   "quelle_url": "",
+   "quelle_text": "Stiftung der Deutschen Wirtschaft: Seite „Stipendien für Studierende“ (abgerufen 24.11.2026)",
+   "info": "Online-Infoveranstaltung der Stiftung der Deutschen Wirtschaft zur Bewerbung um ein Studienstipendium 2027. Teilnahme ohne Anmeldung per Zoom, Einlass nur bis zehn Minuten nach Beginn.",
    "geprueft": ""
   },
   {

@@ -1,42 +1,16 @@
 {
  "schema": 1,
- "stand": "2026-11-23",
+ "stand": "2026-11-24",
  "angebote": [
   {
-   "id": "sport-d58dc83e3d",
+   "id": "sport-3a40302f6b",
    "kategorie": "sport",
    "reihe": "Hochschulsport",
    "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
-   "datum": "2026-11-23",
+   "datum": "2026-11-24",
    "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
    "gruppe": "hochschulsport",
    "thema": "freizeit"
-  },
-  {
-   "id": "ub-59e85b273d",
-   "kategorie": "ub",
-   "reihe": "Publizieren",
-   "titel": "Publizieren in Verlagszeitschriften",
-   "datum": "2026-11-23",
-   "von": "12:30",
-   "bis": "14:00",
-   "ort": "UB",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136233",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "Provenienzforschung und Aufarbeitung von Geschichte(n) – mit Partner:innen aus Papua-Neuguinea am Beispiel der Hamburge…",
-   "datum": "2026-11-23",
-   "von": "18:15",
-   "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
-   "online": true,
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/provenienzforschung-und-aufarbeitung-von-geschichten-mit-partnerinnen-aus-papua-neuguinea-am-beispiel-der-hamburger-suedsee-expedition/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
   },
   {
    "id": "welcome-f2c123e17f",
@@ -848,6 +822,18 @@
    "ort": "Hörsaal 21, Kupferbau, Hölderlinstr. 5",
    "online": true,
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/reactivating-collections-in-the-21st-century-from-oceania-to-europe-and-back/",
+   "gruppe": "studium-generale",
+   "thema": "engagement"
+  },
+  {
+   "id": "vortrag-136359",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Extrem rechte Lebenswelten in Baden-Württemberg",
+   "datum": "2027-01-19",
+   "von": "18:15",
+   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5, und Aufzeichnung",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/extrem-rechte-lebenswelten-in-baden-wuerttemberg/",
    "gruppe": "studium-generale",
    "thema": "engagement"
   }
