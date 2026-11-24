@@ -1103,9 +1103,9 @@
    "code": "",
    "gruppe": "universitaet",
    "thema": "pflicht",
-   "quelle_url": "https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/hiddenpages/newsfullview-aktuelles/article/vorsorgliche-schutzmassnahmen-fuer-die-it-infrastruktur-am-wochenende-und-danach/",
+   "quelle_url": "https://www.uni-tuebingen.de/it-sicherheit",
    "quelle_text": "",
-   "info": "IT-Schutzmaßnahme bis auf Weiteres: ILIAS, Alma und andere Uni-Dienste sind von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar. Diese vor Ort im Uni-Netz (eduroam) einrichten.",
+   "info": "IT-Schutzmaßnahme: ILIAS, Alma und andere Uni-Dienste sind von außen nur über eduVPN mit Zwei-Faktor-Anmeldung erreichbar. Einrichtung vor Ort per eduroam; wer nicht kommen kann, Mail ans ZDV.",
    "geprueft": ""
   },
   {
