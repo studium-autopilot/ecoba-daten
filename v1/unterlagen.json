@@ -72,6 +72,13 @@
    "titel": "Unternehmerisch-strategische Perspektive"
   },
   {
+   "sha256": "2398ed6fab5cf91407baafe4ca4eaad16ee982ef5aa91119526353a693e97f07",
+   "code": "B110",
+   "art": "Folien",
+   "nummer": 3,
+   "titel": "Bilanz GuV und Kennzahlen mit Anmerkungen Vorlesung 8"
+  },
+  {
    "sha256": "f8891d6002ef1bf84982e017ef7d875384d2a757c26950be0f9586334b3a15b4",
    "code": "B110",
    "art": "Folien",
@@ -86,7 +93,7 @@
    "titel": "Grundlagen"
   },
   {
-   "sha256": "6554cb91df2123cfba3fdf179a95503cac395efe5052c3b36cdb6ef757fd4ab3",
+   "sha256": "bbea128367347c69753e6caa79ee92258a4a7410bdc35dbdc5cce4f999b715ca",
    "code": "B110",
    "art": "Lösung",
    "nummer": 2,
@@ -406,6 +413,13 @@
    "titel": "Präferenzen, Knappheit und Entscheidungen"
   },
   {
+   "sha256": "f8ad19e09e055a9f97b47623e986fd3d177c92c723b5aa75b0337438acb33d26",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 5,
+   "titel": "Optimale Konsumentscheidung und Gaspreisbremse"
+  },
+  {
    "sha256": "7d27a6e822c2835e9e596f01e1e9a8e904ef94b02507310e859b46e635ac5ba9",
    "code": "E101",
    "art": "Sonstiges",
@@ -452,6 +466,13 @@
    "art": "Übung",
    "nummer": 6,
    "titel": "Gender Pay Gap und Arbeitszeiten"
+  },
+  {
+   "sha256": "483844ac4fc6cc3aabda54889fe04ac6fbf1e66c3997e49b141214531acfcbe8",
+   "code": "E101",
+   "art": "Übung",
+   "nummer": 7,
+   "titel": "Soziale Interaktion und Spieltheorie"
   },
   {
    "sha256": "975e46142b0602fa36f7b84a3e77c44154a0ebe67f57b2367bcfae39781da6dd",
@@ -949,7 +970,14 @@
    "titel": "R-Code zu Aufgabe 2 und 3"
   },
   {
-   "sha256": "a7771afed9fe3f3bf0a21f56c077675f5aa1015cb86419dc28b87e976ab7e9d4",
+   "sha256": "3ffa31d3f07dcf9c7793859c8febd544ea68bba176404913030837509ed32677",
+   "code": "S110",
+   "art": "Lösung",
+   "nummer": 6,
+   "titel": "R-Code zu Aufgabe 5"
+  },
+  {
+   "sha256": "a36a8b27760b22f9617c3a84d2ea51b03e1ae57156e1481397cdfaff637ade5f",
    "code": "S110",
    "art": "Sonstiges",
    "titel": "Q4R Verständnisfragen zur Vorlesung"
@@ -1036,6 +1064,20 @@
    "art": "Übung",
    "nummer": 5,
    "titel": "Gini und Konzentration der Drittmittel"
+  },
+  {
+   "sha256": "6eeb4e6a6c2fc22ac180dfc6e51a06e502409f2df8fd07e493e3f403312a3655",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 6,
+   "titel": "Wachstumsraten und geometrisches Mittel"
+  },
+  {
+   "sha256": "427a53d41e73257e41c3945f008c9c028abe6517ab0b2e4e189ee8a78bc0a6bd",
+   "code": "S110",
+   "art": "Übung",
+   "nummer": 6,
+   "titel": "Wachstumsraten und geometrisches Mittel mit Platz zum Rechnen"
   },
   {
    "sha256": "a866901215cfb676f17f6692cad482d5a53f1291c80e208ae0ba1a845644e98e",

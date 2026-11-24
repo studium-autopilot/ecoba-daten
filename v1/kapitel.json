@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-19",
+ "stand": "2026-11-24",
  "module": [
   {
    "code": "B110",
@@ -1007,7 +1007,7 @@
    "code": "S110",
    "semester": "WS 2026/27",
    "quelle": "Folien Explorative Datenanalyse, S. 16 (Gliederung); eine PDF für alle Teile",
-   "stand": "2026-11-10",
+   "stand": "2026-11-24",
    "kapitel": [
     {
      "nr": "E",
@@ -1034,7 +1034,8 @@
      "nr": "III",
      "titel": "Mehrdimensionale empirische Verteilungen",
      "seiten": 44,
-     "folien": 1
+     "folien": 1,
+     "vorlesung": "2026-11-23"
     },
     {
      "nr": "IV",

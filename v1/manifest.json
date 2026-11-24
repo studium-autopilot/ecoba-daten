@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-24T05:39:34Z",
+ "erstellt": "2026-11-24T12:46:05Z",
  "dateien": {
   "termine.json": {
    "sha256": "7e07700b23864f663761dda1fb1644abed12cad3871808057c7e6ef9c93807c8",
@@ -23,16 +23,16 @@
    "groesse": 87142
   },
   "kapitel.json": {
-   "sha256": "9bd6f4f2b8252f927c4e2096afae3304918c14bbcae8ff176d0d0fc5685c48bf",
-   "groesse": 26458
+   "sha256": "5bb24483119a6bb99949ff6d313ce7f599276be6d46fb0b7119ca0a24d7691c9",
+   "groesse": 26490
   },
   "literatur.json": {
-   "sha256": "30b0f9aa5621e13ebc847d1c236a25430417a50a3fb2d294bc4706cd2c179030",
-   "groesse": 15039
+   "sha256": "3e094b4a4ed69bee460968fb407f77c98ba60bc14e69c889ce0da9f9d6511b7b",
+   "groesse": 15768
   },
   "unterlagen.json": {
-   "sha256": "a9749334602345dd81a89babbfd29c09574c40f8d2b44e38e5a3ddcb541b4e20",
-   "groesse": 30477
+   "sha256": "25014b780f372eb586ca407759d54804ff24614157e568ec11691f4c04c0c4fd",
+   "groesse": 31693
   },
   "quellen.json": {
    "sha256": "cdfe1e7441060eeab9b19e8ae3eb694e46397d7930638a3149a421df1ff43046",
