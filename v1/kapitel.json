@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-24",
+ "stand": "2026-11-25",
  "module": [
   {
    "code": "B110",
@@ -165,8 +165,8 @@
   {
    "code": "E101",
    "semester": "WS 2026/27",
-   "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), 02–03 (Einheit 2, 1.10, 2.11), 04–05 (Einheit 3); Rest vorläufig",
-   "stand": "2026-11-10",
+   "quelle": "CORE „Die Wirtschaft“; Folien 01 (1.1–1.9, 2.2), 02–03 (Einheit 2), 04–05 (Einheit 3), 06 (4.1–4.12); Rest vorläufig",
+   "stand": "2026-11-25",
    "vorlaeufig": true,
    "kapitel": [
     {
@@ -322,7 +322,9 @@
     {
      "nr": "4",
      "titel": "Soziale Interaktionen",
+     "folien": 6,
      "url": "https://books.core-econ.org/the-economy-v1/book/de/text/04.html",
+     "vorlesung": "2026-11-25",
      "teile": [
       {
        "nr": "4.1",
@@ -371,10 +373,6 @@
       {
        "nr": "4.12",
        "titel": "Wettbewerb im Ultimatum-Spiel"
-      },
-      {
-       "nr": "4.13",
-       "titel": "Soziale Interaktionen: Konflikte bei der Wahl zwischen Nash-Gleichgewichten"
       }
      ]
     },

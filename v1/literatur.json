@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-24",
+ "stand": "2026-11-25",
  "module": [
   {
    "code": "B110",
@@ -134,7 +134,7 @@
   {
    "code": "E101",
    "semester": "WS 2026/27",
-   "stand": "2026-11-24",
+   "stand": "2026-11-25",
    "quelle": "E101 Folien 01, S. 3; ILIAS-Kurs E101, Wichtige Informationen",
    "hinweis": "Das Lehrbuch begleitet die Vorlesung. Für die Klausur zählt der gesamte Stoff aus Vorlesungs- und Übungsunterlagen, dazu die Buchkapitel, auf die diese verweisen (so der ILIAS-Kurs unter Wichtige Informationen).",
    "beleg": {
@@ -320,6 +320,17 @@
      "stellen": {
       "core": "4.1–4.7, 4.9–4.10",
       "nordhaus": "Kap. 1, zu Aufgabe 2b"
+     }
+    },
+    {
+     "zu": "Vorlesung 06",
+     "beleg": {
+      "art": "Folien",
+      "nummer": 6,
+      "seite": 4
+     },
+     "stellen": {
+      "core": "Einheiten 4.1–4.12"
      }
     }
    ]
