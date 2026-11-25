@@ -199,22 +199,6 @@
    "geprueft": "2026-11-23"
   },
   {
-   "id": "2026-10-13-tutorien-anmeldung-b180-jahresabschluss-ilias",
-   "titel": "Tutorien-Anmeldung B180 Jahresabschluss (ILIAS)",
-   "datum": "2026-10-13",
-   "bis": "2026-10-25",
-   "uhrzeit": "",
-   "ort": "ab 16:00 · bis 25.10., 23:59 · ILIAS-Kurs B180, Zuteilung zu den Tutorien, first come, first served",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "B180",
-   "thema": "pflicht",
-   "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701677",
-   "quelle_text": "",
-   "info": "Anmeldung zu den Tutorien in B180 Jahresabschluss, Plätze nach Reihenfolge der Anmeldung. Im ILIAS-Kurs B180 in genau ein Tutorium eintragen; Mehrfacheintragungen werden gelöscht.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-14-uebungsgruppen-anmeldung-e101-vwl-ilias",
    "titel": "Übungsgruppen-Anmeldung E101 VWL (ILIAS)",
    "datum": "2026-10-14",
@@ -247,24 +231,6 @@
    "geprueft": ""
   },
   {
-   "id": "2026-10-22-tcp-kurse-abmeldezeitraum-nach-dem-2-belegungszeitraum",
-   "titel": "TCP-Kurse: Abmeldezeitraum nach dem 2. Belegungszeitraum",
-   "datum": "2026-10-22",
-   "bis": "2026-10-25",
-   "uhrzeit": "",
-   "ort": "Alma · danach nur in dringenden Fällen Mail an die TCP-Anmeldeverwaltung",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "bereich": "schluesselqualifikation",
-   "gruppe": "tcp",
-   "thema": "kurse",
-   "quelle_url": "https://uni-tuebingen.de/studium/studienangebot/ueberfachliche-kompetenzen/transdisciplinary-course-program/bachelor-1/",
-   "quelle_text": "",
-   "info": "Abmeldezeitraum für zugelassene Kurse des Transdisciplinary Course Program, unentschuldigtes Fehlen sperrt für das Folgesemester. Kurs in Alma abmelden, die Studienleistung dort gesondert.",
-   "geprueft": ""
-  },
-  {
    "id": "2026-10-19-tutorien-anmeldung-s110-datenanalyse-ilias",
    "titel": "Tutorien-Anmeldung S110 Datenanalyse (ILIAS)",
    "datum": "2026-10-23",
@@ -278,23 +244,6 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5739006",
    "quelle_text": "",
    "info": "Anmeldung zu den Tutorien in S110 Explorative Datenanalyse, sechs Gruppen mit je 55 Plätzen. Im ILIAS-Kurs S110 unter „02 - Tutorien“ in eine Gruppe eintragen (direkter Beitritt).",
-   "geprueft": ""
-  },
-  {
-   "id": "2026-10-25-anmeldefrist-unternehmensbesichtigung-triqbriq",
-   "titel": "Anmeldefrist Unternehmensbesichtigung TRIQBRIQ",
-   "datum": "2026-10-25",
-   "bis": "",
-   "uhrzeit": "",
-   "ort": "Online-Formular",
-   "kategorie": "Frist",
-   "status": "offiziell",
-   "code": "",
-   "gruppe": "fachbereich",
-   "thema": "karriere",
-   "quelle_url": "",
-   "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
-   "info": "Anmeldeschluss für die Unternehmensbesichtigung bei TRIQBRIQ. Anmeldung über das Online-Formular auf der Veranstaltungsseite des Fachbereichs.",
    "geprueft": ""
   },
   {
