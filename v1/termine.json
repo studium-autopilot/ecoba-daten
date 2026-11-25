@@ -2012,7 +2012,7 @@
    "datum": "2026-12-02",
    "bis": "",
    "uhrzeit": "",
-   "ort": "09:00–12:45 · Ort nach Anmeldung, Anmeldung per Mail an die Zentrale Studienberatung",
+   "ort": "09:00–12:45 · Ort folgt",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
@@ -2020,7 +2020,7 @@
    "thema": "kurse",
    "quelle_url": "https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/angebote-fuer-studierende/studieren-mit-plan/erstmal-noch-die-waesche-machen/",
    "quelle_text": "",
-   "info": "Workshop der Zentralen Studienberatung zum Umgang mit Prokrastination (Aufschiebeverhalten). Anmeldung per Mail an die Zentrale Studienberatung.",
+   "info": "Workshop der Zentralen Studienberatung zum Umgang mit Prokrastination (Aufschiebeverhalten). Anmeldung per Mail an die Zentrale Studienberatung, den Ort gibt es danach.",
    "geprueft": ""
   },
   {
@@ -2189,6 +2189,23 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
    "quelle_text": "",
    "info": "Lehrevaluation in S100 Mathematische Methoden laut Wochenplan der Kursseite. Teilnahme mit dem Codewort, das im ILIAS-Kurs S100 steht.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-09-vortrag-the-end-of-ancient-civilisation-englisch",
+   "titel": "Vortrag „The End of Ancient Civilisation?“: Ende der Antike im arabischen Osten und germanischen Westen (englisch)",
+   "datum": "2026-12-09",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:15 · Ernst-von-Sieglin-Hörsaal, Schloss Hohentübingen (Burgsteige 11)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des Seminars für Alte Geschichte und des Instituts für Klassische Archäologie vom 25.11.2026",
+   "info": "Öffentlicher Abendvortrag der Alten Geschichte, der das Ende der antiken Zivilisation im arabischen Osten und germanischen Westen vergleicht. Die Einladung nennt keine Anmeldung.",
    "geprueft": ""
   },
   {
