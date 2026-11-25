@@ -17,7 +17,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=101386&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-38967-237-20260901",
@@ -35,7 +35,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=38967&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-39062-237-20260901",
@@ -71,7 +71,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=39160&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-59526-237-20260901",
@@ -89,7 +89,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59526&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-59527-237-20260901",
@@ -107,7 +107,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=59527&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-61966-237-20260901",
@@ -125,7 +125,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=61966&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-90647-237-20260901",
@@ -143,7 +143,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=90647&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-96529-237-20260901",
@@ -161,7 +161,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96529&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-96530-237-20260901",
@@ -179,7 +179,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=96530&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-21"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "belegfrist-36709-237-20261001",
@@ -196,7 +196,7 @@
    "quelle_url": "https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=36709&periodId=237",
    "quelle_text": "",
    "info": "",
-   "geprueft": "2026-11-23"
+   "geprueft": "2026-11-25"
   },
   {
    "id": "2026-10-14-uebungsgruppen-anmeldung-e101-vwl-ilias",
@@ -2667,6 +2667,23 @@
    "geprueft": ""
   },
   {
+   "id": "2027-01-27-online-infotermin-selbstbewerbung-studienstiftung",
+   "titel": "Online-Infotermin zur Selbstbewerbung bei der Studienstiftung",
+   "datum": "2027-01-27",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 18:00 · online (Zoom)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "studienstiftung",
+   "thema": "stipendien-ausland",
+   "quelle_url": "",
+   "quelle_text": "Studienstiftung des deutschen Volkes: Seite „Selbstbewerbung um ein Stipendium der Studienstiftung“ (abgerufen 25.11.2026)",
+   "info": "Online-Infoveranstaltung der Studienstiftung zur Selbstbewerbung mit Auswahltest; Geförderte berichten von Bewerbung und Förderung. Anmeldung vorab über die Seite der Studienstiftung.",
+   "geprueft": ""
+  },
+  {
    "id": "2027-01-29-klausurphase-haupttermin-ws-2026-27",
    "titel": "Klausurphase Haupttermin WS 2026/27",
    "datum": "2027-01-29",
@@ -2715,6 +2732,23 @@
    "quelle_url": "",
    "quelle_text": "Prüfungsamt: Prüfungstermine Pflicht- und Profilbildungsmodule WS 2026/27 Haupttermin (PDF, Stand 09.10.2026)",
    "info": "Klausur im Haupttermin zum Modul B180 Jahresabschluss, 60 Minuten. Anmeldung im Prüfungsanmeldezeitraum in Alma, keine automatische Anmeldung.",
+   "geprueft": ""
+  },
+  {
+   "id": "2027-02-01-online-infotermin-selbstbewerbung-studienstiftung",
+   "titel": "Online-Infotermin zur Selbstbewerbung bei der Studienstiftung",
+   "datum": "2027-02-01",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "ab 18:00 · online (Zoom)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "studienstiftung",
+   "thema": "stipendien-ausland",
+   "quelle_url": "",
+   "quelle_text": "Studienstiftung des deutschen Volkes: Seite „Selbstbewerbung um ein Stipendium der Studienstiftung“ (abgerufen 25.11.2026)",
+   "info": "Online-Infoveranstaltung der Studienstiftung zur Selbstbewerbung mit Auswahltest; Geförderte berichten von Bewerbung und Förderung. Anmeldung vorab über die Seite der Studienstiftung.",
    "geprueft": ""
   },
   {
