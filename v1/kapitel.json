@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "stand": "2026-11-25",
+ "stand": "2026-11-26",
  "module": [
   {
    "code": "B110",
@@ -939,7 +939,7 @@
    "code": "S100",
    "semester": "WS 2026/27",
    "quelle": "Folien 00 Road Map, S. 2 (Überblick über die Themen); Seiten aus den Folien des Vorjahrs",
-   "stand": "2026-11-01",
+   "stand": "2026-11-26",
    "altklausuren": 11,
    "kapitel": [
     {
@@ -955,6 +955,7 @@
      "titel": "Eigenschaften von univariaten Funktionen",
      "seiten": 74,
      "folien": 2,
+     "vorlesung": "2026-11-26",
      "in_altklausuren": 11
     },
     {
