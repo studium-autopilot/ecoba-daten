@@ -1,7 +1,17 @@
 {
  "schema": 1,
- "stand": "2026-11-25",
+ "stand": "2026-11-26",
  "angebote": [
+  {
+   "id": "sport-550032bbb3",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
+   "datum": "2026-11-26",
+   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit"
+  },
   {
    "id": "welcome-979462dd41",
    "kategorie": "welcome",
@@ -204,12 +214,12 @@
    "thema": "kurse"
   },
   {
-   "id": "welcome-a02bc61d35",
+   "id": "welcome-7c39b1a24a",
    "kategorie": "welcome",
    "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Hiking Tour",
+   "titel": "Wanderung rund um Beuren und Jungingen",
    "datum": "2026-12-06",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/veranstaltungskalender/",
+   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/wanderung-rund-um-beuren-and-jungingen/",
    "thema": "freizeit"
   },
   {
@@ -745,6 +755,44 @@
    "von": "18:15",
    "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/minsk/",
+   "gruppe": "studium-generale",
+   "thema": "engagement"
+  },
+  {
+   "id": "ub-62426e8ece",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Recherche-Schulung (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-21",
+   "von": "10:00",
+   "bis": "11:30",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-b75f48c1e4",
+   "kategorie": "ub",
+   "reihe": "Literaturverwaltungsprogramme",
+   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-21",
+   "von": "13:00",
+   "bis": "15:00",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "vortrag-136443",
+   "kategorie": "vortrag",
+   "reihe": "Studium Generale",
+   "titel": "Vortrag mit anschließender Fishbowl-Diskussion: Mit Herz und Hirn – Wie wir ticken und was das mit Nachhaltigkeit zu tu…",
+   "datum": "2027-01-21",
+   "von": "18:15",
+   "ort": "Alte Aula, Münzgasse 30",
+   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/vortrag-mit-anschliessender-fishbowl-diskussion-mit-herz-und-hirn-wie-wir-ticken-und-was-das-mit-nachhaltigkeit-zu-tun-hat/",
    "gruppe": "studium-generale",
    "thema": "engagement"
   }
