@@ -427,6 +427,13 @@
    "titel": "Optimale Konsumentscheidung und Gaspreisbremse"
   },
   {
+   "sha256": "dd2036fcf4638b0e0a4c2ffdd626517119c82beb6f27a9aa45b5be539866fa23",
+   "code": "E101",
+   "art": "Lösung",
+   "nummer": 6,
+   "titel": "Gender Pay Gap und Arbeitszeiten"
+  },
+  {
    "sha256": "7d27a6e822c2835e9e596f01e1e9a8e904ef94b02507310e859b46e635ac5ba9",
    "code": "E101",
    "art": "Sonstiges",
@@ -468,7 +475,7 @@
    "titel": "Optimale Konsumentscheidung und Gaspreisbremse"
   },
   {
-   "sha256": "592b452ae4cd56939696a6f40c17a5935a809a6bd78453082e9b6232ac9f0d48",
+   "sha256": "b72a185ebf635d935557d86718f877e1ded1bc9fc670ec529116a0281301bf1f",
    "code": "E101",
    "art": "Übung",
    "nummer": 6,

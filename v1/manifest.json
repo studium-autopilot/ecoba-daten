@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "erstellt": "2026-11-26T15:38:24Z",
+ "erstellt": "2026-11-26T18:38:21Z",
  "dateien": {
   "termine.json": {
    "sha256": "30c353bf84d15f855a19d1a7f043af199172e5dc59b0c8ff30cf7f561ca7783f",
@@ -31,8 +31,8 @@
    "groesse": 15953
   },
   "unterlagen.json": {
-   "sha256": "b45f80f222680f036f2ba4b10b42d0374b4cd1ae921c056178a38ed250705d7e",
-   "groesse": 32065
+   "sha256": "25c4836685a2277ab567a2983181df241cd410ffa794b5c8539ed75bab873ad4",
+   "groesse": 32258
   },
   "quellen.json": {
    "sha256": "7980ec8aa7474956d41b6eff3232a8193c1b8be4e7418ba460bc57c433b62a42",
