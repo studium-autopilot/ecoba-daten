@@ -3,49 +3,6 @@
  "stand": "2026-11-26",
  "angebote": [
   {
-   "id": "sport-550032bbb3",
-   "kategorie": "sport",
-   "reihe": "Hochschulsport",
-   "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
-   "datum": "2026-11-26",
-   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
-   "gruppe": "hochschulsport",
-   "thema": "freizeit"
-  },
-  {
-   "id": "welcome-979462dd41",
-   "kategorie": "welcome",
-   "reihe": "Welcome Center (internationale Promovierende und Postdocs)",
-   "titel": "Stammtisch",
-   "datum": "2026-11-26",
-   "url": "https://uni-tuebingen.de/international/welcome-center/veranstaltungen-freizeit/stammtisch/",
-   "thema": "freizeit"
-  },
-  {
-   "id": "ub-f44896ddb4",
-   "kategorie": "ub",
-   "reihe": "Literaturverwaltungsprogramme",
-   "titel": "EndNote (für LP anrechenbar) (nach Anmeldung)",
-   "datum": "2026-11-26",
-   "von": "13:00",
-   "bis": "15:00",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
-  },
-  {
-   "id": "vortrag-136428",
-   "kategorie": "vortrag",
-   "reihe": "Studium Generale",
-   "titel": "„What do we want? Climate justice!“ Transformative Bildung an Schule und Hochschule",
-   "datum": "2026-11-26",
-   "von": "18:15",
-   "ort": "Hörsaal 25, Kupferbau, Hölderlinstr. 5",
-   "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/what-do-we-want-climate-justice-transformative-bildung-an-schule-und-hochschule/",
-   "gruppe": "studium-generale",
-   "thema": "engagement"
-  },
-  {
    "id": "ub-326304dcc5",
    "kategorie": "ub",
    "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
