@@ -1,7 +1,17 @@
 {
  "schema": 1,
- "stand": "2026-11-26",
+ "stand": "2026-11-27",
  "angebote": [
+  {
+   "id": "sport-e964cf8036",
+   "kategorie": "sport",
+   "reihe": "Hochschulsport",
+   "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
+   "datum": "2026-11-27",
+   "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
+   "gruppe": "hochschulsport",
+   "thema": "freizeit"
+  },
   {
    "id": "ub-326304dcc5",
    "kategorie": "ub",
@@ -752,6 +762,32 @@
    "url": "https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/termindetails/article/vortrag-mit-anschliessender-fishbowl-diskussion-mit-herz-und-hirn-wie-wir-ticken-und-was-das-mit-nachhaltigkeit-zu-tun-hat/",
    "gruppe": "studium-generale",
    "thema": "engagement"
+  },
+  {
+   "id": "ub-4e816b9bb8",
+   "kategorie": "ub",
+   "reihe": "Informationen finden und bewerten",
+   "titel": "Literaturrecherche mit KI (für LP anrechenbar) (nach Anmeldung)",
+   "datum": "2027-01-22",
+   "von": "10:00",
+   "bis": "12:00",
+   "ort": "online",
+   "online": true,
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
+  },
+  {
+   "id": "ub-f1dca7a2fb",
+   "kategorie": "ub",
+   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
+   "titel": "Let’s go open – das ZOERR und offene Lehr-/Lernmaterialien (nach Anmeldung)",
+   "datum": "2027-01-22",
+   "von": "10:00",
+   "bis": "11:30",
+   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
+   "gruppe": "ub",
+   "thema": "kurse"
   }
  ]
 }

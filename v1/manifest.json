@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "erstellt": "2026-11-27T03:37:31Z",
+ "erstellt": "2026-11-27T05:37:45Z",
  "dateien": {
   "termine.json": {
-   "sha256": "87ecba8a92ef110639e0360d7809d29a764f5eb4576278f3856cb6c0f79d817d",
+   "sha256": "74e024f2396549076b4241c2d96a6a476cb0324a596eccb8e76676ae2a756a96",
    "groesse": 133734
   },
   "semester.json": {
@@ -15,8 +15,8 @@
    "groesse": 24380
   },
   "angebote.json": {
-   "sha256": "40a374668a15007ea1d02c4ee484c8330bd8580bb964cda32219dc9a74d7b89e",
-   "groesse": 29853
+   "sha256": "62562420d8d7fcb6b15ce9232857950946b0cb12db110547bd6bc4624e17ab7f",
+   "groesse": 31197
   },
   "veranstaltungen.json": {
    "sha256": "7f7fb365091279486f13eb79a2a8e96b2ee522a8a5dd6de648689ee6138b3a42",
@@ -35,7 +35,7 @@
    "groesse": 32258
   },
   "quellen.json": {
-   "sha256": "285fed4adb19778b95564d84d6e7ec55fc708e120a0f4ed2823a46b19bea5428",
+   "sha256": "722156d6764faa32c4cc2a73fcc2a55369ab876615fc0354fc688677e1fd3b56",
    "groesse": 9950
   }
  },
