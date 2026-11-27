@@ -1745,6 +1745,22 @@
    "geprueft": ""
   },
   {
+   "id": "2026-12-01-24-stunden-vorlesung-vortraege-rund-um-die-uhr",
+   "titel": "24-Stunden-Vorlesung: Vorträge und Workshops rund um die Uhr",
+   "datum": "2026-12-01",
+   "bis": "2026-12-02",
+   "uhrzeit": "",
+   "ort": "ab 10:00 · Festsaal, Alte Aula (Münzgasse 30)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail der Verfassten Studierendenschaft vom 27.11.2026",
+   "info": "Vorträge, Workshops und Diskussionen der Verfassten Studierendenschaft laufen 24 Stunden ohne Pause, mit Abendessen und Frühstück. Die Einladung nennt keine Anmeldung.",
+   "geprueft": ""
+  },
+  {
    "id": "2026-12-01-erasmus-infocafe-nordeuropa-benelux-uk-und-irland",
    "titel": "Erasmus-Infocafé Nordeuropa, Benelux, UK und Irland: Online-Info zum Auslandsstudium 2027/28",
    "datum": "2026-12-01",
@@ -2106,6 +2122,23 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5728250",
    "quelle_text": "",
    "info": "Lehrevaluation in S100 Mathematische Methoden laut Wochenplan der Kursseite. Teilnahme mit dem Codewort, das im ILIAS-Kurs S100 steht.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-09-vortrag-des-college-of-fellows-is-the-law-faking-englisch",
+   "titel": "Vortrag des College of Fellows „Is the Law Faking?“: Fiktionen im Recht (englisch)",
+   "datum": "2026-12-09",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:30 · College of Fellows, Villa Köstlin (Rümelinstraße 27)",
+   "kategorie": "Veranstaltung",
+   "status": "offiziell",
+   "code": "",
+   "gruppe": "universitaet",
+   "thema": "engagement",
+   "quelle_url": "",
+   "quelle_text": "Rundmail des College of Fellows vom 27.11.2026",
+   "info": "Englischsprachiger Vortrag der Reihe CoF Lecture über Fiktionen im Recht von der Rechtsgeschichte bis zum Völkerrecht, mit Fragerunde und Empfang. Die Einladung nennt keine Anmeldung.",
    "geprueft": ""
   },
   {
