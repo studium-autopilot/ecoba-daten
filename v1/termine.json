@@ -1817,15 +1817,15 @@
    "datum": "2026-12-01",
    "bis": "",
    "uhrzeit": "",
-   "ort": "16:15–18:00 (16 c.t.) · Ort folgt · Anmeldung bis 23.11.",
+   "ort": "16:00–18:00 · Raum 209, Mohlstraße 36",
    "kategorie": "Veranstaltung",
    "status": "offiziell",
    "code": "",
    "gruppe": "fachbereich",
    "thema": "engagement",
    "quelle_url": "",
-   "quelle_text": "Flyer „Veranstaltungen Wintersemester 2026/27“ der WiSo-Fakultät; Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 12.10.2026)",
-   "info": "Vortrag der Kanzlei RWT, wie Steuern funktionieren und wie Studierende sparen können, mit Fragerunde. Anmeldung per Online-Formular.",
+   "quelle_text": "Veranstaltungsseite Fachbereich Wirtschaftswissenschaft (abgerufen 27.11.2026); wiwinews Band 97 (27.11.2026)",
+   "info": "Vortrag der Kanzlei RWT, wie Steuern funktionieren und wie Studierende sparen können, mit Fragerunde. Teilnahme auch ohne vorherige Anmeldung möglich.",
    "geprueft": ""
   },
   {
@@ -2106,6 +2106,24 @@
    "quelle_url": "https://ovidius.uni-tuebingen.de/goto.php/crs/5701666",
    "quelle_text": "",
    "info": "Abgabe der Teamlösung zu Tutoriumsblatt III für einen Bonuspunkt, Frist der Donnerstag-Tutorien, um eine Woche verlängert. Teamleitung lädt sie als PDF mit Deckblatt in ILIAS hoch.",
+   "geprueft": ""
+  },
+  {
+   "id": "2026-12-08-workshop-ai-in-consulting-von-exceed-und-kpmg",
+   "titel": "Workshop „AI in Consulting“ von exceed und KPMG",
+   "datum": "2026-12-08",
+   "bis": "",
+   "uhrzeit": "",
+   "ort": "18:00–20:00 · Mohlstraße 36, Raum E03",
+   "kategorie": "Veranstaltung",
+   "status": "geschätzt",
+   "code": "",
+   "gruppe": "exceed",
+   "thema": "initiativen",
+   "inoffiziell": true,
+   "quelle_url": "",
+   "quelle_text": "inoffiziell (Hinweis aus dem Jahrgang), nicht offiziell bestätigt",
+   "info": "Workshop der Initiative exceed mit KPMG zum Einsatz von KI im Consulting mit Case Study, laut Hinweis aus dem Jahrgang, nicht offiziell bestätigt. Anmeldung über die Eventseite von KPMG.",
    "geprueft": ""
   },
   {
