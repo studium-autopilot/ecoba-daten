@@ -1,28 +1,16 @@
 {
  "schema": 1,
- "stand": "2026-11-27",
+ "stand": "2026-11-28",
  "angebote": [
   {
-   "id": "sport-e964cf8036",
+   "id": "sport-653b55d238",
    "kategorie": "sport",
    "reihe": "Hochschulsport",
    "titel": "Mental Health Days 2026 (23.11.–02.12.2026)",
-   "datum": "2026-11-27",
+   "datum": "2026-11-28",
    "url": "https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/hochschulsport/home/newsfullview-aktuelles/article/mental-health-days-2026/",
    "gruppe": "hochschulsport",
    "thema": "freizeit"
-  },
-  {
-   "id": "ub-326304dcc5",
-   "kategorie": "ub",
-   "reihe": "ZOERR-Einführungen und Open Educational Resources (OER)",
-   "titel": "H5P - interaktive Materialien erstellen (nach Anmeldung)",
-   "datum": "2026-11-27",
-   "von": "10:00",
-   "bis": "11:30",
-   "url": "https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/lernen-arbeiten/schulungen-beratungen-fuehrungen/gesamtes-schulungsangebot/",
-   "gruppe": "ub",
-   "thema": "kurse"
   },
   {
    "id": "ub-c14232f567",
